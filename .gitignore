@@ -1,0 +1,11 @@
+.DS_Store
+tmp/
+Velká Zahrádka/
+website/img/
+*.pdf
+*.jpg
+*.JPG
+*.jpeg
+*.png
+*.PNG
+node_modules/

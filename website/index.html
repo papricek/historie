@@ -1,0 +1,1251 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zahrádka u Pošné — dvůr čp. 11</title>
+</head>
+<body>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #ede6d8;
+    --surface: #f7f3ec;
+    --surface-2: #efe9dd;
+    --ink: #241e15;
+    --ink-2: #5c5347;
+    --muted: #8a8072;
+    --grid: #e0d7c6;
+    --baseline: #c9bfae;
+    --border: rgba(36,30,21,.12);
+    --accent: #a63d4e;
+    --accent-ink: #8c3242;
+    --water: #6d93a8;
+    --s-birth: #199e70;
+    --s-marr: #a87400;
+    --s-death: #6a5aa0;
+    --shadow: 0 1px 2px rgba(36,30,21,.06), 0 6px 24px -12px rgba(36,30,21,.18);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --page: #14110c;
+      --surface: #1a1713;
+      --surface-2: #201c16;
+      --ink: #ede5d6;
+      --ink-2: #b5ab99;
+      --muted: #857c6c;
+      --grid: #2b271f;
+      --baseline: #3a352b;
+      --border: rgba(237,229,214,.14);
+      --accent: #d97887;
+      --accent-ink: #e28e9b;
+      --water: #7fa3b8;
+      --s-birth: #1baf7a;
+      --s-marr: #c98500;
+      --s-death: #9085e9;
+      --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 28px -12px rgba(0,0,0,.5);
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #14110c;
+    --surface: #1a1713;
+    --surface-2: #201c16;
+    --ink: #ede5d6;
+    --ink-2: #b5ab99;
+    --muted: #857c6c;
+    --grid: #2b271f;
+    --baseline: #3a352b;
+    --border: rgba(237,229,214,.14);
+    --accent: #d97887;
+    --accent-ink: #e28e9b;
+    --water: #7fa3b8;
+    --s-birth: #1baf7a;
+    --s-marr: #c98500;
+    --s-death: #9085e9;
+    --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 28px -12px rgba(0,0,0,.5);
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --page: #ede6d8;
+    --surface: #f7f3ec;
+    --surface-2: #efe9dd;
+    --ink: #241e15;
+    --ink-2: #5c5347;
+    --muted: #8a8072;
+    --grid: #e0d7c6;
+    --baseline: #c9bfae;
+    --border: rgba(36,30,21,.12);
+    --accent: #a63d4e;
+    --accent-ink: #8c3242;
+    --water: #6d93a8;
+    --s-birth: #199e70;
+    --s-marr: #a87400;
+    --s-death: #6a5aa0;
+    --shadow: 0 1px 2px rgba(36,30,21,.06), 0 6px 24px -12px rgba(36,30,21,.18);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    * { transition: none !important; animation: none !important; }
+  }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    font-size: 17px;
+    line-height: 1.62;
+  }
+  .sans { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+
+  a { color: var(--accent-ink); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- header ---------- */
+  header.hero { padding: 56px 0 8px; }
+  .rule-top { height: 4px; background: var(--accent); border-radius: 0 0 2px 2px; width: 88px; margin-bottom: 28px; }
+  .eyebrow {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline;
+  }
+  .eyebrow .sig { font-family: ui-monospace, "SF Mono", Menlo, monospace; letter-spacing: .04em; color: var(--muted); text-transform: none; }
+  h1 {
+    font-size: clamp(1.9rem, 4.4vw, 3.1rem);
+    line-height: 1.12; margin: 14px 0 10px; font-weight: 600; text-wrap: balance; letter-spacing: -.01em;
+  }
+  h1 .amp { color: var(--accent-ink); font-style: italic; }
+  .lede { color: var(--ink-2); font-size: 1.06rem; margin: 0 0 30px; }
+  .lede strong { color: var(--ink); }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin: 0 0 14px; }
+  .stat {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+    padding: 14px 16px 12px; box-shadow: var(--shadow);
+  }
+  .stat b {
+    display: block; font-size: 1.5rem; line-height: 1.15; font-weight: 600;
+    font-variant-numeric: tabular-nums; letter-spacing: -.01em;
+  }
+  .stat span { display: block; font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); margin-top: 4px; line-height: 1.4; }
+
+  /* ---------- nav ---------- */
+  nav.toc {
+    position: sticky; top: 0; z-index: 40;
+    background: color-mix(in srgb, var(--page) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    margin-top: 26px;
+  }
+  nav.toc .wrap { display: flex; gap: 2px; overflow-x: auto; padding-top: 0; padding-bottom: 0; }
+  nav.toc a {
+    font-family: system-ui, sans-serif; font-size: 12.5px; letter-spacing: .05em;
+    color: var(--ink-2); text-decoration: none; padding: 11px 12px; white-space: nowrap;
+    border-bottom: 2px solid transparent;
+  }
+  nav.toc a:hover { color: var(--ink); border-bottom-color: var(--baseline); }
+  nav.toc a b { color: var(--accent-ink); font-weight: 600; margin-right: 5px; }
+
+  /* ---------- sections ---------- */
+  section { padding: 52px 0 8px; scroll-margin-top: 56px; }
+  .sec-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 6px; }
+  .sec-no {
+    font-family: system-ui, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: .12em;
+    color: var(--accent-ink); border: 1px solid var(--accent-ink); border-radius: 3px; padding: 2px 7px;
+  }
+  h2 { font-size: clamp(1.35rem, 2.6vw, 1.8rem); margin: 0; font-weight: 600; text-wrap: balance; }
+  .sec-sub { color: var(--ink-2); margin: 8px 0 24px; }
+  h3 { font-size: 1.08rem; margin: 26px 0 8px; font-weight: 600; }
+  p.note { font-family: system-ui, sans-serif; font-size: 13px; color: var(--muted); line-height: 1.55; }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    box-shadow: var(--shadow); padding: 20px 22px;
+  }
+  .chart-scroll { overflow-x: auto; }
+  .chart-scroll > svg { display: block; min-width: 840px; width: 100%; height: auto; }
+
+  /* legends */
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); margin: 4px 0 14px; }
+  .legend .li { display: inline-flex; align-items: center; gap: 7px; }
+  .dot { width: 11px; height: 11px; border-radius: 50%; flex: 0 0 auto; }
+  .dot.outline { background: transparent !important; border: 2px solid var(--muted); }
+  .dot.dashed { background: transparent !important; border: 2px dashed var(--accent-ink); }
+  .legend b { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+  /* chips */
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+  .chip {
+    font-family: system-ui, sans-serif; font-size: 13px; font-variant-numeric: tabular-nums;
+    border: 1px solid var(--border); background: var(--surface); border-radius: 999px;
+    padding: 4px 12px; color: var(--ink-2);
+  }
+  .chip.water { border-color: color-mix(in srgb, var(--water) 55%, transparent); color: var(--ink); }
+  .chip.water::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--water); margin-right: 7px; }
+
+  /* certainty chips */
+  .cert { font-family: system-ui, sans-serif; font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; border-radius: 3px; padding: 2px 7px; white-space: nowrap; }
+  .cert.v { background: var(--ink); color: var(--surface); }
+  .cert.s { background: color-mix(in srgb, var(--ink) 14%, transparent); color: var(--ink); }
+  .cert.n { border: 1px solid var(--baseline); color: var(--ink-2); }
+
+  /* ---------- identity schematic ---------- */
+  .ident-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 24px; align-items: start; }
+  @media (max-width: 820px) { .ident-grid { grid-template-columns: 1fr; } }
+  .finding {
+    border-left: 3px solid var(--accent); padding: 4px 0 4px 18px; margin: 18px 0;
+  }
+  .finding p { margin: 6px 0; }
+  .num-badge {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 30px; height: 30px; padding: 0 8px; border-radius: 4px; margin-right: 8px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-weight: 700; font-size: 15px;
+  }
+  .num-badge.parcel { background: var(--ink); color: var(--surface); }
+  .num-badge.house { border: 2px solid var(--accent-ink); color: var(--accent-ink); }
+
+  /* ---------- ownership band ---------- */
+  .owners { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; padding-bottom: 8px; }
+  .owner {
+    position: relative; padding: 14px 16px 12px 18px; border-radius: 6px;
+    border: 1px solid var(--border); background: var(--surface); box-shadow: var(--shadow);
+  }
+  .owner::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--baseline); border-radius: 6px 0 0 6px; }
+  .owner.hl::before { background: var(--accent); }
+  .owner .yrs { font-family: system-ui, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: .04em; color: var(--accent-ink); font-variant-numeric: tabular-nums; }
+  .owner .who { font-weight: 600; margin: 3px 0 2px; line-height: 1.3; }
+  .owner .what { font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); line-height: 1.45; }
+
+  /* ---------- economy bars ---------- */
+  .bars { display: grid; grid-template-columns: max-content 1fr max-content; gap: 9px 12px; align-items: center; font-family: system-ui, sans-serif; font-size: 13.5px; }
+  .bars .lbl { color: var(--ink); text-align: right; }
+  .bars .val { font-variant-numeric: tabular-nums; color: var(--ink-2); }
+  .bar-track { height: 16px; display: flex; align-items: center; }
+  .bar { height: 14px; border-radius: 0 4px 4px 0; background: var(--s-marr); min-width: 2px; }
+  .bar.na {
+    background: repeating-linear-gradient(45deg, transparent 0 4px, color-mix(in srgb, var(--ink) 30%, transparent) 4px 6px);
+    border: 1px solid var(--baseline);
+  }
+
+  /* ---------- timeline ---------- */
+  .tl { list-style: none; margin: 0; padding: 0; position: relative; }
+  .tl::before { content: ""; position: absolute; left: 84px; top: 6px; bottom: 6px; width: 1px; background: var(--baseline); }
+  .tl li { display: grid; grid-template-columns: 70px 28px 1fr; gap: 0; padding: 9px 0; }
+  .tl .yr { text-align: right; font-family: system-ui, sans-serif; font-size: 13px; font-weight: 700; color: var(--accent-ink); font-variant-numeric: tabular-nums; line-height: 1.5; }
+  .tl .nd { position: relative; }
+  .tl .nd::before { content: ""; position: absolute; left: 10px; top: 8px; width: 9px; height: 9px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent-ink); }
+  .tl li.era-h { grid-template-columns: 1fr; padding: 26px 0 6px; }
+  .tl li.era-h h3 { margin: 0 0 0 108px; font-family: system-ui, sans-serif; font-size: 12px; letter-spacing: .13em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+  .tl .tx .cert { margin-left: 8px; vertical-align: 2px; }
+  .tl .tx small { display: block; font-family: system-ui, sans-serif; font-size: 12px; color: var(--muted); margin-top: 2px; }
+  @media (max-width: 640px) {
+    .tl::before { left: 8px; }
+    .tl li { grid-template-columns: 20px 1fr; }
+    .tl .yr { display: none; }
+    .tl .nd::before { left: 0; }
+    .tl li.era-h h3 { margin-left: 28px; }
+    .tl .tx b.myr { display: inline; }
+  }
+  .tl .tx b.myr { display: none; color: var(--accent-ink); margin-right: 6px; }
+  @media (max-width: 640px) { .tl .tx b.myr { display: inline; } }
+
+  /* ---------- open questions ---------- */
+  .qgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+  .q { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px 18px; box-shadow: var(--shadow); }
+  .q h3 { margin: 0 0 6px; font-size: 1rem; }
+  .q h3 .qno { color: var(--accent-ink); font-family: ui-monospace, "SF Mono", Menlo, monospace; margin-right: 7px; font-size: .92em; }
+  .q p { font-family: system-ui, sans-serif; font-size: 13.5px; color: var(--ink-2); margin: 0; line-height: 1.55; }
+
+  /* ---------- table view ---------- */
+  details.tbl { margin: 14px 0 0; }
+  details.tbl summary { cursor: pointer; font-family: system-ui, sans-serif; font-size: 13.5px; color: var(--accent-ink); font-weight: 600; }
+  .tbl-scroll { overflow-x: auto; margin-top: 10px; }
+  table { border-collapse: collapse; font-family: system-ui, sans-serif; font-size: 13px; min-width: 640px; width: 100%; }
+  th { text-align: left; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 6px 10px; border-bottom: 1px solid var(--baseline); }
+  td { padding: 6px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  td.y { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+  td .tdot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; }
+
+  /* ---------- tooltip ---------- */
+  #tip {
+    position: fixed; z-index: 90; pointer-events: none; opacity: 0; transition: opacity .12s;
+    background: var(--ink); color: var(--page); border-radius: 6px; padding: 9px 12px;
+    font-family: system-ui, sans-serif; font-size: 12.5px; line-height: 1.45; max-width: 300px;
+    box-shadow: 0 6px 24px -6px rgba(0,0,0,.4);
+  }
+  #tip.on { opacity: 1; }
+  #tip .t-head { font-weight: 700; font-size: 13px; }
+  #tip .t-sub { opacity: .75; font-size: 11.5px; margin-bottom: 3px; }
+
+  /* svg text */
+  svg text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; fill: var(--ink-2); }
+  svg .axis-t { font-size: 11.5px; fill: var(--muted); font-variant-numeric: tabular-nums; }
+  svg .lane-t { font-size: 12.5px; font-weight: 600; fill: var(--ink); }
+  svg .lane-c { font-size: 11px; fill: var(--muted); font-variant-numeric: tabular-nums; }
+  svg .grid-l { stroke: var(--grid); stroke-width: 1; }
+  svg .base-l { stroke: var(--baseline); stroke-width: 1; }
+  svg .ev { cursor: pointer; }
+  svg .ev:focus-visible { outline: none; stroke: var(--accent); stroke-width: 2.5; }
+
+  /* ---------- photos & figures ---------- */
+  .figgrid { display: grid; gap: 14px; margin: 18px 0 0; }
+  .figgrid.c2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+  .figgrid.c3 { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  figure.ph { margin: 0; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; box-shadow: var(--shadow); padding: 10px; }
+  figure.ph img { display: block; width: 100%; height: auto; border-radius: 4px; }
+  figure.ph figcaption { font-family: system-ui, sans-serif; font-size: 12.5px; color: var(--ink-2); line-height: 1.5; margin: 8px 2px 2px; }
+  figure.ph figcaption b { color: var(--ink); }
+  figure.ph a.lb { display: block; cursor: zoom-in; }
+
+  /* ---------- lightbox ---------- */
+  #lb-overlay {
+    position: fixed; inset: 0; z-index: 120; background: rgba(16,13,9,.93);
+    display: none; flex-direction: column; align-items: center; justify-content: center;
+    padding: 22px; cursor: zoom-out;
+  }
+  #lb-overlay.on { display: flex; }
+  #lb-overlay img { max-width: 96vw; max-height: 86vh; width: auto; height: auto; border-radius: 4px; box-shadow: 0 14px 60px rgba(0,0,0,.65); }
+  #lb-cap { color: #ece4d5; font-family: system-ui, sans-serif; font-size: 13px; line-height: 1.5; margin-top: 12px; max-width: 900px; text-align: center; }
+
+  footer { padding: 56px 0 64px; }
+  footer .card p { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); }
+  footer ol { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); line-height: 1.7; padding-left: 20px; }
+  .fin { text-align: center; color: var(--muted); font-size: 13px; font-style: italic; margin-top: 42px; }
+  hr.sep { border: none; border-top: 1px solid var(--border); margin: 46px 0 0; }
+</style>
+
+<div id="tip" role="status" aria-live="polite"></div>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="rule-top"></div>
+    <div class="eyebrow">
+      <span>Průběžný výzkumný spis · stav k 23.&nbsp;7.&nbsp;2026</span>
+      <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
+    </div>
+    <h1>Vrchnostenský dvůr na&nbsp;Zahrádce <span class="amp">u&nbsp;Pošné</span></h1>
+    <p class="lede">Stavební parcela <strong>st.&nbsp;1</strong>, dům <strong>čp.&nbsp;11</strong> — přehled toho, co o hlavním statku a jeho obyvatelích v&nbsp;letech 1772–1930 dokládají matriky farnosti Pošná, stabilní katastr, zemské desky, dobový tisk a písemnosti velkostatku Březina–Zahrádka.</p>
+
+    <div class="stats">
+      <div class="stat"><b>1664</b><span>nejstarší přímá písemná zmínka o „dvoru zahrádeckém“ (desky zemské)</span></div>
+      <div class="stat"><b>27.&nbsp;5.&nbsp;1772</b><span>nejstarší doklad domovního čísla N11 — potvrzený dvěma paralelními matrikami</span></div>
+      <div class="stat"><b>104</b><span>matričních zápisů u&nbsp;čp.&nbsp;11 v&nbsp;letech 1772–1930 (narození, sňatky, úmrtí)</span></div>
+      <div class="stat"><b>před&nbsp;1949</b><span>hlavní přestavba dvora proti stavu 1829 — nový závěr z leteckých snímků</span></div>
+      <div class="stat"><b>188&nbsp;→&nbsp;23</b><span>obyvatel celé vsi mezi sčítáními 1869 a 2011</span></div>
+    </div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Obsah">
+  <div class="wrap">
+    <a href="#identita"><b>I</b>Identita</a>
+    <a href="#lide"><b>II</b>Lidé u čp. 11</a>
+    <a href="#role"><b>III</b>Role ve dvoře</a>
+    <a href="#drzba"><b>IV</b>Držba</a>
+    <a href="#hospodarstvi"><b>V</b>Hospodářství</a>
+    <a href="#promeny"><b>VI</b>Proměny areálu</a>
+    <a href="#osa"><b>VII</b>Časová osa</a>
+    <a href="#prameny"><b>VIII</b>Prameny</a>
+    <a href="#otazky"><b>IX</b>Otevřené otázky</a>
+  </div>
+</nav>
+
+<!-- ============ I. IDENTITA ============ -->
+<section id="identita">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL I</span><h2>Identita nemovitosti: proč 1 není 11</h2></div>
+    <p class="sec-sub">Nejdůležitější závěr dosavadního výzkumu se týká samotného označení statku.</p>
+
+    <div class="ident-grid">
+      <div>
+        <div class="finding">
+          <p><span class="num-badge parcel">1</span>je číslo <strong>stavební parcely</strong> — černé číslo na císařském otisku stabilního katastru z roku 1829.</p>
+          <p><span class="num-badge house">11</span>je <strong>číslo domu</strong> — indikační skica u téhož areálu uvádí <em>„N.&nbsp;11.&nbsp;Dom:“</em> a matriky píší <em>N11</em> nepřetržitě od 27.&nbsp;5.&nbsp;1772.</p>
+        </div>
+        <p>Formulace „statek č.&nbsp;1“ je tedy správná pro <em>pozemek</em>, ale zatím neexistuje doklad, že by dům býval čp.&nbsp;1 a později byl přečíslován. Naopak: matrika v&nbsp;letech 1876–1878 používá <strong>N1 i N11 současně pro dva různé domy</strong>. Vedle hlavního areálu stála samostatná hospodářská budova na stavební parcele <strong>st.&nbsp;2</strong>.</p>
+        <p>Na indikační skice je u statku přípis čitelný jako <strong>„Čapek Joseph“</strong>, pod ním zřejmě <em>„Herrschaft“</em> — doklad vlastnické vazby na majitele panství Josefa Čapka (1821–1839), nikoli důkaz, že v&nbsp;domě osobně bydlel.</p>
+        <p>Dnešní evidence tuto identitu potvrzuje přímo: <strong>RÚIAN</strong> vede adresu Zahrádka&nbsp;11 k&nbsp;parcele st.&nbsp;1 (3&nbsp;543&nbsp;m², zastavěná plocha a nádvoří) a ke stavebnímu objektu čp.&nbsp;11 — od&nbsp;2.&nbsp;6.&nbsp;2022 evidovanému jako rodinný dům se zastavěnou plochou 304&nbsp;m².</p>
+      </div>
+
+      <figure class="card" style="margin:0; padding:16px;">
+        <svg viewBox="0 0 380 300" role="img" aria-label="Schéma areálu podle císařského otisku 1829: stavební parcela 1 s domem N11, vedlejší budova st. 2, rybník">
+          <rect x="0" y="0" width="380" height="300" fill="var(--surface-2)" rx="6"/>
+          <!-- cesta -->
+          <path d="M 0 218 C 90 208, 240 232, 380 210" stroke="var(--baseline)" stroke-width="10" fill="none" opacity=".55"/>
+          <!-- rybník -->
+          <path d="M 18 250 q 45 -26 105 -8 q 48 15 40 34 q -8 20 -78 16 Q 18 288 18 250 Z" fill="var(--water)" opacity=".8"/>
+          <text x="72" y="276" class="axis-t" fill="var(--surface)" style="font-weight:600">rybník</text>
+          <!-- st. 1: dvůr do U -->
+          <g>
+            <rect x="96" y="66" width="150" height="30" fill="var(--accent)" rx="2"/>
+            <rect x="96" y="96" width="30" height="82" fill="var(--accent)" rx="2"/>
+            <rect x="216" y="96" width="30" height="72" fill="var(--accent)" rx="2"/>
+            <rect x="101" y="71" width="140" height="102" fill="none" stroke="var(--surface-2)" stroke-width="0" />
+          </g>
+          <text x="140" y="130" class="lane-t">st. 1</text>
+          <text x="140" y="148" style="font-size:11.5px; fill:var(--ink-2)">„N. 11. Dom:“</text>
+          <!-- st. 2 -->
+          <rect x="284" y="84" width="26" height="104" fill="var(--accent)" opacity=".82" rx="2"/>
+          <text x="296" y="212" class="axis-t" text-anchor="middle">st. 2</text>
+          <!-- popisek Čapek -->
+          <text x="98" y="46" style="font-size:12px; font-style:italic; fill:var(--accent-ink); font-family:Georgia,serif">Čapek Joseph · Herrschaft</text>
+          <line x1="150" y1="52" x2="160" y2="64" stroke="var(--accent-ink)" stroke-width="1"/>
+        </svg>
+        <figcaption class="note" style="margin:10px 2px 0;">
+          Schéma, nikoli přesný půdorys. Růžově jsou podle konvence stabilního katastru vyznačeny <b>nespalné (zděné) stavby</b> — mapa zachycuje stav roku 1829, ne rok výstavby.
+          Originály: <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=cioc&amp;idrastru=B2_a_6C_9077-1_2">císařský otisk</a> ·
+          <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&amp;idrastru=TAB550018290">indikační skica</a> (ČÚZK).
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="figgrid c2">
+      <figure class="ph">
+        <a class="lb" href="img/full/otisk_1829.jpg" title="Zobrazit v plném rozlišení"><img src="img/otisk_1829.jpg" alt="Výřez císařského otisku stabilního katastru z roku 1829 s vsí Zahrádka" loading="lazy"></a>
+        <figcaption><b>Císařský otisk, 1829.</b> Hlavní areál u návesního rybníka nese číslo stavební parcely <b>1</b>; vpravo od něj stojí samostatná dlouhá budova st.&nbsp;2. Růžová barva značí nespalné (zděné) stavby — mapa zachycuje stav roku 1829, ne rok výstavby. (ČÚZK)</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/skica_1829.jpg" title="Zobrazit v plném rozlišení"><img src="img/skica_1829.jpg" alt="Výřez indikační skici z roku 1829 s přípisem N. 11. Dom. a jménem Čapek Joseph" loading="lazy"></a>
+        <figcaption><b>Indikační skica, 1829.</b> U téhož areálu přípis <i>„N.&nbsp;11.&nbsp;Dom:“</i> a jméno čitelné jako <i>Čapek Joseph</i>, pod ním <i>Herrschaft</i> — vazba na tehdejšího majitele panství. (ČÚZK)</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<!-- ============ II. LIDÉ ============ -->
+<section id="lide">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL II</span><h2>Lidé u čp. 11 — matriční zápisy 1772–1930</h2></div>
+    <p class="sec-sub">Každý bod je jeden zápis v&nbsp;matrikách farnosti Pošná s&nbsp;výslovnou adresou <em>Zahrádka N11 / č.&nbsp;11</em>. Adresní řada nově překročila rok 1880 a sahá souvisle až k&nbsp;roku 1930. Najeďte na bod (nebo na něj přejděte tabulátorem) pro jméno, roli a míru jistoty.</p>
+
+    <figure class="ph" style="margin-bottom:18px;">
+      <a class="lb" href="img/full/matrika_1772.jpg" title="Zobrazit v plném rozlišení"><img src="img/matrika_1772.jpg" alt="Matriční zápis z 27. a 28. května 1772: Jan Křtitel, syn šafáře Jakuba, Zahrádka číslo 11" loading="lazy"></a>
+      <figcaption><b>Nejstarší adresní doklad domu.</b> Křest Jana Křtitele z&nbsp;27./28.&nbsp;5.&nbsp;1772 — otec Jakub je uveden jako <i>villicus</i> (šafář či správce) ze Zahrádky, v&nbsp;pravých sloupcích ves <i>Zahradka</i> a číslo <b>11</b>. Tutéž událost potvrzuje paralelní starší kniha 6617. (SOA Třeboň, kniha 6618, snímek 7)</figcaption>
+    </figure>
+
+    <div class="card">
+      <div class="legend" id="ev-legend"></div>
+      <div class="chart-scroll"><svg id="ev-chart" role="img" aria-label="Bodový graf matričních zápisů u domu N11 podle let, ve třech řadách: narození, sňatky, úmrtí"></svg></div>
+      <div class="legend" style="margin-top:12px;">
+        <span class="li"><span class="dot" style="background:var(--muted)"></span>bezpečný zápis</span>
+        <span class="li"><span class="dot outline"></span>pracovní nález / nejisté čtení</span>
+        <span class="li"><span class="dot dashed"></span>adresně sporný (N11 × N14)</span>
+        <span class="li"><span class="dot" style="background:var(--muted); position:relative;"><span style="position:absolute; inset:4px 1px; background:var(--surface); border-radius:1px;"></span></span>mrtvě narozené dítě</span>
+      </div>
+      <details class="tbl">
+        <summary>Zobrazit vše jako tabulku</summary>
+        <div class="tbl-scroll"><table id="ev-table">
+          <thead><tr><th>Rok</th><th>Datum</th><th>Typ</th><th>Osoba / událost</th><th>Poznámka</th></tr></thead>
+          <tbody></tbody>
+        </table></div>
+      </details>
+    </div>
+
+    <p class="note" style="margin-top:14px;">Součty nejsou počtem obyvatel: paralelní zápisy téže události se počítají jen jednou, jeden řádek může obsahovat dvojčata, sňatek může mít N11 u&nbsp;obou stran a samotná událost neurčuje délku pobytu. Mrtvě narozené děti z&nbsp;let 1854, 1856 a 1898 jsou zapsány v&nbsp;knize narozených i&nbsp;zemřelých — zde se zobrazují jednou, v&nbsp;řadě narození.</p>
+
+    <h3>Co z toho plyne</h3>
+    <p>U&nbsp;jediného domovního čísla se za sto padesát let vystřídaly desítky rodin: šafáři, pastýři, čeledíni, volák, zahradník, posel, děvečka, později nájemník-obuvník, kolář, deputátník, dělníci a kočí. <strong>N11 s&nbsp;vysokou pravděpodobností nebylo dědičným selským gruntem, ale vrchnostenským hospodářským areálem se služebním a nájemním bydlením</strong> více zaměstnanců dvora a jejich rodin. Tři různé rodné události během šesti týdnů jara 1808 podporují výklad více souběžných domácností a stejná řada pokračuje i&nbsp;po roce 1885.</p>
+    <p>Opakovaně doložené rodiny: <strong>Lenzovi</strong> (1791–1799, oráč a zahradník Jakub), <strong>Moravcovi</strong> (1825–1827), <strong>Zikmundovi</strong> (šafář, 1845–1848), <strong>Forelovi</strong> (posel, 1854–1857), <strong>Milkovi</strong> (1860–1861), <strong>Fraňkovi</strong> (1863–1865), <strong>Horníkovi</strong> (pastýř, dvě generace, do 1870), <strong>Zemiškovi</strong> (zahradník, 1871–1874), <strong>Bílí</strong> (volák, 1875), <strong>Kaňkovi</strong> (1878), <strong>Tvrčkovi</strong> (1880); po roce 1880 <strong>Vyhnálkovi</strong>, <strong>Kejvalovi</strong> a <strong>Mynáříkovi</strong> (čeledíni, 1885), <strong>Jenčíkovi</strong> (1895), <strong>Svačkovi</strong> (dělníci, dvě generace, 1901), <strong>Kučerovi</strong> (1904), <strong>Říhovi</strong> (1907), <strong>Horničkovi</strong> (1911) a rodina kočího <strong>Háka</strong> (1930).</p>
+    <p>Dvě úmrtí navíc dokládají <strong>dlouhé rodinné návaznosti</strong>: Kateřina Kaňková, spojená s&nbsp;domem už roku 1878, v&nbsp;č.&nbsp;11 zemřela roku 1913; Josefa Kejvalová, manželka čeledína doloženého roku 1885, zde zemřela jako vdova roku 1922.</p>
+  </div>
+</section>
+
+<!-- ============ III. ROLE ============ -->
+<section id="role">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL III</span><h2>Role a řemesla doložená u dvora</h2></div>
+    <p class="sec-sub">Každý bod je jedna výslovná zmínka pracovní role u&nbsp;N11 (villicus, opilio, bubulcus, arator…). Řádky jsou seřazeny podle prvního výskytu — je z&nbsp;nich vidět, jak dvůr fungoval: vedení, pastva, potah, čeleď, na konci 19.&nbsp;století řemeslníci v&nbsp;nájmu a souvislá řada čeledínů, deputátník, dělníci a kočí. Služební charakter domu je tak doložen nepřetržitě od roku 1772 do roku 1930; šafářská role se výslovně vrací ještě roku 1924.</p>
+    <div class="card">
+      <div class="chart-scroll"><svg id="role-chart" role="img" aria-label="Časové rozložení doložených pracovních rolí u dvora N11 po řádcích"></svg></div>
+      <p class="note" style="margin:10px 2px 0;">Prázdný kroužek značí nejisté čtení. Zmínka u&nbsp;Matěje Horníka (†&nbsp;před 1870) je zpětná — pochází ze svatebního zápisu jeho dcery.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ IV. DRŽBA ============ -->
+<section id="drzba">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL IV</span><h2>Držba statku 1378–1948</h2></div>
+    <p class="sec-sub">Posloupnost držitelů podle zemských desek a archivního inventáře velkostatku Březina–Zahrádka. Šířky polí jsou schematické, ne úměrné času.</p>
+    <div class="owners" id="owners"></div>
+    <p class="note">Dvůr byl vrchnostenským majetkem — jeho vlastnická posloupnost proto není vedena v&nbsp;poddanských gruntovních knihách; rozhodující jsou zemské desky a písemnosti velkostatku. Pobělohorskou konfiskaci a prodej Pošné se Zahrádkou Maxmiliánu Pechlarovi z&nbsp;Neminku (1627) a záhy Rudolfu Malovcovi z&nbsp;Malovic potvrzuje veřejný úvod archivního inventáře — vlastnická řada je tak nově souvisle doložena od roku 1543.</p>
+  </div>
+</section>
+
+<!-- ============ V. HOSPODÁŘSTVÍ ============ -->
+<section id="hospodarstvi">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL V</span><h2>Hospodářství dvora, velkostatku a vsi</h2></div>
+    <p class="sec-sub">Velkostatek hospodařil roku 1886 ve vlastní režii třemi dvory — <strong>Březina</strong>, <strong>Horní Dvůr</strong> a <strong>Zahrádka</strong>; inventář výslovně zmiňuje samostatnou funkci správce dvora Zahrádka. Roční výnos činil 4&nbsp;254 zlatých.</p>
+    <div class="card">
+      <div class="bars" id="econ"></div>
+      <p class="note" style="margin:14px 2px 0;">Deklarovaný celek je <b>506,05&nbsp;ha</b>, součet uvedených kategorií jen 494,40&nbsp;ha — šrafovaný zbytek 11,65&nbsp;ha bude potřeba ověřit v&nbsp;originálu inventáře.</p>
+    </div>
+
+    <h3>Katastr, velkostatek, dvůr — tři různé veličiny</h3>
+    <p class="note" style="margin:2px 0 12px;">Schematismy, statistiky a pozemková reforma nově dovolují oddělit tři plochy, které se dříve směšovaly: katastr celé obce, celý velkostatek Březina–Zahrádka a samotný zahrádecký dvůr.</p>
+    <div class="card">
+      <div class="bars" id="scales"></div>
+      <p class="note" style="margin:14px 2px 0;">Dvůr Zahrádka měl podle schematismů 1881–1902 <b>70&nbsp;ha</b> zemědělské půdy a roku 1902 už nebyl v&nbsp;režii — byl pronajat <i>„Jul.&nbsp;Roubíčkovi v&nbsp;Zahrádce“</i>. Pozemková reforma (1927) vedla u&nbsp;režie Zahrádka 72&nbsp;ha zemědělské a 181,50&nbsp;ha veškeré půdy; 11,50&nbsp;ha bylo přiděleno drobným nabyvatelům a 170&nbsp;ha propuštěno Homolkovým. K&nbsp;podnikům velkostatku patřily lihovar, cihelna, mlýn, pila a hydroelektrárna — inventář je však umisťuje do Březiny, ne k&nbsp;N11.</p>
+    </div>
+
+    <h3>Obyvatelé celé vsi 1869–2011</h3>
+    <div class="card">
+      <div class="chart-scroll"><svg id="pop-chart" role="img" aria-label="Vývoj počtu obyvatel celé Zahrádky podle sčítání lidu 1869 až 2011"></svg></div>
+      <p class="note" style="margin:10px 2px 0;">Řada za celou ves (ČSÚ, Historický lexikon obcí) — nikoli za čp.&nbsp;11. Starší statistika roku 1862 uvádí 192 přítomných osob. Šrafovaný sloupec je mezilehlý úřední soupis přítomného obyvatelstva z&nbsp;22.&nbsp;5.&nbsp;1947 (123 osob). Najetím na sloupec se zobrazí i&nbsp;počet domů.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VI. PROMĚNY ============ -->
+<section id="promeny">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL VI</span><h2>Proměny areálu 1783–2026</h2></div>
+    <p class="sec-sub">Mapy a snímky nově pokrývají místo souvisle od josefského mapování po dnešní ortofoto — a dovolují první pevný závěr o stavebních proměnách dvora.</p>
+
+    <figure class="ph">
+      <a class="lb" href="img/full/vojenska_mapovani.jpg" title="Zobrazit v plném rozlišení"><img src="img/vojenska_mapovani.jpg" alt="Tři výřezy vojenských mapování se Zahrádkou: 1783, 1852 a 1877 až 1880" loading="lazy"></a>
+      <figcaption><b>Vojenská mapování.</b> I.&nbsp;(1783), II.&nbsp;(1852) a III.&nbsp;(1877/1880) dokládají kontinuitu zástavby vsi; jejich měřítko ale nestačí k&nbsp;bezpečnému rozlišení jednotlivých budov st.&nbsp;1. Podporují tedy kontinuitu zástavby Zahrádky, nikoli kontinuitu konkrétních zdí. (OldMaps GEOLAB)</figcaption>
+    </figure>
+
+    <div class="finding" style="margin-top:26px;">
+      <p><strong>Hlavní nové zjištění:</strong> císařský otisk 1829 kreslí na st.&nbsp;1 tři zděná křídla kolem nádvoří; nejpozději na snímku z&nbsp;roku 1949 má areál podstatně jinou, protáhlou vícekřídlou podobu. <strong>Velká přestavba či zánik starších křídel tedy s&nbsp;největší pravděpodobností proběhly před rokem 1949</strong> — nikoli až v&nbsp;pozdním 20.&nbsp;století. V&nbsp;řadě 1949–2022 se pak mění už jen menší objekty, přístavky a střechy; mezi vrstvami ortofota 2017 a 2019 je zřetelná lokální změna střechy jihozápadního křídla.</p>
+    </div>
+
+    <figure class="ph">
+      <a class="lb" href="img/full/letecka_rada.jpg" title="Zobrazit v plném rozlišení"><img src="img/letecka_rada.jpg" alt="Devět leteckých snímků a ortofoto Zahrádky z let 1949 až 2026" loading="lazy"></a>
+      <figcaption><b>Letecká řada 1949–2026.</b> Dominantní vícekřídlá hmota statku mezi rybníkem a budovou st.&nbsp;2 je rozpoznatelná už roku 1949 a trvá ve všech mladších vrstvách. Tabule není geometricky přesný překryv — pro přiřazení menších demolic konkrétním rokům je potřeba georektifikace. (ČÚZK / MO ČR / CENIA)</figcaption>
+    </figure>
+
+    <h3>Stav před rekonstrukcí (2015–2018)</h3>
+    <div class="figgrid c3">
+      <figure class="ph">
+        <a class="lb" href="img/full/statek_2015_stit.jpg" title="Zobrazit v plném rozlišení"><img src="img/statek_2015_stit.jpg" alt="Zchátralý štít hospodářské budovy dvora s obloukovou římsou a zbytky brány, prosinec 2015" loading="lazy"></a>
+        <figcaption><b>25.&nbsp;12.&nbsp;2015.</b> Štít hospodářské budovy s&nbsp;obloukovou římsou a pobořená brána do dvora.</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/statek_2018_brana.jpg" title="Zobrazit v plném rozlišení"><img src="img/statek_2018_brana.jpg" alt="Pohled na budovy dvora s branou od cesty, leden 2018" loading="lazy"></a>
+        <figcaption><b>30.&nbsp;1.&nbsp;2018.</b> Táž dvojice budov s&nbsp;branou při pohledu od cesty.</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/statek_2018_stodola.jpg" title="Zobrazit v plném rozlišení"><img src="img/statek_2018_stodola.jpg" alt="Dlouhá hospodářská budova se sedlovou střechou za náletovou zelení, leden 2018" loading="lazy"></a>
+        <figcaption><b>30.&nbsp;1.&nbsp;2018.</b> Dlouhá hospodářská budova při okraji areálu, zarostlá náletem.</figcaption>
+      </figure>
+    </div>
+    <p class="note" style="margin-top:12px;">Fotodokumentace vznikla podle EXIF ve dnech 4. a 25.&nbsp;12.&nbsp;2015, 27.&nbsp;3.&nbsp;2016, 5.&nbsp;11.&nbsp;2017 a 30.&nbsp;1.&nbsp;2018; doplňuje ji geodetické zaměření půdorysů z&nbsp;února 2017. Studie adaptace z&nbsp;roku 2017 (Ing.&nbsp;arch.&nbsp;Jakub Křivan) rozlišují hlavní objekt, sýpku, bývalou konírnu a otevřenou stodolu — jde o názvosloví novodobého projektu, nikoli o&nbsp;doklad historické funkce jednotlivých budov.</p>
+  </div>
+</section>
+
+<!-- ============ VI. ČASOVÁ OSA ============ -->
+<section id="osa">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL VII</span><h2>Doložená časová osa statku</h2></div>
+    <p class="sec-sub">Kondenzovaný výtah z&nbsp;výzkumného spisu; štítek u&nbsp;každé položky udává míru jistoty pramene.</p>
+    <div class="legend">
+      <span class="li"><span class="cert v">vysoká</span> přímo čitelný údaj v primárním prameni</span>
+      <span class="li"><span class="cert s">střední</span> částečně nejisté čtení či interpretace</span>
+      <span class="li"><span class="cert n">nízká</span> pracovní hypotéza</span>
+    </div>
+    <ul class="tl" id="timeline"></ul>
+  </div>
+</section>
+
+<!-- ============ VII. PRAMENY ============ -->
+<section id="prameny">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL VIII</span><h2>Prameny a pokrytí výzkumu</h2></div>
+    <p class="sec-sub">Matriční knihy farnosti Pošná (SOA Třeboň) — co už bylo souvisle prohlédnuto a kolik zápisů N11 každá kniha vydala. Adresní výzkum nyní souvisle pokrývá roky 1772–1937; navazující knihy zatím nejsou veřejné.</p>
+
+    <div class="card">
+      <div class="legend">
+        <span class="li"><span class="dot" style="background:var(--s-birth)"></span>narození</span>
+        <span class="li"><span class="dot" style="background:var(--s-marr)"></span>oddaní</span>
+        <span class="li"><span class="dot" style="background:var(--s-death)"></span>zemřelí</span>
+        <span class="li"><span class="dot" style="background:var(--muted)"></span>smíšená kniha</span>
+        <span class="li" style="margin-left:8px;">plná výplň = souvisle prohlédnuto · poloprůhledná = částečně · obrys = zatím neprohlédnuto</span>
+      </div>
+      <div class="chart-scroll"><svg id="book-chart" role="img" aria-label="Rozsahy matričních knih farnosti Pošná v čase, s vyznačením prohlédnutých knih a počtem zápisů N11"></svg></div>
+    </div>
+
+    <h3>Mapová a obrazová řada</h3>
+    <p>Obrazové prameny nyní pokrývají místo souvisle od roku 1783 (podrobněji v&nbsp;oddílu VI):</p>
+    <div class="chips">
+      <span class="chip">1783 · I. vojenské</span>
+      <span class="chip">1829 · stabilní katastr</span>
+      <span class="chip">1852 · II. vojenské</span>
+      <span class="chip">1877/80 · III. vojenské</span>
+      <span class="chip">s. d. · pozemkový katastr</span>
+      <span class="chip water">1949</span><span class="chip water">1953</span><span class="chip water">1961</span><span class="chip water">1967</span><span class="chip water">1968</span><span class="chip water">1975</span><span class="chip water">1978</span><span class="chip water">1990</span><span class="chip water">1992</span>
+      <span class="chip">1951 / 1975 / 1993 · SMO-5</span>
+      <span class="chip water">2001–2022 · 10 vrstev ortofota</span>
+      <span class="chip water">2026 · ortofoto</span>
+    </div>
+    <p class="note">Modře letecké snímky a ortofota (ČÚZK). K&nbsp;tomu pozemní fotodokumentace 2015–2018, geodetické zaměření z&nbsp;února 2017 a nedatovaná mapa bývalého pozemkového katastru — na dataci jejího zdrojového listu je připraven dotaz na ÚAZK. Osm fotografií z&nbsp;obecní galerie „Zahrádka a okolí“ (zveřejněno 2021) zatím nemá určeného autora ani rok pořízení.</p>
+
+    <h3>Archivní jednotky s nejvyšší prioritou</h3>
+    <p class="note" style="margin-bottom:10px;">Fond Velkostatek Březina–Zahrádka (SOkA Jindřichův Hradec) — popsány v digitálním inventáři, obrazové náhledy mají jen pozemkové knihy; reprodukce spisů nejsou online:</p>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>Inv. č.</th><th>Období</th><th>Obsah a očekávaný přínos</th></tr></thead>
+      <tbody>
+        <tr><td class="y">20</td><td class="y">1908–1924</td><td>popis velkostatku z r. 1908 — možný popis budov a organizace dvora</td></tr>
+        <tr><td class="y">21</td><td class="y">1948</td><td>revize pozemkové reformy, soupis majetku, vyvlastnění a zavedení národní správy</td></tr>
+        <tr><td class="y">22</td><td class="y">1948</td><td>předávací inventáře — katalog výslovně jmenuje jen část velkostatku Březina</td></tr>
+        <tr><td class="y">23</td><td class="y">1928–1948</td><td><b>budovy, pojištění, inventář — klíč k datování demolic</b></td></tr>
+        <tr><td class="y">40</td><td class="y">1940–1944</td><td>kniha služného zaměstnanců — jména placeného personálu dvora</td></tr>
+        <tr><td class="y">42–44</td><td class="y">1929 / s. d.</td><td>lesní mapy vč. porostní mapy oddělení Zahrádka</td></tr>
+      </tbody>
+    </table></div>
+    <p class="note" style="margin-top:10px;">Na reprodukce jednotek 20–23, 40 a 44 je připraven koncept žádosti pro SOkA Jindřichův Hradec; spolu s dalšími čtyřmi koncepty (SOkA Pelhřimov, obec Pošná, projektant, ÚAZK) čeká v&nbsp;souboru <span class="mono">zadost_o_archivni_prameny.md</span> na doplnění kontaktu a odeslání.</p>
+
+    <h3>Obecní a družstevní fondy (ARchiv Online)</h3>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>Fond</th><th>Rozsah</th><th>Očekávaný přínos a stav</th></tr></thead>
+      <tbody>
+        <tr><td>Archiv obce Pošná (NAD 1077)</td><td class="y">1897–1945</td><td>pamětní kniha a <b>knihy evidence obyvatel 1898–1945</b> — obyvatelé celé Zahrádky; není online</td></tr>
+        <tr><td>MNV Pošná (NAD 1544)</td><td class="y">1945–1990</td><td>pamětní knihy, evidence obyvatel, stavební a zemědělská agenda — nejpřímější úřední stopa k poválečnému užití statku; plně inventarizováno, není online</td></tr>
+        <tr><td>JZD Pošná (NAD 4)</td><td class="y">1953–1975</td><td>schůzové zápisy, plány, inventurní soupisy; mimo archiv, nezpracováno a nepřístupné</td></tr>
+        <tr><td>ZD Velká Chyška (NAD 10)</td><td class="y">1953–1992</td><td>slučovací zápisy z r. 1975, inventurní soupisy, zpravodaje; mimo archiv, nepřístupné</td></tr>
+      </tbody>
+    </table></div>
+    <p class="note" style="margin-top:10px;">Vazba písemností JZD na čp.&nbsp;11 zatím doložena není — pro takové spojení musí být nalezen konkrétní zápis s výrazem „dvůr / středisko Zahrádka“ nebo „čp.&nbsp;11“. Pro poddanské domy vsi je navíc veřejných osm pozemkových knih z&nbsp;let 1784–1876.</p>
+  </div>
+</section>
+
+<!-- ============ VIII. OTÁZKY ============ -->
+<section id="otazky">
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">ODDÍL IX</span><h2>Otevřené otázky výzkumu</h2></div>
+    <p class="sec-sub">Co dosavadní prameny nedokládají a jaký je plán dalšího postupu.</p>
+    <div class="qgrid">
+      <div class="q"><h3><span class="qno">Q1</span>Co přesně zaniklo před rokem 1949?</h3><p>Letecká řada nově dokládá, že velká proměna dvora proti stavu 1829 proběhla už před prvním snímkem z&nbsp;roku 1949. Zbývá určit, co a kdy mezi lety 1829–1949 zmizelo a proč. Postup: georektifikace snímků, překrytí hranicemi st.&nbsp;1 a st.&nbsp;2 a porovnání se spisy o budovách a pojištění 1928–1948 (inv.&nbsp;č.&nbsp;23).</p></div>
+      <div class="q"><h3><span class="qno">Q2</span>Nedopřepsaná jména</h3><p>Paleograficky dořešit pracovní čtení: Jakub [Gyžek?] 1772, Martin [Pruška?] 1783, Jakub [Krajíček?] 1791, Václav [Žalímek?] 1807–08, osmnáct narození 1800–1836 s&nbsp;nepřepsanými rodiči a mladší rodná příjmení [Štádlcová?], [August / Augusta?] a [Adamcová?]; k&nbsp;tomu přesný den sňatku z&nbsp;ledna 1788.</p></div>
+      <div class="q"><h3><span class="qno">Q3</span>Rozpory paralelních zápisů</h3><p>Křest Václava Lenze (III/1791): kniha 6618 píše N11, kniha 6619 N14. U&nbsp;Anny (1791) se knihy rozcházejí v&nbsp;měsíci (srpen × září). Matku Václava Fraňka (1865) uvádí rodná kniha jako Petronilu Novou, úmrtní jako Rosalii. Rozpory jsou vedeny otevřeně, nezapočítávají se mezi jisté.</p></div>
+      <div class="q"><h3><span class="qno">Q4</span>Před rokem 1664</h3><p>V&nbsp;zemských deskách sledovat převody před spojením s&nbsp;Březinou a pokusit se propojit písemně zmíněný dvůr s&nbsp;polohou dnešní st.&nbsp;1. Kniha 6617 před zavedením čísel domů může vydat rodiny dvora bez adres.</p></div>
+      <div class="q"><h3><span class="qno">Q5</span>Mezera 1911–1949</h3><p>Adresní řada nyní končí narozením 1911, sňatkem 1924 a úmrtím 1930. Matriky narozených 1912–1949 zůstávají u&nbsp;matričního úřadu (online až po roce 2049). Nejbližší cesty dál: kniha služného 1940–1944 (inv.&nbsp;č.&nbsp;40), knihy evidence obyvatel obce 1898–1945 a poválečná agenda MNV Pošná.</p></div>
+      <div class="q"><h3><span class="qno">Q6</span>Neověřené stopy</h3><p>Samostatný sčítací operát Zahrádky se zřejmě nedochoval (sada Pošná 1921 prověřena — její čp.&nbsp;11 je jiný dům). Dataci nedatované mapy pozemkového katastru má určit ÚAZK; u&nbsp;obce zjistit autora a rok fotografií „Zahrádka a okolí“; u&nbsp;projektanta ověřit referenci „RD Zahrádka u&nbsp;Pošné“.</p></div>
+    </div>
+  </div>
+</section>
+
+<hr class="sep">
+
+<footer>
+  <div class="wrap">
+    <div class="sec-head"><span class="sec-no">PŘÍLOHA</span><h2 style="font-size:1.2rem;">Hlavní veřejné prameny</h2></div>
+    <ol>
+      <li>ČÚZK — <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=cioc&amp;idrastru=B2_a_6C_9077-1_2">císařský otisk stabilního katastru 1829</a> a <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&amp;idrastru=TAB550018290">indikační skica</a>; <a href="https://ags.cuzk.gov.cz/archiv/">archiv leteckých snímků</a></li>
+      <li>SOA Třeboň — matriky farnosti Pošná: knihy <a href="https://digi.ceskearchivy.cz/6617">6617</a>, <a href="https://digi.ceskearchivy.cz/6618">6618</a>, <a href="https://digi.ceskearchivy.cz/6619">6619</a>, <a href="https://digi.ceskearchivy.cz/6620">6620</a>, <a href="https://digi.ceskearchivy.cz/6621">6621</a>, <a href="https://digi.ceskearchivy.cz/6622">6622</a>, <a href="https://digi.ceskearchivy.cz/6623">6623</a>, <a href="https://digi.ceskearchivy.cz/6624">6624</a>, <a href="https://digi.ceskearchivy.cz/6625">6625</a>, <a href="https://digi.ceskearchivy.cz/6626">6626</a>, <a href="https://digi.ceskearchivy.cz/11210">11210</a>, <a href="https://digi.ceskearchivy.cz/11214">11214</a></li>
+      <li>SOA Třeboň — <a href="https://digi.ceskearchivy.cz/DA?menu=4&amp;id=922210301001032">digitální inventář fondu Velkostatek Březina–Zahrádka</a>; <a href="https://digi.ceskearchivy.cz/k/409642">přístupový bod Zahrádka</a> s osmi pozemkovými knihami 1784–1876</li>
+      <li>Národní archiv — <a href="https://vademecum.nacr.cz/vademecum/permalink?xid=ce3b120e1966066243716436d47c6234">Desky zemské větší</a> (zápis z r. 1664); portál ARchiv Online — fondy <a href="https://portal.nacr.cz/aron/apu/5b8eb08f-0e87-4e32-94ca-b2dfc38878e2">Archiv obce Pošná</a> a <a href="https://portal.nacr.cz/aron/apu/54847c40-9fe6-4a9a-879c-5da368791582">MNV Pošná</a></li>
+      <li>MZA — <a href="https://www.mza.cz/scitacioperaty/">sčítací operáty</a> (Pošná 1921, bez vyčleněné Zahrádky)</li>
+      <li>Národní digitální knihovna — schematismy velkostatků 1880 / 1881 / 1894 / 1902, adresáře, statistiky a tisk 1862–1949 (jednotlivé strany citovány ve výzkumném spisu)</li>
+      <li>ČÚZK — <a href="https://vdp.cuzk.gov.cz/vdp/ruian/adresnimista/8882321">RÚIAN, adresní místo Zahrádka 11</a>; <a href="https://oldmaps.geolab.cz/">OldMaps GEOLAB — vojenská mapování</a>; ČSÚ — <a href="https://csu.gov.cz/docs/107508/7e57dcb3-3d6d-9774-f840-81958c94176b/130084150633.pdf?version=1.0">Historický lexikon obcí, okres Pelhřimov</a></li>
+      <li>Ottův slovník naučný, sv. 27 (1908), s. 373–374 — <a href="https://cs.wikisource.org/wiki/Ott%C5%AFv_slovn%C3%ADk_nau%C4%8Dn%C3%BD/Zahr%C3%A1dka">přepis hesla</a></li>
+    </ol>
+    <p class="note">Stránka je vizuálním souhrnem pracovních spisů <span class="mono">vyzkum_statku.md</span>, <span class="mono">obyvatele_zahradky.md</span> a <span class="mono">zadost_o_archivni_prameny.md</span>. Míry jistoty (vysoká / střední / nízká) přebírá beze změny; historický pravopis příjmení je zachován, pracovní čtení jsou v&nbsp;hranatých závorkách.</p>
+    <p class="fin">— Zahrádka u Pošné, stavební parcela st. 1, dům čp. 11 —</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------------- data ---------------- */
+  // st: h = bezpečný, m = částečně nejisté čtení, w = pracovní nález, d = adresně sporný; sb = mrtvě narozené
+  const BIRTHS = [
+    [1772,"27. 5.","Jan Křtitel","otec Jakub [Gyžek?], šafář dvora (villicus); matka Mariana — nejstarší doklad N11, potvrzený dvěma knihami","h"],
+    [1783,"6. 7.","Marie","otec Martin [Pruška?], pastýř „na tomto zahrádeckém dvoře“; matka Dorota","h"],
+    [1784,"29. 9.","Marie Ullrichová","otec Jiří Ullrich, šafář; matka Anna","h"],
+    [1788,"13. 4.","Jiří Jurek","otec Josef Jurek; matka Kateřina; potvrzeno i dobovým rejstříkem","h"],
+    [1790,"9. 10.","Martin Junek / Jůnek","otec Josef, volák (bubulcus); matka Kateřina","h"],
+    [1791,"9. 3.","Václav Lenz","rodiče Ignác Lenz a Marie Anna — adresní rozpor: N11 v knize 6618, N14 v 6619","d"],
+    [1791,"25. 8. / 25. 9.","Anna","otec Jakub [Krajíček?], šafář; matka Anna; knihy se rozcházejí v měsíci","h"],
+    [1800,"18. 4.","František Josef","rodiče František a Kateřina; příjmení nepřepsáno","m"],
+    [1801,"5. 6.","František Dominik Josef","rodiče František (patrně pastýř) a Barbora; zemřel 15. 10. 1801","m"],
+    [1802,"26. 7.","Anna Josefina","otec František, pastýř; matka Barbora; zemřela 4. 12. 1802","m"],
+    [1803,"9. 10.","Kateřina Josefina","otec František, pastýř; matka Barbora","m"],
+    [1807,"9. 1.?","Marie Salome","otec Václav [Žalímek?], pastýř ze zahrádeckého dvora","m"],
+    [1808,"20. 4.","Františka Barbora","rodiče nejistě čitelní; přípis úmrtí 7. 5.","m"],
+    [1808,"20. 5.","Jakub a patrně Božena","zřejmě dvojčata; otec nejspíš Václav Žalímek, pastýř ze dvora","m"],
+    [1808,"28. 5.","Josef Dominik Emerich","matka Alžběta; údaje o otci škrtané a opravované","m"],
+    [1812,"14. 1.","Samuel Felix","otec neuveden; matka Kateřina","m"],
+    [1812,"27. 8.","Barbora","rodiče zatím nepřepsáni","m"],
+    [1814,"11. 3.","Jana","rodiče zatím nepřepsáni","m"],
+    [1814,"2. 5.","Anna Františka","rodiče Jan a Anna","m"],
+    [1814,"22. 12.","Petr Evangelista","otec neuveden; matka Dorota, v zápisu spojena se dvorem","m"],
+    [1817,"14. 6.","Jan","přípis úmrtí 25. 1. 1822","m"],
+    [1819,"7. 10.","Jan František","rodiče Jan a Anna","m"],
+    [1820,"5. 6.","dítě [snad Jan František]","jméno s nízkou jistotou","w"],
+    [1827,"3. 6.","Františka Josefa","otec pracovně Jan Rejpal / Rajpal","m"],
+    [1836,"19. 10.","Václav Vojtěch","otec Václav [snad Bílý]; matka Anna","m"],
+    [1845,"","Vojtěch Zikmund","otec Václav Zikmund, šafář na Zahrádce; matka Marie","h"],
+    [1846,"","Jan","pracovní nález","w"],
+    [1847,"","Jan","pracovní nález","w"],
+    [1847,"","Josef","pracovní nález","w"],
+    [1848,"10. 12.","Josefa Zikmundová","otec Václav Zikmund, šafář; matka Marie","h"],
+    [1850,"","František","matka patrně Kateřina Zikmundová; pracovní nález","w"],
+    [1850,"","František","druhá rodina; pracovní nález","w"],
+    [1850,"","mrtvě narozená dívka","pracovní nález","w","sb"],
+    [1851,"","Marie","pracovní nález","w"],
+    [1853,"","Marie [snad Zimlerová]","otec patrně Vojtěch; pracovní nález","w"],
+    [1854,"7. 8.","mrtvě narozený syn Anny Pilské","událost potvrzena i úmrtní knihou","h","sb"],
+    [1854,"23. 9.","Anna Žáková","otec Josef Žák, čeledín na dvoře","h"],
+    [1854,"23. 10.","Jan Forel","otec František Forel, posel na panském dvoře","h"],
+    [1856,"","Antonie","pracovní nález","w"],
+    [1856,"","František","pracovní nález","w"],
+    [1856,"","Josef","otec výslovně čeledín v panském dvoře; příjmení nejisté","m"],
+    [1856,"22. 10.","mrtvě narozená dcera Forelová","rodiče František Forel a Regina Červená; v obou knihách","h","sb"],
+    [1857,"21. 9.","Marie Forelová","otec František Forel","h"],
+    [1858,"20. 7.","Kateřina","otec Václav Junek / Jůnek, čeledín ve panském dvoře","h"],
+    [1859,"","Marie","otec snad Matěj; pracovní nález","w"],
+    [1861,"18. 7.","František Milk","otec Matěj Milk, čeledín v panském dvoře; matka Rosalie","h"],
+    [1862,"","Antonie","otec Matěj; pracovní nález","w"],
+    [1863,"22. 3.","Barbora Fraňková","otec Josef Franěk, čeledín; matka Rosalie; zemřela v 7 dnech","h"],
+    [1864,"","Anna","pracovní nález","w"],
+    [1865,"20. 8.","Václav Franěk","otec Josef Franěk, pastýř ve dvoře; zemřel ve 2 dnech","h"],
+    [1866,"","Marie","otec Josef, zřejmě podruh; pracovní nález","w"],
+    [1867,"","Aloisie","otec František; pracovní nález","w"],
+    [1870,"15. 3.","Josefa Dvořáková","otec Jan Dvořák","h"],
+    [1870,"","Kateřina","pracovní nález","w"],
+    [1871,"28. 5.","Antonie Zemišek","otec Josef Zemišek, zahradník ve dvoře; matka Marie","h"],
+    [1874,"27. 1.","Marie Zemišek","rodiče Josef Zemišek a Marie","h"],
+    [1878,"7. 7.","Aloisie Kaňková","otec Tomáš Kaňka, nájemník a obuvník; matka Kateřina","h"],
+    [1880,"6. 3.","Josef Tvrček","otec Václav Tvrček, kolář","h"],
+    [1885,"17. 1.","Marie Vyhnálková","otec František Vyhnálek, čeledín ve dvoře; matka Kateřina; čtení příjmení středně jisté","m"],
+    [1885,"2. 4.","Marie Kejvalová","otec František Kejval, čeledín ve dvoře; matka Josefa","h"],
+    [1885,"19. 7.","Anna Mynáříková","otec Filip Mynářík, čeledín; matka Eleonora; čtení příjmení středně jisté","m"],
+    [1895,"25. 1.","Josef Jenčík","otec Josef Jenčík, čeledín ve dvoře; matka Kateřina; čtení příjmení středně jisté","m"],
+    [1898,"1. 8.","mrtvě narozená dcera Františka [Augusta?]","otec deputátník ve dvoře; matka Marie [snad Adamcová]; v rodné i úmrtní knize","m","sb"],
+    [1901,"17. 4.","Marie Svačková","otec Josef Svaček, dělník; jako dělník z č. 11 uveden i děd Jan Svaček; přípis patrně úmrtí 5. 9. 1902","h"],
+    [1904,"10. 2.","Matěj Kučera","otec Vojtěch Kučera, čeledín; matka Antonie","h"],
+    [1906,"17. 6.","Aloisie Kejvalová","nemanželská dcera Marie Kejvalové; otec neuveden","h"],
+    [1907,"4. 7.","František Říha","otec Josef Říha, čeledín ve dvoře; matka Františka; přípis úmrtí 6. 9. 1911","h"],
+    [1911,"13. 7.","Antonie Horničková","otec Alois Horniček, čeledín ve dvoře; matka Anna","h"]
+  ];
+
+  const MARRIAGES = [
+    [1788,"~14. 1.","Bartoloměj [Leitler?] ⚭ Kateřina","vdovec 68 let a vdova 56 let, oba u N11; nejstarší svatební doklad domu","m"],
+    [1825,"15. 11.","Kateřina Moravcová","dcera Jana Moravce z N11; ženich František ze Zahrádky N8","h"],
+    [1827,"28. 8.","Marianna Moravcová","druhá dcera Jana Moravce z N11","h"],
+    [1854,"14. 2.","František Forel ⚭ Regina Červená","ženich posel na panském dvoře N11; nevěsta z Plačkova N32","h"],
+    [1855,"15. 3.","Jan Achovec ⚭ Veronika Anna Červená","čeledín ve dvoře; jediný sňatek s oběma stranami u N11","h"],
+    [1857,"20. 7.","Marie Horníková","vdova z N11; ženich Matěj Píčka ze Zahrádky N18","h"],
+    [1860,"10. 1.","Karel Oliva","propuštěný vojín z N11; nevěsta Marie Kadlečková, N23","h"],
+    [1860,"2. 7.","Matěj Milk ⚭ Rosalie Moravcová","čeledín z N11; nevěsta ze Zahrádky N10","h"],
+    [1862,"zázn. 756","Barbora Píchová","výslovně „obyvatelkyně v Zahrádce N11“; den a měsíc přepsány inkoustem","h"],
+    [1868,"19. 5.","Marie Jonášová","svobodná děvečka v N11; ženich podruh ze Zahrádky N22","h"],
+    [1869,"26. 1.","Jan Svoboda","čeledín v N11, původem z Borotína","h"],
+    [1870,"1. 2.","Anna Horníková","dcera zemřelého Matěje Horníka, pastýře v N11 — dvě generace rodiny","h"],
+    [1881,"7. 3.","Václav Získal","ženich bydlící na Zahrádce č. 11; nevěsta Alžběta Farková — první svatební doklad domu po roce 1870","h"],
+    [1924,"24. 4.","Matěj Kudrhalt ⚭ Anna Procházková","hospodářský pomocník v č. 11; oba snoubenci bydleli v č. 11; svědek František Vopálka, šafář na Zahrádce č. 11","h"]
+  ];
+
+  const DEATHS = [
+    [1791,"21. 6.","Václav Lenz","16 let; syn Jakuba Lenze, oráče","h"],
+    [1792,"3. 3.","Václav Lenz","¾ roku; syn Jakuba Lenze, zahradníka","h"],
+    [1794,"10. 12.","Marie Anna","zřejmě vazba na Ignáce Lenze; vztah nejasný","m"],
+    [1796,"31. 1.","Kateřina Anna Alžběta","53 let; příjmení nepřepsáno","m"],
+    [1797,"20. 4.","František","30 let; rodový popis nepřepsán","m"],
+    [1799,"2. 5.","Josef Lenz","20 let; syn Jakuba Lenze","h"],
+    [1800,"19. 4.","Jan Josef","asi 4 týdny; syn Jana","m"],
+    [1801,"15. 10.","František Josef","18 týdnů; pravděpodobně dítě narozené 5. 6. 1801","h"],
+    [1802,"4. 12.","Anna Josefa","asi 4 měsíce; pravděpodobně dítě narozené 26. 7. 1802","h"],
+    [1863,"29. 3.","Barbora Fraňková","7 dnů; dcera čeledína Josefa Fraňka","h"],
+    [1865,"22. 8.","Václav Franěk","2 dny; syn pastýře Josefa Fraňka","h"],
+    [1868,"2. 10.","Václav Parka","52 let; čeledín na Zahrádce N11","h"],
+    [1873,"10. 2.","dítě Berníčkových","rodiče Josef Berníček a Marie; věk nečitelný","m"],
+    [1875,"9. 1.","Marie Rathovská","16 let; nemanželská dcera Kateřiny ze Samšína","m"],
+    [1875,"7. 2.","Antonie Bílá","4 roky; dcera Václava Bílého, voláka","h"],
+    [1875,"16. 8.","Antonín Březinda","40 let; pasák","h"],
+    [1878,"9. 3.","Josefa Menšíková","15 let; dcera Františka Menšíka","h"],
+    [1881,"28. 6.","Antonín","1 měsíc 22 dnů; nemanželský syn Marie, dcery Matěje Kratochvíla, panského šafáře na Zahrádce; zemřel na psotník","h"],
+    [1881,"7. 11.","Josefa Menšíková","54 let; vdova po Františku Menšíkovi; zápal plic; možná matka Josefy zemřelé 1878","h"],
+    [1913,"11. 7.","Kateřina Kaňková","76 let; vdova po obuvníku Tomáši Kaňkovi — návrat rodiny doložené u N11 roku 1878","h"],
+    [1922,"30. 5.","Josefa Kejvalová","62 let; vdova po Františku Kejvalovi, dělníku a domkáři v č. 11; rodina čeledína z roku 1885","h"],
+    [1930,"9. 10.","Václav Hák","3 měsíce; syn kočího Václava Háka a Růženy rozené Ryš — nejmladší zápis domu","h"]
+  ];
+
+  const ROLES = [
+    ["šafář / správce", [[1772,"Jakub [Gyžek?] — villicus","h"],[1784,"Jiří Ullrich","h"],[1791,"Jakub [Krajíček?]","h"],[1845,"Václav Zikmund","h"],[1848,"Václav Zikmund","h"],[1881,"Matěj Kratochvíl — panský šafář na Zahrádce (rodový údaj, dům neurčen)","m"],[1924,"František Vopálka — šafář na Zahrádce č. 11 (svědek sňatku)","h"]]],
+    ["pastýř", [[1783,"Martin [Pruška?] — „na tomto dvoře“ (opilio)","h"],[1802,"František","m"],[1803,"František","m"],[1807,"Václav [Žalímek?] — ze dvora","m"],[1808,"Václav [Žalímek?]","m"],[1865,"Josef Franěk — ve dvoře","h"],[1870,"Matěj Horník († před 1870, zpětná zmínka)","h"]]],
+    ["volák / honák skotu", [[1790,"Josef Junek / Jůnek (bubulcus)","h"],[1875,"Václav Bílý","h"]]],
+    ["oráč", [[1791,"Jakub Lenz (arator)","h"]]],
+    ["zahradník", [[1792,"Jakub Lenz (hortulanus)","h"],[1871,"Josef Zemišek — ve dvoře","h"],[1874,"Josef Zemišek","h"]]],
+    ["čeledín", [[1854,"Josef Žák — na dvoře","h"],[1855,"Jan Achovec — ve dvoře","h"],[1856,"otec Josefa [příjmení nejisté]","m"],[1858,"Václav Junek / Jůnek — v panském dvoře","h"],[1860,"Matěj Milk","h"],[1861,"Matěj Milk — v panském dvoře","h"],[1863,"Josef Franěk","h"],[1868,"Václav Parka","h"],[1869,"Jan Svoboda","h"],[1885,"František Vyhnálek — ve dvoře","h"],[1885,"František Kejval — ve dvoře","h"],[1885,"Filip Mynářík","m"],[1895,"Josef Jenčík — ve dvoře","m"],[1904,"Vojtěch Kučera","h"],[1907,"Josef Říha — ve dvoře","h"],[1911,"Alois Horniček — ve dvoře","h"]]],
+    ["posel", [[1854,"František Forel — na panském dvoře","h"],[1856,"František Forel","h"]]],
+    ["děvečka", [[1868,"Marie Jonášová","h"]]],
+    ["pasák", [[1875,"Antonín Březinda","h"]]],
+    ["podruh", [[1866,"Josef [příjmení nejisté]","w"]]],
+    ["obuvník (nájemník)", [[1878,"Tomáš Kaňka","h"]]],
+    ["kolář", [[1880,"Václav Tvrček","h"]]],
+    ["deputátník", [[1898,"František [August / Augusta?] — ve dvoře","m"]]],
+    ["dělník", [[1901,"Josef Svaček; jako dělník z č. 11 uveden i jeho otec Jan — dvě generace","h"]]],
+    ["hospodářský pomocník", [[1924,"Matěj Kudrhalt","h"]]],
+    ["kočí", [[1930,"Václav Hák","h"]]]
+  ];
+
+  const OWNERS = [
+    ["1378–1487","panství Červená Řečice","ves patřila k arcibiskupskému panství", false],
+    ["1543","Jan Houska ze Zahrádky","přihlásil se k držbě při obnově shořelých desk zemských", false],
+    ["1572–74","Václav Houska","syn Jana; držitel Pošné se Zahrádkou", false],
+    ["1627–28","Pechlar → Malovec","pobělohorská konfiskace: královská komora prodala celek Maxmiliánu Pechlarovi, ten jej záhy postoupil Rudolfu Malovcovi", false],
+    ["1664","Miličovští z Brauenberka","spojení s Březinou; v deskách zemských výslovně „dvůr zahrádecký“", true],
+    ["do 1821","Jiří Jeník Zásadský","svobodný pán z Gamsendorfu", false],
+    ["1821–1839","Josef Čapek","jeho jméno nese přípis na indikační skice 1829", true],
+    ["1839–1908","rod Eisensteinů","Vojtěch Josef; August († 1875 v Březině); Václav (Wenzel); JUDr. Karel a Eliška — dvůr byl roku 1902 pronajat Jul. Roubíčkovi", false],
+    ["1908–1948","Homolkové","Antonín a Zdeňka (pozemková reforma 1927), poté syn Ing. Jiří", false],
+    ["4. 5. 1948","národní správa","zavedena na zemědělský a lesní majetek", true]
+  ];
+
+  const ECON = [
+    ["pole", 227.03],
+    ["lesy", 206.38],
+    ["louky", 39.63],
+    ["pastviny", 15.29],
+    ["zahrady", 4.28],
+    ["rybníky", 1.79],
+    ["neurčený rozdíl", 11.65, true]
+  ];
+
+  const SCALES = [
+    ["velkostatek celkem (1914)", 531.7],
+    ["velkostatek celkem (1886)", 506.05],
+    ["katastr obce (1897)", 371.67],
+    ["režie Zahrádka — veškerá půda (1927)", 181.5],
+    ["dvůr Zahrádka — zemědělská (1881–1902)", 70]
+  ];
+
+  // rok, obyvatelé, domy (null = neuvedeno), true = soupis, ne sčítání
+  const POP = [
+    [1869,188,23],[1880,190,24],[1890,167,20],[1900,182,21],[1910,176,22],[1921,174,24],[1930,142,26],
+    [1947,123,null,true],[1950,99,26],[1961,84,21],[1970,58,19],[1980,51,16],[1991,29,18],[2001,28,18],[2011,23,19]
+  ];
+
+  const TIMELINE = [
+    ["era","Starší dějiny vsi a dvora"],
+    ["1378","Ves Zahrádka patřila k arcibiskupskému panství Červená Řečice a vytrvala při něm do roku 1487.","v"],
+    ["1543","Jan Houska ze Zahrádky se přihlásil k držbě při obnovování shořelých desk zemských; syn Václav převzal Pošnou se Zahrádkou v letech 1572–1574.","v"],
+    ["1627–28","Po pobělohorské konfiskaci prodala královská komora Pošnou se Zahrádkou Maxmiliánu Pechlarovi z Neminku; ten ji záhy postoupil Rudolfu Malovcovi z Malovic.","v"],
+    ["1664","Za dědiců Rudolfa Malovce připadla Zahrádka Miličovským z Brauenberka a byla spojena s Březinou; v deskách zemských „dvůr zahrádecký“ a pole Aulehle — nejstarší přímá zmínka o dvoru.","v"],
+    ["1783","I. vojenské mapování zachycuje ves jako skupiny budov; jen prostorová stopa bez rozlišení st. 1.","s"],
+    ["era","Dvůr a jeho lidé v matrikách"],
+    ["1772","27. 5. narozen Jan Křtitel, syn šafáře Jakuba — nejstarší adresní doklad N11, potvrzený dvěma paralelními knihami.","v"],
+    ["1783","Pastýř Martin doložen výslovně „na tomto zahrádeckém dvoře“ — nejstarší jednoznačné spojení pracovníka, dvora a N11.","v"],
+    ["1788","Lednový sňatek ovdovělých Bartoloměje (68) a Kateřiny (56) z N11; v dubnu narozen Jiří Jurek.","v"],
+    ["1792–1802","Úmrtní kniha přidává osm zápisů N11; Jakub Lenz je roku 1792 výslovně zahradníkem na Zahrádce.","v"],
+    ["1800–36","Osmnáct rodných zápisů u N11; roku 1807 pastýř Václav [Žalímek?] ze zahrádeckého dvora.","v"],
+    ["1821","Jiří Jeník Zásadský prodal statek Josefu Čapkovi.","v"],
+    ["1829","Stabilní katastr: hlavní areál = stavební parcela 1, dům „N. 11. Dom:“; vedle samostatná budova st. 2.","v"],
+    ["1839","Josef Čapek prodal statek Vojtěchu Josefovi z Eisensteina.","v"],
+    ["1845–48","V N11 rodina šafáře Václava Zikmunda — první bezpečně celým příjmením přepsaný šafář.","v"],
+    ["1854–80","Matriky u N11 souvisle zapisují rodiny zaměstnanců dvora: posel, čeledíni, pastýř, volák, zahradník, děvečka, později obuvník a kolář.","v"],
+    ["1876–78","Matrika používá N1 i N11 současně pro dva různé domy — doklad, že 1 a 11 nejsou totéž číslo.","v"],
+    ["era","Velkostatek a dvůr do roku 1948"],
+    ["1862","Úřední statistika: katastr „Zahradka (Breziner-)“ ≈ 371,6 ha; 192 přítomných obyvatel.","v"],
+    ["1875","29. 6. zemřel majitel August rytíř Eisenstein — na zámku v Březině, nikoli v N11.","v"],
+    ["1880–81","Majitelem Václav (Wenzel) z Eisensteinu; dvůr Zahrádka 70 ha, zahrádecký lesní revír 98,40 ha.","v"],
+    ["1885–1911","Deset rodných zápisů v č. 11: sedm čeledínů, deputátník a dvě generace dělníků Svačkových.","v"],
+    ["1886","Velkostatek 506,05 ha, výnos 4 254 zl.; dvory Březina, Horní Dvůr a Zahrádka; samostatný správce dvora Zahrádka.","v"],
+    ["1900","Ottův slovník: celá ves 21 domů, 182 obyvatel; původně statek Housků ze Zahrádky.","v"],
+    ["1902","Dvůr Zahrádka (70 ha) už není v přímé režii — pronajat „Jul. Roubíčkovi v Zahrádce“.","v"],
+    ["1908","Karel a Eliška Eisensteinovi prodali statek Antonínu Homolkovi.","v"],
+    ["1914","Panství 531,7 ha se třemi dvory (Březina, Nový dvůr, Zahrádka), ředitel Václav Vlach; hydroelektrárna, mlýn, pila, lihovar.","v"],
+    ["1923","Antonín Homolka získal bronzovou medaili za pšenici „česká červená přesívka dobrovická“ (82 bodů).","v"],
+    ["1924","Svatba hospodářského pomocníka Matěje Kudrhalta v č. 11; svědek František Vopálka, šafář na Zahrádce č. 11.","v"],
+    ["1927","Pozemková reforma u režie Zahrádka: 181,50 ha veškeré půdy; 11,50 ha přiděleno drobným nabyvatelům, 170 ha propuštěno Homolkovým.","v"],
+    ["1930","V č. 11 rodina kočího Václava Háka — nejmladší přímý matriční doklad domu.","v"],
+    ["1935","Volby do poslanecké sněmovny: za celou ves 73 platných hlasů.","v"],
+    ["1947","Úřední soupis z 22. 5.: 123 přítomných obyvatel celé vsi.","v"],
+    ["1948","4. 5. zavedena národní správa na zemědělský a lesní majetek velkostatku.","v"],
+    ["era","Po roce 1948 a novodobá dokumentace"],
+    ["1949–92","Letecká řada: hlavní vícekřídlá hmota statku trvá — velká přestavba proti roku 1829 proběhla už před rokem 1949.","v"],
+    ["1950–75","JZD Pošná (roku 1975 sloučeno do JZD Velká Chyška); vazba dochovaných písemností na čp. 11 zatím nedoložena.","s"],
+    ["1996","Požár opuštěného vepřína asi 100 m za vsí — nelze jej spojovat se st. 1.","s"],
+    ["2001–22","Deset vrstev archivního ortofota potvrzuje stabilní půdorys; mezi 2017 a 2019 změna střechy jihozápadního křídla.","v"],
+    ["2015–18","Pozemní fotodokumentace exteriérů a interiérů před rekonstrukcí; geodetické zaměření půdorysů (únor 2017).","v"],
+    ["2017","Dvě studie adaptace „statku č. 1“ (Ing. arch. Jakub Křivan) rozlišují hlavní objekt, sýpku, bývalou konírnu a stodolu.","v"],
+    ["2018","Od 31. 1. sídlí na adrese Zahrádka 11 spolek iZahrádka z. s. — institucionální užití adresy, ne doklad bydliště.","v"],
+    ["2022–23","RÚIAN: objekt čp. 11 veden od 2. 6. 2022 jako rodinný dům; doplněna zastavěná plocha 304 m².","v"],
+    ["2026","Pouť na Zahrádce (video 2025, mapa 2026 přímo značí čp. 11); audit veřejných pramenů; RÚIAN potvrzuje řetězec Zahrádka 11 → st. 1 → čp. 11.","v"]
+  ];
+
+  // id, type(N/O/U/S), from, to, status(full/part/none), label N11, note
+  const BOOKS = [
+    ["6615","N",1670,1682,"none","—","neprohlédnuto (před zavedením čísel domů)"],
+    ["6616","S",1683,1719,"none","—","neprohlédnuto"],
+    ["6617","S",1717,1777,"part","1×","snímky 183–189 (1771–72); paralelně potvrzuje zápis z r. 1772"],
+    ["6618","S",1771,1792,"full","6×","narození 4–85, sňatky 99–121 i úmrtí 124–168 souvisle; + 1 adresně sporný křest"],
+    ["6619","N",1788,1796,"full","2×","zahrádecký oddíl souvisle (snímky 12–17)"],
+    ["6620","N",1797,1843,"full","18×","zahrádecký oddíl souvisle (snímky 80–117)"],
+    ["6621","N",1844,1880,"full","33×","systematicky; 16 bezpečných + 17 pracovních nálezů"],
+    ["11210","N",1881,1911,"full","10×","souvisle snímky 3–350; dvě zdánlivé shody vyloučeny jako jiné obce"],
+    ["11211","N",1912,1949,"none","—","u matričního úřadu Pacov; online až po roce 2049"],
+    ["6622","O",1788,1813,"full","1×","zahrádecký oddíl souvisle (snímky 10–14)"],
+    ["6623","O",1814,1880,"full","11×","všechny snímky 1–155, oba adresní sloupce"],
+    ["6624","O",1881,1930,"full","3×","všech 77 stran s osobou ze Zahrádky dle rejstříku; č. 11 v letech 1881 a 1924 + navazující sňatek Aloise Kaňky 1901"],
+    ["11213","O",1931,1949,"none","—","v katalogu se teprve připravuje"],
+    ["6625","U",1788,1803,"full","8×","zahrádecký oddíl souvisle (snímky 14–19)"],
+    ["6626","U",1803,1880,"full","10×","celá kniha souvisle prohlédnuta"],
+    ["11214","U",1881,1937,"full","6×","všechny snímky 3–274; kandidáti z jiných čísel a obcí vyloučeni"],
+    ["11215","U",1938,1949,"none","—","v katalogu se teprve připravuje"]
+  ];
+
+  /* ---------------- helpers ---------------- */
+  const NS = "http://www.w3.org/2000/svg";
+  const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  function el(name, attrs, parent) {
+    const n = document.createElementNS(NS, name);
+    for (const k in attrs) n.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(n);
+    return n;
+  }
+  const tip = document.getElementById("tip");
+  function showTip(html, x, y) {
+    tip.innerHTML = html;
+    tip.classList.add("on");
+    const w = tip.offsetWidth, h = tip.offsetHeight;
+    let left = x + 14, top = y - h - 10;
+    if (left + w > innerWidth - 8) left = x - w - 14;
+    if (top < 8) top = y + 16;
+    tip.style.left = left + "px";
+    tip.style.top = top + "px";
+  }
+  function hideTip() { tip.classList.remove("on"); }
+  addEventListener("scroll", hideTip, { passive: true });
+
+  function attachTip(node, html) {
+    node.addEventListener("pointerenter", e => showTip(html, e.clientX, e.clientY));
+    node.addEventListener("pointermove", e => showTip(html, e.clientX, e.clientY));
+    node.addEventListener("pointerleave", hideTip);
+    node.addEventListener("focus", () => {
+      const r = node.getBoundingClientRect();
+      showTip(html, r.left + r.width / 2, r.top);
+    });
+    node.addEventListener("blur", hideTip);
+  }
+
+  /* ---------------- events chart ---------------- */
+  (function eventsChart() {
+    const svg = document.getElementById("ev-chart");
+    const W = 1020, padL = 96, padR = 20, padT = 14;
+    const Y0 = 1768, Y1 = 1934;
+    const x = yr => padL + (yr - Y0) / (Y1 - Y0) * (W - padL - padR);
+    const R = 5.2, STEP = 13.5;
+
+    const lanes = [
+      { key: "birth", label: "Narození", data: BIRTHS, color: "--s-birth", max: 4 },
+      { key: "marr",  label: "Sňatky",   data: MARRIAGES, color: "--s-marr", max: 2 },
+      { key: "death", label: "Úmrtí",    data: DEATHS, color: "--s-death", max: 3 }
+    ];
+    let y = padT;
+    const laneGeom = [];
+    for (const l of lanes) {
+      const h = l.max * STEP + 14;
+      laneGeom.push({ ...l, top: y, base: y + h - 6 });
+      y += h + 10;
+    }
+    const H = y + 30;
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+
+    // gridlines per decade
+    for (let d = 1770; d <= 1930; d += 10) {
+      el("line", { x1: x(d), y1: padT - 4, x2: x(d), y2: y - 4, class: "grid-l" }, svg);
+      const t = el("text", { x: x(d), y: y + 14, "text-anchor": "middle", class: "axis-t" }, svg);
+      t.textContent = d;
+    }
+
+    const typeName = { birth: "narození / křest", marr: "sňatek", death: "úmrtí" };
+    for (const l of laneGeom) {
+      el("line", { x1: padL - 6, y1: l.base + 4, x2: W - padR, y2: l.base + 4, class: "base-l" }, svg);
+      const lab = el("text", { x: 8, y: l.top + 16, class: "lane-t" }, svg);
+      lab.textContent = l.label;
+      const cnt = el("text", { x: 8, y: l.top + 32, class: "lane-c" }, svg);
+      cnt.textContent = l.data.length + " zápisů";
+
+      // stack per year
+      const stack = {};
+      for (const ev of l.data) {
+        const yr = ev[0];
+        stack[yr] = (stack[yr] || 0) + 1;
+        const cy = l.base - (stack[yr] - 1) * STEP - 2;
+        const cx = x(yr);
+        const st = ev[4], sb = ev[5] === "sb";
+        const col = `var(${l.color})`;
+        const g = el("g", { class: "ev", tabindex: "0", role: "img" }, svg);
+        let c;
+        if (st === "w") {
+          c = el("circle", { cx, cy, r: R - 1, fill: "var(--surface)", stroke: col, "stroke-width": 2 }, g);
+        } else if (st === "d") {
+          c = el("circle", { cx, cy, r: R - 1, fill: "var(--surface)", stroke: col, "stroke-width": 2, "stroke-dasharray": "3 2.4" }, g);
+        } else {
+          c = el("circle", { cx, cy, r: R, fill: col, stroke: "var(--surface)", "stroke-width": 1.4 }, g);
+          if (st === "m") c.setAttribute("fill-opacity", "0.62");
+        }
+        if (sb) el("line", { x1: cx - 3, y1: cy, x2: cx + 3, y2: cy, stroke: "var(--surface)", "stroke-width": 2 }, g);
+        el("circle", { cx, cy, r: 9, fill: "transparent" }, g); // hit target
+        const certTxt = { h: "vysoká jistota", m: "částečně nejisté čtení", w: "pracovní nález", d: "adresně sporné (N11 × N14)" }[st];
+        const html = `<div class="t-head">${ev[2]}</div><div class="t-sub">${ev[0]}${ev[1] ? " · " + ev[1] : ""} · ${typeName[l.key]} · ${certTxt}</div>${ev[3]}`;
+        g.setAttribute("aria-label", `${ev[2]}, ${ev[0]}, ${typeName[l.key]}. ${ev[3]}`);
+        attachTip(g, html);
+      }
+    }
+
+    // legend with counts
+    const lg = document.getElementById("ev-legend");
+    lg.innerHTML =
+      `<span class="li"><span class="dot" style="background:var(--s-birth)"></span>Narození <b>${BIRTHS.length}</b>&nbsp;<span style="color:var(--muted)">(z toho 4 mrtvě narozené, 1 sporné)</span></span>` +
+      `<span class="li"><span class="dot" style="background:var(--s-marr)"></span>Sňatky <b>${MARRIAGES.length}</b></span>` +
+      `<span class="li"><span class="dot" style="background:var(--s-death)"></span>Úmrtí <b>${DEATHS.length}</b>&nbsp;<span style="color:var(--muted)">(+3 mrtvě narozené výše)</span></span>`;
+
+    // table view
+    const tb = document.querySelector("#ev-table tbody");
+    const rows = [];
+    for (const b of BIRTHS) rows.push([b[0], b[1], "narození", b[2], b[3], "--s-birth"]);
+    for (const m of MARRIAGES) rows.push([m[0], m[1], "sňatek", m[2], m[3], "--s-marr"]);
+    for (const d of DEATHS) rows.push([d[0], d[1], "úmrtí", d[2], d[3], "--s-death"]);
+    rows.sort((a, b) => a[0] - b[0]);
+    for (const r of rows) {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td class="y">${r[0]}</td><td>${r[1] || "—"}</td>` +
+        `<td><span class="tdot" style="background:var(${r[5]})"></span>${r[2]}</td>` +
+        `<td><b>${r[3]}</b></td><td>${r[4]}</td>`;
+      tb.appendChild(tr);
+    }
+  })();
+
+  /* ---------------- roles chart ---------------- */
+  (function rolesChart() {
+    const svg = document.getElementById("role-chart");
+    const W = 1020, padL = 168, padR = 20, padT = 10, ROW = 27;
+    const Y0 = 1768, Y1 = 1934;
+    const x = yr => padL + (yr - Y0) / (Y1 - Y0) * (W - padL - padR);
+    const H = padT + ROLES.length * ROW + 34;
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+
+    for (let d = 1770; d <= 1930; d += 10) {
+      el("line", { x1: x(d), y1: padT, x2: x(d), y2: padT + ROLES.length * ROW, class: "grid-l" }, svg);
+      const t = el("text", { x: x(d), y: padT + ROLES.length * ROW + 18, "text-anchor": "middle", class: "axis-t" }, svg);
+      t.textContent = d;
+    }
+
+    ROLES.forEach((row, i) => {
+      const cy = padT + i * ROW + ROW / 2;
+      if (i > 0) el("line", { x1: padL - 8, y1: padT + i * ROW, x2: W - padR, y2: padT + i * ROW, stroke: "var(--grid)", "stroke-width": .5 }, svg);
+      const lab = el("text", { x: padL - 14, y: cy + 4, "text-anchor": "end", style: "font-size:12.5px; fill:var(--ink); font-weight:600" }, svg);
+      lab.textContent = row[0];
+      // range line
+      const yrs = row[1].map(d => d[0]);
+      if (yrs.length > 1) {
+        el("line", { x1: x(Math.min(...yrs)), y1: cy, x2: x(Math.max(...yrs)), y2: cy, stroke: "var(--accent)", "stroke-width": 1.4, opacity: .38 }, svg);
+      }
+      const seen = {};
+      for (const m of row[1]) {
+        seen[m[0]] = (seen[m[0]] || 0) + 1;
+        const cx = x(m[0]) + (seen[m[0]] - 1) * 8; // rozestup značek téhož roku
+        const g = el("g", { class: "ev", tabindex: "0" }, svg);
+        if (m[2] === "w" || m[2] === "m") {
+          el("circle", { cx, cy, r: 4.6, fill: "var(--surface)", stroke: "var(--accent)", "stroke-width": 2 }, g);
+        } else {
+          el("circle", { cx, cy, r: 5.4, fill: "var(--accent)", stroke: "var(--surface)", "stroke-width": 1.4 }, g);
+        }
+        el("circle", { cx, cy, r: 9, fill: "transparent" }, g);
+        const html = `<div class="t-head">${m[1]}</div><div class="t-sub">${m[0]} · ${row[0]}</div>`;
+        g.setAttribute("aria-label", `${row[0]}, ${m[0]}: ${m[1]}`);
+        attachTip(g, html);
+      }
+    });
+  })();
+
+  /* ---------------- owners ---------------- */
+  (function owners() {
+    const host = document.getElementById("owners");
+    for (const o of OWNERS) {
+      const d = document.createElement("div");
+      d.className = "owner" + (o[3] ? " hl" : "");
+      d.innerHTML = `<div class="yrs">${o[0]}</div><div class="who">${o[1]}</div><div class="what">${o[2]}</div>`;
+      host.appendChild(d);
+    }
+  })();
+
+  /* ---------------- economy ---------------- */
+  (function econ() {
+    const host = document.getElementById("econ");
+    const max = Math.max(...ECON.map(e => e[1]));
+    for (const e of ECON) {
+      const lbl = document.createElement("div"); lbl.className = "lbl"; lbl.textContent = e[0];
+      const track = document.createElement("div"); track.className = "bar-track";
+      const bar = document.createElement("div"); bar.className = "bar" + (e[2] ? " na" : "");
+      bar.style.width = (e[1] / max * 100) + "%";
+      track.appendChild(bar);
+      const val = document.createElement("div"); val.className = "val";
+      val.textContent = e[1].toFixed(2).replace(".", ",") + " ha";
+      host.append(lbl, track, val);
+    }
+  })();
+
+  /* ---------------- three scales ---------------- */
+  (function scales() {
+    const host = document.getElementById("scales");
+    const max = Math.max(...SCALES.map(e => e[1]));
+    for (const e of SCALES) {
+      const lbl = document.createElement("div"); lbl.className = "lbl"; lbl.textContent = e[0];
+      const track = document.createElement("div"); track.className = "bar-track";
+      const bar = document.createElement("div"); bar.className = "bar";
+      bar.style.background = "var(--water)";
+      bar.style.width = (e[1] / max * 100) + "%";
+      track.appendChild(bar);
+      const val = document.createElement("div"); val.className = "val";
+      val.textContent = e[1].toFixed(2).replace(".", ",") + " ha";
+      host.append(lbl, track, val);
+    }
+  })();
+
+  /* ---------------- village population ---------------- */
+  (function pop() {
+    const svg = document.getElementById("pop-chart");
+    const W = 1020, padL = 46, padR = 14, padT = 18, H = 240, base = H - 34;
+    const Y0 = 1862, Y1 = 2016;
+    const x = yr => padL + (yr - Y0) / (Y1 - Y0) * (W - padL - padR);
+    const maxV = 200;
+    const y = v => base - v / maxV * (base - padT);
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+    for (const gv of [0, 50, 100, 150, 200]) {
+      el("line", { x1: padL - 6, y1: y(gv), x2: W - padR, y2: y(gv), class: "grid-l" }, svg);
+      const t = el("text", { x: padL - 10, y: y(gv) + 4, "text-anchor": "end", class: "axis-t" }, svg);
+      t.textContent = gv;
+    }
+    for (let d = 1870; d <= 2010; d += 20) {
+      const t = el("text", { x: x(d), y: base + 18, "text-anchor": "middle", class: "axis-t" }, svg);
+      t.textContent = d;
+    }
+    for (const p of POP) {
+      const bw = 13, bx = x(p[0]) - bw / 2, by = y(p[1]);
+      const g = el("g", { class: "ev", tabindex: "0", role: "img" }, svg);
+      const r = el("rect", { x: bx, y: by, width: bw, height: base - by, rx: 2 }, g);
+      if (p[3]) {
+        r.setAttribute("fill", "var(--surface)");
+        r.setAttribute("stroke", "var(--water)");
+        r.setAttribute("stroke-width", "1.6");
+        r.setAttribute("stroke-dasharray", "3 2.4");
+      } else {
+        r.setAttribute("fill", "var(--water)");
+      }
+      const houses = p[2] ? ` · ${p[2]} domů` : "";
+      const kind = p[3] ? "soupis přítomného obyvatelstva" : "sčítání lidu";
+      attachTip(g, `<div class="t-head">${p[0]}</div><div class="t-sub">${kind}</div>${p[1]} obyvatel${houses}`);
+      g.setAttribute("aria-label", `${p[0]}: ${p[1]} obyvatel${houses}`);
+    }
+  })();
+
+  /* ---------------- timeline ---------------- */
+  (function timeline() {
+    const host = document.getElementById("timeline");
+    for (const t of TIMELINE) {
+      const li = document.createElement("li");
+      if (t[0] === "era") {
+        li.className = "era-h";
+        li.innerHTML = `<h3>${t[1]}</h3>`;
+      } else {
+        const certClass = { v: "v", s: "s", n: "n" }[t[2]];
+        const certLbl = { v: "vysoká", s: "střední", n: "nízká" }[t[2]];
+        li.innerHTML = `<div class="yr">${t[0]}</div><div class="nd"></div>` +
+          `<div class="tx"><b class="myr">${t[0]}</b>${t[1]}<span class="cert ${certClass}">${certLbl}</span></div>`;
+      }
+      host.appendChild(li);
+    }
+  })();
+
+  /* ---------------- books gantt ---------------- */
+  (function books() {
+    const svg = document.getElementById("book-chart");
+    const W = 1020, padL = 148, padR = 66, padT = 8, ROW = 26;
+    const Y0 = 1665, Y1 = 1958;
+    const x = yr => padL + (yr - Y0) / (Y1 - Y0) * (W - padL - padR);
+    const H = padT + BOOKS.length * ROW + 34;
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+
+    for (let d = 1680; d <= 1940; d += 40) {
+      el("line", { x1: x(d), y1: padT, x2: x(d), y2: padT + BOOKS.length * ROW, class: "grid-l" }, svg);
+      const t = el("text", { x: x(d), y: padT + BOOKS.length * ROW + 18, "text-anchor": "middle", class: "axis-t" }, svg);
+      t.textContent = d;
+    }
+    // 1937 marker – hranice veřejně dostupných matrik
+    el("line", { x1: x(1937), y1: padT - 2, x2: x(1937), y2: padT + BOOKS.length * ROW + 2, stroke: "var(--accent)", "stroke-width": 1, "stroke-dasharray": "4 3" }, svg);
+
+    const typeCol = { N: "--s-birth", O: "--s-marr", U: "--s-death", S: "--muted" };
+    const typeName = { N: "narození", O: "oddaní", U: "zemřelí", S: "smíšená kniha" };
+
+    BOOKS.forEach((b, i) => {
+      const yTop = padT + i * ROW + 5;
+      const col = `var(${typeCol[b[1]]})`;
+      const lab = el("text", { x: 8, y: yTop + 11, style: "font-size:12px; fill:var(--ink); font-weight:600; font-family:ui-monospace,Menlo,monospace" }, svg);
+      lab.textContent = b[0];
+      const lab2 = el("text", { x: 52, y: yTop + 11, style: "font-size:11px; fill:var(--muted)" }, svg);
+      lab2.textContent = typeName[b[1]];
+
+      const g = el("g", { class: "ev", tabindex: "0" }, svg);
+      const rect = el("rect", { x: x(b[2]), y: yTop, width: Math.max(3, x(b[3]) - x(b[2])), height: 13, rx: 3 }, g);
+      if (b[4] === "full") { rect.setAttribute("fill", col); }
+      else if (b[4] === "part") { rect.setAttribute("fill", col); rect.setAttribute("fill-opacity", ".42"); rect.setAttribute("stroke", col); rect.setAttribute("stroke-width", "1.4"); }
+      else { rect.setAttribute("fill", "var(--surface)"); rect.setAttribute("stroke", col); rect.setAttribute("stroke-width", "1.6"); rect.setAttribute("stroke-dasharray", "4 3"); }
+
+      const cnt = el("text", { x: x(b[3]) + 8, y: yTop + 11, style: "font-size:11.5px; fill:var(--ink-2); font-weight:700; font-variant-numeric:tabular-nums" }, svg);
+      cnt.textContent = b[5] === "—" ? "" : (/^\d/.test(b[5]) ? b[5] + " N11" : b[5]);
+
+      const stTxt = { full: "souvisle prohlédnuto", part: "částečně prohlédnuto", none: "zatím neprohlédnuto" }[b[4]];
+      const html = `<div class="t-head">Kniha ${b[0]} · ${typeName[b[1]]}</div><div class="t-sub">${b[2]}–${b[3]} · ${stTxt}</div>${b[6]}`;
+      g.setAttribute("aria-label", `Kniha ${b[0]}, ${typeName[b[1]]}, ${b[2]} až ${b[3]}, ${stTxt}. ${b[6]}`);
+      attachTip(g, html);
+    });
+
+    const mk = el("text", { x: x(1937), y: padT + BOOKS.length * ROW + 32, "text-anchor": "end", style: "font-size:11px; fill:var(--accent-ink)" }, svg);
+    mk.textContent = "1937 — hranice veřejně dostupných matrik";
+  })();
+
+  /* ---------------- lightbox ---------------- */
+  (function lightbox() {
+    const ov = document.createElement("div");
+    ov.id = "lb-overlay";
+    ov.setAttribute("role", "dialog");
+    ov.setAttribute("aria-modal", "true");
+    ov.setAttribute("aria-label", "Náhled obrázku v plném rozlišení");
+    const im = document.createElement("img");
+    const cap = document.createElement("div");
+    cap.id = "lb-cap";
+    ov.append(im, cap);
+    document.body.appendChild(ov);
+    function close() {
+      ov.classList.remove("on");
+      im.removeAttribute("src");
+      document.body.style.overflow = "";
+    }
+    ov.addEventListener("click", close);
+    addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+    for (const a of document.querySelectorAll("a.lb")) {
+      a.addEventListener("click", e => {
+        e.preventDefault();
+        const thumb = a.querySelector("img");
+        const fig = a.closest("figure");
+        const fc = fig && fig.querySelector("figcaption");
+        im.src = a.href;
+        im.alt = thumb ? thumb.alt : "";
+        cap.textContent = fc ? fc.textContent : "";
+        ov.classList.add("on");
+        document.body.style.overflow = "hidden";
+      });
+    }
+  })();
+})();
+</script>
+
+</body>
+</html>
