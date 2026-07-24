@@ -18,6 +18,15 @@ Chronologický rejstřík fotografií, které už byly v pracovním adresáři. 
 
 [Sada osmi snímků z oficiální galerie Pošné](2021_zverejneni_obec_posna/README.md) obsahuje panorama a pozemní pohledy na Zahrádku. Je vedena odděleně, protože zachycuje celou ves a obecní web neoznačuje čp. 11. Technické datum zveřejnění je 18. 6. 2021; skutečný rok pořízení, autor a EXIF chybějí.
 
+Veřejná kategorie Wikimedia Commons přidává [dva snímky pořízené přesně 1. 5. 2018](2018-05-01_wikimedia_commons/README.md) a [šest snímků drobných památek s neurčeným datem pořízení](datum_neurceno_zverejneno_2021_wikimedia_commons/README.md). U první dvojice potvrzuje datum EXIF i metadata Commons; druhá šestice byla zveřejněna 19. 6. 2021 a její původní katalog výslovně datum nezná. Všechny byly obrazově prověřeny: čp. 6 a čp. 9 jsou jiné domy, ostatní záběry čp. 11 bezpečně neidentifikují.
+
+## Historické pohlednice Pošné
+
+- [Litografická pohlednice přibližně z roku 1902](cca_1902_posna_litograficka_pohlednice_aukro/README.md) ukazuje zámek Březina, starou a novou školu v Pošné, kostel a železniční viadukt.
+- [Pohlednice použitá 4. 9. 1924](1924-09-04_posna_pohlednice_aukro/README.md) zachycuje kostel, školní budovu a děti před školou. Právě do této školy podle sčítání 1921 docházeli Václav Kejval a Antonie Svačková z cílového čp. 11; osoby na snímku však nelze jmenovitě určit.
+
+Obě pohlednice dokumentují Pošnou, nikoli cílový statek v Zahrádce. Jsou vedeny jako obrazový kontext obyvatel a správy velkostatku. Práva k aukčním reprodukcím nejsou vyjasněna, proto jsou místní kopie určeny jen pro badatelskou potřebu. Širší přehled kontrolovaných a vyloučených portálů je v [auditu veřejných zdrojů](verejne_portaly_audit.md).
+
 ## Video pouti 2025
 
 [Storyboardové náhledy veřejného videa](2025_pout_video_zverejneno_2026/README.md) zachycují průchod a zvýšené pohledy přes areál čp. 11 při pouti roku 2025. Video Lenky Horké bylo zveřejněno 12. 4. 2026; přesný den pořízení ani licence nejsou uvedeny. Náhledy slouží k orientaci ve stavebním stavu a ne k identifikaci účastníků.
@@ -30,4 +39,4 @@ Chronologický rejstřík fotografií, které už byly v pracovním adresáři. 
 
 ## Badatelské omezení
 
-Fotografie bezpečně dokládají stav v letech 2015–2018. Samy neurčují stáří konstrukcí ani datum zániku starších křídel; k tomu je nutné srovnání s mapami, leteckými snímky a stavebními spisy.
+Místní fotografie bezpečně dokládají stav cílového statku v letech 2015–2018. Veřejné obecní série rozšiřují obrazový kontext vsi, ale bez bezpečné identifikace se nepoužívají jako doklad vzhledu čp. 11. Samotné fotografie neurčují stáří konstrukcí ani datum zániku starších křídel; k tomu je nutné srovnání s mapami, leteckými snímky a stavebními spisy.

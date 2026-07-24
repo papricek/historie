@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 # Stáhne jeden veřejný Zoomify sken z Digitálního archivu SOA Třeboň.
-# Použití: stahnout_sken_trebon.sh DATA_ID VYSTUP [UROVEN] [ID_KNIHY]
+# Použití: stahnout_sken_trebon.sh DATA_ID VYSTUP [UROVEN] [ID_KNIHY] [SNIMEK]
 # UROVEN 2 bývá přibližně poloviční rozlišení, nejvyšší úroveň se dopočítá.
 
 set -euo pipefail
 
-if (( $# < 2 || $# > 4 )); then
-  echo "Použití: $0 DATA_ID VYSTUP [UROVEN] [ID_KNIHY]" >&2
+if (( $# < 2 || $# > 5 )); then
+  echo "Použití: $0 DATA_ID VYSTUP [UROVEN] [ID_KNIHY] [SNIMEK]" >&2
   exit 2
 fi
 
@@ -15,16 +15,19 @@ data_id=$1
 output=$2
 requested_level=${3:-2}
 book_id=${4:-6621}
-referer="https://digi.ceskearchivy.cz/view.php?menu=3&id=${book_id}&page=P&r=0"
+page=${5:-1}
+referer="https://digi.ceskearchivy.cz/view.php?menu=3&id=${book_id}&page=${page}&r=0"
 base="https://digi.ceskearchivy.cz/cgi-bin/isrv6.cgi?data1/${data_id}.0"
 work_dir=$(mktemp -d)
+user_agent="Mozilla/5.0"
 
 cleanup() {
   rm -rf -- "$work_dir"
 }
 trap cleanup EXIT
 
-curl -L --fail --silent --show-error -e "$referer" "${base}.desc" -o "$work_dir/desc.xml"
+curl -L --fail --silent --show-error -A "$user_agent" -e "$referer" \
+  "${base}.desc" -o "$work_dir/desc.xml"
 
 width=$(sed -n 's/.*WIDTH="\([0-9][0-9]*\)".*/\1/p' "$work_dir/desc.xml")
 height=$(sed -n 's/.*HEIGHT="\([0-9][0-9]*\)".*/\1/p' "$work_dir/desc.xml")
@@ -66,7 +69,7 @@ index=0
 for ((row=0; row<rows; row++)); do
   for ((column=0; column<columns; column++)); do
     printf -v tile_name 'tile_%04d.jpg' "$index"
-    curl -L --fail --silent --show-error -e "$referer" \
+    curl -L --fail --silent --show-error -A "$user_agent" -e "$referer" \
       "${base}.${level}-${column}-${row}" -o "$work_dir/$tile_name"
     index=$((index + 1))
   done

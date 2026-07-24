@@ -1,0 +1,64 @@
+{
+  "retrieved": "2026-07-23",
+  "query_point": {
+    "x": -705760,
+    "y": -1118170,
+    "spatial_reference": "EPSG:5514"
+  },
+  "catalog_source": "https://ags.cuzk.gov.cz/arcgis4/rest/services/Archiv/klady/MapServer/3/query?f=json&geometry=-705760%2C-1118170&geometryType=esriGeometryPoint&inSR=5514&spatialRel=esriSpatialRelIntersects&outFields=*&returnGeometry=false",
+  "catalog_record": {
+    "AEC": "9077-1",
+    "NAZ_PUV_CS": "Zahrádka u Pošné",
+    "om_AEC": "c8865",
+    "om_NAZEV_JEDNOTKY": "Originální mapy stabilního katastru 1 : 2 880 (1824-1843) - Čechy",
+    "om_SIGNATURA": "B2/a/4C",
+    "om_ZOBR_UZEMI": "Zahrádka u Pošné",
+    "om_PODNAZEV": "Zahradka",
+    "om_ROZPIS_DAT": 1829,
+    "om_REAMBULACE": 1878,
+    "om_SIGN_INV": "B2_a_4C_8865",
+    "om_SIGN_NOMEN": "B2_a_4C_8865",
+    "om_INV_CISLO": "8865",
+    "om_SOUB": "1|2|ad1v|ad2j|ad2v"
+  },
+  "image_catalog_source": "https://ags.cuzk.gov.cz/arcgis4/rest/services/Archiv/archiv_nespojene_stable/ImageServer/query?f=json&where=Name%20LIKE%20%27B2_a_4C_8865_%25%27&outFields=OBJECTID%2CName&returnGeometry=false",
+  "rasters": [
+    {
+      "OBJECTID": 59785,
+      "Name": "B2_a_4C_8865_1"
+    },
+    {
+      "OBJECTID": 59786,
+      "Name": "B2_a_4C_8865_2"
+    },
+    {
+      "OBJECTID": 59787,
+      "Name": "B2_a_4C_8865_ad1v"
+    },
+    {
+      "OBJECTID": 59788,
+      "Name": "B2_a_4C_8865_ad2j"
+    },
+    {
+      "OBJECTID": 59789,
+      "Name": "B2_a_4C_8865_ad2v"
+    }
+  ],
+  "later_detailed_map_catalog_check": {
+    "checked": "2026-07-23",
+    "catalog_layer_3_kme_fields": {
+      "kme_NAZEV_JEDNOTKY": null,
+      "kme_DAT_OD": null,
+      "kme_DAT_DO": null,
+      "kme_SIGN_NOMEN": null,
+      "kme_SOUB": null
+    },
+    "cadastral_map_prints_layer_16_point_result_count": 0,
+    "interpretation": "Ve veřejném katalogu není k bodu st. 1 připojena pozdější katastrální mapa evidenční ani otisk katastrální mapy. Negativní katalogový výsledek neprokazuje, že se takový pramen nedochoval mimo zveřejněný katalog."
+  },
+  "notes": [
+    "Soubor je očištěný výtah veřejných katalogových metadat; neobsahuje přístupový token.",
+    "Katalog uvádí rok mapování 1829 a reambulaci 1878, zatímco titulní list I nese rok 1830.",
+    "Střed obce a parcela st. 1 jsou na listu II; dodatkové listy střed obce nezobrazují."
+  ]
+}

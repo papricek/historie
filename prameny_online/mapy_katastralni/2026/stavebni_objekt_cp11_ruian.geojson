@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:5514"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-705790.4100000001, -1118154.8299999982],
+            [-705786.4899999984, -1118163.0500000007],
+            [-705755.8299999982, -1118146.5599999987],
+            [-705759.9699999988, -1118139.1000000015],
+            [-705790.4100000001, -1118154.8299999982]
+          ]
+        ]
+      },
+      "properties": {
+        "kod": 8831289,
+        "cisladomovni": "11",
+        "identifikacniparcela": 2959911304,
+        "typstavebnihoobjektukod": 1,
+        "zpusobvyuzitikod": 7,
+        "platiod": 1703462400000,
+        "dokonceni": null,
+        "druhkonstrukcekod": 9,
+        "zastavenaplocha": 304,
+        "zdroj": 1,
+        "source": "https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=kod%3D8831289&outFields=kod%2Ccisladomovni%2Cidentifikacniparcela%2Ctypstavebnihoobjektukod%2Czpusobvyuzitikod%2Cplatiod%2Cdokonceni%2Cdruhkonstrukcekod%2Czastavenaplocha%2Czdroj&returnGeometry=true&outSR=5514&f=geojson",
+        "retrieved": "2026-07-23"
+      }
+    }
+  ]
+}

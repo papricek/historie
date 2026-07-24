@@ -126,16 +126,18 @@
   .lede { color: var(--ink-2); font-size: 1.06rem; margin: 0 0 30px; }
   .lede strong { color: var(--ink); }
 
-  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin: 0 0 14px; }
+  .stats { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; margin: 0 0 14px; }
+  @media (max-width: 880px) { .stats { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 520px) { .stats { grid-template-columns: repeat(2, 1fr); } }
   .stat {
     background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
-    padding: 14px 16px 12px; box-shadow: var(--shadow);
+    padding: 12px 13px 11px; box-shadow: var(--shadow);
   }
   .stat b {
-    display: block; font-size: 1.5rem; line-height: 1.15; font-weight: 600;
-    font-variant-numeric: tabular-nums; letter-spacing: -.01em;
+    display: block; font-size: 1.28rem; line-height: 1.15; font-weight: 600;
+    font-variant-numeric: tabular-nums; letter-spacing: -.015em; white-space: nowrap;
   }
-  .stat span { display: block; font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); margin-top: 4px; line-height: 1.4; }
+  .stat span { display: block; font-family: system-ui, sans-serif; font-size: 11.5px; color: var(--ink-2); margin-top: 4px; line-height: 1.38; }
 
   /* ---------- nav ---------- */
   nav.toc {
@@ -328,17 +330,18 @@
   <div class="wrap">
     <div class="rule-top"></div>
     <div class="eyebrow">
-      <span>Průběžný výzkumný spis · stav k 23.&nbsp;7.&nbsp;2026</span>
+      <span>Průběžný výzkumný spis · stav k 24.&nbsp;7.&nbsp;2026</span>
       <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
     </div>
     <h1>Vrchnostenský dvůr na&nbsp;Zahrádce <span class="amp">u&nbsp;Pošné</span></h1>
-    <p class="lede">Stavební parcela <strong>st.&nbsp;1</strong>, dům <strong>čp.&nbsp;11</strong> — přehled toho, co o hlavním statku a jeho obyvatelích v&nbsp;letech 1772–1930 dokládají matriky farnosti Pošná, stabilní katastr, zemské desky, dobový tisk a písemnosti velkostatku Březina–Zahrádka.</p>
+    <p class="lede">Stavební parcela <strong>st.&nbsp;1</strong>, dům <strong>čp.&nbsp;11</strong> — přehled toho, co o hlavním statku a jeho obyvatelích v&nbsp;letech 1772–1930 dokládají matriky farnosti Pošná, stabilní i&nbsp;josefínský katastr, zemské desky, berní rula, pozemkové knihy, sčítání lidu 1921, dobový tisk a písemnosti velkostatku Březina–Zahrádka.</p>
 
     <div class="stats">
-      <div class="stat"><b>1664</b><span>nejstarší přímá písemná zmínka o „dvoru zahrádeckém“ (desky zemské)</span></div>
-      <div class="stat"><b>27.&nbsp;5.&nbsp;1772</b><span>nejstarší doklad domovního čísla N11 — potvrzený dvěma paralelními matrikami</span></div>
-      <div class="stat"><b>104</b><span>matričních zápisů u&nbsp;čp.&nbsp;11 v&nbsp;letech 1772–1930 (narození, sňatky, úmrtí)</span></div>
-      <div class="stat"><b>před&nbsp;1949</b><span>hlavní přestavba dvora proti stavu 1829 — nový závěr z leteckých snímků</span></div>
+      <div class="stat"><b>1664</b><span>„dvůr zahrádecký“ poprvé jmenován v&nbsp;deskách zemských; vznik dvora mezi léty 1628–1664</span></div>
+      <div class="stat"><b>27.&nbsp;5.&nbsp;1772</b><span>nejstarší doklad domovního čísla N11 — potvrzený dvěma matrikami</span></div>
+      <div class="stat"><b>105</b><span>matričních zápisů u&nbsp;čp.&nbsp;11 (narození, sňatky, úmrtí) 1772–1930</span></div>
+      <div class="stat"><b>1878–1949</b><span>interval hlavní přestavby dvora — nově zúžen reambulovanou mapou 1878</span></div>
+      <div class="stat"><b>176&nbsp;osob</b><span>doložených u&nbsp;čp.&nbsp;11 v&nbsp;matrikách 1772–1930 a&nbsp;sčítání 1921 — desítky rodin</span></div>
       <div class="stat"><b>188&nbsp;→&nbsp;23</b><span>obyvatel celé vsi mezi sčítáními 1869 a 2011</span></div>
     </div>
   </div>
@@ -370,9 +373,9 @@
           <p><span class="num-badge parcel">1</span>je číslo <strong>stavební parcely</strong> — černé číslo na císařském otisku stabilního katastru z roku 1829.</p>
           <p><span class="num-badge house">11</span>je <strong>číslo domu</strong> — indikační skica u téhož areálu uvádí <em>„N.&nbsp;11.&nbsp;Dom:“</em> a matriky píší <em>N11</em> nepřetržitě od 27.&nbsp;5.&nbsp;1772.</p>
         </div>
-        <p>Formulace „statek č.&nbsp;1“ je tedy správná pro <em>pozemek</em>, ale zatím neexistuje doklad, že by dům býval čp.&nbsp;1 a později byl přečíslován. Naopak: matrika v&nbsp;letech 1876–1878 používá <strong>N1 i N11 současně pro dva různé domy</strong>. Vedle hlavního areálu stála samostatná hospodářská budova na stavební parcele <strong>st.&nbsp;2</strong>.</p>
+        <p>Formulace „statek č.&nbsp;1“ je tedy správná pro <em>pozemek</em>, ale doklad, že by dům býval čp.&nbsp;1 a později byl přečíslován, neexistuje — a přímé prameny tuto hypotézu nově vyvracejí <strong>textově i&nbsp;prostorově</strong>. Historické <strong>N1 byl jiný, rustikální dům</strong>: kupní smlouva Josefa Franíka z&nbsp;roku 1813, narození 1820 a 1849 i&nbsp;sňatek 1868 v&nbsp;něm dokládají selský rod Fraňků a list A04A indikační skici jej zápisem <em>„N.&nbsp;1. Franek Joseph“</em> klade na stavební parcelu 29 — dnešní st.&nbsp;29/1 s&nbsp;čp.&nbsp;1, zhruba <strong>180&nbsp;metrů od cílového dvora</strong>. Na jedné matriční dvoustraně roku 1868 stojí N1 a N11 vedle sebe jako dvě různé adresy. Vedle hlavního areálu stála samostatná hospodářská budova na stavební parcele <strong>st.&nbsp;2</strong>.</p>
         <p>Na indikační skice je u statku přípis čitelný jako <strong>„Čapek Joseph“</strong>, pod ním zřejmě <em>„Herrschaft“</em> — doklad vlastnické vazby na majitele panství Josefa Čapka (1821–1839), nikoli důkaz, že v&nbsp;domě osobně bydlel.</p>
-        <p>Dnešní evidence tuto identitu potvrzuje přímo: <strong>RÚIAN</strong> vede adresu Zahrádka&nbsp;11 k&nbsp;parcele st.&nbsp;1 (3&nbsp;543&nbsp;m², zastavěná plocha a nádvoří) a ke stavebnímu objektu čp.&nbsp;11 — od&nbsp;2.&nbsp;6.&nbsp;2022 evidovanému jako rodinný dům se zastavěnou plochou 304&nbsp;m².</p>
+        <p>Dnešní evidence tuto identitu potvrzuje přímo: <strong>RÚIAN</strong> vede adresu Zahrádka&nbsp;11 k&nbsp;parcele st.&nbsp;1 (3&nbsp;543&nbsp;m², zastavěná plocha a nádvoří) a ke stavebnímu objektu čp.&nbsp;11 — od&nbsp;2.&nbsp;6.&nbsp;2022 evidovanému jako rodinný dům se zastavěnou plochou 304&nbsp;m². Polygonová vrstva navíc ukazuje, že čp.&nbsp;11 je dnes přiřazeno <strong>jedné podélné budově v&nbsp;severozápadní části dvora</strong>, nikoli všem hospodářským hmotám na st.&nbsp;1.</p>
       </div>
 
       <figure class="card" style="margin:0; padding:16px;">
@@ -417,6 +420,31 @@
         <figcaption><b>Indikační skica, 1829.</b> U téhož areálu přípis <i>„N.&nbsp;11.&nbsp;Dom:“</i> a jméno čitelné jako <i>Čapek Joseph</i>, pod ním <i>Herrschaft</i> — vazba na tehdejšího majitele panství. (ČÚZK)</figcaption>
       </figure>
     </div>
+
+    <div class="finding" style="margin-top:30px;">
+      <p><strong>Nově nalezený doklad před stabilním katastrem:</strong> josefínský katastrální operát vede Zahrádku po domovních číslech a cílový záznam označuje přímo <strong>„Panský dvůr N.&nbsp;11 zahrádecký“</strong>; sousední záznamy N9–N13 potvrzují pořadí a nezávislá kniha má pro N11 samostatný oddíl s&nbsp;ročními urbálními povinnostmi. Katalog operát datuje 1788–1866 s&nbsp;pozdějšími doplňky — bezpečné je, že N11, Zahrádku a panský dvůr spojuje už tato vrstva, o&nbsp;čtyřicet let starší než mapa z&nbsp;roku 1829.</p>
+    </div>
+    <figure class="ph">
+      <a class="lb" href="img/full/josefinsky_n11.jpg" title="Zobrazit v plném rozlišení"><img src="img/josefinsky_n11.jpg" alt="Výřez josefínského katastru se zápisem Panský dvůr N. 11 zahrádecký v souvislé domovní řadě" loading="lazy"></a>
+      <figcaption><b>Josefínský katastr (1788–1866).</b> Souvislá domovní řada Zahrádky se zápisem <i>„Panský dvůr N.&nbsp;11 zahrádecký“</i> — nejstarší dosud nalezený pramen, který v&nbsp;jednom zápisu spojuje N11, Zahrádku a panský dvůr. (SOA Třeboň, kniha 342510, snímek 209; badatelská reprodukce)</figcaption>
+    </figure>
+
+    <h3>Kde přesně stojí čp. 11 — a kde bylo N1</h3>
+    <p>Lokální zarovnání dnešních polygonů RÚIAN na císařský otisk (podle čtyř rohů st.&nbsp;1 a rybníka 21, zbytková odchylka 2–8&nbsp;m) klade dnešní objekt čp.&nbsp;11 na <strong>severní ze tří růžových stavebních hmot roku 1829</strong> — doklad kontinuity zastavěného místa, nikoli automaticky týchž zdí. Historické N1 je současně bezpečně lokalizováno na tehdejší stavební parcelu 29, dnešní st.&nbsp;29/1 s&nbsp;čp.&nbsp;1.</p>
+    <div class="figgrid c3">
+      <figure class="ph">
+        <a class="lb" href="img/full/prekryv_1829_2026.png" title="Zobrazit v plném rozlišení"><img src="img/prekryv_1829_2026.jpg" alt="Překryv dnešní parcely st. 1 a objektu čp. 11 na císařském otisku 1829" loading="lazy"></a>
+        <figcaption><b>Překryv 1829&nbsp;/&nbsp;2026.</b> Oranžově dnešní st.&nbsp;1, modře objekt čp.&nbsp;11 — leží na severní růžové hmotě dvora. Badatelské zarovnání, ne zeměměřický výstup. (podklad ČÚZK, geometrie RÚIAN)</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/skica_n1_franek.jpg" title="Zobrazit v plném rozlišení"><img src="img/skica_n1_franek.jpg" alt="Výřez listu A04A indikační skici se zápisem N. 1. Franek Joseph u stavební parcely 29" loading="lazy"></a>
+        <figcaption><b>Indikační skica, list A04A.</b> Zápis <i>„N.&nbsp;1. Franek Joseph“</i> u stavební parcely 29 — historické N1 je jiný dům v&nbsp;západní části vsi. (ČÚZK)</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/ruian_n1_n11.png" title="Zobrazit v plném rozlišení"><img src="img/ruian_n1_n11.jpg" alt="Aktuální mapa RÚIAN s vyznačenou parcelou st. 1 s čp. 11 a parcelou st. 29/1 s čp. 1" loading="lazy"></a>
+        <figcaption><b>RÚIAN, 2026.</b> Cílová st.&nbsp;1 s&nbsp;čp.&nbsp;11 a poloha historického N1 — dnešní st.&nbsp;29/1 s&nbsp;čp.&nbsp;1, přibližně 180&nbsp;m západně. (ČÚZK)</figcaption>
+      </figure>
+    </div>
   </div>
 </section>
 
@@ -452,9 +480,38 @@
     <p class="note" style="margin-top:14px;">Součty nejsou počtem obyvatel: paralelní zápisy téže události se počítají jen jednou, jeden řádek může obsahovat dvojčata, sňatek může mít N11 u&nbsp;obou stran a samotná událost neurčuje délku pobytu. Mrtvě narozené děti z&nbsp;let 1854, 1856 a 1898 jsou zapsány v&nbsp;knize narozených i&nbsp;zemřelých — zde se zobrazují jednou, v&nbsp;řadě narození.</p>
 
     <h3>Co z toho plyne</h3>
-    <p>U&nbsp;jediného domovního čísla se za sto padesát let vystřídaly desítky rodin: šafáři, pastýři, čeledíni, volák, zahradník, posel, děvečka, později nájemník-obuvník, kolář, deputátník, dělníci a kočí. <strong>N11 s&nbsp;vysokou pravděpodobností nebylo dědičným selským gruntem, ale vrchnostenským hospodářským areálem se služebním a nájemním bydlením</strong> více zaměstnanců dvora a jejich rodin. Tři různé rodné události během šesti týdnů jara 1808 podporují výklad více souběžných domácností a stejná řada pokračuje i&nbsp;po roce 1885.</p>
-    <p>Opakovaně doložené rodiny: <strong>Lenzovi</strong> (1791–1799, oráč a zahradník Jakub), <strong>Moravcovi</strong> (1825–1827), <strong>Zikmundovi</strong> (šafář, 1845–1848), <strong>Forelovi</strong> (posel, 1854–1857), <strong>Milkovi</strong> (1860–1861), <strong>Fraňkovi</strong> (1863–1865), <strong>Horníkovi</strong> (pastýř, dvě generace, do 1870), <strong>Zemiškovi</strong> (zahradník, 1871–1874), <strong>Bílí</strong> (volák, 1875), <strong>Kaňkovi</strong> (1878), <strong>Tvrčkovi</strong> (1880); po roce 1880 <strong>Vyhnálkovi</strong>, <strong>Kejvalovi</strong> a <strong>Mynáříkovi</strong> (čeledíni, 1885), <strong>Jenčíkovi</strong> (1895), <strong>Svačkovi</strong> (dělníci, dvě generace, 1901), <strong>Kučerovi</strong> (1904), <strong>Říhovi</strong> (1907), <strong>Horničkovi</strong> (1911) a rodina kočího <strong>Háka</strong> (1930).</p>
-    <p>Dvě úmrtí navíc dokládají <strong>dlouhé rodinné návaznosti</strong>: Kateřina Kaňková, spojená s&nbsp;domem už roku 1878, v&nbsp;č.&nbsp;11 zemřela roku 1913; Josefa Kejvalová, manželka čeledína doloženého roku 1885, zde zemřela jako vdova roku 1922.</p>
+    <p>U&nbsp;jediného domovního čísla se za sto padesát let vystřídaly desítky rodin: šafáři, pastýři, panský ovčák, čeledíni, volák, zahradník, posel, děvečka, později nájemník-obuvník, kolář, deputátník, dělníci a kočí. <strong>N11 s&nbsp;vysokou pravděpodobností nebylo dědičným selským gruntem, ale vrchnostenským hospodářským areálem se služebním a nájemním bydlením</strong> více zaměstnanců dvora a jejich rodin. Tři různé rodné události během šesti týdnů jara 1808 podporují výklad více souběžných domácností a stejná řada pokračuje i&nbsp;po roce 1885 — sčítání 1921 pak dvě souběžné domácnosti zachycuje přímo.</p>
+    <p>Opakovaně doložené rodiny: <strong>Lenzovi</strong> (1791–1799, oráč a zahradník Jakub), <strong>Hýblovi</strong> (pastýř, 1801–1812, možná už od 1800), <strong>Junkovi</strong> (1814–1819), <strong>Moravcovi</strong> (1825–1827), <strong>Zikmundovi</strong> (šafář, 1845–1848), <strong>Forelovi</strong> (posel, 1854–1857), <strong>Milkovi</strong> (1860–1861), <strong>Fraňkovi</strong> (1863–1865), <strong>Horníkovi</strong> (pastýř, dvě generace, do 1870), <strong>Zemiškovi</strong> (zahradník, 1871–1874), <strong>Bílí</strong> (volák, 1875), <strong>Kaňkovi</strong> (1878), <strong>Tvrčkovi</strong> (1880); po roce 1880 <strong>Vyhnálkovi</strong>, <strong>Kejvalovi</strong> a <strong>Mynáříkovi</strong> (čeledíni, 1885), <strong>Jenčíkovi</strong> (1895), <strong>Svačkovi</strong> (dělníci, dvě generace, 1896–1921), <strong>Kučerovi</strong> (1904), <strong>Říhovi</strong> (1907), <strong>Horničkovi</strong> (1911) a rodina kočího <strong>Háka</strong> (1930).</p>
+    <p>Dvě úmrtí navíc dokládají <strong>dlouhé rodinné návaznosti</strong>: Kateřina Kaňková, spojená s&nbsp;domem už roku 1878, v&nbsp;č.&nbsp;11 zemřela roku 1913; Josefa Kejvalová, manželka čeledína doloženého roku 1885, zde zemřela jako vdova roku 1922. Nejdelší doloženou životní dráhu má <strong>Josef Sváček</strong>: narozen 1868 na Zahrádce v&nbsp;domě N20, roku 1896 dělník v&nbsp;č.&nbsp;11 (jeho první žena Karolína zemřela téhož roku při porodu ve dvoře Hladov), po mezidobí v&nbsp;Hladově zpět v&nbsp;č.&nbsp;11 roku 1901 — a roku 1921 tam stojí v&nbsp;čele jedné ze dvou sečtených domácností.</p>
+
+    <h3>Sčítání lidu 1921 — jediný úplný okamžikový stav domu</h3>
+    <p>V&nbsp;Moravském zemském archivu se dochoval <strong>samostatný sčítací operát Zahrádky</strong> (sada <span class="mono">PE0584</span>, čp.&nbsp;1–25) — dříve se zdálo, že se operát vsi nedochoval. Arch čp.&nbsp;11 zachycuje <strong>osm obyvatel ve dvou domácnostech</strong>; jako <strong>majitel domu je uveden Antonín Homolka</strong>, vlastník velkostatku, který mezi obyvateli není. Ves měla toho roku 174 sečtených osob v&nbsp;25 arších.</p>
+    <div class="card" style="margin-bottom:14px;">
+      <div class="tbl-scroll"><table style="min-width:560px;">
+        <thead><tr><th>Domácnost</th><th>Osoba</th><th>Narození</th><th>Postavení a povolání</th></tr></thead>
+        <tbody>
+          <tr><td class="y" rowspan="3">1.</td><td><b>František Vytiska</b></td><td class="y">25. 8. 1892</td><td>přednosta domácnosti; zaměstnanec účetnictví velkostatku</td></tr>
+          <tr><td><b>Kateřina Vytisková</b></td><td class="y">22. 5. 1892</td><td>manželka; narozena ve Vojslavicích</td></tr>
+          <tr><td><b>Václav Kejval</b></td><td class="y">31. 5. 1913</td><td>syn Kateřiny z dřívějšího vztahu; žák obecné školy v Pošné; narozen na Zahrádce</td></tr>
+          <tr><td class="y" rowspan="5">2.</td><td><b>Josef Sváček</b></td><td class="y">15. 2. 1868</td><td>přednosta domácnosti; zemědělský pracovník velkostatku; narozen na Zahrádce (N20)</td></tr>
+          <tr><td><b>Marie Sváčková roz. Budilová</b></td><td class="y">19. 1. 1872</td><td>manželka; zemědělská pracovnice velkostatku; narozena v Lukavci</td></tr>
+          <tr><td><b>Pavel Sváček</b></td><td class="y">31. 5. 1908</td><td>syn; zemědělský pomocník velkostatku</td></tr>
+          <tr><td><b>Josef Sváček ml.</b></td><td class="y">2. 4. 1909</td><td>syn; narozen na Zahrádce</td></tr>
+          <tr><td><b>Antonie Sváčková</b></td><td class="y">10. 12. 1911</td><td>dcera; žákyně obecné školy v Pošné; narozena v Pacově</td></tr>
+        </tbody>
+      </table></div>
+      <p class="note" style="margin:10px 2px 0;">MZA Brno, sčítací operáty 1921, sada PE0584, snímky 26–27. Jistota vysoká pro dům, počet osob, domácnosti i&nbsp;majitele; u&nbsp;několika detailů přepisu střední (datum narození Josefa Sváčka je na archu překryto revizními opravami a je určeno nezávisle matrikou; rodiště Pavla je čteno pracovně jako Mladé Bříště).</p>
+    </div>
+    <div class="figgrid c2">
+      <figure class="ph">
+        <a class="lb" href="img/full/scitani_1921_hlavicka.jpg" title="Zobrazit v plném rozlišení"><img src="img/scitani_1921_hlavicka.jpg" alt="Hlavička sčítacího archu 1921: obec Zahrádka, číslo domu 11, majitel Antonín Homolka" loading="lazy"></a>
+        <figcaption><b>Hlavička archu čp.&nbsp;11.</b> Obec <i>Zahrádka</i>, číslo domu popisné (staré) <b>11</b> a „Jméno majitele domu: <i>Antonín Homolka</i>“. (MZA, PE0584; badatelská reprodukce)</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/scitani_1921_arch.jpg" title="Zobrazit v plném rozlišení"><img src="img/scitani_1921_arch.jpg" alt="Líc sčítacího archu 1921 pro Zahrádku čp. 11 s osmi zapsanými osobami" loading="lazy"></a>
+        <figcaption><b>Líc archu.</b> Osm zapsaných osob ve dvou domácnostech — Vytiskovi s&nbsp;Václavem Kejvalem a pětičlenná rodina Sváčkových. (MZA, PE0584, snímek 26)</figcaption>
+      </figure>
+    </div>
   </div>
 </section>
 
@@ -462,7 +519,7 @@
 <section id="role">
   <div class="wrap">
     <div class="sec-head"><span class="sec-no">ODDÍL III</span><h2>Role a řemesla doložená u dvora</h2></div>
-    <p class="sec-sub">Každý bod je jedna výslovná zmínka pracovní role u&nbsp;N11 (villicus, opilio, bubulcus, arator…). Řádky jsou seřazeny podle prvního výskytu — je z&nbsp;nich vidět, jak dvůr fungoval: vedení, pastva, potah, čeleď, na konci 19.&nbsp;století řemeslníci v&nbsp;nájmu a souvislá řada čeledínů, deputátník, dělníci a kočí. Služební charakter domu je tak doložen nepřetržitě od roku 1772 do roku 1930; šafářská role se výslovně vrací ještě roku 1924.</p>
+    <p class="sec-sub">Každý bod je jedna výslovná zmínka pracovní role u&nbsp;N11 (villicus, opilio, bubulcus, arator…). Řádky jsou seřazeny podle prvního výskytu — je z&nbsp;nich vidět, jak dvůr fungoval: vedení, pastva, ovčín, potah, čeleď, na konci 19.&nbsp;století řemeslníci v&nbsp;nájmu a souvislá řada čeledínů, deputátník, dělníci a kočí; sčítání 1921 přidává zaměstnance účetnictví a zemědělské pracovníky velkostatku. Služební charakter domu je tak doložen nepřetržitě od roku 1772 do roku 1930; šafářská role se výslovně vrací ještě roku 1924.</p>
     <div class="card">
       <div class="chart-scroll"><svg id="role-chart" role="img" aria-label="Časové rozložení doložených pracovních rolí u dvora N11 po řádcích"></svg></div>
       <p class="note" style="margin:10px 2px 0;">Prázdný kroužek značí nejisté čtení. Zmínka u&nbsp;Matěje Horníka (†&nbsp;před 1870) je zpětná — pochází ze svatebního zápisu jeho dcery.</p>
@@ -476,7 +533,31 @@
     <div class="sec-head"><span class="sec-no">ODDÍL IV</span><h2>Držba statku 1378–1948</h2></div>
     <p class="sec-sub">Posloupnost držitelů podle zemských desek a archivního inventáře velkostatku Březina–Zahrádka. Šířky polí jsou schematické, ne úměrné času.</p>
     <div class="owners" id="owners"></div>
-    <p class="note">Dvůr byl vrchnostenským majetkem — jeho vlastnická posloupnost proto není vedena v&nbsp;poddanských gruntovních knihách; rozhodující jsou zemské desky a písemnosti velkostatku. Pobělohorskou konfiskaci a prodej Pošné se Zahrádkou Maxmiliánu Pechlarovi z&nbsp;Neminku (1627) a záhy Rudolfu Malovcovi z&nbsp;Malovic potvrzuje veřejný úvod archivního inventáře — vlastnická řada je tak nově souvisle doložena od roku 1543.</p>
+    <p class="note">Dvůr byl vrchnostenským majetkem — rozhodující jsou zemské desky a písemnosti velkostatku. Klíčové zápisy let 1543–1664 jsou nyní obrazově ověřeny přímo v&nbsp;deskách zemských (Národní archiv), s&nbsp;kontrolou podle Sedláčkova poznámkového aparátu z&nbsp;roku 1885.</p>
+
+    <h3>Kdy se zahrádecký dvůr objevuje v pramenech</h3>
+    <p>Přímé zápisy zemských desk dovolují nově ohraničit, kdy se pojmenovaný vrchnostenský dvůr na Zahrádce mohl objevit: výčty majetku jej <strong>až do roku 1628 nejmenují</strong>, roku 1664 už je „dvůr zahrádecký“ uveden výslovně. Vznik či správní vydělení dvora se proto pracovně klade <strong>mezi 16.&nbsp;6.&nbsp;1628 a rok 1664</strong> — absence ve výčtu ovšem není důkazem neexistence stavby a interval se netýká stáří dnešních zdí.</p>
+    <div class="tbl-scroll"><table style="min-width:640px;">
+      <thead><tr><th>Rok</th><th>Pramen</th><th>Zahrádka ve výčtu</th><th>Zahrádecký dvůr</th></tr></thead>
+      <tbody>
+        <tr><td class="y">1543</td><td>věno Lidmily z Nečtin (edice desk, zápis 637)</td><td>ves s poddanskými dvory a platem; mlýn pod Zahrádkou</td><td>nejmenován</td></tr>
+        <tr><td class="y">1574</td><td>dělící cedule Housků (DZ 64, fol. A20–A22)</td><td>„Ves Zahrádka“ — lidé, platy, dva rybníky, sádka, krčma</td><td>nejmenován</td></tr>
+        <tr><td class="y">1627</td><td>prodej Pechlerovi (DZ 154, B29)</td><td>součást statku; úplný přepis výčtu se připravuje</td><td>nejmenován</td></tr>
+        <tr><td class="y">1628</td><td>převod Malovcovi (DZ 297, O10)</td><td>uvedena jen jako ves; poplužní dvůr pouze v Pošné</td><td>nejmenován</td></tr>
+        <tr><td class="y">1651</td><td>soupis poddaných podle víry</td><td>ves v neúplně dochovaném soupisu chybí</td><td>—</td></tr>
+        <tr><td class="y">1654</td><td>berní rula (Kraj Bechyňský III, s. 904, 910)</td><td>pod statkem Březina; 7 rolníků a 1 zahradník</td><td>nejmenován</td></tr>
+        <tr><td class="y">1657 / 1661</td><td>testament Malovce; díl statku Pošné (DZ 261, DZ 113)</td><td>kontrolní zápisy k Pošné — Zahrádku nejmenují</td><td>—</td></tr>
+        <tr><td class="y">1664</td><td>desky zemské (DZV 72, reprodukce 473)</td><td>rozdělení majetku</td><td><b>„dvůr zahrádecký“ + pole Aulehle — první přímé pojmenování</b></td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="finding" style="margin-top:30px;">
+      <p><strong>Druhá právní vrstva — pozemková kniha:</strong> dne 29.&nbsp;2.&nbsp;1840 předal <strong>Václav Francík</strong> hospodářství <em>Zahrádka N11</em>, pracovně popsané jako <em>půllánní emfyteutický statek</em>, kupní smlouvou vlastnímu synu <strong>Františkovi za 650 zlatých konvenční měny</strong>; samostatná „Výminka“ ukládá synovi zaopatření otce. Je to <strong>první nalezený pozemkovoknižní zápis přímo k&nbsp;cílovému domu</strong> — přípis <em>Herrschaft</em> z&nbsp;roku 1829 a smlouva 1840 se nemusí vylučovat: mohou zachycovat vrchní vlastnictví panství a dědičnou užitkovou držbu.</p>
+    </div>
+    <figure class="ph">
+      <a class="lb" href="img/full/smlouva_1840.jpg" title="Zobrazit v plném rozlišení"><img src="img/smlouva_1840.jpg" alt="Začátek české kupní smlouvy z 29. února 1840 mezi Václavem a Františkem Francíkovými k hospodářství Zahrádka N11" loading="lazy"></a>
+      <figcaption><b>Pozemková kniha, 1840.</b> Začátek české kupní smlouvy Václava a Františka Francíkových k&nbsp;hospodářství <i>Zahrádka N11</i>, fol.&nbsp;83v. (SOA Třeboň, kniha 126077; badatelská reprodukce)</figcaption>
+    </figure>
   </div>
 </section>
 
@@ -494,8 +575,13 @@
     <p class="note" style="margin:2px 0 12px;">Schematismy, statistiky a pozemková reforma nově dovolují oddělit tři plochy, které se dříve směšovaly: katastr celé obce, celý velkostatek Březina–Zahrádka a samotný zahrádecký dvůr.</p>
     <div class="card">
       <div class="bars" id="scales"></div>
-      <p class="note" style="margin:14px 2px 0;">Dvůr Zahrádka měl podle schematismů 1881–1902 <b>70&nbsp;ha</b> zemědělské půdy a roku 1902 už nebyl v&nbsp;režii — byl pronajat <i>„Jul.&nbsp;Roubíčkovi v&nbsp;Zahrádce“</i>. Pozemková reforma (1927) vedla u&nbsp;režie Zahrádka 72&nbsp;ha zemědělské a 181,50&nbsp;ha veškeré půdy; 11,50&nbsp;ha bylo přiděleno drobným nabyvatelům a 170&nbsp;ha propuštěno Homolkovým. K&nbsp;podnikům velkostatku patřily lihovar, cihelna, mlýn, pila a hydroelektrárna — inventář je však umisťuje do Březiny, ne k&nbsp;N11.</p>
+      <p class="note" style="margin:14px 2px 0;">Dvůr Zahrádka měl podle schematismů 1881–1902 <b>70&nbsp;ha</b> zemědělské půdy a roku 1902 už nebyl v&nbsp;režii — byl pronajat <i>„Jul.&nbsp;Roubíčkovi v&nbsp;Zahrádce“</i>. Chytilův adresář 1915 jmenuje <b>správce dvora Josefa Dvořáka</b>, hospodářského příručího a lesního dozorce (bez čísel domů). Pozemková reforma (1927) vedla u&nbsp;režie Zahrádka 72&nbsp;ha zemědělské a 181,50&nbsp;ha veškeré půdy; 11,50&nbsp;ha bylo přiděleno drobným nabyvatelům a 170&nbsp;ha propuštěno Homolkovým. Schematismus 1933 pak vede dvůr Zahrádka s&nbsp;<b>60,50&nbsp;ha opět ve vlastní režii</b> (Březina 194&nbsp;ha). K&nbsp;podnikům velkostatku patřily lihovar, cihelna, mlýn, pila a hydroelektrárna — prameny je však shodně umisťují do Březiny, ne k&nbsp;N11.</p>
     </div>
+
+    <figure class="ph" style="margin-top:18px;">
+      <a class="lb" href="img/full/medaile_1924.jpg" title="Zobrazit v plném rozlišení"><img src="img/medaile_1924.jpg" alt="Výřez ze zprávy zemědělské rady: bronzová medaile Antonína Homolky za pšenici, 1923" loading="lazy"></a>
+      <figcaption><b>Bronzová medaile za pšenici, 1923/24.</b> Zpráva zemědělské rady dokládá ocenění Antonína Homolky — vlastníka velkostatku a podle sčítání 1921 majitele domu čp.&nbsp;11 — za pšenici „česká červená přesívka dobrovická“ (82 bodů). (Národní digitální knihovna)</figcaption>
+    </figure>
 
     <h3>Obyvatelé celé vsi 1869–2011</h3>
     <div class="card">
@@ -517,12 +603,17 @@
     </figure>
 
     <div class="finding" style="margin-top:26px;">
-      <p><strong>Hlavní nové zjištění:</strong> císařský otisk 1829 kreslí na st.&nbsp;1 tři zděná křídla kolem nádvoří; nejpozději na snímku z&nbsp;roku 1949 má areál podstatně jinou, protáhlou vícekřídlou podobu. <strong>Velká přestavba či zánik starších křídel tedy s&nbsp;největší pravděpodobností proběhly před rokem 1949</strong> — nikoli až v&nbsp;pozdním 20.&nbsp;století. V&nbsp;řadě 1949–2022 se pak mění už jen menší objekty, přístavky a střechy; mezi vrstvami ortofota 2017 a 2019 je zřetelná lokální změna střechy jihozápadního křídla.</p>
+      <p><strong>Hlavní zjištění, nově zúžené z obou stran:</strong> císařský otisk 1829 kreslí na st.&nbsp;1 tři zděná křídla kolem nádvoří — a <strong>originální mapa reambulovaná roku 1878 je kreslí stále</strong>, bez červeného zrušení či náhradního půdorysu (na sousední parcele 19 je přitom aktualizační zákres dobře viditelný). Nejpozději na snímku z&nbsp;roku 1949 má areál podstatně jinou, protáhlou vícekřídlou podobu. <strong>Velká přestavba či zánik starších křídel tedy s&nbsp;největší pravděpodobností spadá do intervalu 1878–1949.</strong> Veřejný letecký archiv mezeru nezužuje — katalogový dotaz nad statkem nevrací žádný snímek z&nbsp;let 1930–1948 a audit dobového tisku 1878–1949 nenašel přímou zprávu o&nbsp;přestavbě či požáru čp.&nbsp;11; jedinou kandidátní stopou zůstávají adaptace hospodářských budov velkostatku 1910–1912 z&nbsp;nekrologu Antonína Homolky, bez lokalizace na Zahrádku. V&nbsp;řadě 1949–2022 se pak mění už jen menší objekty, přístavky a střechy; mezi vrstvami ortofota 2017 a 2019 je zřetelná lokální změna střechy jihozápadního křídla.</p>
     </div>
 
     <figure class="ph">
-      <a class="lb" href="img/full/letecka_rada.jpg" title="Zobrazit v plném rozlišení"><img src="img/letecka_rada.jpg" alt="Devět leteckých snímků a ortofoto Zahrádky z let 1949 až 2026" loading="lazy"></a>
-      <figcaption><b>Letecká řada 1949–2026.</b> Dominantní vícekřídlá hmota statku mezi rybníkem a budovou st.&nbsp;2 je rozpoznatelná už roku 1949 a trvá ve všech mladších vrstvách. Tabule není geometricky přesný překryv — pro přiřazení menších demolic konkrétním rokům je potřeba georektifikace. (ČÚZK / MO ČR / CENIA)</figcaption>
+      <a class="lb" href="img/full/srovnani_1829_1878.jpg" title="Zobrazit v plném rozlišení"><img src="img/srovnani_1829_1878.jpg" alt="Císařský otisk 1829 vedle originální mapy stabilního katastru reambulované roku 1878" loading="lazy"></a>
+      <figcaption><b>1829 × 1878.</b> Vlevo císařský otisk, vpravo originální mapa reambulovaná 1878 (titulní list nese rok 1830): na st.&nbsp;1 zůstávají tři růžové stavební hmoty v&nbsp;téže základní poloze — půl století po prvním mapování. Katalogový rok reambulace ovšem nedatuje každou jednotlivou čáru. (ČÚZK, sign. B2/a/4C, inv.&nbsp;č.&nbsp;8865)</figcaption>
+    </figure>
+
+    <figure class="ph">
+      <a class="lb" href="img/full/letecka_zarovnana.jpg" title="Zobrazit v plném rozlišení"><img src="img/letecka_zarovnana.jpg" alt="Výzkumně zarovnaná řada leteckých snímků 1949 až 2022 s vyznačenou hranicí st. 1 a objektem čp. 11" loading="lazy"></a>
+      <figcaption><b>Zarovnaná letecká řada 1949–2022.</b> Starší snímky převedené do společné geometrie (reference: ortofoto 1953, CENIA); oranžově dnešní hranice st.&nbsp;1, modře objekt čp.&nbsp;11. V&nbsp;poloze dnešního domu leží podélná zastřešená hmota stejné orientace <b>už roku 1949</b> — doklad zastavěného místa, ne totožnosti zdí. Dlouhá budova při východní cestě leží prokazatelně mimo st.&nbsp;1, na st.&nbsp;2. Neostrý snímek 1968 byl z&nbsp;řady vyřazen; jde o&nbsp;badatelské zarovnání, ne úřední ortorektifikaci. (ČÚZK / MO ČR / CENIA / RÚIAN)</figcaption>
     </figure>
 
     <h3>Stav před rekonstrukcí (2015–2018)</h3>
@@ -541,6 +632,19 @@
       </figure>
     </div>
     <p class="note" style="margin-top:12px;">Fotodokumentace vznikla podle EXIF ve dnech 4. a 25.&nbsp;12.&nbsp;2015, 27.&nbsp;3.&nbsp;2016, 5.&nbsp;11.&nbsp;2017 a 30.&nbsp;1.&nbsp;2018; doplňuje ji geodetické zaměření půdorysů z&nbsp;února 2017. Studie adaptace z&nbsp;roku 2017 (Ing.&nbsp;arch.&nbsp;Jakub Křivan) rozlišují hlavní objekt, sýpku, bývalou konírnu a otevřenou stodolu — jde o názvosloví novodobého projektu, nikoli o&nbsp;doklad historické funkce jednotlivých budov.</p>
+
+    <h3>Současný právní stav místa (ověřeno 23. 7. 2026)</h3>
+    <p>Přesný prostorový dotaz do veřejných služeb NPÚ ukázal, že celá st.&nbsp;1 leží v&nbsp;platném archeologickém území <strong>„Zahrádka.“, ID SAS 21475, kategorie ÚAN&nbsp;II</strong> — tedy v&nbsp;území s&nbsp;důvodně předpokládaným výskytem archeologických nálezů (středověké a novověké jádro vsi), nikoli s&nbsp;nálezem už prokázaným. Samotný statek přitom <strong>není kulturní památkou</strong> a neleží v&nbsp;rezervaci, zóně ani ochranném pásmu; nejbližší chráněné objekty jsou <strong>kaple s&nbsp;křížem asi 92&nbsp;m</strong> a <strong>venkovská usedlost čp.&nbsp;2 asi 127&nbsp;m západně</strong>. Všech 13 veřejně lokalizovaných dokumentů NPÚ k&nbsp;vsi patří právě jim — k&nbsp;čp.&nbsp;11 neexistuje ve veřejných vrstvách žádný dokument, což nevylučuje historickou hodnotu ani neveřejnou dokumentaci.</p>
+    <div class="figgrid c2">
+      <figure class="ph">
+        <a class="lb" href="img/full/pamatkova_2026.png" title="Zobrazit v plném rozlišení"><img src="img/pamatkova_2026.jpg" alt="Mapa současné památkové a archeologické evidence: polygon ÚAN II, statek st. 1 a chráněná kaple s usedlostí čp. 2" loading="lazy"></a>
+        <figcaption><b>Památková a archeologická evidence, 2026.</b> Polygon ÚAN&nbsp;II „Zahrádka.“ (SAS 21475), cílová st.&nbsp;1 / čp.&nbsp;11 a dvě kulturní památky západně od ní. Badatelská mapa nad veřejnými službami NPÚ a RÚIAN, ne úřední výstup.</figcaption>
+      </figure>
+      <figure class="ph">
+        <a class="lb" href="img/full/kriz_u_kaple.jpg" title="Zobrazit v plném rozlišení"><img src="img/kriz_u_kaple.jpg" alt="Kamenný kříž u kaple na návsi, květen 2018" loading="lazy"></a>
+        <figcaption><b>Kříž u kaple, 1.&nbsp;5.&nbsp;2018.</b> Chráněná kaple s&nbsp;křížem na návsi — nejbližší kulturní památka, asi 92&nbsp;m od statku. (Foto Jiří Sedláček, <a href="https://commons.wikimedia.org/wiki/Category:Zahr%C3%A1dka_(Po%C5%A1n%C3%A1)">Wikimedia Commons</a>, licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">CC&nbsp;BY-SA&nbsp;4.0</a>)</figcaption>
+      </figure>
+    </div>
   </div>
 </section>
 
@@ -579,16 +683,18 @@
     <p>Obrazové prameny nyní pokrývají místo souvisle od roku 1783 (podrobněji v&nbsp;oddílu VI):</p>
     <div class="chips">
       <span class="chip">1783 · I. vojenské</span>
+      <span class="chip">1788–1866 · josefínský katastr</span>
       <span class="chip">1829 · stabilní katastr</span>
       <span class="chip">1852 · II. vojenské</span>
       <span class="chip">1877/80 · III. vojenské</span>
+      <span class="chip">1878 · reambulovaná mapa</span>
       <span class="chip">s. d. · pozemkový katastr</span>
       <span class="chip water">1949</span><span class="chip water">1953</span><span class="chip water">1961</span><span class="chip water">1967</span><span class="chip water">1968</span><span class="chip water">1975</span><span class="chip water">1978</span><span class="chip water">1990</span><span class="chip water">1992</span>
       <span class="chip">1951 / 1975 / 1993 · SMO-5</span>
       <span class="chip water">2001–2022 · 10 vrstev ortofota</span>
       <span class="chip water">2026 · ortofoto</span>
     </div>
-    <p class="note">Modře letecké snímky a ortofota (ČÚZK). K&nbsp;tomu pozemní fotodokumentace 2015–2018, geodetické zaměření z&nbsp;února 2017 a nedatovaná mapa bývalého pozemkového katastru — na dataci jejího zdrojového listu je připraven dotaz na ÚAZK. Osm fotografií z&nbsp;obecní galerie „Zahrádka a okolí“ (zveřejněno 2021) zatím nemá určeného autora ani rok pořízení.</p>
+    <p class="note">Modře letecké snímky a ortofota (ČÚZK); katalogový dotaz nad statkem nevrací žádný snímek z&nbsp;let 1930–1948, nejstarší rám je z&nbsp;roku 1949. K&nbsp;tomu pozemní fotodokumentace 2015–2018, geodetické zaměření z&nbsp;února 2017 a nedatovaná mapa bývalého pozemkového katastru — na dataci jejího zdrojového listu je připraven dotaz na ÚAZK. Osm fotografií z&nbsp;obecní galerie „Zahrádka a okolí“ (zveřejněno 2021) zatím nemá určeného autora ani rok pořízení. Wikimedia Commons přidává osm veřejně licencovaných snímků vsi (dva z&nbsp;1.&nbsp;5.&nbsp;2018 pod CC&nbsp;BY-SA&nbsp;4.0, šest pod CC0) — žádný bezpečně nezachycuje čp.&nbsp;11. Dvě historické pohlednice Pošné (litografie cca 1902 se zámkem Březina; pohlednice školy použitá 1924) jsou do vyjasnění práv vedeny jen badatelsky — právě do té školy podle sčítání 1921 chodili Václav Kejval a Antonie Sváčková z&nbsp;čp.&nbsp;11.</p>
 
     <h3>Archivní jednotky s nejvyšší prioritou</h3>
     <p class="note" style="margin-bottom:10px;">Fond Velkostatek Březina–Zahrádka (SOkA Jindřichův Hradec) — popsány v digitálním inventáři, obrazové náhledy mají jen pozemkové knihy; reprodukce spisů nejsou online:</p>
@@ -603,7 +709,7 @@
         <tr><td class="y">42–44</td><td class="y">1929 / s. d.</td><td>lesní mapy vč. porostní mapy oddělení Zahrádka</td></tr>
       </tbody>
     </table></div>
-    <p class="note" style="margin-top:10px;">Na reprodukce jednotek 20–23, 40 a 44 je připraven koncept žádosti pro SOkA Jindřichův Hradec; spolu s dalšími čtyřmi koncepty (SOkA Pelhřimov, obec Pošná, projektant, ÚAZK) čeká v&nbsp;souboru <span class="mono">zadost_o_archivni_prameny.md</span> na doplnění kontaktu a odeslání.</p>
+    <p class="note" style="margin-top:10px;">Na reprodukce jednotek 20–23, 40 a 44 je připraven koncept žádosti pro SOkA Jindřichův Hradec; spolu s dalšími šesti koncepty (SOkA Pelhřimov, <b>Katastrální pracoviště Pelhřimov</b> — knihovní vložka pozemkové knihy po roce 1870, hlavní cesta k&nbsp;vlastnické řadě po roce 1840 i&nbsp;k&nbsp;možným stopám přestavby, obec Pošná, <b>Muzeum Vysočiny Pelhřimov</b> — rešerše fotoarchivu, projektant, ÚAZK — nově i&nbsp;písemný operát stabilního katastru) čeká v&nbsp;souboru <span class="mono">zadost_o_archivni_prameny.md</span> na doplnění kontaktu a odeslání.</p>
 
     <h3>Obecní a družstevní fondy (ARchiv Online)</h3>
     <div class="tbl-scroll"><table>
@@ -625,12 +731,12 @@
     <div class="sec-head"><span class="sec-no">ODDÍL IX</span><h2>Otevřené otázky výzkumu</h2></div>
     <p class="sec-sub">Co dosavadní prameny nedokládají a jaký je plán dalšího postupu.</p>
     <div class="qgrid">
-      <div class="q"><h3><span class="qno">Q1</span>Co přesně zaniklo před rokem 1949?</h3><p>Letecká řada nově dokládá, že velká proměna dvora proti stavu 1829 proběhla už před prvním snímkem z&nbsp;roku 1949. Zbývá určit, co a kdy mezi lety 1829–1949 zmizelo a proč. Postup: georektifikace snímků, překrytí hranicemi st.&nbsp;1 a st.&nbsp;2 a porovnání se spisy o budovách a pojištění 1928–1948 (inv.&nbsp;č.&nbsp;23).</p></div>
-      <div class="q"><h3><span class="qno">Q2</span>Nedopřepsaná jména</h3><p>Paleograficky dořešit pracovní čtení: Jakub [Gyžek?] 1772, Martin [Pruška?] 1783, Jakub [Krajíček?] 1791, Václav [Žalímek?] 1807–08, osmnáct narození 1800–1836 s&nbsp;nepřepsanými rodiči a mladší rodná příjmení [Štádlcová?], [August / Augusta?] a [Adamcová?]; k&nbsp;tomu přesný den sňatku z&nbsp;ledna 1788.</p></div>
-      <div class="q"><h3><span class="qno">Q3</span>Rozpory paralelních zápisů</h3><p>Křest Václava Lenze (III/1791): kniha 6618 píše N11, kniha 6619 N14. U&nbsp;Anny (1791) se knihy rozcházejí v&nbsp;měsíci (srpen × září). Matku Václava Fraňka (1865) uvádí rodná kniha jako Petronilu Novou, úmrtní jako Rosalii. Rozpory jsou vedeny otevřeně, nezapočítávají se mezi jisté.</p></div>
-      <div class="q"><h3><span class="qno">Q4</span>Před rokem 1664</h3><p>V&nbsp;zemských deskách sledovat převody před spojením s&nbsp;Březinou a pokusit se propojit písemně zmíněný dvůr s&nbsp;polohou dnešní st.&nbsp;1. Kniha 6617 před zavedením čísel domů může vydat rodiny dvora bez adres.</p></div>
-      <div class="q"><h3><span class="qno">Q5</span>Mezera 1911–1949</h3><p>Adresní řada nyní končí narozením 1911, sňatkem 1924 a úmrtím 1930. Matriky narozených 1912–1949 zůstávají u&nbsp;matričního úřadu (online až po roce 2049). Nejbližší cesty dál: kniha služného 1940–1944 (inv.&nbsp;č.&nbsp;40), knihy evidence obyvatel obce 1898–1945 a poválečná agenda MNV Pošná.</p></div>
-      <div class="q"><h3><span class="qno">Q6</span>Neověřené stopy</h3><p>Samostatný sčítací operát Zahrádky se zřejmě nedochoval (sada Pošná 1921 prověřena — její čp.&nbsp;11 je jiný dům). Dataci nedatované mapy pozemkového katastru má určit ÚAZK; u&nbsp;obce zjistit autora a rok fotografií „Zahrádka a okolí“; u&nbsp;projektanta ověřit referenci „RD Zahrádka u&nbsp;Pošné“.</p></div>
+      <div class="q"><h3><span class="qno">Q1</span>Co přesně zaniklo mezi lety 1878–1949?</h3><p>Reambulovaná mapa 1878 a zarovnaná letecká řada interval velké proměny zúžily na 1878–1949; veřejný letecký archiv (nejstarší rám 1949) ani tisk 1878–1949 jej dál nezužují. Nejbližší cesty: spisy o budovách a pojištění 1928–1948 (inv.&nbsp;č.&nbsp;23), knihovní vložka pozemkové knihy po roce 1870 (KP Pelhřimov) a rešerše fotoarchivu Muzea Vysočiny Pelhřimov.</p></div>
+      <div class="q"><h3><span class="qno">Q2</span>Nedopřepsaná jména</h3><p>Paleograficky dořešit pracovní čtení: Jakub [Gyžek?] 1772, Martin [Pruška?] 1783, Jakub [Krajíček?] 1791, Václav [Zelinka / Zelenka?] 1807–08, Jakub [Zagalis / Zagališ?] 1808, [Probsteller?] 1814, Václav [Löbl?] 1836 a mladší rodná příjmení [Štádlcová?], [August / Augusta?] a [Adamcová?]; k&nbsp;tomu přesný den sňatku z&nbsp;ledna 1788, totožnost pastýře Františka [Hýbla?] z&nbsp;roku 1800 a rodiště Pavla Sváčka (1921, čteno „Mladé Bříště“).</p></div>
+      <div class="q"><h3><span class="qno">Q3</span>Rozpory paralelních zápisů</h3><p>Křest Václava Lenze (III/1791): kniha 6618 píše N11, kniha 6619 N14. U&nbsp;Anny (1791) se knihy rozcházejí v&nbsp;měsíci (srpen × září). Matku Václava Fraňka (1865) uvádí rodná kniha jako Petronilu Novou, úmrtní jako Rosalii. Dvůr Hladov je roku 1896 v&nbsp;úmrtní matrice č.&nbsp;23, v&nbsp;oddací č.&nbsp;32. Rozpory jsou vedeny otevřeně, nezapočítávají se mezi jisté.</p></div>
+      <div class="q"><h3><span class="qno">Q4</span>Vznik dvora: 1628–1664</h3><p>Přímé zápisy desk zemských 1543, 1574, 1627 a 1628 zahrádecký dvůr nejmenují; roku 1664 už je pojmenován. Zbývá úplný přepis majetkových výčtů (DZ 154 z&nbsp;roku 1627, DZ 152, fol.&nbsp;E26–E29) a reprodukce souvisejícího zápisu <span class="mono">DZV 250, fol. D6</span> (1543). Kniha 6617 před zavedením čísel domů může vydat rodiny dvora bez adres.</p></div>
+      <div class="q"><h3><span class="qno">Q5</span>Mezera 1911–1949</h3><p>Adresní řada končí narozením 1911, sňatkem 1924 a úmrtím 1930; sčítání 1921 nově dává jediný úplný stav domu uvnitř mezery. Matriky narozených 1912–1949 zůstávají u&nbsp;matričního úřadu (online až po roce 2049). Nejbližší cesty dál: kniha služného 1940–1944 (inv.&nbsp;č.&nbsp;40), knihy evidence obyvatel obce 1898–1945 a poválečná agenda MNV Pošná.</p></div>
+      <div class="q"><h3><span class="qno">Q6</span>Neověřené stopy</h3><p>Sčítací operát Zahrádky 1921 byl nalezen (sada PE0584); v&nbsp;sadě však chybí arch čp.&nbsp;24 a úplný přepis mají zatím jen snímky čp.&nbsp;11. Dataci nedatované mapy pozemkového katastru a dochování písemného operátu stabilního katastru má určit ÚAZK; u&nbsp;obce zjistit autora a rok fotografií „Zahrádka a okolí“; u&nbsp;projektanta ověřit referenci „RD Zahrádka u&nbsp;Pošné“; nejasná zůstává i&nbsp;role Josefa Kaliny v&nbsp;záhlaví josefínského oddílu N11.</p></div>
     </div>
   </div>
 </section>
@@ -641,16 +747,17 @@
   <div class="wrap">
     <div class="sec-head"><span class="sec-no">PŘÍLOHA</span><h2 style="font-size:1.2rem;">Hlavní veřejné prameny</h2></div>
     <ol>
-      <li>ČÚZK — <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=cioc&amp;idrastru=B2_a_6C_9077-1_2">císařský otisk stabilního katastru 1829</a> a <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&amp;idrastru=TAB550018290">indikační skica</a>; <a href="https://ags.cuzk.gov.cz/archiv/">archiv leteckých snímků</a></li>
-      <li>SOA Třeboň — matriky farnosti Pošná: knihy <a href="https://digi.ceskearchivy.cz/6617">6617</a>, <a href="https://digi.ceskearchivy.cz/6618">6618</a>, <a href="https://digi.ceskearchivy.cz/6619">6619</a>, <a href="https://digi.ceskearchivy.cz/6620">6620</a>, <a href="https://digi.ceskearchivy.cz/6621">6621</a>, <a href="https://digi.ceskearchivy.cz/6622">6622</a>, <a href="https://digi.ceskearchivy.cz/6623">6623</a>, <a href="https://digi.ceskearchivy.cz/6624">6624</a>, <a href="https://digi.ceskearchivy.cz/6625">6625</a>, <a href="https://digi.ceskearchivy.cz/6626">6626</a>, <a href="https://digi.ceskearchivy.cz/11210">11210</a>, <a href="https://digi.ceskearchivy.cz/11214">11214</a></li>
-      <li>SOA Třeboň — <a href="https://digi.ceskearchivy.cz/DA?menu=4&amp;id=922210301001032">digitální inventář fondu Velkostatek Březina–Zahrádka</a>; <a href="https://digi.ceskearchivy.cz/k/409642">přístupový bod Zahrádka</a> s osmi pozemkovými knihami 1784–1876</li>
-      <li>Národní archiv — <a href="https://vademecum.nacr.cz/vademecum/permalink?xid=ce3b120e1966066243716436d47c6234">Desky zemské větší</a> (zápis z r. 1664); portál ARchiv Online — fondy <a href="https://portal.nacr.cz/aron/apu/5b8eb08f-0e87-4e32-94ca-b2dfc38878e2">Archiv obce Pošná</a> a <a href="https://portal.nacr.cz/aron/apu/54847c40-9fe6-4a9a-879c-5da368791582">MNV Pošná</a></li>
-      <li>MZA — <a href="https://www.mza.cz/scitacioperaty/">sčítací operáty</a> (Pošná 1921, bez vyčleněné Zahrádky)</li>
+      <li>ČÚZK — <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=cioc&amp;idrastru=B2_a_6C_9077-1_2">císařský otisk stabilního katastru 1829</a>, <a href="https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&amp;idrastru=TAB550018290">indikační skica</a> (listy A04A–A04B) a originální mapa reambulovaná 1878 (sign. B2/a/4C, inv. č. 8865); <a href="https://ags.cuzk.gov.cz/archiv/">archiv leteckých snímků</a></li>
+      <li>SOA Třeboň — matriky farnosti Pošná: knihy <a href="https://digi.ceskearchivy.cz/6617">6617</a>, <a href="https://digi.ceskearchivy.cz/6618">6618</a>, <a href="https://digi.ceskearchivy.cz/6619">6619</a>, <a href="https://digi.ceskearchivy.cz/6620">6620</a>, <a href="https://digi.ceskearchivy.cz/6621">6621</a>, <a href="https://digi.ceskearchivy.cz/6622">6622</a>, <a href="https://digi.ceskearchivy.cz/6623">6623</a>, <a href="https://digi.ceskearchivy.cz/6624">6624</a>, <a href="https://digi.ceskearchivy.cz/6625">6625</a>, <a href="https://digi.ceskearchivy.cz/6626">6626</a>, <a href="https://digi.ceskearchivy.cz/11210">11210</a>, <a href="https://digi.ceskearchivy.cz/11214">11214</a>; k tomu knihy farností Pacov (<a href="https://digi.ceskearchivy.cz/6232">6232</a>, <a href="https://digi.ceskearchivy.cz/6251">6251</a>) a Lukavec (<a href="https://digi.ceskearchivy.cz/5365">5365</a>)</li>
+      <li>SOA Třeboň — <a href="https://digi.ceskearchivy.cz/DA?menu=4&amp;id=922210301001032">digitální inventář fondu Velkostatek Březina–Zahrádka</a>; <a href="https://digi.ceskearchivy.cz/k/409642">přístupový bod Zahrádka</a> s osmi pozemkovými knihami 1784–1876 (smlouvy 1813 a 1840: knihy <a href="https://digi.ceskearchivy.cz/126076">126076</a> a <a href="https://digi.ceskearchivy.cz/126077">126077</a>); <a href="https://digi.ceskearchivy.cz/342510/209">josefínský katastr, kniha 342510</a> („Panský dvůr N. 11 zahrádecký“)</li>
+      <li>Národní archiv — <a href="https://vademecum.nacr.cz/vademecum/permalink?xid=ce3b120e1966066243716436d47c6234">Desky zemské větší</a> (zápis z r. 1664; dále inv. č. 64, 113, 152, 154, 261 a 297 k létům 1574–1661); portál ARchiv Online — fondy <a href="https://portal.nacr.cz/aron/apu/5b8eb08f-0e87-4e32-94ca-b2dfc38878e2">Archiv obce Pošná</a> a <a href="https://portal.nacr.cz/aron/apu/54847c40-9fe6-4a9a-879c-5da368791582">MNV Pošná</a></li>
+      <li>MZA — <a href="https://www.mza.cz/scitacioperaty/digisada/detail/13183">sčítací operáty 1921, sada PE0584 Zahrádka</a> (čp. 11 na snímcích 26–27; sada Pošná PE0502 jen kontrolně)</li>
+      <li>NPÚ — Památkový geoportál a ISAD: archeologické území ÚAN II „Zahrádka.“, ID SAS 21475; MIS a paGIS (13 dokumentů vsi, žádný k čp. 11); Wikimedia Commons — <a href="https://commons.wikimedia.org/wiki/Category:Zahr%C3%A1dka_(Po%C5%A1n%C3%A1)">kategorie Zahrádka (Pošná)</a></li>
       <li>Národní digitální knihovna — schematismy velkostatků 1880 / 1881 / 1894 / 1902, adresáře, statistiky a tisk 1862–1949 (jednotlivé strany citovány ve výzkumném spisu)</li>
       <li>ČÚZK — <a href="https://vdp.cuzk.gov.cz/vdp/ruian/adresnimista/8882321">RÚIAN, adresní místo Zahrádka 11</a>; <a href="https://oldmaps.geolab.cz/">OldMaps GEOLAB — vojenská mapování</a>; ČSÚ — <a href="https://csu.gov.cz/docs/107508/7e57dcb3-3d6d-9774-f840-81958c94176b/130084150633.pdf?version=1.0">Historický lexikon obcí, okres Pelhřimov</a></li>
       <li>Ottův slovník naučný, sv. 27 (1908), s. 373–374 — <a href="https://cs.wikisource.org/wiki/Ott%C5%AFv_slovn%C3%ADk_nau%C4%8Dn%C3%BD/Zahr%C3%A1dka">přepis hesla</a></li>
     </ol>
-    <p class="note">Stránka je vizuálním souhrnem pracovních spisů <span class="mono">vyzkum_statku.md</span>, <span class="mono">obyvatele_zahradky.md</span> a <span class="mono">zadost_o_archivni_prameny.md</span>. Míry jistoty (vysoká / střední / nízká) přebírá beze změny; historický pravopis příjmení je zachován, pracovní čtení jsou v&nbsp;hranatých závorkách.</p>
+    <p class="note">Stránka je vizuálním souhrnem pracovních spisů <span class="mono">vyzkum_statku.md</span>, <span class="mono">obyvatele_zahradky.md</span>, <span class="mono">obyvatele_zahradky_1921.md</span> a <span class="mono">zadost_o_archivni_prameny.md</span>. Míry jistoty (vysoká / střední / nízká) přebírá beze změny; historický pravopis příjmení je zachován, pracovní čtení jsou v&nbsp;hranatých závorkách. Reprodukce SOA Třeboň, Národního archivu a MZA jsou badatelské kopie s&nbsp;uvedením zdroje; mapy a snímky ČÚZK s&nbsp;uvedením © ČÚZK / MO ČR / CENIA; fotografie z&nbsp;Wikimedia Commons pod uvedenými svobodnými licencemi.</p>
     <p class="fin">— Zahrádka u Pošné, stavební parcela st. 1, dům čp. 11 —</p>
   </div>
 </footer>
@@ -669,24 +776,24 @@
     [1790,"9. 10.","Martin Junek / Jůnek","otec Josef, volák (bubulcus); matka Kateřina","h"],
     [1791,"9. 3.","Václav Lenz","rodiče Ignác Lenz a Marie Anna — adresní rozpor: N11 v knize 6618, N14 v 6619","d"],
     [1791,"25. 8. / 25. 9.","Anna","otec Jakub [Krajíček?], šafář; matka Anna; knihy se rozcházejí v měsíci","h"],
-    [1800,"18. 4.","František Josef","rodiče František a Kateřina; příjmení nepřepsáno","m"],
-    [1801,"5. 6.","František Dominik Josef","rodiče František (patrně pastýř) a Barbora; zemřel 15. 10. 1801","m"],
-    [1802,"26. 7.","Anna Josefina","otec František, pastýř; matka Barbora; zemřela 4. 12. 1802","m"],
-    [1803,"9. 10.","Kateřina Josefina","otec František, pastýř; matka Barbora","m"],
-    [1807,"9. 1.?","Marie Salome","otec Václav [Žalímek?], pastýř ze zahrádeckého dvora","m"],
-    [1808,"20. 4.","Františka Barbora","rodiče nejistě čitelní; přípis úmrtí 7. 5.","m"],
-    [1808,"20. 5.","Jakub a patrně Božena","zřejmě dvojčata; otec nejspíš Václav Žalímek, pastýř ze dvora","m"],
-    [1808,"28. 5.","Josef Dominik Emerich","matka Alžběta; údaje o otci škrtané a opravované","m"],
-    [1812,"14. 1.","Samuel Felix","otec neuveden; matka Kateřina","m"],
-    [1812,"27. 8.","Barbora","rodiče zatím nepřepsáni","m"],
-    [1814,"11. 3.","Jana","rodiče zatím nepřepsáni","m"],
-    [1814,"2. 5.","Anna Františka","rodiče Jan a Anna","m"],
-    [1814,"22. 12.","Petr Evangelista","otec neuveden; matka Dorota, v zápisu spojena se dvorem","m"],
-    [1817,"14. 6.","Jan","přípis úmrtí 25. 1. 1822","m"],
-    [1819,"7. 10.","Jan František","rodiče Jan a Anna","m"],
-    [1820,"5. 6.","dítě [snad Jan František]","jméno s nízkou jistotou","w"],
-    [1827,"3. 6.","Františka Josefa","otec pracovně Jan Rejpal / Rajpal","m"],
-    [1836,"19. 10.","Václav Vojtěch","otec Václav [snad Bílý]; matka Anna","m"],
+    [1800,"18. 4.","František Josef [Hýbl / Hybl?]","otec František, pravděpodobně pastýř Hýbl / Hybl; matka Kateřina patrně z Kaliště; totožnost s jistým pastýřem z r. 1801 neuzavřena","m"],
+    [1801,"5. 6.","František Dominik Josef Hýbl / Hybl","otec František Hýbl / Hybl, pastýř; matka Barbora rozená Lišková; zemřel 15. 10. 1801","m"],
+    [1802,"26. 7.","Anna Josefina Hýblová / Hyblová","otec František Hýbl / Hybl, pastýř; matka Barbora rozená Lišková; zemřela 4. 12. 1802","m"],
+    [1803,"9. 10.","Kateřina Josefina Hýblová / Hyblová","otec František Hýbl / Hybl, pastýř; matka Barbora rozená Lišková","m"],
+    [1807,"9. 1.?","Marie Salome","otec Václav [Zelinka?, snad Zelenka], pastýř ze zahrádeckého dvora; matka Marie Magdalena [Pabička?] z Březiny","m"],
+    [1808,"20. 4.","Františka Barbora","rodiče Jakub [Zagalis / Zagališ?] a Terezie; zemřela 7. 5.","m"],
+    [1808,"20. 5.","Jakub","otec nejspíš Václav [Zelinka?], pastýř ze dvora; matka Marie Anna — dřívější čtení „dvojčata s Boženou“ opraveno, narodil se jediný chlapec","m"],
+    [1808,"28. 5.","Josef Dominik Emerich","nemanželský syn Alžběty; vyplněný otcovský sloupec zrušen přeškrtnutím; přípis z 15. 8. 1841 se týká křestního dokladu","h"],
+    [1812,"14. 1.","Samuel Felix Ernestus","nemanželský syn Kateřiny; otec neuveden","h"],
+    [1812,"27. 8.","Barbora Hýblová / Hyblová","otec František Hýbl / Hybl, pastýř; matka Barbora rozená Lišková — rodina doložena u N11 nejméně 1801–1812","m"],
+    [1814,"11. 3.","Jana Pavlína","rodiče František a Anna; příjmení nepřepsáno","m"],
+    [1814,"2. 5.","Anna Františka Junková / Jůnková","otec Jan Junek / Jůnek; matka Anna; zřejmě sestra Jana Františka z roku 1819","h"],
+    [1814,"22. 12.","Jan Evangelista [Probsteller?]","nemanželský; matka Dorota [pravděpodobně Probstellerová]; oprava dřívějšího čtení jména „Petr“","m"],
+    [1817,"14. 6.","Jan Ros / Roš","otec Jakub Ros / Roš, panský ovčák na dvoře Zahrádeckém; matka Alžběta; okrajový přípis je kontrola křestního listu z 25. 1. 1842 — dřívější čtení jako úmrtí 1822 bylo mylné","h"],
+    [1819,"7. 10.","Jan František Junek / Jůnek","rodiče Jan Junek / Jůnek a Anna — táž rodina jako roku 1814","h"],
+    [1820,"5. 6.","Františka Josefina","dívka; rodiče Adam a Barbora, příjmení nepřepsána — oprava dřívějšího čtení „Jan František“","h"],
+    [1827,"3. 6.","Františka Josefa Ryplová","otec Jan Rypl (v rukopise též Reypl); matka Kateřina","m"],
+    [1836,"19. 10.","Václav Vojtěch","otec Václav [nejspíš Löbl]; matka Anna","m"],
     [1845,"","Vojtěch Zikmund","otec Václav Zikmund, šafář na Zahrádce; matka Marie","h"],
     [1846,"","Jan","pracovní nález","w"],
     [1847,"","Jan","pracovní nález","w"],
@@ -746,6 +853,7 @@
     [1869,"26. 1.","Jan Svoboda","čeledín v N11, původem z Borotína","h"],
     [1870,"1. 2.","Anna Horníková","dcera zemřelého Matěje Horníka, pastýře v N11 — dvě generace rodiny","h"],
     [1881,"7. 3.","Václav Získal","ženich bydlící na Zahrádce č. 11; nevěsta Alžběta Farková — první svatební doklad domu po roce 1870","h"],
+    [1896,"21. 4.","Josef Sváček ⚭ Karolína Dušánková","ženich výslovně „dělník v Zahrádce č. 11“; nevěsta ze Zahrádky č. 21; Karolína zemřela 16. 10. 1896 při porodu ve dvoře Hladov","h"],
     [1924,"24. 4.","Matěj Kudrhalt ⚭ Anna Procházková","hospodářský pomocník v č. 11; oba snoubenci bydleli v č. 11; svědek František Vopálka, šafář na Zahrádce č. 11","h"]
   ];
 
@@ -775,11 +883,12 @@
   ];
 
   const ROLES = [
-    ["šafář / správce", [[1772,"Jakub [Gyžek?] — villicus","h"],[1784,"Jiří Ullrich","h"],[1791,"Jakub [Krajíček?]","h"],[1845,"Václav Zikmund","h"],[1848,"Václav Zikmund","h"],[1881,"Matěj Kratochvíl — panský šafář na Zahrádce (rodový údaj, dům neurčen)","m"],[1924,"František Vopálka — šafář na Zahrádce č. 11 (svědek sňatku)","h"]]],
-    ["pastýř", [[1783,"Martin [Pruška?] — „na tomto dvoře“ (opilio)","h"],[1802,"František","m"],[1803,"František","m"],[1807,"Václav [Žalímek?] — ze dvora","m"],[1808,"Václav [Žalímek?]","m"],[1865,"Josef Franěk — ve dvoře","h"],[1870,"Matěj Horník († před 1870, zpětná zmínka)","h"]]],
+    ["šafář / správce", [[1772,"Jakub [Gyžek?] — villicus","h"],[1784,"Jiří Ullrich","h"],[1791,"Jakub [Krajíček?]","h"],[1845,"Václav Zikmund","h"],[1848,"Václav Zikmund","h"],[1881,"Matěj Kratochvíl — panský šafář na Zahrádce (rodový údaj, dům neurčen)","m"],[1915,"Josef Dvořák — správce dvora Zahrádka (Chytilův adresář, bez čísla domu)","m"],[1924,"František Vopálka — šafář na Zahrádce č. 11 (svědek sňatku)","h"]]],
+    ["pastýř", [[1783,"Martin [Pruška?] — „na tomto dvoře“ (opilio)","h"],[1800,"František [Hýbl / Hybl?]","m"],[1802,"František Hýbl / Hybl","m"],[1803,"František Hýbl / Hybl","m"],[1807,"Václav [Zelinka?] — ze zahrádeckého dvora","m"],[1808,"Václav [Zelinka?]","m"],[1812,"František Hýbl / Hybl","m"],[1865,"Josef Franěk — ve dvoře","h"],[1870,"Matěj Horník († před 1870, zpětná zmínka)","h"]]],
     ["volák / honák skotu", [[1790,"Josef Junek / Jůnek (bubulcus)","h"],[1875,"Václav Bílý","h"]]],
     ["oráč", [[1791,"Jakub Lenz (arator)","h"]]],
     ["zahradník", [[1792,"Jakub Lenz (hortulanus)","h"],[1871,"Josef Zemišek — ve dvoře","h"],[1874,"Josef Zemišek","h"]]],
+    ["ovčák (panský)", [[1817,"Jakub Ros / Roš — panský ovčák na dvoře Zahrádeckém","h"]]],
     ["čeledín", [[1854,"Josef Žák — na dvoře","h"],[1855,"Jan Achovec — ve dvoře","h"],[1856,"otec Josefa [příjmení nejisté]","m"],[1858,"Václav Junek / Jůnek — v panském dvoře","h"],[1860,"Matěj Milk","h"],[1861,"Matěj Milk — v panském dvoře","h"],[1863,"Josef Franěk","h"],[1868,"Václav Parka","h"],[1869,"Jan Svoboda","h"],[1885,"František Vyhnálek — ve dvoře","h"],[1885,"František Kejval — ve dvoře","h"],[1885,"Filip Mynářík","m"],[1895,"Josef Jenčík — ve dvoře","m"],[1904,"Vojtěch Kučera","h"],[1907,"Josef Říha — ve dvoře","h"],[1911,"Alois Horniček — ve dvoře","h"]]],
     ["posel", [[1854,"František Forel — na panském dvoře","h"],[1856,"František Forel","h"]]],
     ["děvečka", [[1868,"Marie Jonášová","h"]]],
@@ -788,17 +897,19 @@
     ["obuvník (nájemník)", [[1878,"Tomáš Kaňka","h"]]],
     ["kolář", [[1880,"Václav Tvrček","h"]]],
     ["deputátník", [[1898,"František [August / Augusta?] — ve dvoře","m"]]],
-    ["dělník", [[1901,"Josef Svaček; jako dělník z č. 11 uveden i jeho otec Jan — dvě generace","h"]]],
+    ["dělník", [[1896,"Josef Sváček — „dělník v Zahrádce č. 11“ (svatební zápis)","h"],[1901,"Josef Svaček; jako dělník z č. 11 uveden i jeho otec Jan — dvě generace","h"]]],
+    ["zaměstnanci velkostatku", [[1921,"František Vytiska — účetnictví velkostatku (sčítání)","h"],[1921,"Josef, Marie a Pavel Sváčkovi — zemědělští pracovníci velkostatku (sčítání)","h"]]],
     ["hospodářský pomocník", [[1924,"Matěj Kudrhalt","h"]]],
     ["kočí", [[1930,"Václav Hák","h"]]]
   ];
 
   const OWNERS = [
     ["1378–1487","panství Červená Řečice","ves patřila k arcibiskupskému panství", false],
-    ["1543","Jan Houska ze Zahrádky","přihlásil se k držbě při obnově shořelých desk zemských", false],
-    ["1572–74","Václav Houska","syn Jana; držitel Pošné se Zahrádkou", false],
-    ["1627–28","Pechlar → Malovec","pobělohorská konfiskace: královská komora prodala celek Maxmiliánu Pechlarovi, ten jej záhy postoupil Rudolfu Malovcovi", false],
-    ["1664","Miličovští z Brauenberka","spojení s Březinou; v deskách zemských výslovně „dvůr zahrádecký“", true],
+    ["1543","Jan Houska ze Zahrádky","9. 6. zajistil manželce Lidmile z Nečtin věno 400 kop grošů na svém dědictví — výčet jmenuje ves, zahrádecký dvůr nikoli", false],
+    ["1574","Stanislav a Václav Houskovi","dělící cedule z 2. 12. rozdělila dědictví Jana Housky; „Ves Zahrádka“ stále bez vrchnostenského dvora", false],
+    ["1627–28","Pechler → Malovec","po konfiskaci prodáno 7. 7. 1627 Maxmiliánu Pechlerovi z Meminku (14 104 kop míš.); 16. 6. 1628 postoupeno Rudolfu Malovcovi z Malovic", false],
+    ["1654","statek Březina — Miličovští","berní rula řadí ves pod statek Březina Jiřího Miličovského z Braunberku; 7 rolníků a 1 zahradník", false],
+    ["1664","„dvůr zahrádecký“","první přímé pojmenování dvora v deskách zemských; vznik či vydělení dvora se klade mezi léta 1628–1664", true],
     ["do 1821","Jiří Jeník Zásadský","svobodný pán z Gamsendorfu", false],
     ["1821–1839","Josef Čapek","jeho jméno nese přípis na indikační skice 1829", true],
     ["1839–1908","rod Eisensteinů","Vojtěch Josef; August († 1875 v Březině); Václav (Wenzel); JUDr. Karel a Eliška — dvůr byl roku 1902 pronajat Jul. Roubíčkovi", false],
@@ -821,7 +932,8 @@
     ["velkostatek celkem (1886)", 506.05],
     ["katastr obce (1897)", 371.67],
     ["režie Zahrádka — veškerá půda (1927)", 181.5],
-    ["dvůr Zahrádka — zemědělská (1881–1902)", 70]
+    ["dvůr Zahrádka — zemědělská (1881–1902)", 70],
+    ["dvůr Zahrádka — vlastní režie (1933)", 60.5]
   ];
 
   // rok, obyvatelé, domy (null = neuvedeno), true = soupis, ne sčítání
@@ -833,49 +945,63 @@
   const TIMELINE = [
     ["era","Starší dějiny vsi a dvora"],
     ["1378","Ves Zahrádka patřila k arcibiskupskému panství Červená Řečice a vytrvala při něm do roku 1487.","v"],
-    ["1543","Jan Houska ze Zahrádky se přihlásil k držbě při obnovování shořelých desk zemských; syn Václav převzal Pošnou se Zahrádkou v letech 1572–1574.","v"],
-    ["1627–28","Po pobělohorské konfiskaci prodala královská komora Pošnou se Zahrádkou Maxmiliánu Pechlarovi z Neminku; ten ji záhy postoupil Rudolfu Malovcovi z Malovic.","v"],
-    ["1664","Za dědiců Rudolfa Malovce připadla Zahrádka Miličovským z Brauenberka a byla spojena s Březinou; v deskách zemských „dvůr zahrádecký“ a pole Aulehle — nejstarší přímá zmínka o dvoru.","v"],
+    ["1543","9. 6. zajistil Jan Houska ze Zahrádky manželce Lidmile z Nečtin věno 400 kop grošů; výčet rozlišuje poplužní dvůr v Pošné a ves Zahrádku s poddanskými dvory — zahrádecký vrchnostenský dvůr nejmenuje.","v"],
+    ["1574","Dělící cedule mezi syny Stanislavem a Václavem Houskovými: oddíl „Ves Zahrádka“ vypočítává lidi, platy, dva rybníky, sádku a krčmu — vrchnostenský dvůr opět chybí (DZ 64, fol. A20–A22).","v"],
+    ["1627–28","Po pobělohorské konfiskaci prodala královská komora Pošnou se Zahrádkou 7. 7. 1627 Maxmiliánu Pechlerovi z Meminku; 16. 6. 1628 ji postoupil Rudolfu Malovcovi z Malovic — soupis zahrádecký dvůr stále nejmenuje.","v"],
+    ["1654","Berní rula řadí Zahrádku pod statek Březina Jiřího Miličovského z Braunberku a jmenuje sedm rolníků a jednoho zahradníka — fiskální stopa celé vsi, ne dvora.","v"],
+    ["1664","V deskách zemských „dvůr zahrádecký“ a pole Aulehle — první přímé pojmenování dvora a právní doklad rozdělení; vznik či vydělení dvora se pracovně klade mezi léta 1628–1664.","v"],
     ["1783","I. vojenské mapování zachycuje ves jako skupiny budov; jen prostorová stopa bez rozlišení st. 1.","s"],
     ["era","Dvůr a jeho lidé v matrikách"],
     ["1772","27. 5. narozen Jan Křtitel, syn šafáře Jakuba — nejstarší adresní doklad N11, potvrzený dvěma paralelními knihami.","v"],
     ["1783","Pastýř Martin doložen výslovně „na tomto zahrádeckém dvoře“ — nejstarší jednoznačné spojení pracovníka, dvora a N11.","v"],
     ["1788","Lednový sňatek ovdovělých Bartoloměje (68) a Kateřiny (56) z N11; v dubnu narozen Jiří Jurek.","v"],
-    ["1792–1802","Úmrtní kniha přidává osm zápisů N11; Jakub Lenz je roku 1792 výslovně zahradníkem na Zahrádce.","v"],
-    ["1800–36","Osmnáct rodných zápisů u N11; roku 1807 pastýř Václav [Žalímek?] ze zahrádeckého dvora.","v"],
+    ["1788–1866","Josefínský katastr vede v souvislé domovní řadě „Panský dvůr N. 11 zahrádecký“; nezávislá kniha má pro N11 samostatný oddíl s ročními urbálními povinnostmi.","v"],
+    ["1792–1802","Úmrtní kniha přidává osm zápisů N11; Jakub Lenz je roku 1792 výslovně zahradníkem na Zahrádce a úmrtí dětí 1801–1802 patří rodině pastýře Hýbla.","v"],
+    ["1800–36","Osmnáct rodných zápisů u N11: rodina pastýře Františka Hýbla a Barbory rozené Liškové (1801–1812), pastýř Václav [Zelinka?] ze zahrádeckého dvora (1807–08), tři rodiny roku 1814, syn panského ovčáka Jan Ros / Roš (1817), Ryplovi (1827).","v"],
+    ["jaro 1808","Tři rodné události tří různých rodin během necelých šesti týdnů — silný doklad více souběžných domácností služebního domu.","v"],
+    ["1813","Kupní smlouva Josefa Franíka k domu Zahrádka N1 — N1 je jiný, rustikální dům; rod Fraňků v něm doložen nejméně od tohoto roku.","v"],
     ["1821","Jiří Jeník Zásadský prodal statek Josefu Čapkovi.","v"],
-    ["1829","Stabilní katastr: hlavní areál = stavební parcela 1, dům „N. 11. Dom:“; vedle samostatná budova st. 2.","v"],
+    ["1829","Stabilní katastr: hlavní areál = stavební parcela 1, dům „N. 11. Dom:“; překryv s dneškem klade objekt čp. 11 na severní ze tří hmot. List A04A současně lokalizuje N1 („Franek Joseph“) na st. 29 — dnešní čp. 1, asi 180 m západně.","v"],
     ["1839","Josef Čapek prodal statek Vojtěchu Josefovi z Eisensteina.","v"],
-    ["1845–48","V N11 rodina šafáře Václava Zikmunda — první bezpečně celým příjmením přepsaný šafář.","v"],
+    ["1840","29. 2. předal Václav Francík půllánní emfyteutický statek N11 kupní smlouvou synu Františkovi za 650 zl. konvenční měny, s výminkou — první pozemkovoknižní zápis přímo k domu.","v"],
+    ["1845–48","V N11 rodina šafáře Václava Zikmunda — první bezpečně celým příjmením přepsaný šafář v mladší rodné knize.","v"],
+    ["1849–68","Rodný zápis Anny Fraňkové (1849) i její sňatek (1868) uvádějí N1; na téže matriční dvoustraně roku 1868 je jiná nevěsta u N11 — dvě různé adresy současně.","v"],
     ["1854–80","Matriky u N11 souvisle zapisují rodiny zaměstnanců dvora: posel, čeledíni, pastýř, volák, zahradník, děvečka, později obuvník a kolář.","v"],
-    ["1876–78","Matrika používá N1 i N11 současně pro dva různé domy — doklad, že 1 a 11 nejsou totéž číslo.","v"],
     ["era","Velkostatek a dvůr do roku 1948"],
     ["1862","Úřední statistika: katastr „Zahradka (Breziner-)“ ≈ 371,6 ha; 192 přítomných obyvatel.","v"],
     ["1875","29. 6. zemřel majitel August rytíř Eisenstein — na zámku v Březině, nikoli v N11.","v"],
+    ["1878","Originální mapa stabilního katastru reambulovaná 1878 stále kreslí na st. 1 tři hmoty z roku 1829 — velká přestavba spadá pravděpodobně až mezi léta 1878–1949.","v"],
     ["1880–81","Majitelem Václav (Wenzel) z Eisensteinu; dvůr Zahrádka 70 ha, zahrádecký lesní revír 98,40 ha.","v"],
     ["1885–1911","Deset rodných zápisů v č. 11: sedm čeledínů, deputátník a dvě generace dělníků Svačkových.","v"],
     ["1886","Velkostatek 506,05 ha, výnos 4 254 zl.; dvory Březina, Horní Dvůr a Zahrádka; samostatný správce dvora Zahrádka.","v"],
+    ["1896–97","Josef Sváček, dělník v č. 11, se oženil s Karolínou Dušánkovou; ta 16. 10. 1896 zemřela při porodu ve dvoře Hladov. Josefova cesta vede ze Zahrádky N20 (1868) přes Hladov zpět do č. 11 (1901, 1921).","v"],
+    ["1898","Roční seznam porotců jmenuje Františka Fraňka, rolníka ze Zahrádky u Pošné — doklad obce, bez čísla domu.","v"],
     ["1900","Ottův slovník: celá ves 21 domů, 182 obyvatel; původně statek Housků ze Zahrádky.","v"],
     ["1902","Dvůr Zahrádka (70 ha) už není v přímé režii — pronajat „Jul. Roubíčkovi v Zahrádce“.","v"],
     ["1908","Karel a Eliška Eisensteinovi prodali statek Antonínu Homolkovi.","v"],
+    ["1910–19","Nekrolog připisuje Antonínu Homolkovi adaptace hospodářských budov (1910–12), nový lihovar a po válce cihelnu (1919) — vše na velkostatku, bez lokalizace do dvora na Zahrádce; jediná tisková stopa uvnitř intervalu 1878–1949.","s"],
     ["1914","Panství 531,7 ha se třemi dvory (Březina, Nový dvůr, Zahrádka), ředitel Václav Vlach; hydroelektrárna, mlýn, pila, lihovar.","v"],
+    ["1915","Chytilův adresář jmenuje správce dvora Josefa Dvořáka, hospodářského příručího Al. Dvořáka a lesního dozorce J. Jirků — bez čísel domů.","v"],
+    ["1921","Sčítání lidu: v čp. 11 osm obyvatel ve dvou domácnostech — Vytiskovi s Václavem Kejvalem a pětičlenná rodina Sváčkových; majitelem domu Antonín Homolka. Jediný úplný okamžikový stav domu.","v"],
     ["1923","Antonín Homolka získal bronzovou medaili za pšenici „česká červená přesívka dobrovická“ (82 bodů).","v"],
     ["1924","Svatba hospodářského pomocníka Matěje Kudrhalta v č. 11; svědek František Vopálka, šafář na Zahrádce č. 11.","v"],
     ["1927","Pozemková reforma u režie Zahrádka: 181,50 ha veškeré půdy; 11,50 ha přiděleno drobným nabyvatelům, 170 ha propuštěno Homolkovým.","v"],
     ["1930","V č. 11 rodina kočího Václava Háka — nejmladší přímý matriční doklad domu.","v"],
+    ["1933","Schematismus: dvůr Zahrádka 60,50 ha opět ve vlastní režii (Březina 194 ha); rekonstrukce stodol 1926 a stájí 1930 klade nekrolog výslovně do Březiny.","v"],
     ["1935","Volby do poslanecké sněmovny: za celou ves 73 platných hlasů.","v"],
+    ["1941","4. 12. zemřel Antonín Homolka (66 let) — majitel velkostatku od roku 1908 a roku 1921 majitel domu čp. 11.","v"],
     ["1947","Úřední soupis z 22. 5.: 123 přítomných obyvatel celé vsi.","v"],
     ["1948","4. 5. zavedena národní správa na zemědělský a lesní majetek velkostatku.","v"],
     ["era","Po roce 1948 a novodobá dokumentace"],
-    ["1949–92","Letecká řada: hlavní vícekřídlá hmota statku trvá — velká přestavba proti roku 1829 proběhla už před rokem 1949.","v"],
+    ["1949–92","Výzkumně zarovnaná letecká řada: v poloze dnešního čp. 11 leží zastřešená podélná hmota už roku 1949; veřejný katalog nemá nad statkem žádný snímek z let 1930–1948.","v"],
     ["1950–75","JZD Pošná (roku 1975 sloučeno do JZD Velká Chyška); vazba dochovaných písemností na čp. 11 zatím nedoložena.","s"],
     ["1996","Požár opuštěného vepřína asi 100 m za vsí — nelze jej spojovat se st. 1.","s"],
     ["2001–22","Deset vrstev archivního ortofota potvrzuje stabilní půdorys; mezi 2017 a 2019 změna střechy jihozápadního křídla.","v"],
     ["2015–18","Pozemní fotodokumentace exteriérů a interiérů před rekonstrukcí; geodetické zaměření půdorysů (únor 2017).","v"],
     ["2017","Dvě studie adaptace „statku č. 1“ (Ing. arch. Jakub Křivan) rozlišují hlavní objekt, sýpku, bývalou konírnu a stodolu.","v"],
-    ["2018","Od 31. 1. sídlí na adrese Zahrádka 11 spolek iZahrádka z. s. — institucionální užití adresy, ne doklad bydliště.","v"],
+    ["2018","Od 31. 1. sídlí na adrese Zahrádka 11 spolek iZahrádka z. s.; 1. 5. pořízeny dvě volně licencované fotografie vsi (Wikimedia Commons) — žádný veřejný snímek bezpečně nezachycuje čp. 11.","v"],
     ["2022–23","RÚIAN: objekt čp. 11 veden od 2. 6. 2022 jako rodinný dům; doplněna zastavěná plocha 304 m².","v"],
-    ["2026","Pouť na Zahrádce (video 2025, mapa 2026 přímo značí čp. 11); audit veřejných pramenů; RÚIAN potvrzuje řetězec Zahrádka 11 → st. 1 → čp. 11.","v"]
+    ["2026","Pouť na Zahrádce (video 2025, mapa 2026 přímo značí čp. 11); audit veřejných pramenů; RÚIAN potvrzuje řetězec Zahrádka 11 → st. 1 → čp. 11. Kontrola NPÚ: st. 1 bez památkové ochrany, uvnitř archeologického území ÚAN II (SAS 21475).","v"]
   ];
 
   // id, type(N/O/U/S), from, to, status(full/part/none), label N11, note
@@ -891,7 +1017,7 @@
     ["11211","N",1912,1949,"none","—","u matričního úřadu Pacov; online až po roce 2049"],
     ["6622","O",1788,1813,"full","1×","zahrádecký oddíl souvisle (snímky 10–14)"],
     ["6623","O",1814,1880,"full","11×","všechny snímky 1–155, oba adresní sloupce"],
-    ["6624","O",1881,1930,"full","3×","všech 77 stran s osobou ze Zahrádky dle rejstříku; č. 11 v letech 1881 a 1924 + navazující sňatek Aloise Kaňky 1901"],
+    ["6624","O",1881,1930,"full","4×","všech 77 stran s osobou ze Zahrádky dle rejstříku; č. 11 v letech 1881, 1896 a 1924 + navazující sňatek Aloise Kaňky 1901"],
     ["11213","O",1931,1949,"none","—","v katalogu se teprve připravuje"],
     ["6625","U",1788,1803,"full","8×","zahrádecký oddíl souvisle (snímky 14–19)"],
     ["6626","U",1803,1880,"full","10×","celá kniha souvisle prohlédnuta"],
