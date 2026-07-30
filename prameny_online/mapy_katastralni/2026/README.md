@@ -14,5 +14,6 @@ Uloženo:
 - [GeoJSON stavebních objektů na st. 29/1 a st. 29/2](ruian_budovy_st29.geojson)
 - [samostatná geometrie st. 1](parcela_st1_ruian.geojson)
 - [samostatná geometrie objektu čp. 11](stavebni_objekt_cp11_ruian.geojson)
+- [definiční body všech 26 adresních míst části obce Zahrádka](adresni_mista_zahradka_ruian.geojson) — staženo 30. 7. 2026 z vrstvy [Adresní místo](https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/1) pro interaktivní mapu vsi; dnešní čp. 12, 17, 18, 19, 22 a 23 v RÚIAN neexistují
 
 Výstupy pocházejí z oficiálních vrstev [Parcela](https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/5) a [Stavební objekt](https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3). Pole data dokončení nebo účinnosti v RÚIAN není bez stavebního spisu bezpečným datem fyzické výstavby; používá se zde pouze současná identita parcel, budov a domovních čísel.

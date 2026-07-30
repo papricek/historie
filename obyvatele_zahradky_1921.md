@@ -7,7 +7,11 @@ Samostatná průběžná evidence **celé obce Zahrádka**, oddělená od hlavn�
 - Prohlédnuto všech 53 snímků digitální sady MZA `PE0584`.
 - Bezpečně určeno 25 domovních archů a **174 zapsaných osob**.
 - Úplný přepis všech osmi osob z čp. 11 je hotový.
-- U ostatních domů je zatím uzavřen počet osob, posloupnost líců a rubů a umístění pokračovacích řádků. Jmenný přepis se bude doplňovat dům po domu; nejasná čtení zůstanou označena.
+- Navazující jmenný přepis celé vsi se od 30. 7. 2026 vede samostatně v
+  [obyvatele_zahradky_domy.md](obyvatele_zahradky_domy.md). Všech 174 osob z č. 1a,
+  čp. 1–12 a 14–25 je přiřazeno k domu a domácnosti; nejistá čtení jsou výslovně
+  označena. Samostatný arch čp. 13 v sadě není. Tento soubor zůstává podrobným
+  dokladem původní kontroly sady a úplného přepisu čp. 11.
 
 Pramen a úplná mapa snímků: [technický index celé sady](prameny_online/scitani_lidu/1921/zahradka_cela_obec/README.md).
 
@@ -28,18 +32,18 @@ Pramen a úplná mapa snímků: [technický index celé sady](prameny_online/sci
 | 10 | 7 | 24–25 |  |
 | **11** | **8** | **26–27** | **cílový statek; dvě domácnosti** |
 | 12 | 5 | 28–29 |  |
-| 13 | 2 | 30–31 |  |
-| 14 | 7 | 32–33 |  |
-| 15 | 11 | 34–35 | tři osoby pokračují na rubu |
-| 16 | 11 | 36–37 | tři osoby pokračují na rubu |
-| 17 | 3 | 38–39 |  |
-| 18 | 6 | 40–41 |  |
-| 19 | 4 | 42–43 |  |
-| 20 | 16 | 44–45 | osm osob pokračuje na rubu; nejlidnatější arch |
-| 21 | 9 | 46–47 | jedna osoba pokračuje na rubu |
-| 22 | 4 | 48–49 |  |
-| 23 | 4 | 50–51 |  |
-| 24 | nezjištěno | — | samostatný arch v sadě nenalezen; důvod neznámý |
+| 13 | nezjištěno | — | samostatný arch v sadě nenalezen; důvod neznámý |
+| 14 | 2 | 30–31 |  |
+| 15 | 7 | 32–33 |  |
+| 16 | 11 | 34–35 | tři osoby pokračují na rubu |
+| 17 | 11 | 36–37 | tři osoby pokračují na rubu |
+| 18 | 3 | 38–39 |  |
+| 19 | 6 | 40–41 |  |
+| 20 | 4 | 42–43 |  |
+| 21 | 16 | 44–45 | osm osob pokračuje na rubu; nejlidnatější arch |
+| 22 | 9 | 46–47 | jedna osoba pokračuje na rubu |
+| 23 | 4 | 48–49 |  |
+| 24 | 4 | 50–51 |  |
 | 25 | 5 | 52–53 | poslední osoba má průběžné číslo 174 |
 | **Celkem** | **174** |  |  |
 

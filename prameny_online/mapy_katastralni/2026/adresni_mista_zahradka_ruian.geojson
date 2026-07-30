@@ -1,0 +1,427 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:5514"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705908.3099999987,
+     -1118266
+    ]
+   },
+   "properties": {
+    "cislodomovni": 1,
+    "adresa": "Zahrádka 1, 39501 Pošná",
+    "kod": 8882223,
+    "stavebniobjekt": 8831181
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705931.9100000001,
+     -1118186.7800000012
+    ]
+   },
+   "properties": {
+    "cislodomovni": 2,
+    "adresa": "Zahrádka 2, 39501 Pošná",
+    "kod": 79448071,
+    "stavebniobjekt": 82154007
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705920.2399999984,
+     -1118160.7600000016
+    ]
+   },
+   "properties": {
+    "cislodomovni": 3,
+    "adresa": "Zahrádka 3, 39501 Pošná",
+    "kod": 8882240,
+    "stavebniobjekt": 8831203
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705911.7600000016,
+     -1118138.9899999984
+    ]
+   },
+   "properties": {
+    "cislodomovni": 4,
+    "adresa": "Zahrádka 4, 39501 Pošná",
+    "kod": 8882258,
+    "stavebniobjekt": 8831211
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705866.3000000007,
+     -1118120.2300000004
+    ]
+   },
+   "properties": {
+    "cislodomovni": 5,
+    "adresa": "Zahrádka 5, 39501 Pošná",
+    "kod": 8882266,
+    "stavebniobjekt": 8831220
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705853.4400000013,
+     -1118145.75
+    ]
+   },
+   "properties": {
+    "cislodomovni": 6,
+    "adresa": "Zahrádka 6, 39501 Pošná",
+    "kod": 8882274,
+    "stavebniobjekt": 8831238
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705814.3399999999,
+     -1118232.0599999987
+    ]
+   },
+   "properties": {
+    "cislodomovni": 7,
+    "adresa": "Zahrádka 7, 39501 Pošná",
+    "kod": 8882282,
+    "stavebniobjekt": 8831246
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705837.9699999988,
+     -1118093.8999999985
+    ]
+   },
+   "properties": {
+    "cislodomovni": 8,
+    "adresa": "Zahrádka 8, 39501 Pošná",
+    "kod": 8882291,
+    "stavebniobjekt": 8831254
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705815.3399999999,
+     -1118110.4699999988
+    ]
+   },
+   "properties": {
+    "cislodomovni": 9,
+    "adresa": "Zahrádka 9, 39501 Pošná",
+    "kod": 8882304,
+    "stavebniobjekt": 8831262
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705794.4699999988,
+     -1118101.9499999993
+    ]
+   },
+   "properties": {
+    "cislodomovni": 10,
+    "adresa": "Zahrádka 10, 39501 Pošná",
+    "kod": 8882312,
+    "stavebniobjekt": 8831271
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705772.7100000009,
+     -1118150.3999999985
+    ]
+   },
+   "properties": {
+    "cislodomovni": 11,
+    "adresa": "Zahrádka 11, 39501 Pošná",
+    "kod": 8882321,
+    "stavebniobjekt": 8831289
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705887.4499999993,
+     -1118196.5700000003
+    ]
+   },
+   "properties": {
+    "cislodomovni": 13,
+    "adresa": "Zahrádka 13, 39501 Pošná",
+    "kod": 8882339,
+    "stavebniobjekt": 8831297
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705630.4200000018,
+     -1117943.8399999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 14,
+    "adresa": "Zahrádka 14, 39501 Pošná",
+    "kod": 8882347,
+    "stavebniobjekt": 8831301
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705860.6000000015,
+     -1118267.5899999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 15,
+    "adresa": "Zahrádka 15, 39501 Pošná",
+    "kod": 8882355,
+    "stavebniobjekt": 8831319
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705822.879999999,
+     -1118257.629999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 16,
+    "adresa": "Zahrádka 16, 39501 Pošná",
+    "kod": 8882363,
+    "stavebniobjekt": 8831327
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705890.0599999987,
+     -1118123.75
+    ]
+   },
+   "properties": {
+    "cislodomovni": 20,
+    "adresa": "Zahrádka 20, 39501 Pošná",
+    "kod": 8882371,
+    "stavebniobjekt": 8831335
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705555.0199999996,
+     -1117906.0500000007
+    ]
+   },
+   "properties": {
+    "cislodomovni": 21,
+    "adresa": "Zahrádka 21, 39501 Pošná",
+    "kod": 8882380,
+    "stavebniobjekt": 8831343
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705798.6900000013,
+     -1118209.129999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 24,
+    "adresa": "Zahrádka 24, 39501 Pošná",
+    "kod": 8882398,
+    "stavebniobjekt": 8831351
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705780.0599999987,
+     -1118391.9200000018
+    ]
+   },
+   "properties": {
+    "cislodomovni": 25,
+    "adresa": "Zahrádka 25, 39501 Pošná",
+    "kod": 8882401,
+    "stavebniobjekt": 8831360
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705801.25,
+     -1118132.379999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 26,
+    "adresa": "Zahrádka 26, 39501 Pošná",
+    "kod": 8882410,
+    "stavebniobjekt": 8831378
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705946.129999999,
+     -1118235
+    ]
+   },
+   "properties": {
+    "cislodomovni": 27,
+    "adresa": "Zahrádka 27, 39501 Pošná",
+    "kod": 8882428,
+    "stavebniobjekt": 8831386
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705761.629999999,
+     -1118074.129999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 28,
+    "adresa": "Zahrádka 28, 39501 Pošná",
+    "kod": 8882436,
+    "stavebniobjekt": 8831394
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705779.5,
+     -1118399.379999999
+    ]
+   },
+   "properties": {
+    "cislodomovni": 29,
+    "adresa": "Zahrádka 29, 39501 Pošná",
+    "kod": 8882444,
+    "stavebniobjekt": 8831408
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705883,
+     -1118295
+    ]
+   },
+   "properties": {
+    "cislodomovni": 30,
+    "adresa": "Zahrádka 30, 39501 Pošná",
+    "kod": 30933056,
+    "stavebniobjekt": 30401500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705470.8099999987,
+     -1117871.2600000016
+    ]
+   },
+   "properties": {
+    "cislodomovni": 31,
+    "adresa": "Zahrádka 31, 39501 Pošná",
+    "kod": 79425089,
+    "stavebniobjekt": 97458104
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -705689.3200000003,
+     -1118336.3999999985
+    ]
+   },
+   "properties": {
+    "cislodomovni": 32,
+    "adresa": "Zahrádka 32, 39501 Pošná",
+    "kod": 86829114,
+    "stavebniobjekt": 150466081
+   }
+  }
+ ]
+}

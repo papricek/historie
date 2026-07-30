@@ -1,0 +1,740 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zahrádka u Pošné — mapa vsi a jejích obyvatel</title>
+</head>
+<body>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #ede6d8;
+    --surface: #f7f3ec;
+    --surface-2: #efe9dd;
+    --ink: #241e15;
+    --ink-2: #5c5347;
+    --muted: #8a8072;
+    --grid: #e0d7c6;
+    --baseline: #c9bfae;
+    --border: rgba(36,30,21,.12);
+    --accent: #a63d4e;
+    --accent-ink: #8c3242;
+    --water: #6d93a8;
+    --shadow: 0 1px 2px rgba(36,30,21,.06), 0 6px 24px -12px rgba(36,30,21,.18);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --page: #14110c;
+      --surface: #1a1713;
+      --surface-2: #201c16;
+      --ink: #ede5d6;
+      --ink-2: #b5ab99;
+      --muted: #857c6c;
+      --grid: #2b271f;
+      --baseline: #3a352b;
+      --border: rgba(237,229,214,.14);
+      --accent: #d97887;
+      --accent-ink: #e28e9b;
+      --water: #7fa3b8;
+      --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 28px -12px rgba(0,0,0,.5);
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #14110c;
+    --surface: #1a1713;
+    --surface-2: #201c16;
+    --ink: #ede5d6;
+    --ink-2: #b5ab99;
+    --muted: #857c6c;
+    --grid: #2b271f;
+    --baseline: #3a352b;
+    --border: rgba(237,229,214,.14);
+    --accent: #d97887;
+    --accent-ink: #e28e9b;
+    --water: #7fa3b8;
+    --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 28px -12px rgba(0,0,0,.5);
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --page: #ede6d8;
+    --surface: #f7f3ec;
+    --surface-2: #efe9dd;
+    --ink: #241e15;
+    --ink-2: #5c5347;
+    --muted: #8a8072;
+    --grid: #e0d7c6;
+    --baseline: #c9bfae;
+    --border: rgba(36,30,21,.12);
+    --accent: #a63d4e;
+    --accent-ink: #8c3242;
+    --water: #6d93a8;
+    --shadow: 0 1px 2px rgba(36,30,21,.06), 0 6px 24px -12px rgba(36,30,21,.18);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    * { transition: none !important; animation: none !important; }
+  }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    font-size: 17px;
+    line-height: 1.62;
+  }
+  a { color: var(--accent-ink); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+  .wrap { max-width: 1160px; margin: 0 auto; padding: 0 24px; }
+
+  header.hero { padding: 42px 0 6px; }
+  .rule-top { height: 4px; background: var(--accent); border-radius: 0 0 2px 2px; width: 88px; margin-bottom: 24px; }
+  .eyebrow {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline;
+  }
+  .eyebrow .sig { font-family: ui-monospace, "SF Mono", Menlo, monospace; letter-spacing: .04em; color: var(--muted); text-transform: none; }
+  h1 {
+    font-size: clamp(1.7rem, 4vw, 2.7rem);
+    line-height: 1.12; margin: 14px 0 10px; font-weight: 600; text-wrap: balance; letter-spacing: -.01em;
+  }
+  h1 .amp { color: var(--accent-ink); font-style: italic; }
+  .lede { color: var(--ink-2); font-size: 1.04rem; margin: 0 0 18px; max-width: 62ch; }
+  .lede strong { color: var(--ink); }
+  .backlink { font-family: system-ui, sans-serif; font-size: 13px; }
+
+  h2 { font-size: clamp(1.25rem, 2.4vw, 1.6rem); margin: 0; font-weight: 600; }
+  p.note { font-family: system-ui, sans-serif; font-size: 13px; color: var(--muted); line-height: 1.55; }
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    box-shadow: var(--shadow); padding: 20px 22px;
+  }
+
+  /* ---------- přepínač let ---------- */
+  .controls { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; margin: 18px 0 12px; }
+  .years {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    font-family: system-ui, sans-serif;
+  }
+  .controls input[type="search"] {
+    font: 14px system-ui, sans-serif; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--border); border-radius: 999px;
+    padding: 8px 14px; flex: 0 1 300px; min-width: 190px; margin-left: auto;
+  }
+  .controls input[type="search"]::placeholder { color: var(--muted); }
+  @media (max-width: 720px) {
+    .controls input[type="search"] { flex: 1 1 100%; margin-left: 0; }
+  }
+  .years button {
+    font: 600 13px/1 system-ui, sans-serif; letter-spacing: .03em;
+    color: var(--ink-2); background: var(--surface); border: 1px solid var(--border);
+    border-radius: 999px; padding: 8px 13px; cursor: pointer;
+    font-variant-numeric: tabular-nums;
+  }
+  .years button:hover { color: var(--ink); border-color: var(--baseline); }
+  .years button[aria-pressed="true"] {
+    background: var(--accent); border-color: var(--accent); color: #fff;
+  }
+  .years .sep { align-self: center; color: var(--muted); font-size: 12px; padding: 0 2px; }
+
+  /* ---------- mapa ---------- */
+  .maplayout { display: grid; grid-template-columns: minmax(0, 1fr) 370px; gap: 18px; align-items: start; }
+  @media (max-width: 940px) { .maplayout { grid-template-columns: 1fr; } }
+
+  .mapcard { padding: 10px; }
+  .mapbox {
+    position: relative; overflow: hidden; border-radius: 6px;
+    aspect-ratio: 1 / 1; background: var(--surface-2);
+    touch-action: pan-y; cursor: grab;
+  }
+  .mapbox.dragging { cursor: grabbing; }
+  .mappane { position: absolute; inset: 0; transform-origin: 0 0; }
+  .mappane img.layer {
+    position: absolute; inset: 0; width: 100%; height: 100%; display: block;
+    user-select: none; -webkit-user-drag: none; pointer-events: none;
+  }
+  #layerB { opacity: 0; transition: opacity .35s ease; }
+
+  .mappane { --mz: 1; }
+  .marker {
+    position: absolute; transform: translate(-50%, -50%) scale(var(--mz));
+    width: 21px; height: 21px; border-radius: 50%;
+    background: var(--accent); color: #fff;
+    border: 1.5px solid rgba(255,255,255,.9);
+    font: 700 9.5px/18px system-ui, sans-serif; text-align: center;
+    letter-spacing: -.02em; cursor: pointer; padding: 0;
+    box-shadow: 0 1px 4px rgba(0,0,0,.4);
+  }
+  .marker:hover { z-index: 6; filter: brightness(1.18); }
+  .marker::after { content: ""; position: absolute; inset: -7px; border-radius: 50%; }
+  .marker, .years button, .chips button, .zavrit { -webkit-tap-highlight-color: transparent; }
+  @media (pointer: coarse) {
+    .marker { width: 27px; height: 27px; line-height: 24px; font-size: 11px; }
+    .marker.statek { width: 32px; height: 32px; line-height: 29px; font-size: 12.5px; }
+  }
+  .marker.vybrany {
+    z-index: 5; background: var(--accent-ink);
+    outline: 3px solid color-mix(in srgb, var(--accent) 45%, transparent);
+    outline-offset: 1px;
+  }
+  .marker.statek { width: 25px; height: 25px; line-height: 22px; font-size: 10.5px; }
+  .marker.novy {
+    background: color-mix(in srgb, var(--surface) 80%, #888 20%);
+    color: var(--ink-2); border-color: color-mix(in srgb, var(--ink-2) 55%, transparent);
+    box-shadow: none; opacity: .82;
+  }
+  .mapzoom {
+    position: absolute; left: 10px; top: 10px; z-index: 8;
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .mapzoom button {
+    width: 32px; height: 32px; border-radius: 6px; border: 1px solid var(--border);
+    background: color-mix(in srgb, var(--surface) 88%, transparent); color: var(--ink);
+    font: 600 17px/1 system-ui, sans-serif; cursor: pointer; backdrop-filter: blur(4px);
+  }
+  .mapzoom button:hover { border-color: var(--baseline); }
+  .mapattrib {
+    font-family: system-ui, sans-serif; font-size: 11.5px; color: var(--muted);
+    margin: 8px 4px 2px; line-height: 1.5;
+  }
+
+  /* ---------- boční panel; na úzkých displejích spodní list ---------- */
+  .panel { padding: 16px 18px; position: sticky; top: 14px; }
+  .zavrit {
+    display: none; position: absolute; top: 10px; right: 10px; z-index: 2;
+    width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border);
+    background: var(--surface-2); color: var(--ink);
+    font: 400 19px/1 system-ui, sans-serif; cursor: pointer;
+  }
+  @media (max-width: 940px) {
+    .panel {
+      position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 60; margin: 0;
+      border-radius: 14px 14px 0 0;
+      max-height: 52vh; display: flex; flex-direction: column;
+      transform: translateY(105%); transition: transform .28s ease;
+      box-shadow: 0 -6px 30px rgba(0,0,0,.25);
+      padding-top: 14px;
+    }
+    .panel.otevreny { transform: translateY(0); }
+    .zavrit { display: block; }
+    #panelObsah { display: flex; flex-direction: column; min-height: 0; }
+    #panelObsah h3 { padding-right: 40px; }
+  }
+  .panel h3 { margin: 0; font-size: 1.12rem; font-weight: 600; }
+  .panel .sub {
+    font-family: system-ui, sans-serif; font-size: 12.5px; color: var(--ink-2);
+    margin: 4px 0 10px; line-height: 1.5;
+  }
+  .panel .sub b { color: var(--accent-ink); }
+  .osoby { max-height: 480px; overflow-y: auto; border-top: 1px solid var(--border); }
+  @media (max-width: 940px) { .osoby { max-height: none; flex: 1 1 auto; min-height: 0; } }
+  .osoba { padding: 8px 2px; border-bottom: 1px solid var(--border); }
+  .osoba .kdy { font-family: system-ui, sans-serif; font-size: 11px; color: var(--muted); line-height: 1.45; }
+  .osoba .kdo { font-size: 15px; line-height: 1.35; margin: 1px 0; }
+  .osoba .co { font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); line-height: 1.5; }
+  .osoba .co b { color: var(--accent-ink); }
+  .osoba .zdroj { font-family: system-ui, sans-serif; font-size: 10.5px; color: var(--muted); line-height: 1.5; margin-top: 1px; }
+  .nej { color: var(--muted); font-style: italic; }
+  mark {
+    background: color-mix(in srgb, var(--accent) 22%, transparent);
+    color: inherit; border-radius: 2px; padding: 0 1px;
+  }
+
+  /* ---------- hledání + neumístěné domy ---------- */
+  .toolrow { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 4px 0 10px; }
+  .toolrow input[type="search"] {
+    flex: 1 1 220px; font: 14px system-ui, sans-serif; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+    padding: 8px 12px;
+  }
+  .toolrow input[type="search"]::placeholder { color: var(--muted); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-family: system-ui, sans-serif; }
+  .chips .lbl { font-size: 12px; color: var(--muted); margin-right: 2px; }
+  .chips button {
+    font: 600 12px/1 system-ui, sans-serif; color: var(--accent-ink);
+    background: var(--surface); border: 1px dashed color-mix(in srgb, var(--accent-ink) 55%, transparent);
+    border-radius: 999px; padding: 6px 11px; cursor: pointer;
+  }
+  .chips button:hover { border-style: solid; }
+  .chips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  .vysledky { margin: 0 0 10px; }
+  .vysledky .osoba { cursor: pointer; }
+  .vysledky .osoba:hover { background: var(--surface-2); }
+  .vysledky .dumref { font-family: system-ui, sans-serif; font-size: 11px; font-weight: 700; color: var(--accent-ink); }
+
+  /* ---------- výklad ---------- */
+  section.cist { padding: 34px 0 10px; }
+  .cist .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 14px; }
+  @media (max-width: 760px) { .cist .grid2 { grid-template-columns: 1fr; } }
+  .cist h4 { margin: 0 0 6px; font-size: 1rem; font-weight: 600; }
+  .cist p { font-family: system-ui, sans-serif; font-size: 13.5px; color: var(--ink-2); line-height: 1.6; margin: 0 0 8px; }
+  .cist p b { color: var(--ink); }
+
+  footer { padding: 34px 0 46px; }
+  footer p { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); line-height: 1.6; }
+</style>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="rule-top"></div>
+    <div class="eyebrow">
+      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 30.&nbsp;7.&nbsp;2026</span>
+      <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
+    </div>
+    <h1>Domy a lidé <span class="amp">na&nbsp;Zahrádce</span></h1>
+    <p class="lede">Každé kolečko je jeden dům. Klepnutím na kolečko se ukáže, koho k&nbsp;němu prameny
+      zatím dokládají — <strong><span id="statDomu">26</span> domovních oddílů</strong> a <strong><span id="statRadku">828</span> osobních dokladových řádků</strong>
+      z&nbsp;matrik farnosti Pošná (od&nbsp;1772), josefínského katastru a sčítání lidu 1921 — a nejstarší jmenný soupis vsi z berní ruly 1654.
+      Podklad mapy lze přepínat mezi císařským otiskem 1829 a leteckými snímky 1949–2022.</p>
+    <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls">
+    <div class="years" id="years" role="group" aria-label="Rok mapového podkladu"></div>
+    <input type="search" id="hledat" placeholder="Hledat osobu (např. Hýbl, Franík…)"
+           aria-label="Hledat osobu ve všech domech">
+  </div>
+
+  <div class="maplayout">
+    <div class="card mapcard">
+      <div class="mapbox" id="mapbox">
+        <div class="mappane" id="mappane">
+          <img class="layer" id="layerA" src="img/mapa/podklad_2022.jpg" alt="Mapový podklad vsi Zahrádka">
+          <img class="layer" id="layerB" alt="">
+          <div id="markers"></div>
+        </div>
+        <div class="mapzoom">
+          <button id="zin" title="Přiblížit" aria-label="Přiblížit">+</button>
+          <button id="zout" title="Oddálit" aria-label="Oddálit">−</button>
+        </div>
+      </div>
+      <p class="mapattrib" id="attrib"></p>
+      <div class="chips" id="chips">
+        <span class="lbl">Domy zatím bez umístění na mapě:</span>
+      </div>
+    </div>
+
+    <aside class="card panel">
+      <button class="zavrit" id="zavritPanel" aria-label="Zavřít panel">×</button>
+      <div id="panelObsah"></div>
+    </aside>
+  </div>
+
+  <section class="cist">
+    <h2>Jak mapu číst</h2>
+    <div class="grid2">
+      <div class="card">
+        <h4>Co znamenají body</h4>
+        <p>Kolečka stojí na <b>dnešních definičních bodech adres RÚIAN</b> (staženo 30.&nbsp;7.&nbsp;2026).
+          Ztotožnění historického čísla <b>N</b> s&nbsp;dnešním <b>čp.</b> je pracovní předpoklad —
+          bezpečně je doloženo jen pro <b>čp.&nbsp;1</b> (st.&nbsp;29) a <b>čp.&nbsp;11</b> (st.&nbsp;1, panský dvůr).
+          Šedé body jsou novější čísla (26–32), která ve spisu zatím nemají doklady.</p>
+        <p>Historická čísla <b>N12, N17, N18, N19, N22 a N23</b> dnes v&nbsp;RÚIAN neexistují.
+          Jejich přesná poloha zatím nebyla z&nbsp;pramenů určena, proto jsou pod mapou jen jako tlačítka —
+          jejich obyvatelé ale ve spisu jsou. Na podkladu 1829 si také všimněte, že body čp.&nbsp;14
+          a&nbsp;21 stojí na místě, kde tehdy žádný dům nestál: dnešní poloha
+          čísla nemusí odpovídat historické.</p>
+      </div>
+      <div class="card">
+        <h4>Co znamenají data</h4>
+        <p><i>Od–do doloženo</i> je nejstarší a nejmladší nalezený datovaný doklad —
+          <b>neznamená nepřetržité bydliště</b>. Jediný křest, sňatek, úmrtí nebo sčítací arch je bodový doklad.
+          Kurzívou jsou nejistá či pracovní čtení jmen.</p>
+        <p>Zarovnání podkladů (otisk 1829 i letecké snímky) je <b>badatelské, nikoli úřední georeference</b>;
+          odchylky v&nbsp;řádu metrů jsou možné. Úplný pramenný aparát každého řádku je
+          v&nbsp;domovním přehledu výzkumného spisu.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Podklady: císařský otisk stabilního katastru 1829 a archivní letecké měřické snímky 1949–1992
+      (<a href="https://ags.cuzk.gov.cz/archiv/">Archiv ČÚZK</a>, snímky VGHMÚř Dobruška),
+      historické ortofoto 1953 (CENIA), ortofoto 2022 a adresní body RÚIAN (ČÚZK) — badatelské reprodukce s&nbsp;citací.
+      Osobní údaje pocházejí z&nbsp;matrik SOA Třeboň, josefínského katastru a sčítání lidu 1921 (MZA Brno, sada PE0584);
+      přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.</p>
+  </footer>
+</main>
+
+<script src="mapa_data.js"></script>
+<script>
+"use strict";
+
+/* Souřadnice bodů: definiční body adres RÚIAN převedené do rámu 600 m EPSG:5514
+   (levý horní roh X=-706072, Y=-1117850; zdroj prameny_online/mapy_katastralni/
+   2026/adresni_mista_zahradka_ruian.geojson). Hodnoty = podíl šířky/výšky rámu.
+   Bod čp. 31 leží ~1 m za východním okrajem výřezu a je přisazen k okraji. */
+const POZICE = {
+  "1":  [0.2728, 0.6933], "2":  [0.2335, 0.5613], "3":  [0.2529, 0.5179],
+  "4":  [0.2671, 0.4816], "5":  [0.3428, 0.4504], "6":  [0.3643, 0.4929],
+  "7":  [0.4294, 0.6368], "8":  [0.3901, 0.4065], "9":  [0.4278, 0.4341],
+  "10": [0.4626, 0.4199], "11": [0.4988, 0.5007], "13": [0.3076, 0.5776],
+  "14": [0.7360, 0.1564], "15": [0.3523, 0.6960], "16": [0.4152, 0.6794],
+  "20": [0.3032, 0.4562], "21": [0.8616, 0.0934], "24": [0.4555, 0.5985],
+  "25": [0.4866, 0.9032],
+  "26": [0.4512, 0.4706], "27": [0.2098, 0.6417], "28": [0.5173, 0.3735],
+  "29": [0.4875, 0.9156], "30": [0.3150, 0.7417], "31": [0.9950, 0.0354],
+  "32": [0.6378, 0.8107],
+};
+const NOVA_CISLA = ["26", "27", "28", "29", "30", "31", "32"];
+
+const ROKY = ["1829", "1949", "1953", "1961", "1967", "1975", "1978", "1990", "1992", "2022"];
+const ATTRIB = {
+  "1829": "Císařský otisk stabilního katastru, 1829 — Archiv ČÚZK; badatelské zarovnání do dnešního souřadnicového rámu.",
+  "1949": "Letecký měřický snímek 1949 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1953": "Historické ortofoto 1953 — CENIA / VGHMÚř Dobruška; referenční geometrie letecké řady.",
+  "1961": "Letecký měřický snímek 1961 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1967": "Letecký měřický snímek 1967 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1975": "Letecký měřický snímek 1975 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1978": "Letecký měřický snímek 1978 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1990": "Letecký měřický snímek 1990 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "1992": "Letecký měřický snímek 1992 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
+  "2022": "Ortofoto 2022 — ČÚZK; referenční výřez 600 × 600 m.",
+};
+
+const DOMY = {};
+for (const dum of window.MAPA_DATA.domy) DOMY[dum.klic] = dum;
+const CELKEM_RADKU = window.MAPA_DATA.domy.reduce((n, d) => n + d.osoby.length, 0);
+document.getElementById("statDomu").textContent = window.MAPA_DATA.domy.length;
+document.getElementById("statRadku").textContent = CELKEM_RADKU;
+
+/* ---------- přepínač let ---------- */
+const yearsBox = document.getElementById("years");
+let rok = "2022";
+for (const r of ROKY) {
+  const b = document.createElement("button");
+  b.textContent = r;
+  b.setAttribute("aria-pressed", r === rok ? "true" : "false");
+  b.addEventListener("click", () => prepniRok(r));
+  yearsBox.appendChild(b);
+  if (r === "1829") {
+    const s = document.createElement("span");
+    s.className = "sep";
+    s.textContent = "·";
+    yearsBox.appendChild(s);
+  }
+}
+
+const layerA = document.getElementById("layerA");
+const layerB = document.getElementById("layerB");
+const attrib = document.getElementById("attrib");
+attrib.textContent = ATTRIB[rok];
+
+let prepinani = null;
+function prepniRok(novy) {
+  if (novy === rok) return;
+  rok = novy;
+  for (const b of yearsBox.querySelectorAll("button"))
+    b.setAttribute("aria-pressed", b.textContent === rok ? "true" : "false");
+  attrib.textContent = ATTRIB[rok];
+  zapisHash();
+  const src = "img/mapa/podklad_" + rok + ".jpg";
+  if (prepinani) { layerB.removeEventListener("load", prepinani); prepinani = null; }
+  prepinani = () => {
+    layerB.style.opacity = "1";
+    setTimeout(() => {
+      layerA.src = layerB.src;
+      layerB.style.transition = "none";
+      layerB.style.opacity = "0";
+      void layerB.offsetWidth;
+      layerB.style.transition = "";
+    }, 380);
+    prepinani = null;
+  };
+  layerB.addEventListener("load", prepinani, { once: true });
+  layerB.src = src;
+}
+/* přednačtení ostatních vrstev na pozadí */
+window.addEventListener("load", () => {
+  for (const r of ROKY) if (r !== rok) (new Image()).src = "img/mapa/podklad_" + r + ".jpg";
+});
+
+/* ---------- body domů ---------- */
+const markersBox = document.getElementById("markers");
+let vybrany = null;
+
+for (const [cp, [x, y]] of Object.entries(POZICE)) {
+  const b = document.createElement("button");
+  const novy = NOVA_CISLA.includes(cp);
+  b.className = "marker" + (novy ? " novy" : "") + (cp === "11" ? " statek" : "");
+  b.style.left = (x * 100).toFixed(2) + "%";
+  b.style.top = (y * 100).toFixed(2) + "%";
+  b.textContent = cp;
+  b.dataset.klic = cp;
+  const dum = DOMY[cp];
+  const jmeno = dum ? dum.nazev : "čp. " + cp + " (novější dům)";
+  b.setAttribute("aria-label", jmeno);
+  b.title = jmeno;
+  b.addEventListener("click", (e) => { e.stopPropagation(); vyberDum(cp); });
+  b.addEventListener("focus", () => vyberDum(cp));
+  markersBox.appendChild(b);
+}
+
+/* ---------- neumístěné domy ---------- */
+const chipsBox = document.getElementById("chips");
+const BEZ_POZICE = ["12", "17", "18", "19", "22", "23", "1a", "x"];
+for (const klic of BEZ_POZICE) {
+  const dum = DOMY[klic];
+  if (!dum) continue;
+  const b = document.createElement("button");
+  b.textContent = dum.nazev.replace(/ \/ čp\. \d+$/, "").replace("Č. ", "arch č. ");
+  b.dataset.klic = klic;
+  b.setAttribute("aria-pressed", "false");
+  b.addEventListener("click", () => vyberDum(klic));
+  chipsBox.appendChild(b);
+}
+
+/* ---------- panel ---------- */
+const panel = document.getElementById("panelObsah");
+const panelEl = document.querySelector(".panel");
+function otevriPanel() { panelEl.classList.add("otevreny"); }
+document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny"));
+window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny"); });
+
+function radekHtml(o) {
+  return '<div class="osoba">' +
+    '<div class="kdy">' + o.d + "</div>" +
+    '<div class="kdo">' + o.j + "</div>" +
+    '<div class="co">' + o.p + "</div>" +
+    (o.z ? '<div class="zdroj">' + o.z + "</div>" : "") + "</div>";
+}
+
+function uvodPanelu() {
+  panel.innerHTML =
+    "<h3>Zahrádka po domech</h3>" +
+    '<p class="sub"><b>' + window.MAPA_DATA.domy.length + " domovních oddílů</b> · " +
+    CELKEM_RADKU + " osobních dokladových řádků · doklady 1654 a 1772–1930.<br>" +
+    "Klepněte na kolečko domu, nebo hledejte osobu. " +
+    "Podklad mapy přepnete roky nad mapou.</p>" +
+    '<p class="sub">Největší oddíl má panský dvůr <b>N11 / čp. 11</b> (172 řádků) — ' +
+    "jeho podrobný spis je na <a href=\"index.html\">hlavní stránce</a>.</p>" +
+    '<p class="sub">Každý dům má trvalý odkaz — například <a href="#11/1829">#11/1829</a> ' +
+    "otevře dvůr čp. 11 na mapě roku 1829.</p>";
+}
+
+function vyberDum(klic) {
+  vybrany = klic;
+  for (const m of markersBox.querySelectorAll(".marker"))
+    m.classList.toggle("vybrany", m.dataset.klic === klic);
+  for (const ch of chipsBox.querySelectorAll("button"))
+    ch.setAttribute("aria-pressed", ch.dataset.klic === klic ? "true" : "false");
+  zapisHash();
+  otevriPanel();
+
+  const dum = DOMY[klic];
+  if (!dum) {
+    panel.innerHTML =
+      "<h3>čp. " + klic + "</h3>" +
+      '<p class="sub">Novější domovní číslo — v domovním registru spisu zatím nemá žádný doklad.' +
+      (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>";
+    return;
+  }
+  let pozn = "";
+  if (BEZ_POZICE.includes(klic) && klic !== "1a")
+    pozn = "<br>Číslo dnes v RÚIAN neexistuje; poloha domu zatím nebyla z pramenů určena.";
+  if (klic === "1a")
+    pozn = "<br>Samostatný sčítací arch z roku 1921 vedle čp. 1; poloha bytu není z archu zřejmá.";
+  if (klic === "x")
+    pozn = "<br>Osoby bezpečně spojené se Zahrádkou, u nichž pramen číslo domu neuvádí — " +
+      "mimo jiné osm hospodářů berní ruly 1654, nejstarší jménem známí obyvatelé vsi.";
+  if (klic === "11")
+    pozn = "<br>Panský dvůr na st. 1 — podrobný výklad na <a href=\"index.html\">hlavní stránce</a>.";
+  if (klic === "13")
+    pozn = "<br>Ve sčítání 1921 samostatný arch čp. 13 v sadě chybí.";
+  if (klic === "1")
+    pozn = "<br>Historické N1 je bezpečně doloženo na st. 29 — jiný dům než panský dvůr čp. 11.";
+  const poc1921 = dum.osoby.filter((o) => o.d.indexOf("(sčítací arch)") >= 0).length;
+  panel.innerHTML =
+    "<h3>" + dum.nazev + "</h3>" +
+    '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
+    dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
+    '<div class="osoby">' + dum.osoby.map((o) => radekHtml(o)).join("") + "</div>";
+}
+
+uvodPanelu();
+
+/* ---------- hledání ---------- */
+const hledat = document.getElementById("hledat");
+function bezDiakritiky(s) {
+  return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+function zvyrazni(html, dotaz) {
+  /* zvýraznění jen v textových uzlech mimo značky */
+  const d = document.createElement("div");
+  d.innerHTML = html;
+  const projdi = (uzel) => {
+    for (const ch of Array.from(uzel.childNodes)) {
+      if (ch.nodeType === Node.TEXT_NODE) {
+        const bez = bezDiakritiky(ch.textContent);
+        const i = bez.indexOf(dotaz);
+        if (i >= 0) {
+          const span = document.createElement("span");
+          const t = ch.textContent;
+          span.append(t.slice(0, i));
+          const m = document.createElement("mark");
+          m.textContent = t.slice(i, i + dotaz.length);
+          span.append(m, t.slice(i + dotaz.length));
+          ch.replaceWith(...span.childNodes);
+        }
+      } else projdi(ch);
+    }
+  };
+  projdi(d);
+  return d.innerHTML;
+}
+
+hledat.addEventListener("input", () => {
+  const dotaz = bezDiakritiky(hledat.value.trim());
+  if (dotaz.length < 2) { vybrany ? vyberDum(vybrany) : uvodPanelu(); return; }
+  const shody = [];
+  for (const dum of window.MAPA_DATA.domy) {
+    for (const o of dum.osoby) {
+      if (bezDiakritiky(o.j + " " + o.p + " " + (o.z || "")).includes(dotaz)) {
+        shody.push({ dum, o });
+        if (shody.length >= 80) break;
+      }
+    }
+    if (shody.length >= 80) break;
+  }
+  let html = "<h3>Hledání: „" + hledat.value.trim() + "“</h3>" +
+    '<p class="sub">' + (shody.length >= 80 ? "Prvních 80 shod" : shody.length + " shod") +
+    " — klepnutím otevřete dům.</p>" + '<div class="osoby vysledky">';
+  for (const s of shody) {
+    html += '<div class="osoba" role="button" tabindex="0" data-klic="' + s.dum.klic + '">' +
+      '<div class="dumref">' + s.dum.nazev + "</div>" +
+      '<div class="kdy">' + s.o.d + "</div>" +
+      '<div class="kdo">' + zvyrazni(s.o.j, dotaz) + "</div>" +
+      '<div class="co">' + zvyrazni(s.o.p, dotaz) + "</div>" +
+      (s.o.z ? '<div class="zdroj">' + zvyrazni(s.o.z, dotaz) + "</div>" : "") + "</div>";
+  }
+  html += shody.length ? "</div>" : '<p class="sub">Nic nenalezeno.</p></div>';
+  panel.innerHTML = html;
+  otevriPanel();
+  for (const el of panel.querySelectorAll(".vysledky .osoba")) {
+    const otevri = () => { hledat.value = ""; vyberDum(el.dataset.klic); };
+    el.addEventListener("click", otevri);
+    el.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); otevri(); } });
+  }
+});
+
+/* ---------- posun a přiblížení ---------- */
+const mapbox = document.getElementById("mapbox");
+const mappane = document.getElementById("mappane");
+let zoom = 1, px = 0, py = 0;
+
+function aplikuj() {
+  const max = mapbox.clientWidth * (zoom - 1);
+  px = Math.min(0, Math.max(-max, px));
+  py = Math.min(0, Math.max(-max, py));
+  mappane.style.transform = "translate(" + px + "px," + py + "px) scale(" + zoom + ")";
+  /* body domů si drží stálou velikost nezávisle na přiblížení */
+  mappane.style.setProperty("--mz", (1 / Math.sqrt(zoom)).toFixed(3));
+  /* v základním měřítku nechává mapa svislé gesto stránce (žádná past na rolování) */
+  mapbox.style.touchAction = zoom > 1 ? "none" : "pan-y";
+}
+function nastavZoom(novy, cx, cy) {
+  const stary = zoom;
+  zoom = Math.min(4, Math.max(1, novy));
+  const r = mapbox.getBoundingClientRect();
+  const x = (cx ?? r.width / 2), y = (cy ?? r.height / 2);
+  px = x - (zoom / stary) * (x - px);
+  py = y - (zoom / stary) * (y - py);
+  aplikuj();
+}
+document.getElementById("zin").addEventListener("click", () => nastavZoom(zoom * 1.6));
+document.getElementById("zout").addEventListener("click", () => nastavZoom(zoom / 1.6));
+mapbox.addEventListener("dblclick", (e) => {
+  const r = mapbox.getBoundingClientRect();
+  nastavZoom(zoom < 2 ? zoom * 1.8 : 1, e.clientX - r.left, e.clientY - r.top);
+});
+mapbox.addEventListener("wheel", (e) => {
+  if (!e.ctrlKey && !e.metaKey) return;
+  e.preventDefault();
+  const r = mapbox.getBoundingClientRect();
+  nastavZoom(zoom * (e.deltaY < 0 ? 1.15 : 1 / 1.15), e.clientX - r.left, e.clientY - r.top);
+}, { passive: false });
+
+const prsty = new Map();
+let drag = null;
+let pinch = null;
+mapbox.addEventListener("pointerdown", (e) => {
+  if (e.target.closest(".marker") || e.target.closest(".mapzoom")) return;
+  prsty.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  mapbox.setPointerCapture(e.pointerId);
+  if (prsty.size === 1) {
+    drag = { x: e.clientX - px, y: e.clientY - py };
+    mapbox.classList.add("dragging");
+  } else if (prsty.size === 2) {
+    drag = null;
+    const [a, b] = [...prsty.values()];
+    pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), z: zoom };
+  }
+});
+mapbox.addEventListener("pointermove", (e) => {
+  if (!prsty.has(e.pointerId)) return;
+  prsty.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  if (pinch && prsty.size === 2) {
+    const [a, b] = [...prsty.values()];
+    const d = Math.hypot(a.x - b.x, a.y - b.y);
+    if (pinch.d > 0) {
+      const r = mapbox.getBoundingClientRect();
+      nastavZoom(pinch.z * d / pinch.d, (a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top);
+    }
+  } else if (drag) {
+    px = e.clientX - drag.x;
+    py = e.clientY - drag.y;
+    aplikuj();
+  }
+});
+const konecDrag = (e) => {
+  prsty.delete(e.pointerId);
+  if (prsty.size < 2) pinch = null;
+  if (prsty.size === 0) {
+    drag = null;
+    mapbox.classList.remove("dragging");
+  } else if (prsty.size === 1) {
+    const [a] = [...prsty.values()];
+    drag = { x: a.x - px, y: a.y - py };
+  }
+};
+mapbox.addEventListener("pointerup", konecDrag);
+mapbox.addEventListener("pointercancel", konecDrag);
+
+/* ---------- trvalé odkazy: #dum nebo #dum/rok ---------- */
+let hashCasovac = null;
+function zapisHash() {
+  clearTimeout(hashCasovac);
+  hashCasovac = setTimeout(() => {
+    const casti = [];
+    if (vybrany) casti.push(vybrany);
+    if (rok !== "2022") casti.push(rok);
+    if (casti.length) history.replaceState(null, "", "#" + casti.join("/"));
+    else history.replaceState(null, "", location.pathname + location.search);
+  }, 350);
+}
+function aplikujHash() {
+  const tokeny = decodeURIComponent(location.hash.slice(1)).split("/").filter(Boolean);
+  let dum = null;
+  for (const t of tokeny) {
+    if (ROKY.includes(t)) prepniRok(t);
+    else if (DOMY[t] || POZICE[t]) dum = t;
+  }
+  if (dum) vyberDum(dum);
+  return dum;
+}
+window.addEventListener("hashchange", aplikujHash);
+if (aplikujHash()) mapbox.scrollIntoView({ block: "center" });
+</script>
+</body>
+</html>

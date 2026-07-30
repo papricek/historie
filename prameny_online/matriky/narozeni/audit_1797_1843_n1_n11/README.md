@@ -2,7 +2,7 @@
 
 Zdroj: SOA Třeboň, římskokatolická farnost Pošná, [kniha narozených 6620](https://digi.ceskearchivy.cz/6620), zahrádecký oddíl na snímcích 80–117.
 
-Audit z 24. 7. 2026 znovu kontroloval **samostatný sloupec `Nomer`**, nikoli sousední značky pro náboženství, pohlaví nebo legitimitu. Výsledek potvrzuje všech osmnáct dříve nalezených událostí N11. Nejdůležitější kontrolní případ je snímek 83: dubnový zápis Adolfa Jindřicha má N1, ale následující červnový zápis Františka Dominika Josefa má ve svém adresním sloupci dvě jedničky, tedy N11. Jde o dvě různé osoby a dva různé řádky.
+Audit z 24. 7. 2026 znovu kontroloval **samostatný sloupec `Nomer`**, nikoli sousední značky pro náboženství, pohlaví nebo legitimitu. Původních osmnáct nalezených událostí N11 kontrolou prošlo. Celovesnický průchod 30. 7. 2026 však odhalil ještě přehlédnutý zápis Josefa Zelinky ze 7. 1. 1811 na snímku 89, jehož adresní sloupec rovněž bezpečně uvádí N11. Opravený výsledek je proto **devatenáct událostí N11**. Důležitým starším kontrolním případem zůstává snímek 83: dubnový zápis Adolfa Jindřicha má N1, ale následující červnový zápis Františka Dominika Josefa má ve svém adresním sloupci dvě jedničky, tedy N11. Jde o dvě různé osoby a dva různé řádky.
 
 | Rok a událost | Snímek | Výsledek adresního auditu | Uložený obraz |
 |---|---:|---|---|
@@ -14,6 +14,7 @@ Audit z 24. 7. 2026 znovu kontroloval **samostatný sloupec `Nomer`**, nikoli so
 | 1808, Františka Barbora | 87 | N11; legitimní dcera Jakuba a Terezie | [výřez](../1808/zaznam_frantiska_barbora_n11_snim87.jpg), [zvětšení a nové čtení](../1808/README.md) |
 | 1808, Jakub, druhý výraz nejistý | 87 | N11; jediný chlapec, nikoli dvojčata | [výřez](../1808/zaznam_jakub_druhe_jmeno_nejiste_n11_snim87.jpg) |
 | 1808, Josef Dominik Emerich | 87 | N11; nemanželský, otcovský údaj zrušen | [výřez](../1808/zaznam_josef_dominik_emerich_n11_snim87.jpg), [zvětšení a nové čtení](../1808/README.md) |
+| 1811, Josef Zelinka | 89 | N11; přehlédnutý zápis doplněný při inventáři celé vsi; otec Václav Zelinka, pastýř ze dvora | [celý místní snímek](../1797-1843_zahradka_cela_obec/kniha6620_snim089.jpg), [originál](https://digi.ceskearchivy.cz/6620/89) |
 | 1812, Samuel Felix a další nejisté jméno | 90 | N11 | [výřez](../1812/zaznam_samuel_felix_n11_snim90.jpg) |
 | 1812, Barbora | 91 | N11 | [výřez](../1812/zaznam_barbora_n11_snim91.jpg) |
 | 1814, Jana Pavlína | 92 | N11 | [výřez](../1814/zaznam_jana_pavlina_n11_snim92.jpg), [nové čtení](../1814/README.md) |
@@ -25,4 +26,4 @@ Audit z 24. 7. 2026 znovu kontroloval **samostatný sloupec `Nomer`**, nikoli so
 | 1827, Františka Josefa Ryplová | 105 | N11 | [výřez](../1827/zaznam_frantiska_josefa_n11_snim105.jpg), [zvětšení a oprava příjmení](../1827/README.md) |
 | 1836, Václav Vojtěch a další nejisté jméno | 112 | N11 | [výřez](../1836/zaznam_vaclav_vojtech_n11_snim112.jpg) |
 
-Počet **událostí** zůstává osmnáct. Počet osob se ale o jednu snižuje proti původnímu pracovnímu přepisu, protože řádek z 20. 5. 1808 neobsahuje dvě děti. Druhý výraz pod jménem Jakub zůstává bez srovnávacího zápisu nepřepsaný; jediná značka v mužské rubrice však bezpečně vylučuje samostatnou dívku Boženu.
+Počet **událostí** je po doplnění snímku 89 devatenáct. Oprava nemění závěr k roku 1808: řádek z 20. 5. neobsahuje dvě děti. Druhý výraz pod jménem Jakub zůstává bez srovnávacího zápisu nepřepsaný; jediná značka v mužské rubrice bezpečně vylučuje samostatnou dívku Boženu.
