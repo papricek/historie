@@ -378,6 +378,70 @@ Plášil je synem samostatně evidovaných rodičů Jana a Kateřiny.
 | N17 | Michal Nuník (?) | 15. / 16. 3. 1862 | Václav Nuník (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N11 | Jan Plášil | 2. / 3. 4. 1862 | Jan Plášil | Kateřina | dítě, rodiče, dům a oba dny bezpečné; bez automatického sloučení s jinými Plášilovými |
 
+## Snímek 331 — roky 1862–1863
+
+Sedm událostí má adresní řadu **N1, N10, N15, N18, N21, N22 a N20**. Žádná
+nepatří N11.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | František Zemišek (?) | 13. 4. 1862; pokřtěn téhož dne | Matěj Zemišek (?) | Marianna | dům, den a rodiče bezpečné; příjmení pracovní |
+| N10 | Jan Kejval | 24. / 25. 5. 1862 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | František Kejval | 1. / 2. 10. 1862 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N18 | Marie Díčková (?) | 13. / 14. 10. 1862 | Jan Díčka (?) | Josefa | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N21 | Jan Dušánek | 27. 10. 1862; pokřtěn téhož dne | František Dušánek | Anna | dítě, rodiče, dům a den bezpečné |
+| N22 | Marie `[příjmení v dětském sloupci neuvedeno]` | 2. / 3. 2. 1863 | otec neuveden | Anna `[příjmení nejasné]` | nemanželské dítě; dům, oba dny a matčino první jméno bezpečné |
+| N20 | Anna Dvořáčková | 7. / 8. 2. 1863 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+
+## Snímek 332 — roky 1863–1864
+
+Osm událostí má adresní řadu **N20, N5, N11, N1, N18, N4, N17 a N3**.
+Barbora Fraňková / Franíková je napojena bez duplicity; plná stránka opravuje
+její narození a křest na 22./23. dubna 1863.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N20 | Josef `[příjmení nejasné]` | 13. / 14. 2. 1863 | jméno otce nečitelné | Eleonora `[příjmení nejasné]` | první jméno dítěte a matky, dům a oba dny bezpečné |
+| N5 | Jan Nuník (?) | 19. / 21. 4. 1863 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N11 | Barbora Fraňková / Franíková | 22. / 23. 4. 1863 | Josef Franěk / Franík | Rosalie Železná | již evidované dítě a rodiče; opravený měsíc narození |
+| N1 | Anna Dvořáčková | 30. 5. 1863; pokřtěna téhož dne | Jan Dvořáček | Kateřina | dítě, rodiče, dům a den bezpečné |
+| N18 | Jan Nuník (?) | 27. / 28. 6. 1863 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N4 | Matěj `[příjmení nejasné]` | 31. 8. 1863; pokřtěn téhož dne | Matěj `[příjmení nejasné]` | Petronila (?) | první jména dítěte a otce, dům a den bezpečné |
+| N17 | Kateřina Žáčková (?) | 11. / 12. 11. 1863 | Josef Žáček (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N3 | František Plášil | 24. / 25. 1. 1864 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+
+## Snímek 333 — roky 1864–1865
+
+Osm událostí má číslovanou adresní řadu **N1, N16, N11, N19, N10, N21 a
+N6** a poslední místo bez čísla `na sušárně`. Anna Čmuchová bezpečně spojuje
+tentýž rodičovský pár s N11 už potřetí, v letech 1859, 1862 a 1864.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | Matěj `[příjmení v dětském sloupci neuvedeno]` | 7. 4. 1864; pokřtěn téhož dne | otec neuveden | Marianna `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
+| N16 | Antonie Díčková (?) | 10. 5. 1864; pokřtěna téhož dne | Vojtěch Díčka (?) | Anna | dům, den a rodiče bezpečné; příjmení pracovní |
+| N11 | Anna Čmuchová (?) | 27. / 28. 6. 1864 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár v N11 roku 1859 a 1862 |
+| N19 | nepojmenovaná mrtvě narozená dcera Petrová (?) | 24. 7. 1864; bez křtu | otec neuveden | jméno matky nejasné | mrtvé narození; dům, den a pracovní příjmení dítěte čitelné |
+| N10 | Terezie Kejvalová | 12. / 13. 9. 1864 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N21 | Antonie Dušánková | 4. / 5. 6. 1865 | František Dušánek | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N6 | Anna Jílková | 8. / 9. 7. 1865 | František Jílek | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| bez čísla — `na sušárně` | Anna Zemišková (?) | 8. / 9. 7. 1865 | Josef Zemišek (?) | Marie | místo, oba dny a rodiče bezpečné; číslo domu chybí |
+
+## Snímek 334 — rok 1865
+
+Šest událostí má adresní řadu **N20, N11, N15, N23, N5 a N8**. Plná
+dvoustrana ukazuje, že Petronila Nová je u Václava Fraňka porodní bába; jeho
+matkou je Rosalie Železná. Dřívější domnělý rozpor s úmrtní knihou tím mizí.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N20 | Marie Dvořáčková | 23. / 24. 7. 1865 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Václav Franěk | 20. / 21. 8. 1865 | Josef Franěk | Rosalie Železná | již evidované dítě a rodiče; Petronila Nová je porodní bába, nikoli matka |
+| N15 | Václav Kejval | 9. / 11. 9. 1865 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N23 | František `[příjmení nejasné]` | 9. / 11. 9. 1865 | Jan `[příjmení nejasné]` | Marie `[příjmení nejasné]` | první jméno dítěte a rodičů, dům a oba dny čitelné |
+| N5 | Václav Nuník (?) | 3. / 4. 11. 1865 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N8 | Marie Nuníková (?) | 16. / 17. 12. 1865 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+
 | Snímek | Uložený celý obraz | Veřejný originál | Stav |
 |---|---|---|---|
 | 309 | [kniha6621_snim309.jpg](kniha6621_snim309.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/308) | inventarizováno |
@@ -402,5 +466,9 @@ Plášil je synem samostatně evidovaných rodičů Jana a Kateřiny.
 | 328 | [kniha6621_snim328.jpg](kniha6621_snim328.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/327) | inventarizováno |
 | 329 | [kniha6621_snim329.jpg](kniha6621_snim329.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/328) | inventarizováno |
 | 330 | [kniha6621_snim330.jpg](kniha6621_snim330.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/329) | inventarizováno |
+| 331 | [kniha6621_snim331.jpg](kniha6621_snim331.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/330) | inventarizováno |
+| 332 | [kniha6621_snim332.jpg](kniha6621_snim332.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/331) | inventarizováno |
+| 333 | [kniha6621_snim333.jpg](kniha6621_snim333.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/332) | inventarizováno; jeden řádek uvádí jen místo `na sušárně` bez čísla |
+| 334 | [kniha6621_snim334.jpg](kniha6621_snim334.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/333) | inventarizováno |
 
-Další souvislé zpracování pokračuje snímkem **331**.
+Další souvislé zpracování pokračuje snímkem **335**.

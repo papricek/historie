@@ -382,8 +382,15 @@ zpřesňují Marii Čmuchovou (?) s rodiči. Odkazové opakování Jakuba z N6 n
 snímku 326 se nepočítá podruhé. Snímky 327–330 přidávají 26 událostí z let
 1859–1862. Tři zápisy N11 zachycují Františka Milka, Antonii Čmuchovou (?) a
 Jana Plášila. Rodiče Antonie jsou shodní s rodinou Marie Čmuchové z roku 1859,
-takže datovaný pobyt Matěje a Marie Čmuchových v N11 je nyní doložen v letech
-1859–1862. Pokračuje se snímkem 331.
+takže datovaný pobyt Matěje a Marie Čmuchových v N11 byl v tomto bloku doložen
+v letech 1859–1862.
+Snímky 331–334 přidávají dalších 29 událostí z let 1862–1865. V N11 je
+Barbora Fraňková / Franíková napojena bez duplicity a její data jsou opravena
+na narození 22. 4., křest 23. 4., úmrtí 29. 4. a pohřeb 1. 5. 1863. Anna
+Čmuchová potvrzuje stejný rodičovský pár v N11 také 27./28. 6. 1864. U Václava
+Fraňka celý snímek 334 ukazuje, že Petronila Nová je porodní bába; matkou je
+Rosalie Železná a domnělý rozpor s úmrtní knihou mizí. Jeden zápis roku 1865
+uvádí Zemiškovy pouze `na sušárně` bez čísla domu. Pokračuje se snímkem 335.
 
 | Rok | Místní výřez | Obsah | Veřejný originál |
 |---|---|---|---|
@@ -434,9 +441,9 @@ V letech 1837–1843 nebyl v tomto oddílu nalezen žádný další bezpečný z
 | 1858 | [Kateřina](matriky/narozeni/1858/zaznam_katerina_n11_snim326.png) | dcera Václava Junka/Jůnka, čeledína ve panském dvoře N11 | [snímek 326](https://digi.ceskearchivy.cz/6621/325) |
 | 1861 | [František Milk](matriky/narozeni/1861/zaznam_frantisek_milk_n11_snim330.png) | syn Matěje Milka, čeledína v panském dvoře N11 | [snímek 330](https://digi.ceskearchivy.cz/6621/329) |
 | 1862 | [Antonie Čmuchová (?)](matriky/narozeni/1862/zaznam_antonie_n11_snim330.png) | 6./7. 1.; dcera Matěje Čmuchy (?) a Marie, jejichž rodina je v N11 doložena už roku 1859 | [snímek 330](https://digi.ceskearchivy.cz/6621/329) |
-| 1863 | [Barbora Fraňková / Franíková](matriky/narozeni/1863/zaznam_barbora_franikova_n11_snim332.png) | dcera Josefa Fraňka, čeledína v N11, a Rosalie; zemřela po sedmi dnech | [snímek 332](https://digi.ceskearchivy.cz/6621/331) |
-| 1864 | [Anna, příjmení nejisté](matriky/narozeni/1864/zaznam_anna_n11_snim333.png) | pracovní výřez události u N11 | [snímek 333](https://digi.ceskearchivy.cz/6621/332) |
-| 1865 | [Václav Franěk](matriky/narozeni/1865/zaznam_vaclav_franek_n11_snim334.png) | syn Josefa Fraňka, pastýře ve dvoře N11; čtení potvrzuje navazující úmrtní zápis | [snímek 334](https://digi.ceskearchivy.cz/6621/333) |
+| 1863 | [Barbora Fraňková / Franíková](matriky/narozeni/1863/zaznam_barbora_franikova_n11_snim332.png) | 22./23. 4.; dcera Josefa Fraňka, čeledína v N11, a Rosalie Železné; zemřela po sedmi dnech, měsíce opraveny podle celé strany | [snímek 332](https://digi.ceskearchivy.cz/6621/331) |
+| 1864 | [Anna Čmuchová (?)](matriky/narozeni/1864/zaznam_anna_n11_snim333.png) | 27./28. 6.; dcera Matěje Čmuchy (?) a Marie, třetí bezpečný zápis stejné rodiny v N11 | [snímek 333](https://digi.ceskearchivy.cz/6621/332) |
+| 1865 | [Václav Franěk](matriky/narozeni/1865/zaznam_vaclav_franek_n11_snim334.png) | 20./21. 8.; syn Josefa Fraňka, pastýře ve dvoře N11, a Rosalie Železné; Petronila Nová je porodní bába, nikoli matka | [snímek 334](https://digi.ceskearchivy.cz/6621/333) |
 | 1866 | [Marie, příjmení nejisté](matriky/narozeni/1866/zaznam_marie_n11_snim335.png) | pracovní výřez události u N11 | [snímek 335](https://digi.ceskearchivy.cz/6621/334) |
 | 1867 | [Aloisie, příjmení nejisté](matriky/narozeni/1867/zaznam_aloisie_n11_snim336.png) | pracovní výřez události u N11 | [snímek 336](https://digi.ceskearchivy.cz/6621/335) |
 | 1870 | [Josefa Dvořáková](matriky/narozeni/1870/zaznam_josefa_dvorakova_n11_snim338.png), [Kateřina, příjmení nejisté](matriky/narozeni/1870/zaznam_katerina_n11_snim338.png) | dvě události u N11 | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
@@ -524,7 +531,7 @@ Pro kontrolu historického pravopisu jmen je uložen také [začátek abecedníh
 | 1802 | [Anna Josefa Hýblová / Hyblová](matriky/zemreli/1802/umrti_anny_josefy_n11_snim19.jpg) | zemřela 4. 12., pohřbena 7. 12.; asi 4 měsíce; pravděpodobně Anna Josefina narozená 26. 7. 1802 v N11 | [snímek 19](https://digi.ceskearchivy.cz/DA?doctree=1nrpI&menu=3&id=6625&page=19) |
 | 1854 | [mrtvě narozený syn Anny Pilské / Pílské](matriky/zemreli/1854/umrti_mrtve_narozeny_syn_anny_pilske_n11_snim144.jpg) | N11; narozen mrtvý 7. 8., pohřben 9. 8.; událost potvrzuje kniha narozených | [snímek 144](https://digi.ceskearchivy.cz/6626/143) |
 | 1856 | [mrtvě narozená dcera Forelová](matriky/zemreli/1856/umrti_mrtve_narozena_dcera_forelova_n11_snim151.jpg) | dcera Františka Forela a Reginy Červené; zemřela 22. 10., pohřbena 24. 10. | [snímek 151](https://digi.ceskearchivy.cz/6626/150) |
-| 1863 | [Barbora Fraňková / Franíková](matriky/zemreli/1863/umrti_barbora_franikova_n11_snim167.png) | zemřela ve věku 7 dnů; dcera Josefa Fraňka, čeledína v N11 | [snímek 167](https://digi.ceskearchivy.cz/6626/166) |
+| 1863 | [Barbora Fraňková / Franíková](matriky/zemreli/1863/umrti_barbora_franikova_n11_snim167.png) | zemřela 29. 4., pohřbena 1. 5. ve věku 7 dnů; dcera Josefa Fraňka, čeledína v N11 | [snímek 167](https://digi.ceskearchivy.cz/6626/166) |
 | 1865 | [Václav Franěk](matriky/zemreli/1865/umrti_vaclav_franek_n11_snim173.png) | zemřel ve věku 2 dnů; syn Josefa Fraňka, pastýře ve dvoře N11 | [snímek 173](https://digi.ceskearchivy.cz/6626/172) |
 | 1868 | [Václav Parka](matriky/zemreli/1868/umrti_vaclav_parka_n11_snim183.png) | čeledín v N11, 52 let | [snímek 183](https://digi.ceskearchivy.cz/6626/182) |
 | 1873 | [`[křestní jméno neuvedeno]` Berníček](matriky/zemreli/1873/umrti_nepojmenovany_bernicek_n11_snim191.png) | dítě u N11; příjmení a část rodového údaje jsou nejistě čitelné | [snímek 191](https://digi.ceskearchivy.cz/6626/190) |

@@ -100,7 +100,7 @@
 
   .wrap { max-width: 1160px; margin: 0 auto; padding: 0 24px; }
 
-  header.hero { padding: 42px 0 6px; }
+  header.hero { padding: 38px 0 0; }
   .rule-top { height: 4px; background: var(--accent); border-radius: 0 0 2px 2px; width: 88px; margin-bottom: 24px; }
   .eyebrow {
     font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -110,7 +110,7 @@
   .eyebrow .sig { font-family: ui-monospace, "SF Mono", Menlo, monospace; letter-spacing: .04em; color: var(--muted); text-transform: none; }
   h1 {
     font-size: clamp(1.7rem, 4vw, 2.7rem);
-    line-height: 1.12; margin: 14px 0 10px; font-weight: 600; text-wrap: balance; letter-spacing: -.01em;
+    line-height: 1.12; margin: 14px 0 2px; font-weight: 600; text-wrap: balance; letter-spacing: -.01em;
   }
   h1 .amp { color: var(--accent-ink); font-style: italic; }
   .lede { color: var(--ink-2); font-size: 1.04rem; margin: 0 0 18px; max-width: 62ch; }
@@ -414,10 +414,11 @@
 
   /* ---------- výklad ---------- */
   section.cist { padding: 34px 0 10px; }
-  .cist .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 14px; }
-  @media (max-width: 760px) { .cist .grid2 { grid-template-columns: 1fr; } }
+  .cist .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; margin-top: 14px; }
   .cist h4 { margin: 0 0 6px; font-size: 1rem; font-weight: 600; }
   .cist p { font-family: system-ui, sans-serif; font-size: 13.5px; color: var(--ink-2); line-height: 1.6; margin: 0 0 8px; }
+  .cist p strong { color: var(--ink); }
+  .cist .backlink { margin-top: 10px; }
   .cist p b { color: var(--ink); }
 
   footer { padding: 34px 0 46px; }
@@ -432,11 +433,6 @@
       <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
     </div>
     <h1>Domy a lidé <span class="amp">na&nbsp;Zahrádce</span></h1>
-    <p class="lede">Každé kolečko je jeden dům. Klepnutím na kolečko se ukáže, koho k&nbsp;němu prameny
-      zatím dokládají — <strong><span id="statDomu">27</span> domovních oddílů</strong> a <strong><span id="statRadku">1189</span> osobních dokladových řádků</strong>
-      z&nbsp;matrik farnosti Pošná (od&nbsp;1772), josefínského katastru a sčítání lidu 1921 — a nejstarší jmenný soupis vsi z berní ruly 1654.
-      Podklad mapy lze přepínat mezi katastrálními mapami 1829, 1878 a pozdější, a leteckými snímky 1949–2022.</p>
-    <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
   </div>
 </header>
 
@@ -508,6 +504,14 @@
   <section class="cist">
     <h2>Jak mapu číst</h2>
     <div class="grid2">
+      <div class="card">
+        <h4>Co mapa ukazuje</h4>
+        <p>Každé kolečko je jeden dům. Klepnutím na kolečko se ukáže, koho k&nbsp;němu prameny
+      zatím dokládají — <strong><span id="statDomu">27</span> domovních oddílů</strong> a <strong><span id="statRadku">1189</span> osobních dokladových řádků</strong>
+      z&nbsp;matrik farnosti Pošná (od&nbsp;1772), josefínského katastru a sčítání lidu 1921 — a nejstarší jmenný soupis vsi z berní ruly 1654.
+      Podklad mapy lze přepínat mezi katastrálními mapami 1829, 1878 a pozdější, a leteckými snímky 1949–2022.</p>
+        <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
+      </div>
       <div class="card">
         <h4>Co znamenají body</h4>
         <p>Kolečka stojí na <b>dnešních definičních bodech adres RÚIAN</b> (staženo 30.&nbsp;7.&nbsp;2026).

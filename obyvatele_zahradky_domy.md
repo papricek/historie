@@ -1959,7 +1959,92 @@ Matěj a Anna Gremušovi se po zápisu v N8 roku 1856 objevují roku 1861 v N6.
 Jistá adresní řada je **N11, N6, N19, N11, N17 a N11**. Všechny tři řádky N11
 jsou napojeny na samostatnou osobní evidenci. Trvalý je celý
 [snímek 330](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim330.jpg).
-Další souvislé zpracování pokračuje snímkem **331**.
+
+## Narození 1862–1863 — inventář snímku 331 knihy 6621
+
+Snímek 331 obsahuje **sedm událostí**, všechny mimo N11. Bezpečně pokračují
+Kejvalovi v N10 a N15, Dušánkovi v N21 a Dvořáčkovi v N20.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | František Zemišek (?) | 13. 4. 1862; pokřtěn téhož dne | Matěj Zemišek (?) | Marianna | dům, den a rodiče bezpečné; příjmení je pracovní čtení |
+| N10 | Jan Kejval | 24. / 25. 5. 1862 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | František Kejval | 1. / 2. 10. 1862 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N18 | Marie Díčková (?) | 13. / 14. 10. 1862 | Jan Díčka (?) | Josefa | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N21 | Jan Dušánek | 27. 10. 1862; pokřtěn téhož dne | František Dušánek | Anna | dítě, rodiče, dům a den bezpečné |
+| N22 | Marie `[příjmení v dětském sloupci neuvedeno]` | 2. / 3. 2. 1863 | otec neuveden | Anna `[příjmení nejasné]` | nemanželské dítě; dům, oba dny a matčino první jméno bezpečné |
+| N20 | Anna Dvořáčková | 7. / 8. 2. 1863 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+
+Jistá adresní řada je **N1, N10, N15, N18, N21, N22 a N20**. Trvalý je celý
+[snímek 331](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim331.jpg).
+
+## Narození 1863–1864 — inventář snímku 332 knihy 6621
+
+Snímek 332 obsahuje **osm událostí**. Barbora Fraňková / Franíková v N11 je
+napojena na existující osobní ID. Celá stránka opravuje její dřívější chybné
+měsíce: narodila se 22. a byla pokřtěna 23. dubna 1863; zemřela 29. dubna a
+pohřbena byla 1. května.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N20 | Josef `[příjmení nejasné]` | 13. / 14. 2. 1863 | jméno otce nečitelné | Eleonora `[příjmení nejasné]` | první jméno dítěte a matky, dům a oba dny bezpečné |
+| N5 | Jan Nuník (?) | 19. / 21. 4. 1863 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N11 | Barbora Fraňková / Franíková | 22. / 23. 4. 1863 | Josef Franěk / Franík | Rosalie Železná | již evidované dítě a rodiče; celý snímek bezpečně opravuje měsíc narození a navazujícího úmrtí |
+| N1 | Anna Dvořáčková | 30. 5. 1863; pokřtěna téhož dne | Jan Dvořáček | Kateřina | dítě, rodiče, dům a den bezpečné |
+| N18 | Jan Nuník (?) | 27. / 28. 6. 1863 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N4 | Matěj `[příjmení nejasné]` | 31. 8. 1863; pokřtěn téhož dne | Matěj `[příjmení nejasné]` | Petronila (?) | první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní |
+| N17 | Kateřina Žáčková (?) | 11. / 12. 11. 1863 | Josef Žáček (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N3 | František Plášil | 24. / 25. 1. 1864 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+
+Jistá adresní řada je **N20, N5, N11, N1, N18, N4, N17 a N3**. Řádek N11 je
+napojen bez duplicity. Trvalý je celý
+[snímek 332](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim332.jpg).
+
+## Narození 1864–1865 — inventář snímku 333 knihy 6621
+
+Snímek 333 obsahuje **osm událostí**. Sedm má čitelné číslo domu; poslední
+zápis uvádí pouze místní označení `na sušárně`. Anna Čmuchová v N11 bezpečně
+prodlužuje doložený pobyt stejného rodičovského páru Matěje a Marie Čmuchových
+do června 1864. Josef a Marie Zemiškovi z posledního řádku jsou podle shodného
+páru a příjmení totožní s pozdější rodinou v N11, ale zápis z roku 1865 jim
+číslo domu nepřiděluje.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | Matěj `[příjmení v dětském sloupci neuvedeno]` | 7. 4. 1864; pokřtěn téhož dne | otec neuveden | Marianna `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
+| N16 | Antonie Díčková (?) | 10. 5. 1864; pokřtěna téhož dne | Vojtěch Díčka (?) | Anna | dům, den a rodiče bezpečné; příjmení je pracovní čtení |
+| N11 | Anna Čmuchová (?) | 27. / 28. 6. 1864 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N11 doložen už v letech 1859 a 1862 |
+| N19 | nepojmenovaná mrtvě narozená dcera Petrová (?) | 24. 7. 1864; bez křtu | otec neuveden | jméno matky nejasné | mrtvé narození; dům, den a pracovní příjmení dítěte čitelné |
+| N10 | Terezie Kejvalová | 12. / 13. 9. 1864 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N21 | Antonie Dušánková | 4. / 5. 6. 1865 | František Dušánek | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N6 | Anna Jílková | 8. / 9. 7. 1865 | František Jílek | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| bez čísla — `na sušárně` | Anna Zemišková (?) | 8. / 9. 7. 1865 | Josef Zemišek (?) | Marie | místo, oba dny a rodiče bezpečné; matrika číslo domu neuvádí, příjmení je pracovní normalizace |
+
+Číslovaná adresní řada je **N1, N16, N11, N19, N10, N21 a N6**; osmý řádek
+zůstává záměrně bez čísla. N11 je napojeno na samostatnou osobní evidenci.
+Trvalý je celý
+[snímek 333](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim333.jpg).
+
+## Narození 1865 — inventář snímku 334 knihy 6621
+
+Snímek 334 obsahuje **šest událostí**. Václav Franěk v N11 je už veden pod
+osobním ID. Kontrola celé dvoustrany opravuje starý sloupcový omyl: Petronila
+Nová je v zápisu porodní bába, nikoli Václavova matka. Matkou je Rosalie
+Železná, stejně jako u Barbory roku 1863 a v navazujícím úmrtním zápisu Václava.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N20 | Marie Dvořáčková | 23. / 24. 7. 1865 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Václav Franěk | 20. / 21. 8. 1865 | Josef Franěk | Rosalie Železná | již evidované dítě a rodiče; celý snímek ruší domnělý rozpor jména matky, Petronila Nová je porodní bába |
+| N15 | Václav Kejval | 9. / 11. 9. 1865 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N23 | František `[příjmení nejasné]` | 9. / 11. 9. 1865 | Jan `[příjmení nejasné]` | Marie `[příjmení nejasné]` | první jméno dítěte a rodičů, dům a oba dny čitelné; pozdější legitimizační přípis patří témuž dítěti |
+| N5 | Václav Nuník (?) | 3. / 4. 11. 1865 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N8 | Marie Nuníková (?) | 16. / 17. 12. 1865 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+
+Jistá adresní řada je **N20, N11, N15, N23, N5 a N8**. Řádek N11 je napojen
+bez duplicity. Trvalý je celý
+[snímek 334](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim334.jpg).
+Další souvislé zpracování pokračuje snímkem **335**.
 
 ## Další již doložené osoby mimo rok 1921
 

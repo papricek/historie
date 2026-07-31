@@ -331,6 +331,18 @@ def extract_main_evidence
     when "Narození 1861–1862 — inventář snímku 330 knihy 6621"
       next unless header[0] == "Dům" && header[1] == "Dítě"
       add_birth_family(evidence, row, "1861–1862")
+    when "Narození 1862–1863 — inventář snímku 331 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1862–1863")
+    when "Narození 1863–1864 — inventář snímku 332 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1863–1864")
+    when "Narození 1864–1865 — inventář snímku 333 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1864–1865")
+    when "Narození 1865 — inventář snímku 334 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1865")
     when "Další již doložené osoby mimo rok 1921"
       next unless header[0] == "Dům" && header[1] == "Osoba"
       add_person(
