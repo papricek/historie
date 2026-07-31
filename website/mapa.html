@@ -945,7 +945,8 @@ function vyberDum(klic) {
   if (!dum) {
     panel.innerHTML =
       "<h3>čp. " + klic + "</h3>" +
-      '<p class="sub">Novější domovní číslo — v domovním registru spisu zatím nemá žádný doklad.' +
+      '<p class="sub">Novější domovní číslo — v historickém registru spisu zatím nemá doklad;' +
+      (((window.MAPA_DNES || {})[klic] || []).length ? " co je o něm známo dnes, je níže." : " chybí i v dnešních registrech.") +
       (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>" +
       dnesHtml(klic);
     return;
