@@ -2044,7 +2044,261 @@ Nová je v zápisu porodní bába, nikoli Václavova matka. Matkou je Rosalie
 Jistá adresní řada je **N20, N11, N15, N23, N5 a N8**. Řádek N11 je napojen
 bez duplicity. Trvalý je celý
 [snímek 334](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim334.jpg).
-Další souvislé zpracování pokračuje snímkem **335**.
+
+## Narození 1866–1867 — inventář snímku 335 knihy 6621
+
+Snímek 335 obsahuje **devět událostí**. Osm zápisů bezpečně pokračuje po
+číslovaných domech celé vsi; Marie v N11 je vedena i v samostatné osobní
+evidenci. Nejasná příjmení se nepřizpůsobují známým rodinám jen podle podobnosti.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | Matěj Dvořáček | 12. / 13. 2. 1866 | Jan Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné; rodina navazuje na dřívější zápisy N1 |
+| N4 | Josef Mrázek (?) | 31. 3. 1866; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a křestní jména bezpečné; příjmení je pracovní normalizace opakované rodiny N4 |
+| N22 | Jan Zalomka (?) | 28. / 29. 5. 1866 | Jan Zalomka (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N6 | Barbora Zičková (?) | 1. / 2. 11. 1866 | Josef Zička (?) | Kateřina | dům, oba dny a rodiče bezpečné; historický tvar příjmení je pracovní |
+| N11 | Marie `[příjmení nejasné]` | 7. / 8. 12. 1866 | Josef `[příjmení nejasné]` | Rosalie | dítě, rodičovská křestní jména, dům a oba dny bezpečné; otec je zřejmě podruh v N11 |
+| N3 | Antonín Plášil | 22. 1. 1867; pokřtěn téhož dne | František Plášil | Anna | dítě, rodiče, dům a den bezpečné |
+| N10 | Josef Průša (?) | 13. / 14. 3. 1867 | Josef Průša (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N18 | Marie Díčková (?) | 1. / 2. 5. 1867 | Jan Díčka (?) | Josefa | dům, oba dny a rodiče bezpečné; příjmení navazuje na pracovní čtení rodiny N18 |
+| N16 | Jan Díčka (?) | 14. 6. 1867; pokřtěn téhož dne | Vojtěch Díčka (?) | Anna | dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N16 |
+
+Jistá adresní řada je **N1, N4, N22, N6, N11, N3, N10, N18 a N16**. Trvalý
+je celý [snímek 335](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim335.jpg).
+
+## Narození 1867–1868 — inventář snímku 336 knihy 6621
+
+Snímek 336 obsahuje **devět událostí**. Aloisie v N11 je vedena samostatně;
+Josef Sváček v N20 a Karolína Dušánková v N21 jsou napojeni na už doloženou
+životní posloupnost bez nových duplicit.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N11 | Aloisie `[příjmení nejasné]` | 21. 6. 1867; pokřtěna téhož dne | František `[příjmení nejasné]` | Kateřina | dítě, rodičovská křestní jména, dům a den bezpečné; otcova pracovní role i příjmení čekají na potvrzení |
+| N6 | Marie Zemišková (?) | 17. / 18. 8. 1867 | Matěj Zemišek (?) | Veronika | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N19 | Marie Svobodová | 10. 12. 1867; pokřtěna téhož dne | Jan Svoboda | Marie | dítě, rodiče, dům a den bezpečné; pozdější přípis se nepoužívá jako další narození |
+| N14 | Kateřina Zemišková (?) | 5. / 6. 2. 1868 | Josef Zemišek (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N20 | Josef Svaček / Sváček | 15. / 16. 2. 1868 | Jan Svaček / Sváček | Marie | již evidovaný pozdější obyvatel č. 11 a jeho rodiče; zde narození a pobyt rodiny v N20 |
+| N5 | Josefa Nuníková (?) | 6. / 7. 4. 1868 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N5 |
+| N19 | Aloisie Bílková (?) | 8. / 9. 5. 1868 | Jan Bílek (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N1 | Jan Dvořáček | 27. / 28. 5. 1868 | Jan Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N21 | Karolína Dušánková | 6. 6. 1868; pokřtěna téhož dne | František Dušánek | Anna Kejvalová | již evidovaná osoba a rodiče; rodné příjmení matky potvrzuje pozdější oddací zápis |
+
+Jistá adresní řada je **N11, N6, N19, N14, N20, N5, N19, N1 a N21**. Trvalý
+je celý [snímek 336](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim336.jpg).
+
+## Narození 1868–1870 — inventář snímku 337 knihy 6621
+
+Snímek 337 obsahuje **devět událostí**, všechny mimo N11. Bezpečně pokračují
+Plášilovi v N3, Kejvalovi v N15, Mrázkovi v N4 a Průšovi v N10. Dva zápisy
+nemanželských dětí nemají uvedeného otce.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N3 | Rosalie Plášilová | 16. / 17. 8. 1868 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | Karel Kejval | 3. 12. 1868; pokřtěn téhož dne | Václav Kejval | Marie | dítě, rodiče, dům a den bezpečné |
+| N19 | Josef `[příjmení v dětském sloupci neuvedeno]` | 12. 3. 1869; pokřtěn téhož dne | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
+| N22 | Antonie Železná (?) | 25. / 26. 6. 1869 | František Železný (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N4 | Marie Mrázková (?) | 12. / 13. 8. 1869 | Matěj Mrázek (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4 |
+| N18 | Barbora Zičková (?) | 2. / 3. 9. 1869 | Jan Zička (?) | Josefa | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N20 | František `[příjmení v dětském sloupci neuvedeno]` | 16. 10. 1869; pokřtěn téhož dne | otec neuveden | Veronika `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
+| N10 | Anna Průšová (?) | 20. / 21. 11. 1869 | Josef Průša (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N21 | Anastázie Dvořáčková (?) | 8. / 10. 1. 1870 | Václav Dvořáček (?) | jméno matky nejasné | první jméno dítěte a otce, dům a oba dny bezpečné; příjmení je pracovní čtení |
+
+Jistá adresní řada je **N3, N15, N19, N22, N4, N18, N20, N10 a N21**.
+Trvalý je celý [snímek 337](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim337.jpg).
+
+## Narození 1870–1872 — inventář snímku 338 knihy 6621
+
+Snímek 338 obsahuje **patnáct událostí**, z toho čtyři v N11. Josefa Dvořáková
+a Antonie Zemišková jsou napojeny na existující osobní ID. Kateřina Čmuchová
+rozšiřuje řadu stejného rodičovského páru v N11 do roku 1870. Poslední Janovo
+příjmení se ponechává jako pracovní čtení `Křižina (?)`; bez dalšího dokladu se
+nesjednocuje se známou rodinou Křížových.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N6 | Josefa Plášilová | 15. / 16. 2. 1870 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Josefa Dvořáková | 15. / 16. 3. 1870 | Jan Dvořák | Marie | již evidované dítě a otec; celý snímek doplňuje matčino první jméno |
+| N4 | Václav Mrázek (?) | 26. 9. 1870; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a rodiče bezpečné; příjmení je pracovní normalizace rodiny N4 |
+| N18 | František `[příjmení nejasné]` | 4. / 5. 10. 1870 | František `[příjmení nejasné]` | Kateřina | první jména dítěte a rodičů, dům a oba dny bezpečné |
+| N15 | Marie Kejvalová | 15. / 16. 10. 1870 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Kateřina Čmuchová (?) | 20. / 21. 10. 1870 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; tentýž pár je v N11 doložen roku 1859, 1862 a 1864 |
+| N17 | Václav `[příjmení v dětském sloupci neuvedeno]` | 8. / 9. 11. 1870 | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, oba dny a matčino první jméno bezpečné |
+| N18 | František `[příjmení nejasné]` | 18. / 19. 11. 1870 | jméno otce nejasné | jméno matky nejasné | první jméno dítěte, dům a oba dny bezpečné; nezaměňovat s říjnovým dítětem téhož domu |
+| N20 | Marie Dvořáčková | 19. / 20. 12. 1870 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N18 | Josefa Zičková (?) | 7. / 8. 5. 1871 | František Zička (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N11 | Antonie Zemišková (?) | 28. / 29. 5. 1871 | Josef Zemišek (?) | Marie | již evidované dítě a rodiče; otec je v zápisu zahradníkem ve dvoře N11 |
+| N5 | Antonín Nuník (?) | 19. / 21. 6. 1871 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N6 | Josef Plášil | 15. / 17. 3. 1872 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N23 | Marie Dvořáčková (?) | 7. / 8. 4. 1872 | Václav Dvořáček (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
+| N11 | Jan Křižina (?) | 15. / 16. 5. 1872 | Antonín Křižina (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení a otcova pravděpodobná zahradnická role jsou pracovní |
+
+Jistá adresní řada je **N6, N11, N4, N18, N15, N11, N17, N18, N20, N18,
+N11, N5, N6, N23 a N11**. Všechny čtyři řádky N11 jsou napojeny na samostatnou
+osobní evidenci. Trvalý je celý
+[snímek 338](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim338.jpg).
+
+## Přechod mezi oddíly na snímcích 339–354 knihy 6621
+
+Snímky 339–354 byly obrazově zkontrolovány, ale patří výhradně oddílu
+**Zlátenka**. Neobsahují žádný řádek s místem Zahrádka, proto se z nich do
+tohoto registru nepřebírá žádná osoba. Smíšený oddíl s nadpisem `Zlátenka a
+Zahrádka` a novými zahrádeckými zápisy začíná až na snímku 355.
+
+## Narození 1872–1873 — zahrádecké řádky snímku 355 knihy 6621
+
+Na smíšené stránce je **šest zahrádeckých událostí**; ostatní řádky patří
+Zlátence. Všechny zahrádecké řádky mají čitelné číslo domu. Příjmení Křivol a
+Fraňková se ponechávají jako pracovní čtení, zatímco tvary Plášil, Pudil a Kříž
+jsou zapsány také přímo u otců.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N3 | Emilie Plášilová | 7. / 10. 5. 1872 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | Marie Křivolová (?) | 11. / 12. 9. 1872 | Václav Křivol (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N19 | Marie Pudilová | 14. / 15. 9. 1872 | František Pudil | Kateřina | dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné |
+| N8 | Kateřina Křížová | 9. / 10. 10. 1872 | Matěj Kříž | Marie | dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné |
+| N1 | Josef `[příjmení neuvedeno]` | 23. / 24. 11. 1872 | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; první jméno, dům, oba dny a matčino první jméno bezpečné |
+| N1 | Otilie Fraňková (?) | 5. / 6. 5. 1873 | František Franěk (?) | Kateřina | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení a osoba se neslučuje se staršími Fraňkovými jen podle domu |
+
+Jistá adresní řada je **N3, N15, N19, N8, N1 a N1**. Trvalý je celý
+[snímek 355](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim355.jpg).
+
+## Narození 1873–1874 — zahrádecké řádky snímku 356 knihy 6621
+
+Na smíšené stránce je **šest zahrádeckých událostí**. Marie Zemišková v N11 je
+napojena na existující osobní záznam; ostatní řádky rozšiřují domovní řady N4,
+N6, N17 a N18.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N18 | Václav Líčka (?) | 17. / 18. 10. 1873 | Tomáš Líčka (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N4 | František Mrázek (?) | 12. 1. 1874; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní |
+| N11 | Marie Zemišková (?) | 27. / 28. 1. 1874 | Josef Zemišek (?) | Marie | již evidované dítě a rodiče; otec je v zápisu zahradníkem ve dvoře N11 |
+| N6 | Jan Plášil | 3. / 4. 2. 1874 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N17 | Antonie Dvořáčková (?) | 16. / 17. 3. 1874 | Václav Dvořáček (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N18 | Jan Zička (?) | 4. 5. 1874; pokřtěn téhož dne | František Zička (?) | Marie | dům, den a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N18 |
+
+Jistá adresní řada je **N18, N4, N11, N6, N17 a N18**. Trvalý je celý
+[snímek 356](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim356.jpg).
+
+## Narození 1874–1875 — zahrádecké řádky snímku 357 knihy 6621
+
+Na smíšené stránce je **devět zahrádeckých událostí**. Pavlíkovi jsou zachyceni
+nejprve v N20 a následujícího roku v N19; shoda rodičovských jmen je silná, ale
+v registru se zachovávají oba jednotlivé adresní doklady. Příjmení Pešta je
+čitelné u dítěte i otce.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N8 | František Kříž | 11. / 12. 8. 1874 | Matěj Kříž | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N20 | Marie Pavlíková | 23. / 24. 8. 1874 | Josef Pavlík | Josefa | dítě, rodiče, dům a oba dny bezpečné |
+| N2 | František `[příjmení nejasné]` | 15. / 16. 10. 1874 | František `[příjmení nejasné]` | Kateřina | první jména dítěte a rodičů, dům a oba dny bezpečné |
+| N15 | Marie Plešková (?) | 21. / 22. 10. 1874 | Martin Pleška (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní převod latinizovaného zápisu |
+| N8 | Josef `[příjmení nejasné]` | 15. / 16. 2. 1875 | Tomáš `[příjmení nejasné]` | jméno matky nejasné | první jméno dítěte a otce, dům a oba dny bezpečné |
+| N6 | Marie Mynáříková (?) | 24. / 25. 3. 1875 | Jan Mynářík (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N19 | František Pavlík | 11. / 12. 7. 1875 | Josef Pavlík | Josefa | dítě, rodiče, dům a oba dny bezpečné; pravděpodobně táž rodina jako v N20 roku 1874 |
+| N10 | Václav `[příjmení neuvedeno]` | 19. 9. 1875; pokřtěn téhož dne | otec neuveden | Kateřina `[příjmení nejasné]` | nemanželské dítě; první jméno, dům, den a matčino první jméno bezpečné |
+| N1 | Anna Peštová | 28. / 29. 10. 1875 | Josef Pešta | Marie | dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné |
+
+Jistá adresní řada je **N8, N20, N2, N15, N8, N6, N19, N10 a N1**.
+Trvalý je celý [snímek 357](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim357.jpg).
+
+## Narození 1876 — zahrádecké řádky snímku 358 knihy 6621
+
+Na smíšené stránce je **sedm zahrádeckých událostí**. Plášilovi pokračují v N6
+a samostatně v N8, Křížovi v N8, Křivolovi v N15 a Dvořáčkovi v N17 a N20.
+Shodná příjmení mezi různými domy se bez rodičovské shody neslučují.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N1 | Marie Fraňková (?) | 8. / 10. 2. 1876 | František Franěk (?) | Kateřina | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N6 | František Plášil | 3. / 4. 3. 1876 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N17 | Josef Dvořáček | 16. / 17. 4. 1876 | Václav Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | Jan Křivol (?) | 10. / 11. 5. 1876 | Václav Křivol (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N20 | Jan Dvořáček | 18. / 19. 5. 1876 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N8 | Jan Kříž | 21. / 22. 8. 1876 | Matěj Kříž | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N8 | Václav Plášil | 10. 9. 1876; pokřtěn téhož dne | Václav Plášil | Kateřina | dítě, rodiče, dům a den bezpečné; zápis připojuje k N8 místní polohový dovětek, který se nevykládá jako jiné číslo domu |
+
+Jistá adresní řada je **N1, N6, N17, N15, N20, N8 a N8**. Trvalý je celý
+[snímek 358](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim358.jpg).
+
+## Narození 1876–1878 — zahrádecké řádky snímku 359 knihy 6621
+
+Na smíšené stránce je **sedm zahrádeckých událostí**. Zimrovi (?) se v N2
+objeví znovu roku 1879, Líčkovi (?) navazují na starší doklad N18 a Plášilovi,
+Fraňkovi, Dvořáčkovi a Křížovi rozšiřují už doložené domovní řady. Ostatní
+řádky stránky patří Zlátence.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N2 | Josef Zimr (?) | 28. / 29. 10. 1876 | František Zimr (?) | Kateřina | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
+| N18 | Jan Líčka (?) | 9. / 10. 11. 1876 | Tomáš Líčka (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení opakované rodiny N18 |
+| N6 | Anna Plášilová | 15. / 16. 6. 1877 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N1 | František Franěk (?) | 8. / 9. 12. 1877 | František Franěk (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1 |
+| N17 | Anna Dvořáčková | 3. / 4. 1. 1878 | Václav Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N3 | Otilie Plášilová | 19. / 20. 2. 1878 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N8 | František Kříž | 28. / 30. 3. 1878 | Matěj Kříž | Marie | dítě, rodiče, dům a oba dny bezpečné |
+
+Jistá adresní řada je **N2, N18, N6, N1, N17, N3 a N8**. Trvalý je celý
+[snímek 359](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim359.jpg).
+
+## Narození 1878 — zahrádecké řádky snímku 360 knihy 6621
+
+Na smíšené stránce je **šest zahrádeckých událostí**. Alois Kaňka v N11 je
+napojen na existující osobní záznam bez duplicity. Marie v N3 je v původním
+řádku vedena bez otce a s pozdějším legitimačním přípisem; přípis se nepočítá
+jako další osoba.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N19 | Jan Kaňka | 16. / 17. 6. 1878 | Josef Kaňka | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen znovu na přelomu let 1879–1880 |
+| N20 | Antonie Dvořáčková | 18. / 19. 6. 1878 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Alois Kaňka | 7. / 8. 7. 1878 | Tomáš Kaňka | Kateřina Čermáková | již evidované dítě a rodiče; otec je nájemník a obuvník v N11 |
+| N3 | Marie `[příjmení neuvedeno]` | 3. / 4. 8. 1878 | otec v původním zápisu neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům a oba dny bezpečné, pozdější přípis zaznamenává legitimaci |
+| N18 | Jan Pudil | 12. / 13. 9. 1878 | František Pudil | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N8 | Marie Plášilová | 5. 12. 1878; pokřtěna téhož dne | Václav Plášil | Kateřina | dítě, rodiče, dům a den bezpečné |
+
+Jistá adresní řada je **N19, N20, N11, N3, N18 a N8**. Trvalý je celý
+[snímek 360](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim360.jpg).
+
+## Narození 1879 — zahrádecké řádky snímku 361 knihy 6621
+
+Na smíšené stránce jsou **čtyři zahrádecké události**. Řádek Marie Dvořáčkové
+z Německé Lhoty N14 ani řádky Zlátenky se do zahrádeckého registru nepřebírají.
+Historický nepřechýlený tvar `Bílek` u dítěte je veden pracovně jako Bílková.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N6 | Marie Plášilová | 1. 7. 1879; pokřtěna téhož dne | Josef Plášil | Marie | dítě, rodiče, dům a den bezpečné |
+| N4 | Marie Mrázková (?) | 27. / 28. 7. 1879 | Matěj Mrázek (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní |
+| N18 | Marie Bílková (?) | 10. / 12. 9. 1879 | Tomáš Bílek (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; ženský tvar je pracovní převod historického `Bílek` |
+| N2 | Václav Zimr (?) | 17. / 19. 10. 1879 | František Zimr (?) | Kateřina | dům, oba dny a rodiče bezpečné; pravděpodobně stejný pár jako u Josefa v N2 roku 1876 |
+
+Jistá adresní řada je **N6, N4, N18 a N2**. Trvalý je celý
+[snímek 361](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim361.jpg).
+
+## Narození 1879–1880 — zahrádecké řádky snímku 362 knihy 6621
+
+Poslední záznamová stránka knihy obsahuje **šest zahrádeckých událostí**.
+Celý snímek zároveň opravuje starší chybný výřez: zápis z 6./7. 3. 1880 je
+Josef Dvořáček v **N17**, syn Václava Dvořáčka, nikoli Josef Tvrček v N11.
+Na této stránce není žádný řádek N11.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N19 | Josef Kaňka | 31. 12. 1879 / 1. 1. 1880 | Josef Kaňka | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen u Jana roku 1878 |
+| N17 | Josef Dvořáček | 6. / 7. 3. 1880 | Václav Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné; opravuje dřívější chybné čtení Tvrček a N11 |
+| N8 | Marie Křížová | 13. / 14. 3. 1880 | Matěj Kříž | Marie | dítě, rodiče, dům a oba dny bezpečné |
+| N1 | Marie Fraňková (?) | 11. / 12. 4. 1880 | František Franěk (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1 |
+| N19 | Vojtěch `[příjmení neuvedeno]` | 21. / 22. 4. 1880 | otec neuveden | Anna Moravcová | nemanželské dítě; první jméno, matka, dům a oba dny bezpečné |
+| N9 | Marie Žika | 24. / 26. 11. 1880 | Václav Žika | Anna | dítě, rodičovská křestní jména, dům a oba dny bezpečné; dobový tvar příjmení je ponechán bez přechýlení |
+
+Jistá adresní řada je **N19, N17, N8, N1, N19 a N9**. Trvalý je celý
+[snímek 362](prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim362.jpg).
+Tím je personální průchod zahrádeckým oddílem knihy 6621 na snímcích 309–362
+uzavřen; snímek 363 je už abecední rejstřík.
 
 ## Další již doložené osoby mimo rok 1921
 

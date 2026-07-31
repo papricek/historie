@@ -613,6 +613,159 @@ window.MAPA_DATA = {
           "r": 1864
         },
         {
+          "d": "12. / 13. 2. 1866",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Matěj Dvořáček",
+          "r": 1866,
+          "rod": "o"
+        },
+        {
+          "d": "12. / 13. 2. 1866",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Matěj Dvořáček",
+          "r": 1866,
+          "rod": "m"
+        },
+        {
+          "d": "12. / 13. 2. 1866",
+          "j": "Matěj Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; rodina navazuje na dřívější zápisy N1",
+          "r": 1866
+        },
+        {
+          "d": "27. / 28. 5. 1868",
+          "j": "Jan Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1868
+        },
+        {
+          "d": "27. / 28. 5. 1868",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "27. / 28. 5. 1868",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Jan Dvořáček",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "23. / 24. 11. 1872",
+          "j": "Josef <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; první jméno, dům, oba dny a matčino první jméno bezpečné",
+          "r": 1872
+        },
+        {
+          "d": "23. / 24. 11. 1872",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Josef <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "5. / 6. 5. 1873",
+          "j": "František Franěk (?)",
+          "p": "otec při narození dítěte Otilie Fraňková (?)",
+          "r": 1873,
+          "rod": "o"
+        },
+        {
+          "d": "5. / 6. 5. 1873",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Otilie Fraňková (?)",
+          "r": 1873,
+          "rod": "m"
+        },
+        {
+          "d": "5. / 6. 5. 1873",
+          "j": "Otilie Fraňková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení a osoba se neslučuje se staršími Fraňkovými jen podle domu",
+          "r": 1873
+        },
+        {
+          "d": "28. / 29. 10. 1875",
+          "j": "Anna Peštová",
+          "p": "narození / křest; dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné",
+          "r": 1875
+        },
+        {
+          "d": "28. / 29. 10. 1875",
+          "j": "Josef Pešta",
+          "p": "otec při narození dítěte Anna Peštová",
+          "r": 1875,
+          "rod": "o"
+        },
+        {
+          "d": "28. / 29. 10. 1875",
+          "j": "Marie",
+          "p": "matka při narození dítěte Anna Peštová",
+          "r": 1875,
+          "rod": "m"
+        },
+        {
+          "d": "8. / 10. 2. 1876",
+          "j": "František Franěk (?)",
+          "p": "otec při narození dítěte Marie Fraňková (?)",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "8. / 10. 2. 1876",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Fraňková (?)",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "8. / 10. 2. 1876",
+          "j": "Marie Fraňková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1876
+        },
+        {
+          "d": "8. / 9. 12. 1877",
+          "j": "František Franěk (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
+          "r": 1877
+        },
+        {
+          "d": "8. / 9. 12. 1877",
+          "j": "František Franěk (?)",
+          "p": "otec při narození dítěte František Franěk (?)",
+          "r": 1877,
+          "rod": "o"
+        },
+        {
+          "d": "8. / 9. 12. 1877",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte František Franěk (?)",
+          "r": 1877,
+          "rod": "m"
+        },
+        {
+          "d": "11. / 12. 4. 1880",
+          "j": "František Franěk (?)",
+          "p": "otec při narození dítěte Marie Fraňková (?)",
+          "r": 1880,
+          "rod": "o"
+        },
+        {
+          "d": "11. / 12. 4. 1880",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Fraňková (?)",
+          "r": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "11. / 12. 4. 1880",
+          "j": "Marie Fraňková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
+          "r": 1880
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anežka Rohovcová",
           "p": "manželka",
@@ -705,15 +858,15 @@ window.MAPA_DATA = {
         {
           "d": "7. / 8. 1. 1801",
           "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1801,
-          "rod": "o"
+          "p": "narození / křest; dům, den a rodičovská křestní jména čitelné",
+          "r": 1801
         },
         {
           "d": "7. / 8. 1. 1801",
           "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; dům, den a rodičovská křestní jména čitelné",
-          "r": 1801
+          "p": "otec při narození dítěte Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1801,
+          "rod": "o"
         },
         {
           "d": "18. 9. 1802; křest téhož dne",
@@ -1000,6 +1153,66 @@ window.MAPA_DATA = {
           "p": "otec při narození dítěte Barbora Plášilová",
           "r": 1854,
           "rod": "o"
+        },
+        {
+          "d": "15. / 16. 10. 1874",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 10. 1874",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
+          "r": 1874
+        },
+        {
+          "d": "15. / 16. 10. 1874",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "28. / 29. 10. 1876",
+          "j": "František Zimr (?)",
+          "p": "otec při narození dítěte Josef Zimr (?)",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "28. / 29. 10. 1876",
+          "j": "Josef Zimr (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1876
+        },
+        {
+          "d": "28. / 29. 10. 1876",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josef Zimr (?)",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 19. 10. 1879",
+          "j": "František Zimr (?)",
+          "p": "otec při narození dítěte Václav Zimr (?)",
+          "r": 1879,
+          "rod": "o"
+        },
+        {
+          "d": "17. / 19. 10. 1879",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Václav Zimr (?)",
+          "r": 1879,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 19. 10. 1879",
+          "j": "Václav Zimr (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; pravděpodobně stejný pár jako u Josefa v N2 roku 1876",
+          "r": 1879
         },
         {
           "d": "1921 (sčítací arch)",
@@ -1520,15 +1733,115 @@ window.MAPA_DATA = {
         {
           "d": "24. / 25. 1. 1864",
           "j": "František Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1864
+        },
+        {
+          "d": "24. / 25. 1. 1864",
+          "j": "František Plášil",
           "p": "otec při narození dítěte František Plášil",
           "r": 1864,
           "rod": "o"
         },
         {
-          "d": "24. / 25. 1. 1864",
+          "d": "22. 1. 1867; pokřtěn téhož dne",
+          "j": "Anna",
+          "p": "matka při narození dítěte Antonín Plášil",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "22. 1. 1867; pokřtěn téhož dne",
+          "j": "Antonín Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
+          "r": 1867
+        },
+        {
+          "d": "22. 1. 1867; pokřtěn téhož dne",
           "j": "František Plášil",
+          "p": "otec při narození dítěte Antonín Plášil",
+          "r": 1867,
+          "rod": "o"
+        },
+        {
+          "d": "16. / 17. 8. 1868",
+          "j": "Anna",
+          "p": "matka při narození dítěte Rosalie Plášilová",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "16. / 17. 8. 1868",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Rosalie Plášilová",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "16. / 17. 8. 1868",
+          "j": "Rosalie Plášilová",
           "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1864
+          "r": 1868
+        },
+        {
+          "d": "7. / 10. 5. 1872",
+          "j": "Anna",
+          "p": "matka při narození dítěte Emilie Plášilová",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "7. / 10. 5. 1872",
+          "j": "Emilie Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1872
+        },
+        {
+          "d": "7. / 10. 5. 1872",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Emilie Plášilová",
+          "r": 1872,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 20. 2. 1878",
+          "j": "Anna",
+          "p": "matka při narození dítěte Otilie Plášilová",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 2. 1878",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Otilie Plášilová",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 20. 2. 1878",
+          "j": "Otilie Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "3. / 4. 8. 1878",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Marie <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "3. / 4. 8. 1878",
+          "j": "Marie <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům a oba dny bezpečné, pozdější přípis zaznamenává legitimaci",
+          "r": 1878
+        },
+        {
+          "d": "3. / 4. 8. 1878",
+          "j": "otec v původním zápisu neuveden",
+          "p": "otec při narození dítěte Marie <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1878,
+          "rod": "o"
         },
         {
           "d": "1921 (sčítací arch)",
@@ -1776,15 +2089,15 @@ window.MAPA_DATA = {
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
-          "r": 1863
+          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1863,
+          "rod": "o"
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1863,
-          "rod": "o"
+          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
+          "r": 1863
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
@@ -1792,6 +2105,106 @@ window.MAPA_DATA = {
           "p": "matka při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
           "r": 1863,
           "rod": "m"
+        },
+        {
+          "d": "31. 3. 1866; pokřtěn téhož dne",
+          "j": "Josef Mrázek (?)",
+          "p": "narození / křest; dům, den a křestní jména bezpečné; příjmení je pracovní normalizace opakované rodiny N4",
+          "r": 1866
+        },
+        {
+          "d": "31. 3. 1866; pokřtěn téhož dne",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josef Mrázek (?)",
+          "r": 1866,
+          "rod": "m"
+        },
+        {
+          "d": "31. 3. 1866; pokřtěn téhož dne",
+          "j": "Matěj Mrázek (?)",
+          "p": "otec při narození dítěte Josef Mrázek (?)",
+          "r": 1866,
+          "rod": "o"
+        },
+        {
+          "d": "12. / 13. 8. 1869",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Mrázková (?)",
+          "r": 1869,
+          "rod": "m"
+        },
+        {
+          "d": "12. / 13. 8. 1869",
+          "j": "Marie Mrázková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4",
+          "r": 1869
+        },
+        {
+          "d": "12. / 13. 8. 1869",
+          "j": "Matěj Mrázek (?)",
+          "p": "otec při narození dítěte Marie Mrázková (?)",
+          "r": 1869,
+          "rod": "o"
+        },
+        {
+          "d": "26. 9. 1870; pokřtěn téhož dne",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Václav Mrázek (?)",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "26. 9. 1870; pokřtěn téhož dne",
+          "j": "Matěj Mrázek (?)",
+          "p": "otec při narození dítěte Václav Mrázek (?)",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
+          "d": "26. 9. 1870; pokřtěn téhož dne",
+          "j": "Václav Mrázek (?)",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní normalizace rodiny N4",
+          "r": 1870
+        },
+        {
+          "d": "12. 1. 1874; pokřtěn téhož dne",
+          "j": "František Mrázek (?)",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní",
+          "r": 1874
+        },
+        {
+          "d": "12. 1. 1874; pokřtěn téhož dne",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte František Mrázek (?)",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "12. 1. 1874; pokřtěn téhož dne",
+          "j": "Matěj Mrázek (?)",
+          "p": "otec při narození dítěte František Mrázek (?)",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "27. / 28. 7. 1879",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Mrázková (?)",
+          "r": 1879,
+          "rod": "m"
+        },
+        {
+          "d": "27. / 28. 7. 1879",
+          "j": "Marie Mrázková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní",
+          "r": 1879
+        },
+        {
+          "d": "27. / 28. 7. 1879",
+          "j": "Matěj Mrázek (?)",
+          "p": "otec při narození dítěte Marie Mrázková (?)",
+          "r": 1879,
+          "rod": "o"
         },
         {
           "d": "1921 (sčítací arch)",
@@ -2289,6 +2702,46 @@ window.MAPA_DATA = {
           "r": 1865
         },
         {
+          "d": "6. / 7. 4. 1868",
+          "j": "Josef Nuník (?)",
+          "p": "otec při narození dítěte Josefa Nuníková (?)",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "6. / 7. 4. 1868",
+          "j": "Josefa Nuníková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N5",
+          "r": 1868
+        },
+        {
+          "d": "6. / 7. 4. 1868",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josefa Nuníková (?)",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 21. 6. 1871",
+          "j": "Antonín Nuník (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1871
+        },
+        {
+          "d": "19. / 21. 6. 1871",
+          "j": "Josef Nuník (?)",
+          "p": "otec při narození dítěte Antonín Nuník (?)",
+          "r": 1871,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 21. 6. 1871",
+          "j": "Marie",
+          "p": "matka při narození dítěte Antonín Nuník (?)",
+          "r": 1871,
+          "rod": "m"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Růžová",
           "p": "manželka",
@@ -2676,14 +3129,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
@@ -2702,14 +3155,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
@@ -2945,6 +3398,186 @@ window.MAPA_DATA = {
           "p": "matka při narození dítěte Anna Jílková",
           "r": 1865,
           "rod": "m"
+        },
+        {
+          "d": "1. / 2. 11. 1866",
+          "j": "Barbora Zičková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; historický tvar příjmení je pracovní",
+          "r": 1866
+        },
+        {
+          "d": "1. / 2. 11. 1866",
+          "j": "Josef Zička (?)",
+          "p": "otec při narození dítěte Barbora Zičková (?)",
+          "r": 1866,
+          "rod": "o"
+        },
+        {
+          "d": "1. / 2. 11. 1866",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Barbora Zičková (?)",
+          "r": 1866,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 18. 8. 1867",
+          "j": "Marie Zemišková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1867
+        },
+        {
+          "d": "17. / 18. 8. 1867",
+          "j": "Matěj Zemišek (?)",
+          "p": "otec při narození dítěte Marie Zemišková (?)",
+          "r": 1867,
+          "rod": "o"
+        },
+        {
+          "d": "17. / 18. 8. 1867",
+          "j": "Veronika",
+          "p": "matka při narození dítěte Marie Zemišková (?)",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 2. 1870",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte Josefa Plášilová",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 2. 1870",
+          "j": "Josefa Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1870
+        },
+        {
+          "d": "15. / 16. 2. 1870",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josefa Plášilová",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 17. 3. 1872",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte Josef Plášil",
+          "r": 1872,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 17. 3. 1872",
+          "j": "Josef Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1872
+        },
+        {
+          "d": "15. / 17. 3. 1872",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josef Plášil",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "3. / 4. 2. 1874",
+          "j": "Jan Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1874
+        },
+        {
+          "d": "3. / 4. 2. 1874",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte Jan Plášil",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "3. / 4. 2. 1874",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Plášil",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "24. / 25. 3. 1875",
+          "j": "Jan Mynářík (?)",
+          "p": "otec při narození dítěte Marie Mynáříková (?)",
+          "r": 1875,
+          "rod": "o"
+        },
+        {
+          "d": "24. / 25. 3. 1875",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Mynáříková (?)",
+          "r": 1875,
+          "rod": "m"
+        },
+        {
+          "d": "24. / 25. 3. 1875",
+          "j": "Marie Mynáříková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1875
+        },
+        {
+          "d": "3. / 4. 3. 1876",
+          "j": "František Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
+        },
+        {
+          "d": "3. / 4. 3. 1876",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte František Plášil",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "3. / 4. 3. 1876",
+          "j": "Marie",
+          "p": "matka při narození dítěte František Plášil",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 6. 1877",
+          "j": "Anna Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1877
+        },
+        {
+          "d": "15. / 16. 6. 1877",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte Anna Plášilová",
+          "r": 1877,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 6. 1877",
+          "j": "Marie",
+          "p": "matka při narození dítěte Anna Plášilová",
+          "r": 1877,
+          "rod": "m"
+        },
+        {
+          "d": "1. 7. 1879; pokřtěna téhož dne",
+          "j": "Josef Plášil",
+          "p": "otec při narození dítěte Marie Plášilová",
+          "r": 1879,
+          "rod": "o"
+        },
+        {
+          "d": "1. 7. 1879; pokřtěna téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Plášilová",
+          "r": 1879,
+          "rod": "m"
+        },
+        {
+          "d": "1. 7. 1879; pokřtěna téhož dne",
+          "j": "Marie Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
+          "r": 1879
         },
         {
           "d": "1921 (sčítací arch)",
@@ -3801,6 +4434,159 @@ window.MAPA_DATA = {
           "r": 1865
         },
         {
+          "d": "9. / 10. 10. 1872",
+          "j": "Kateřina Křížová",
+          "p": "narození / křest; dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné",
+          "r": 1872
+        },
+        {
+          "d": "9. / 10. 10. 1872",
+          "j": "Marie",
+          "p": "matka při narození dítěte Kateřina Křížová",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "9. / 10. 10. 1872",
+          "j": "Matěj Kříž",
+          "p": "otec při narození dítěte Kateřina Křížová",
+          "r": 1872,
+          "rod": "o"
+        },
+        {
+          "d": "11. / 12. 8. 1874",
+          "j": "František Kříž",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1874
+        },
+        {
+          "d": "11. / 12. 8. 1874",
+          "j": "Marie",
+          "p": "matka při narození dítěte František Kříž",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "11. / 12. 8. 1874",
+          "j": "Matěj Kříž",
+          "p": "otec při narození dítěte František Kříž",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 2. 1875",
+          "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte a otce, dům a oba dny bezpečné",
+          "r": 1875
+        },
+        {
+          "d": "15. / 16. 2. 1875",
+          "j": "Tomáš <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1875,
+          "rod": "o"
+        },
+        {
+          "d": "21. / 22. 8. 1876",
+          "j": "Jan Kříž",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
+        },
+        {
+          "d": "21. / 22. 8. 1876",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Kříž",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "21. / 22. 8. 1876",
+          "j": "Matěj Kříž",
+          "p": "otec při narození dítěte Jan Kříž",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "10. 9. 1876; pokřtěn téhož dne",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Václav Plášil",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "10. 9. 1876; pokřtěn téhož dne",
+          "j": "Václav Plášil",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; zápis připojuje k N8 místní polohový dovětek, který se nevykládá jako jiné číslo domu",
+          "r": 1876
+        },
+        {
+          "d": "10. 9. 1876; pokřtěn téhož dne",
+          "j": "Václav Plášil",
+          "p": "otec při narození dítěte Václav Plášil",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "28. / 30. 3. 1878",
+          "j": "František Kříž",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "28. / 30. 3. 1878",
+          "j": "Marie",
+          "p": "matka při narození dítěte František Kříž",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "28. / 30. 3. 1878",
+          "j": "Matěj Kříž",
+          "p": "otec při narození dítěte František Kříž",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "5. 12. 1878; pokřtěna téhož dne",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Plášilová",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "5. 12. 1878; pokřtěna téhož dne",
+          "j": "Marie Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "5. 12. 1878; pokřtěna téhož dne",
+          "j": "Václav Plášil",
+          "p": "otec při narození dítěte Marie Plášilová",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "13. / 14. 3. 1880",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Křížová",
+          "r": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "13. / 14. 3. 1880",
+          "j": "Marie Křížová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1880
+        },
+        {
+          "d": "13. / 14. 3. 1880",
+          "j": "Matěj Kříž",
+          "p": "otec při narození dítěte Marie Křížová",
+          "r": 1880,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Kolářová",
           "p": "služka; svobodná",
@@ -3843,17 +4629,17 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Růžová",
-          "p": "manželka",
+          "p": "dcera; svobodná",
           "h": 1,
-          "c": "Zahrádka · práce v domácnosti",
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Růžová",
-          "p": "dcera; svobodná",
+          "p": "manželka",
           "h": 1,
-          "c": "Zahrádka · žákyně obecné školy v Pošné",
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
@@ -4297,6 +5083,26 @@ window.MAPA_DATA = {
           "r": 1853
         },
         {
+          "d": "24. / 26. 11. 1880",
+          "j": "Anna",
+          "p": "matka při narození dítěte Marie Žika",
+          "r": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "24. / 26. 11. 1880",
+          "j": "Marie Žika",
+          "p": "narození / křest; dítě, rodičovská křestní jména, dům a oba dny bezpečné; dobový tvar příjmení je ponechán bez přechýlení",
+          "r": 1880
+        },
+        {
+          "d": "24. / 26. 11. 1880",
+          "j": "Václav Žika",
+          "p": "otec při narození dítěte Marie Žika",
+          "r": 1880,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Plášil",
           "p": "bratr přednosty; svobodný",
@@ -4331,6 +5137,14 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
+          "p": "matka přednosty; ovdovělá",
+          "h": 1,
+          "c": "Kladruby (?) · bez bezpečně čitelného povolání",
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Marie Plášilová",
           "p": "dcera; svobodná",
           "h": 1,
           "c": "Zahrádka · žákyně obecné školy v Pošné",
@@ -4342,14 +5156,6 @@ window.MAPA_DATA = {
           "p": "manželka",
           "h": 1,
           "c": "Zahrádka · práce v domácnosti",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Marie Plášilová",
-          "p": "matka přednosty; ovdovělá",
-          "h": 1,
-          "c": "Kladruby (?) · bez bezpečně čitelného povolání",
           "r": 1921
         }
       ],
@@ -4995,6 +5801,59 @@ window.MAPA_DATA = {
           "j": "Terezie Kejvalová",
           "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
           "r": 1864
+        },
+        {
+          "d": "13. / 14. 3. 1867",
+          "j": "Josef Průša (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1867
+        },
+        {
+          "d": "13. / 14. 3. 1867",
+          "j": "Josef Průša (?)",
+          "p": "otec při narození dítěte Josef Průša (?)",
+          "r": 1867,
+          "rod": "o"
+        },
+        {
+          "d": "13. / 14. 3. 1867",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josef Průša (?)",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "20. / 21. 11. 1869",
+          "j": "Anna Průšová (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1869
+        },
+        {
+          "d": "20. / 21. 11. 1869",
+          "j": "Josef Průša (?)",
+          "p": "otec při narození dítěte Anna Průšová (?)",
+          "r": 1869,
+          "rod": "o"
+        },
+        {
+          "d": "20. / 21. 11. 1869",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Anna Průšová (?)",
+          "r": 1869,
+          "rod": "m"
+        },
+        {
+          "d": "19. 9. 1875; pokřtěn téhož dne",
+          "j": "Kateřina <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Václav <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1875,
+          "rod": "m"
+        },
+        {
+          "d": "19. 9. 1875; pokřtěn téhož dne",
+          "j": "Václav <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; první jméno, dům, den a matčino první jméno bezpečné",
+          "r": 1875
         },
         {
           "d": "1921 (sčítací arch)",
@@ -5985,20 +6844,20 @@ window.MAPA_DATA = {
           "r": 1858
         },
         {
-          "d": "doložen 26./27. 3. 1859, 6./7. 1. 1862 a 27./28. 6. 1864",
+          "d": "doložen 26./27. 3. 1859, 6./7. 1. 1862, 27./28. 6. 1864 a 20./21. 10. 1870",
           "j": "Matěj Čmucha <span class=\"nej\">[příjmení pracovní]</span>",
-          "p": "otec Marie, Antonie a Anny; adresní posloupnost: Zahrádka N11",
-          "z": "ZAH-0218; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">narození Marie, snímek 326</a>, <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">narození Antonie, snímek 330</a>, <a href=\"https://digi.ceskearchivy.cz/6621/332\" target=\"_blank\" rel=\"noopener\">narození Anny, snímek 333</a>, celé místní snímky v souvislém katalogu",
+          "p": "otec Marie, Antonie, Anny a Kateřiny; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0218; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">narození Marie, snímek 326</a>, <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">narození Antonie, snímek 330</a>, <a href=\"https://digi.ceskearchivy.cz/6621/332\" target=\"_blank\" rel=\"noopener\">narození Anny, snímek 333</a>, <a href=\"https://digi.ceskearchivy.cz/6621/337\" target=\"_blank\" rel=\"noopener\">narození Kateřiny, snímek 338</a>, celé místní snímky v souvislém katalogu",
           "r": 1859,
-          "rr": 1864
+          "rr": 1870
         },
         {
-          "d": "doložena 26./27. 3. 1859, 6./7. 1. 1862 a 27./28. 6. 1864",
+          "d": "doložena 26./27. 3. 1859, 6./7. 1. 1862, 27./28. 6. 1864 a 20./21. 10. 1870",
           "j": "Marie, manželka Matěje Čmuchy",
-          "p": "matka Marie, Antonie a Anny Čmuchových; adresní posloupnost: rodina v Zahrádce N11",
-          "z": "ZAH-0219; tytéž tři zápisy jako ZAH-0218",
+          "p": "matka Marie, Antonie, Anny a Kateřiny Čmuchových; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0219; tytéž čtyři zápisy jako ZAH-0218",
           "r": 1859,
-          "rr": 1864
+          "rr": 1870
         },
         {
           "d": "narozena 26. 3., pokřtěna 27. 3. 1859",
@@ -6122,7 +6981,7 @@ window.MAPA_DATA = {
           "d": "doložena 8./9. 7. 1865, 1871 a 1874",
           "j": "Marie, manželka Josefa Zemiška",
           "p": "matka Anny, Antonie a Marie; adresní posloupnost: roku 1865 rodina v Zahrádce <span class=\"nej\">na sušárně</span> bez čísla; roku 1871 a 1874 rodina v N11",
-          "z": "ZAH-0010; tytéž tři zápisy jako ZAH-0009",
+          "z": "ZAH-0010; tytéž tři zápisy jako ZAH-0009; celý snímek 356 je uložen v souvislém katalogu",
           "r": 1865,
           "rr": 1874
         },
@@ -6132,6 +6991,48 @@ window.MAPA_DATA = {
           "p": "narození, křest a úmrtí ve věku 2 dnů; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0025; <a href=\"https://digi.ceskearchivy.cz/6621/333\" target=\"_blank\" rel=\"noopener\">narození, snímek 334</a>, <a href=\"https://digi.ceskearchivy.cz/6626/172\" target=\"_blank\" rel=\"noopener\">úmrtí, snímek 173</a>",
           "r": 1865
+        },
+        {
+          "d": "doložen 7./8. 12. 1866",
+          "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "zřejmě <b>podruh</b>; otec Marie; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0226; tentýž zápis jako ZAH-0225",
+          "r": 1866
+        },
+        {
+          "d": "doložena 7./8. 12. 1866",
+          "j": "Rosalie <span class=\"nej\">[příjmení nejasné]</span>, manželka Josefa",
+          "p": "matka Marie; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0227; tentýž zápis jako ZAH-0225",
+          "r": 1866
+        },
+        {
+          "d": "narozena 7. 12., pokřtěna 8. 12. 1866",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0225; <a href=\"https://digi.ceskearchivy.cz/6621/334\" target=\"_blank\" rel=\"noopener\">originál, snímek 335</a>",
+          "r": 1866
+        },
+        {
+          "d": "doložen 21. 6. 1867",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec Aloisie; pracovní role zatím neuzavřena; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0229; tentýž zápis jako ZAH-0228",
+          "r": 1867
+        },
+        {
+          "d": "doložena 21. 6. 1867",
+          "j": "Kateřina <span class=\"nej\">[příjmení nejasné]</span>, manželka Františka",
+          "p": "matka Aloisie; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0230; tentýž zápis jako ZAH-0228",
+          "r": 1867
+        },
+        {
+          "d": "narozena a pokřtěna 21. 6. 1867",
+          "j": "Aloisie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0228; <a href=\"https://digi.ceskearchivy.cz/6621/335\" target=\"_blank\" rel=\"noopener\">originál, snímek 336</a>",
+          "r": 1867
         },
         {
           "d": "doložen 15./16. 2. 1868 a v rodových údajích 21. 4. 1896 a 17./21. 4. 1901",
@@ -6178,10 +7079,17 @@ window.MAPA_DATA = {
           "r": 1870
         },
         {
-          "d": "doložen 15. 3. 1870",
+          "d": "doložen 15./16. 3. 1870",
           "j": "Jan Dvořák",
           "p": "otec Josefy; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0029; <a href=\"https://digi.ceskearchivy.cz/6621/337\" target=\"_blank\" rel=\"noopener\">originál, snímek 338</a>",
+          "r": 1870
+        },
+        {
+          "d": "doložena 15./16. 3. 1870",
+          "j": "Marie, manželka Jana Dvořáka",
+          "p": "matka Josefy Dvořákové; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0232; tentýž zápis jako ZAH-0028",
           "r": 1870
         },
         {
@@ -6189,6 +7097,13 @@ window.MAPA_DATA = {
           "j": "Josefa Dvořáková",
           "p": "narození a křest; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0028; <a href=\"https://digi.ceskearchivy.cz/6621/337\" target=\"_blank\" rel=\"noopener\">originál, snímek 338</a>",
+          "r": 1870
+        },
+        {
+          "d": "narozena 20. 10., pokřtěna 21. 10. 1870",
+          "j": "Kateřina Čmuchová <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0231; <a href=\"https://digi.ceskearchivy.cz/6621/337\" target=\"_blank\" rel=\"noopener\">originál, snímek 338</a>",
           "r": 1870
         },
         {
@@ -6212,6 +7127,27 @@ window.MAPA_DATA = {
           "z": "ZAH-0128; <a href=\"https://digi.ceskearchivy.cz/5365/55\" target=\"_blank\" rel=\"noopener\">narození 1872, Lukavec 10, snímek 55</a>, <a href=\"https://digi.ceskearchivy.cz/6232/244\" target=\"_blank\" rel=\"noopener\">sňatek 1897</a>, tytéž mladší prameny jako ZAH-0127",
           "r": 1872,
           "rr": 1951
+        },
+        {
+          "d": "doložen 15./16. 5. 1872",
+          "j": "Antonín Křižina <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "otec Jana; pravděpodobně <b>zahradník</b>; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0234; tentýž zápis jako ZAH-0233",
+          "r": 1872
+        },
+        {
+          "d": "doložena 15./16. 5. 1872",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>, manželka Antonína",
+          "p": "matka Jana; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0235; tentýž zápis jako ZAH-0233",
+          "r": 1872
+        },
+        {
+          "d": "narozen 15. 5., pokřtěn 16. 5. 1872",
+          "j": "Jan Křižina <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0233; <a href=\"https://digi.ceskearchivy.cz/6621/337\" target=\"_blank\" rel=\"noopener\">originál, snímek 338</a>",
+          "r": 1872
         },
         {
           "d": "zemřel 10. 2., pohřben 13. 2. 1873",
@@ -6292,20 +7228,6 @@ window.MAPA_DATA = {
           "z": "ZAH-0002; <a href=\"https://digi.ceskearchivy.cz/6621/359\" target=\"_blank\" rel=\"noopener\">narození syna, snímek 360</a>, <a href=\"https://digi.ceskearchivy.cz/6624/75\" target=\"_blank\" rel=\"noopener\">sňatek syna, snímek 75</a>",
           "r": 1878,
           "rr": 1901
-        },
-        {
-          "d": "doložen 6. 3. 1880",
-          "j": "Václav Tvrček",
-          "p": "<b>kolář</b>; otec Josefa; adresní posloupnost: Zahrádka N11",
-          "z": "ZAH-0006; <a href=\"https://digi.ceskearchivy.cz/6621/361\" target=\"_blank\" rel=\"noopener\">originál, snímek 362</a>",
-          "r": 1880
-        },
-        {
-          "d": "narozen 6. 3. 1880, pokřtěn 7. 3. 1880",
-          "j": "Josef Tvrček",
-          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
-          "z": "ZAH-0005; <a href=\"https://digi.ceskearchivy.cz/6621/361\" target=\"_blank\" rel=\"noopener\">originál, snímek 362</a>",
-          "r": 1880
         },
         {
           "d": "oddán 7. 3. 1881",
@@ -7891,6 +8813,26 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "5. / 6. 2. 1868",
+          "j": "Anna",
+          "p": "matka při narození dítěte Kateřina Zemišková (?)",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "5. / 6. 2. 1868",
+          "j": "Josef Zemišek (?)",
+          "p": "otec při narození dítěte Kateřina Zemišková (?)",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "5. / 6. 2. 1868",
+          "j": "Kateřina Zemišková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1868
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Kejvalová",
           "p": "manželka",
@@ -8303,14 +9245,114 @@ window.MAPA_DATA = {
         {
           "d": "9. / 11. 9. 1865",
           "j": "Václav Kejval",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1865
+          "p": "otec při narození dítěte Václav Kejval",
+          "r": 1865,
+          "rod": "o"
         },
         {
           "d": "9. / 11. 9. 1865",
           "j": "Václav Kejval",
-          "p": "otec při narození dítěte Václav Kejval",
-          "r": 1865,
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1865
+        },
+        {
+          "d": "3. 12. 1868; pokřtěn téhož dne",
+          "j": "Karel Kejval",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
+          "r": 1868
+        },
+        {
+          "d": "3. 12. 1868; pokřtěn téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Karel Kejval",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "3. 12. 1868; pokřtěn téhož dne",
+          "j": "Václav Kejval",
+          "p": "otec při narození dítěte Karel Kejval",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 10. 1870",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Kejvalová",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 10. 1870",
+          "j": "Marie Kejvalová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1870
+        },
+        {
+          "d": "15. / 16. 10. 1870",
+          "j": "Václav Kejval",
+          "p": "otec při narození dítěte Marie Kejvalová",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
+          "d": "11. / 12. 9. 1872",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Křivolová (?)",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "11. / 12. 9. 1872",
+          "j": "Marie Křivolová (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1872
+        },
+        {
+          "d": "11. / 12. 9. 1872",
+          "j": "Václav Křivol (?)",
+          "p": "otec při narození dítěte Marie Křivolová (?)",
+          "r": 1872,
+          "rod": "o"
+        },
+        {
+          "d": "21. / 22. 10. 1874",
+          "j": "Anna",
+          "p": "matka při narození dítěte Marie Plešková (?)",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "21. / 22. 10. 1874",
+          "j": "Marie Plešková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní převod latinizovaného zápisu",
+          "r": 1874
+        },
+        {
+          "d": "21. / 22. 10. 1874",
+          "j": "Martin Pleška (?)",
+          "p": "otec při narození dítěte Marie Plešková (?)",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "10. / 11. 5. 1876",
+          "j": "Jan Křivol (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1876
+        },
+        {
+          "d": "10. / 11. 5. 1876",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Křivol (?)",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "10. / 11. 5. 1876",
+          "j": "Václav Křivol (?)",
+          "p": "otec při narození dítěte Jan Křivol (?)",
+          "r": 1876,
           "rod": "o"
         },
         {
@@ -8678,15 +9720,15 @@ window.MAPA_DATA = {
         {
           "d": "7. / 8. 8. 1857",
           "j": "Vojtěch Díčka (?)",
-          "p": "narození / křest; dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení opakované v N16",
-          "r": 1857
+          "p": "otec při narození dítěte Vojtěch Díčka (?)",
+          "r": 1857,
+          "rod": "o"
         },
         {
           "d": "7. / 8. 8. 1857",
           "j": "Vojtěch Díčka (?)",
-          "p": "otec při narození dítěte Vojtěch Díčka (?)",
-          "r": 1857,
-          "rod": "o"
+          "p": "narození / křest; dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení opakované v N16",
+          "r": 1857
         },
         {
           "d": "25. / 26. 11. 1859",
@@ -8746,6 +9788,26 @@ window.MAPA_DATA = {
           "j": "Vojtěch Díčka (?)",
           "p": "otec při narození dítěte Antonie Díčková (?)",
           "r": 1864,
+          "rod": "o"
+        },
+        {
+          "d": "14. 6. 1867; pokřtěn téhož dne",
+          "j": "Anna",
+          "p": "matka při narození dítěte Jan Díčka (?)",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "14. 6. 1867; pokřtěn téhož dne",
+          "j": "Jan Díčka (?)",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N16",
+          "r": 1867
+        },
+        {
+          "d": "14. 6. 1867; pokřtěn téhož dne",
+          "j": "Vojtěch Díčka (?)",
+          "p": "otec při narození dítěte Jan Díčka (?)",
+          "r": 1867,
           "rod": "o"
         },
         {
@@ -9233,6 +10295,99 @@ window.MAPA_DATA = {
           "r": 1863
         },
         {
+          "d": "8. / 9. 11. 1870",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Václav <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "8. / 9. 11. 1870",
+          "j": "Václav <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, oba dny a matčino první jméno bezpečné",
+          "r": 1870
+        },
+        {
+          "d": "16. / 17. 3. 1874",
+          "j": "Antonie Dvořáčková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1874
+        },
+        {
+          "d": "16. / 17. 3. 1874",
+          "j": "Marie",
+          "p": "matka při narození dítěte Antonie Dvořáčková (?)",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "16. / 17. 3. 1874",
+          "j": "Václav Dvořáček (?)",
+          "p": "otec při narození dítěte Antonie Dvořáčková (?)",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "16. / 17. 4. 1876",
+          "j": "Josef Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
+        },
+        {
+          "d": "16. / 17. 4. 1876",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josef Dvořáček",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "16. / 17. 4. 1876",
+          "j": "Václav Dvořáček",
+          "p": "otec při narození dítěte Josef Dvořáček",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "3. / 4. 1. 1878",
+          "j": "Anna Dvořáčková",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "3. / 4. 1. 1878",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Anna Dvořáčková",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "3. / 4. 1. 1878",
+          "j": "Václav Dvořáček",
+          "p": "otec při narození dítěte Anna Dvořáčková",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "6. / 7. 3. 1880",
+          "j": "Josef Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; opravuje dřívější chybné čtení Tvrček a N11",
+          "r": 1880
+        },
+        {
+          "d": "6. / 7. 3. 1880",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josef Dvořáček",
+          "r": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "6. / 7. 3. 1880",
+          "j": "Václav Dvořáček",
+          "p": "otec při narození dítěte Josef Dvořáček",
+          "r": 1880,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Nováková",
           "p": "manželka",
@@ -9617,6 +10772,192 @@ window.MAPA_DATA = {
           "r": 1863
         },
         {
+          "d": "1. / 2. 5. 1867",
+          "j": "Jan Díčka (?)",
+          "p": "otec při narození dítěte Marie Díčková (?)",
+          "r": 1867,
+          "rod": "o"
+        },
+        {
+          "d": "1. / 2. 5. 1867",
+          "j": "Josefa",
+          "p": "matka při narození dítěte Marie Díčková (?)",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "1. / 2. 5. 1867",
+          "j": "Marie Díčková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na pracovní čtení rodiny N18",
+          "r": 1867
+        },
+        {
+          "d": "2. / 3. 9. 1869",
+          "j": "Barbora Zičková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1869
+        },
+        {
+          "d": "2. / 3. 9. 1869",
+          "j": "Jan Zička (?)",
+          "p": "otec při narození dítěte Barbora Zičková (?)",
+          "r": 1869,
+          "rod": "o"
+        },
+        {
+          "d": "2. / 3. 9. 1869",
+          "j": "Josefa",
+          "p": "matka při narození dítěte Barbora Zičková (?)",
+          "r": 1869,
+          "rod": "m"
+        },
+        {
+          "d": "4. / 5. 10. 1870",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
+          "d": "4. / 5. 10. 1870",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
+          "r": 1870
+        },
+        {
+          "d": "4. / 5. 10. 1870",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "18. / 19. 11. 1870",
+          "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte, dům a oba dny bezpečné; nezaměňovat s říjnovým dítětem téhož domu",
+          "r": 1870
+        },
+        {
+          "d": "7. / 8. 5. 1871",
+          "j": "František Zička (?)",
+          "p": "otec při narození dítěte Josefa Zičková (?)",
+          "r": 1871,
+          "rod": "o"
+        },
+        {
+          "d": "7. / 8. 5. 1871",
+          "j": "Josefa Zičková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1871
+        },
+        {
+          "d": "7. / 8. 5. 1871",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josefa Zičková (?)",
+          "r": 1871,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 18. 10. 1873",
+          "j": "Anna",
+          "p": "matka při narození dítěte Václav Líčka (?)",
+          "r": 1873,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 18. 10. 1873",
+          "j": "Tomáš Líčka (?)",
+          "p": "otec při narození dítěte Václav Líčka (?)",
+          "r": 1873,
+          "rod": "o"
+        },
+        {
+          "d": "17. / 18. 10. 1873",
+          "j": "Václav Líčka (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1873
+        },
+        {
+          "d": "4. 5. 1874; pokřtěn téhož dne",
+          "j": "František Zička (?)",
+          "p": "otec při narození dítěte Jan Zička (?)",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "4. 5. 1874; pokřtěn téhož dne",
+          "j": "Jan Zička (?)",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N18",
+          "r": 1874
+        },
+        {
+          "d": "4. 5. 1874; pokřtěn téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Zička (?)",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "9. / 10. 11. 1876",
+          "j": "Anna",
+          "p": "matka při narození dítěte Jan Líčka (?)",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "9. / 10. 11. 1876",
+          "j": "Jan Líčka (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení opakované rodiny N18",
+          "r": 1876
+        },
+        {
+          "d": "9. / 10. 11. 1876",
+          "j": "Tomáš Líčka (?)",
+          "p": "otec při narození dítěte Jan Líčka (?)",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "12. / 13. 9. 1878",
+          "j": "František Pudil",
+          "p": "otec při narození dítěte Jan Pudil",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "12. / 13. 9. 1878",
+          "j": "Jan Pudil",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "12. / 13. 9. 1878",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Jan Pudil",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "10. / 12. 9. 1879",
+          "j": "Anna",
+          "p": "matka při narození dítěte Marie Bílková (?)",
+          "r": 1879,
+          "rod": "m"
+        },
+        {
+          "d": "10. / 12. 9. 1879",
+          "j": "Marie Bílková (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; ženský tvar je pracovní převod historického <span class=\"nej\">Bílek</span>",
+          "r": 1879
+        },
+        {
+          "d": "10. / 12. 9. 1879",
+          "j": "Tomáš Bílek (?)",
+          "p": "otec při narození dítěte Marie Bílková (?)",
+          "r": 1879,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Apolonie Kudrnová",
           "p": "manželka",
@@ -9941,6 +11282,155 @@ window.MAPA_DATA = {
           "r": 1864
         },
         {
+          "d": "10. 12. 1867; pokřtěna téhož dne",
+          "j": "Jan Svoboda",
+          "p": "otec při narození dítěte Marie Svobodová",
+          "r": 1867,
+          "rod": "o"
+        },
+        {
+          "d": "10. 12. 1867; pokřtěna téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Svobodová",
+          "r": 1867,
+          "rod": "m"
+        },
+        {
+          "d": "10. 12. 1867; pokřtěna téhož dne",
+          "j": "Marie Svobodová",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; pozdější přípis se nepoužívá jako další narození",
+          "r": 1867
+        },
+        {
+          "d": "8. / 9. 5. 1868",
+          "j": "Aloisie Bílková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1868
+        },
+        {
+          "d": "8. / 9. 5. 1868",
+          "j": "Anna",
+          "p": "matka při narození dítěte Aloisie Bílková (?)",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "8. / 9. 5. 1868",
+          "j": "Jan Bílek (?)",
+          "p": "otec při narození dítěte Aloisie Bílková (?)",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "12. 3. 1869; pokřtěn téhož dne",
+          "j": "Josef <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, den a matčino první jméno bezpečné",
+          "r": 1869
+        },
+        {
+          "d": "12. 3. 1869; pokřtěn téhož dne",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Josef <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "r": 1869,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 9. 1872",
+          "j": "František Pudil",
+          "p": "otec při narození dítěte Marie Pudilová",
+          "r": 1872,
+          "rod": "o"
+        },
+        {
+          "d": "14. / 15. 9. 1872",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Marie Pudilová",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 9. 1872",
+          "j": "Marie Pudilová",
+          "p": "narození / křest; dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné",
+          "r": 1872
+        },
+        {
+          "d": "11. / 12. 7. 1875",
+          "j": "František Pavlík",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravděpodobně táž rodina jako v N20 roku 1874",
+          "r": 1875
+        },
+        {
+          "d": "11. / 12. 7. 1875",
+          "j": "Josef Pavlík",
+          "p": "otec při narození dítěte František Pavlík",
+          "r": 1875,
+          "rod": "o"
+        },
+        {
+          "d": "11. / 12. 7. 1875",
+          "j": "Josefa",
+          "p": "matka při narození dítěte František Pavlík",
+          "r": 1875,
+          "rod": "m"
+        },
+        {
+          "d": "16. / 17. 6. 1878",
+          "j": "Jan Kaňka",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen znovu na přelomu let 1879–1880",
+          "r": 1878
+        },
+        {
+          "d": "16. / 17. 6. 1878",
+          "j": "Josef Kaňka",
+          "p": "otec při narození dítěte Jan Kaňka",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "16. / 17. 6. 1878",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Kaňka",
+          "r": 1878,
+          "rod": "m"
+        },
+        {
+          "d": "31. 12. 1879 / 1. 1. 1880",
+          "j": "Josef Kaňka",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen u Jana roku 1878",
+          "r": 1879,
+          "rr": 1880
+        },
+        {
+          "d": "31. 12. 1879 / 1. 1. 1880",
+          "j": "Josef Kaňka",
+          "p": "otec při narození dítěte Josef Kaňka",
+          "r": 1879,
+          "rr": 1880,
+          "rod": "o"
+        },
+        {
+          "d": "31. 12. 1879 / 1. 1. 1880",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josef Kaňka",
+          "r": 1879,
+          "rr": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "21. / 22. 4. 1880",
+          "j": "Anna Moravcová",
+          "p": "matka při narození dítěte Vojtěch <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1880,
+          "rod": "m"
+        },
+        {
+          "d": "21. / 22. 4. 1880",
+          "j": "Vojtěch <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; první jméno, matka, dům a oba dny bezpečné",
+          "r": 1880
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Františka Vaňková",
           "p": "manželka",
@@ -9950,14 +11440,14 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
-          "p": "syn; svobodný",
+          "p": "majitel bytu; přednosta domácnosti",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
-          "p": "majitel bytu; přednosta domácnosti",
+          "p": "syn; svobodný",
           "h": 1,
           "r": 1921
         },
@@ -10448,6 +11938,26 @@ window.MAPA_DATA = {
           "r": 1865
         },
         {
+          "d": "15. / 16. 2. 1868",
+          "j": "Jan Svaček / Sváček",
+          "p": "otec při narození dítěte Josef Svaček / Sváček",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 2. 1868",
+          "j": "Josef Svaček / Sváček",
+          "p": "narození / křest; již evidovaný pozdější obyvatel č. 11 a jeho rodiče; zde narození a pobyt rodiny v N20",
+          "r": 1868
+        },
+        {
+          "d": "15. / 16. 2. 1868",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josef Svaček / Sváček",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
           "d": "15./16. 2. 1868",
           "j": "Jan Svaček / Sváček",
           "p": "podruh; otec Josefa",
@@ -10460,6 +11970,99 @@ window.MAPA_DATA = {
           "p": "syn podruha Jana Sváčka a Marie; později obyvatel č. 11",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6621/336\" target=\"_blank\" rel=\"noopener\">rodná matrika</a>",
           "r": 1868
+        },
+        {
+          "d": "16. 10. 1869; pokřtěn téhož dne",
+          "j": "František <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, den a matčino první jméno bezpečné",
+          "r": 1869
+        },
+        {
+          "d": "16. 10. 1869; pokřtěn téhož dne",
+          "j": "Veronika <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte František <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "r": 1869,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 12. 1870",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Marie Dvořáčková",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 20. 12. 1870",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Dvořáčková",
+          "r": 1870,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 12. 1870",
+          "j": "Marie Dvořáčková",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1870
+        },
+        {
+          "d": "23. / 24. 8. 1874",
+          "j": "Josef Pavlík",
+          "p": "otec při narození dítěte Marie Pavlíková",
+          "r": 1874,
+          "rod": "o"
+        },
+        {
+          "d": "23. / 24. 8. 1874",
+          "j": "Josefa",
+          "p": "matka při narození dítěte Marie Pavlíková",
+          "r": 1874,
+          "rod": "m"
+        },
+        {
+          "d": "23. / 24. 8. 1874",
+          "j": "Marie Pavlíková",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1874
+        },
+        {
+          "d": "18. / 19. 5. 1876",
+          "j": "Jan Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
+        },
+        {
+          "d": "18. / 19. 5. 1876",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1876,
+          "rod": "o"
+        },
+        {
+          "d": "18. / 19. 5. 1876",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Dvořáček",
+          "r": 1876,
+          "rod": "m"
+        },
+        {
+          "d": "18. / 19. 6. 1878",
+          "j": "Antonie Dvořáčková",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1878
+        },
+        {
+          "d": "18. / 19. 6. 1878",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Antonie Dvořáčková",
+          "r": 1878,
+          "rod": "o"
+        },
+        {
+          "d": "18. / 19. 6. 1878",
+          "j": "Marie",
+          "p": "matka při narození dítěte Antonie Dvořáčková",
+          "r": 1878,
+          "rod": "m"
         },
         {
           "d": "1921 (sčítací arch)",
@@ -10719,15 +12322,15 @@ window.MAPA_DATA = {
         {
           "d": "6. / 8. 4. 1855",
           "j": "František Dušánek",
-          "p": "otec při narození dítěte František Dušánek",
-          "r": 1855,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1855
         },
         {
           "d": "6. / 8. 4. 1855",
           "j": "František Dušánek",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1855
+          "p": "otec při narození dítěte František Dušánek",
+          "r": 1855,
+          "rod": "o"
         },
         {
           "d": "19. / 20. 9. 1857",
@@ -10810,6 +12413,26 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "6. 6. 1868; pokřtěna téhož dne",
+          "j": "Anna Kejvalová",
+          "p": "matka při narození dítěte Karolína Dušánková",
+          "r": 1868,
+          "rod": "m"
+        },
+        {
+          "d": "6. 6. 1868; pokřtěna téhož dne",
+          "j": "František Dušánek",
+          "p": "otec při narození dítěte Karolína Dušánková",
+          "r": 1868,
+          "rod": "o"
+        },
+        {
+          "d": "6. 6. 1868; pokřtěna téhož dne",
+          "j": "Karolína Dušánková",
+          "p": "narození / křest; již evidovaná osoba a rodiče; rodné příjmení matky potvrzuje pozdější oddací zápis",
+          "r": 1868
+        },
+        {
           "d": "narozena 6. 6. 1868; oddána 21. 4. 1896",
           "j": "Karolína Dušánková, později Sváčková",
           "p": "dcera Františka Dušánka a Anny Kejvalové",
@@ -10834,6 +12457,19 @@ window.MAPA_DATA = {
           "rr": 1896
         },
         {
+          "d": "8. / 10. 1. 1870",
+          "j": "Anastázie Dvořáčková (?)",
+          "p": "narození / křest; první jméno dítěte a otce, dům a oba dny bezpečné; příjmení je pracovní čtení",
+          "r": 1870
+        },
+        {
+          "d": "8. / 10. 1. 1870",
+          "j": "Václav Dvořáček (?)",
+          "p": "otec při narození dítěte Anastázie Dvořáčková (?)",
+          "r": 1870,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Alois Horáček",
           "p": "přednosta třetí domácnosti",
@@ -10843,14 +12479,14 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Horáčková",
-          "p": "manželka",
+          "p": "dcera; svobodná",
           "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Horáčková",
-          "p": "dcera; svobodná",
+          "p": "manželka",
           "h": 3,
           "r": 1921
         },
@@ -10997,6 +12633,46 @@ window.MAPA_DATA = {
           "j": "Marie <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
           "p": "narození / křest; nemanželské dítě; dům, oba dny a matčino první jméno bezpečné",
           "r": 1863
+        },
+        {
+          "d": "28. / 29. 5. 1866",
+          "j": "Jan Zalomka (?)",
+          "p": "otec při narození dítěte Jan Zalomka (?)",
+          "r": 1866,
+          "rod": "o"
+        },
+        {
+          "d": "28. / 29. 5. 1866",
+          "j": "Jan Zalomka (?)",
+          "p": "narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení",
+          "r": 1866
+        },
+        {
+          "d": "28. / 29. 5. 1866",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Zalomka (?)",
+          "r": 1866,
+          "rod": "m"
+        },
+        {
+          "d": "25. / 26. 6. 1869",
+          "j": "Antonie Železná (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1869
+        },
+        {
+          "d": "25. / 26. 6. 1869",
+          "j": "František Železný (?)",
+          "p": "otec při narození dítěte Antonie Železná (?)",
+          "r": 1869,
+          "rod": "o"
+        },
+        {
+          "d": "25. / 26. 6. 1869",
+          "j": "Marie",
+          "p": "matka při narození dítěte Antonie Železná (?)",
+          "r": 1869,
+          "rod": "m"
         },
         {
           "d": "1921 (sčítací arch)",
@@ -11186,6 +12862,26 @@ window.MAPA_DATA = {
           "p": "matka při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
           "r": 1865,
           "rod": "m"
+        },
+        {
+          "d": "7. / 8. 4. 1872",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Dvořáčková (?)",
+          "r": 1872,
+          "rod": "m"
+        },
+        {
+          "d": "7. / 8. 4. 1872",
+          "j": "Marie Dvořáčková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1872
+        },
+        {
+          "d": "7. / 8. 4. 1872",
+          "j": "Václav Dvořáček (?)",
+          "p": "otec při narození dítěte Marie Dvořáčková (?)",
+          "r": 1872,
+          "rod": "o"
         },
         {
           "d": "1921 (sčítací arch)",

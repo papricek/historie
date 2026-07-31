@@ -882,7 +882,8 @@ function uvodPanelu() {
     CELKEM_RADKU + " osobních dokladových řádků · doklady 1654 a 1772–1930.<br>" +
     "Klepněte na kolečko domu, nebo hledejte osobu. " +
     "Podklad mapy přepnete roky nad mapou.</p>" +
-    '<p class="sub">Největší oddíl má panský dvůr <b>N11 / čp. 11</b> (172 řádků) — ' +
+    '<p class="sub">Největší oddíl má panský dvůr <b>N11 / čp. 11</b> (' +
+    (DOMY["11"] ? DOMY["11"].osoby.length : "?") + " řádků) — " +
     "jeho podrobný spis je na <a href=\"index.html\">hlavní stránce</a>.</p>" +
     '<p class="sub">Každý dům má trvalý odkaz — například <a href="#11/1829">#11/1829</a> ' +
     "otevře dvůr čp. 11 na mapě roku 1829.</p>";

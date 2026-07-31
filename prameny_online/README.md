@@ -390,7 +390,25 @@ na narození 22. 4., křest 23. 4., úmrtí 29. 4. a pohřeb 1. 5. 1863. Anna
 Čmuchová potvrzuje stejný rodičovský pár v N11 také 27./28. 6. 1864. U Václava
 Fraňka celý snímek 334 ukazuje, že Petronila Nová je porodní bába; matkou je
 Rosalie Železná a domnělý rozpor s úmrtní knihou mizí. Jeden zápis roku 1865
-uvádí Zemiškovy pouze `na sušárně` bez čísla domu. Pokračuje se snímkem 335.
+uvádí Zemiškovy pouze `na sušárně` bez čísla domu.
+Snímky 335–338 uzavírají dalších 42 událostí z let 1866–1872. Šest zápisů
+patří N11: Marie 7./8. 12. 1866, Aloisie 21. 6. 1867, Josefa Dvořáková
+15./16. 3. 1870, Kateřina Čmuchová 20./21. 10. 1870, Antonie Zemišková
+28./29. 5. 1871 a Jan s pracovním příjmením `Křižina (?)` 15./16. 5. 1872.
+Kateřina prodlužuje bezpečnou řadu Matěje a Marie Čmuchových v N11 do roku
+1870; pracovní `Křižina` se bez dalšího dokladu nesjednocuje se známými Kříži.
+Mimo N11 jsou bez duplicit napojeni také Josef Sváček v N20 a Karolína
+Dušánková v N21. Snímky 339–354 byly následně zkontrolovány a patří pouze
+Zlátence; žádná jejich osoba nebyla převzata. Na smíšených snímcích 355–358
+bylo naproti tomu rozpoznáno všech 28 zahrádeckých událostí z let 1872–1876,
+vždy s číslem domu. Jediná událost N11, Marie Zemišková 27./28. 1. 1874, je
+napojena bez duplicity. Mimo N11 přibývají mimo jiné přímé doklady rodin
+Plášil, Pudil, Kříž, Pešta a Pavlík; nejisté tvary zůstávají pracovní.
+Snímky 359–362 přidávají posledních 23 zahrádeckých událostí z let 1876–1880,
+opět vždy s číslem domu. Jediný řádek N11 je Alois Kaňka 7./8. 7. 1878 a je
+napojen bez duplicity. Celý snímek 362 opravuje starší chybný výřez: zápis
+6./7. 3. 1880 je Josef Dvořáček v N17, nikoli Josef Tvrček v N11. Kniha 6621
+je tím pro Zahrádku na všech zápisových snímcích 309–362 dokončena.
 
 | Rok | Místní výřez | Obsah | Veřejný originál |
 |---|---|---|---|
@@ -444,13 +462,13 @@ V letech 1837–1843 nebyl v tomto oddílu nalezen žádný další bezpečný z
 | 1863 | [Barbora Fraňková / Franíková](matriky/narozeni/1863/zaznam_barbora_franikova_n11_snim332.png) | 22./23. 4.; dcera Josefa Fraňka, čeledína v N11, a Rosalie Železné; zemřela po sedmi dnech, měsíce opraveny podle celé strany | [snímek 332](https://digi.ceskearchivy.cz/6621/331) |
 | 1864 | [Anna Čmuchová (?)](matriky/narozeni/1864/zaznam_anna_n11_snim333.png) | 27./28. 6.; dcera Matěje Čmuchy (?) a Marie, třetí bezpečný zápis stejné rodiny v N11 | [snímek 333](https://digi.ceskearchivy.cz/6621/332) |
 | 1865 | [Václav Franěk](matriky/narozeni/1865/zaznam_vaclav_franek_n11_snim334.png) | 20./21. 8.; syn Josefa Fraňka, pastýře ve dvoře N11, a Rosalie Železné; Petronila Nová je porodní bába, nikoli matka | [snímek 334](https://digi.ceskearchivy.cz/6621/333) |
-| 1866 | [Marie, příjmení nejisté](matriky/narozeni/1866/zaznam_marie_n11_snim335.png) | pracovní výřez události u N11 | [snímek 335](https://digi.ceskearchivy.cz/6621/334) |
-| 1867 | [Aloisie, příjmení nejisté](matriky/narozeni/1867/zaznam_aloisie_n11_snim336.png) | pracovní výřez události u N11 | [snímek 336](https://digi.ceskearchivy.cz/6621/335) |
-| 1870 | [Josefa Dvořáková](matriky/narozeni/1870/zaznam_josefa_dvorakova_n11_snim338.png), [Kateřina, příjmení nejisté](matriky/narozeni/1870/zaznam_katerina_n11_snim338.png) | dvě události u N11 | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
-| 1871 | [Antonie Zemišek](matriky/narozeni/1871/zaznam_antonie_zemisek_n11_snim338.png) | dcera zahradníka Josefa Zemiška, N11 | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
-| 1874 | [Marie Zemišek](matriky/narozeni/1874/zaznam_marie_zemisek_n11_snim356.png) | dcera zahradníka Josefa Zemiška, N11 | [snímek 356](https://digi.ceskearchivy.cz/6621/355) |
-| 1878 | [Alois Kaňka](matriky/narozeni/1878/zaznam_alois_kanka_n11_snim360.jpg) | syn nájemníka a obuvníka Tomáše Kaňky, N11; mužské jméno a totožnost potvrzuje jeho sňatek z roku 1901 | [snímek 360](https://digi.ceskearchivy.cz/6621/359) |
-| 1880 | [Josef Tvrček](matriky/narozeni/1880/zaznam_josef_tvrcek_n11_snim362.jpg) | syn koláře Václava Tvrčka, N11 | [snímek 362](https://digi.ceskearchivy.cz/6621/361) |
+| 1866 | [Marie, příjmení nejisté](matriky/narozeni/1866/zaznam_marie_n11_snim335.png) | 7./8. 12.; dcera Josefa, zřejmě podruha v N11, a Rosalie; příjmení se nedoplňuje odhadem | [snímek 335](https://digi.ceskearchivy.cz/6621/334) |
+| 1867 | [Aloisie, příjmení nejisté](matriky/narozeni/1867/zaznam_aloisie_n11_snim336.png) | narozena a pokřtěna 21. 6.; dcera Františka a Kateřiny; příjmení a přesná otcova role zůstávají otevřené | [snímek 336](https://digi.ceskearchivy.cz/6621/335) |
+| 1870 | [Josefa Dvořáková](matriky/narozeni/1870/zaznam_josefa_dvorakova_n11_snim338.png), [Kateřina Čmuchová](matriky/narozeni/1870/zaznam_katerina_n11_snim338.png) | Josefa 15./16. 3., dcera Jana Dvořáka a Marie; Kateřina 20./21. 10., čtvrté dítě doloženého páru Matěje a Marie Čmuchových | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
+| 1871 | [Antonie Zemišek](matriky/narozeni/1871/zaznam_antonie_zemisek_n11_snim338.png) | 28./29. 5.; dcera zahradníka Josefa Zemiška a Marie, N11 | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
+| 1872 | Jan Křižina `[příjmení pracovní; bez trvalého výřezu]` | 15./16. 5.; syn Antonína, pravděpodobně zahradníka, a Marie; bez dalšího dokladu se nesjednocuje s rodinou Křížových | [snímek 338](https://digi.ceskearchivy.cz/6621/337) |
+| 1874 | [Marie Zemišek](matriky/narozeni/1874/zaznam_marie_zemisek_n11_snim356.png), [celý snímek](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim356.jpg) | 27./28. 1.; dcera zahradníka Josefa Zemiška a Marie, N11 | [snímek 356](https://digi.ceskearchivy.cz/6621/355) |
+| 1878 | [Alois Kaňka](matriky/narozeni/1878/zaznam_alois_kanka_n11_snim360.jpg), [celý snímek](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim360.jpg) | 7./8. 7.; syn nájemníka a obuvníka Tomáše Kaňky a Kateřiny Čermákové, N11; mužské jméno a totožnost potvrzuje jeho sňatek z roku 1901 | [snímek 360](https://digi.ceskearchivy.cz/6621/359) |
 | 1885 | [Marie Vyhnálková](matriky/narozeni/1885/zaznam_marie_vyhnalkova_n11_snim56.jpg) | dcera Františka Vyhnálka, čeledína ve dvoře v Zahrádce č. 11, a Kateřiny; pravopis příjmení středně jistý | [snímek 56](https://digi.ceskearchivy.cz/11210/56) |
 | 1885 | [Marie Kejvalová](matriky/narozeni/1885/zaznam_marie_kejvalova_n11_snim59.jpg) | dcera Františka Kejvala, čeledína ve dvoře v Zahrádce č. 11, a Josefy | [snímek 59](https://digi.ceskearchivy.cz/11210/59) |
 | 1885 | [Anna Mynáříková](matriky/narozeni/1885/zaznam_anna_mynarikova_n11_snim63.jpg) | dcera Filipa Mynáříka, čeledína v Zahrádce č. 11, a Eleonory; příjmení středně jisté | [snímek 63](https://digi.ceskearchivy.cz/11210/63) |

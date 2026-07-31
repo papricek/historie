@@ -44,7 +44,7 @@ v dalším zpracování obrátit.
   snímek 1949 už má mladší vícekřídlý areál. Hlavní půdorysná změna proto
   pravděpodobně spadá do intervalu **1878–1949**.
 - Matriky dokládají N11 jako služební a nájemní bydlení dvora: objevují se šafáři,
-  pastýři, čeledíni, děvečky, kočí, voláci, dělníci, deputátník, zahradník, kolář,
+  pastýři, čeledíni, děvečky, kočí, voláci, dělníci, deputátník, zahradník,
   obuvník a jejich rodiny. Samostatná evidence je v `obyvatele_zahradky.md`.
 - Sčítání 1921 zachycuje v čp. 11 osm přítomných osob ve dvou domácnostech. Celá
   digitální sada obce má 53 snímků, 25 domovních archů a 174 osob. Všech 174 osob
@@ -62,7 +62,7 @@ v dalším zpracování obrátit.
   řádků, nikoli nutně šestnáct dalších unikátních osob; některé se objevují také
   ve sčítání 1921 nebo později u jiného domu. Dalších šestnáct obyvatel z let 1654,
   1898 a 1915 je vedeno ve frontě `dům nezjištěn`.
-- Všech 216 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je nově
+- Všech 225 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je
   dostupných v `obyvatele_zahradky_domy/n11.md`; tři členové Lenzovy rodiny se
   spornou adresou N11/N14 jsou odděleni. Soubor se reprodukuje skriptem
   `nastroje/vytvorit_index_n11.rb`, takže se nemá ručně upravovat.
@@ -84,7 +84,7 @@ handoff je navigační souhrn, nikoli náhrada pramenného aparátu.
 | Stabilní katastr, PK, SMO-5 a RÚIAN | Archiv ČÚZK byl dotazován katalogově i prostorově bodem statku; staženy císařský otisk a indikační skica 1829, originální mapa s reambulací 1878, nedatovaný rastr bývalého PK, listy SMO-5 1951/1975/1993 a dnešní geometrie RÚIAN. Vznikly lokální afinní překryvy. | Prokázáno rozlišení st. 1/N11 a st. 29/N1, tři hmoty v letech 1829 a 1878 a dnešní vazba čp. 11. Zdrojové datum spojeného PK rastru zůstává neznámé. |
 | Josefínský katastr SOA Třeboň | Orientačně prověřeno všech pět digitalizovaných jednotek u přístupového bodu Zahrádka; dvě relevantní knihy procházeny po domovních oddílech. | Kniha 342510, sn. 209: `Panský dvůr N. 11 zahrádecký`; kniha 342896, sn. 55–56: oddíl N11 a peněžní urbální povinnosti. Podobné N11 v 342897 patří Roučkovicím a je vyloučeno. |
 | Pozemkové knihy SOA Třeboň | Souvisle zkontrolovány jmenné rejstříky osmi veřejných knih 1784–1876 (ID 126083, 126076, 126077, 126078, 126080, 126081, 126075 a 126079); relevantní folia stažena a čtena obrazově. | Samostatné N1 v kupní smlouvě 1813 a cílové N11 v převodu Francíkových 1840. Pozdější vložka přibližně po roce 1870 není veřejně online a musí se vyžádat od katastrálního pracoviště. |
-| Matriky farnosti Pošná | Obrazově kontrolovány relevantní části knih narozených 6617, 6618, 6619, 6620, 6621 a 11210; oddaných 6618, 6622, 6623 a 6624; zemřelých 6618, 6625, 6626 a 11214. Originály se stahují z dlaždic Zoomify; skript umí také elektronický jmenný rejstřík. | Kniha 6619 je pro zahrádecké děti 1788–1796 indexována v `obyvatele_zahradky_domy.md`. U knihy 6620 je celý zahrádecký rozsah 80–117 uložen a inventarizován po všech domech až do roku 1843. U knihy 6621 je ověřen rozsah 309–362; snímky 309–334 jsou uloženy a inventarizovány, přičemž 314 opakuje stránku ze snímku 313 bez nových osob a snímek 326 odkazově opakuje jeden řádek ze snímku 324. Pokračuje se snímkem 335. Podrobné události, data, adresní řady a nejistoty jsou v hlavním registru a pramenném katalogu. |
+| Matriky farnosti Pošná | Obrazově kontrolovány relevantní části knih narozených 6617, 6618, 6619, 6620, 6621 a 11210; oddaných 6618, 6622, 6623 a 6624; zemřelých 6618, 6625, 6626 a 11214. Originály se stahují z dlaždic Zoomify; skript umí také elektronický jmenný rejstřík. | Kniha 6619 je pro zahrádecké děti 1788–1796 indexována v `obyvatele_zahradky_domy.md`. U knihy 6620 je celý zahrádecký rozsah 80–117 uložen a inventarizován po všech domech až do roku 1843. U knihy 6621 je celý zahrádecký rozsah 309–362 personálně inventarizován po domech až do roku 1880; na smíšených stranách byly převzaty pouze řádky Zahrádky. Snímky 339–354 patří pouze Zlátence a nezapočítávají se; 314 opakuje stránku ze snímku 313 a snímek 326 odkazově opakuje jeden řádek ze snímku 324. Celý snímek 362 opravil dřívější čtení Josefa Tvrčka v N11 na Josefa Dvořáčka v N17. Podrobné události, data, adresní řady a nejistoty jsou v hlavním registru a pramenném katalogu. |
 | Sčítání lidu 1921 | Stažena a prohlédnuta celá sada MZA `PE0584`, všech 53 snímků. Líc a rub každého domovního archu byly spárovány a osoby spočítány. Kontrolně stažena i pošenská čp. 8–11 ze sady `PE0502`. | Zahrádka: všech 174 osob na 25 arších je jmenně zachyceno a přiřazeno k domu a domácnosti v `obyvatele_zahradky_domy.md`. Samostatný arch čp. 13 chybí. Pošenské čp. 11 je rodina Olivových v jiné obci a nesmí se použít. |
 | Zemské desky a starší soupisy | Staré odkazy Badatelny převedeny do VadeMeCum Národního archivu; obrazově prověřeny relevantní knihy a folia pro roky 1574, 1627, 1628, 1653–1654, 1657, 1661 a 1664. Dále ověřena veřejná edice zápisu 1543, Berní rula 1654 a Soupis poddaných podle víry 1651. | Rok 1664 přímo jmenuje zahrádecký dvůr; starší výčty jej nejmenují. Berní rula eviduje osm zdanitelných hospodářů vsi, nikoli obyvatele panského dvora. Soupis 1651 je pro naši lokalitu neúplný. |
 | NDK / Kramerius a digitální knihovny | Přesné i variantní dotazy na Zahrádku, Březinu–Zahrádku, vlastníky, správce, požár, stavby a provozy; plné veřejné strany uloženy po letech, omezené DNNT tituly jen popsány. Samostatně auditováno 36 přesných výskytů `Březina–Zahrádka` z let 1878–1949. | Získány schematismy, adresáře, statistiky, pozemková reforma, zaměstnanci, majitelé a hospodářský kontext. Přímá zpráva o přestavbě, demolici nebo požáru čp. 11 nalezena nebyla. Dvě přesné stopy z let 1931 a 1943 zůstávají kvůli DNNT pro ruční kontrolu v knihovně. |
@@ -106,7 +106,7 @@ lokalita** a její osoby ani statistiky sem nepatří.
 | Osoby spojené s N11, události a jistota čtení | `obyvatele_zahradky.md` |
 | Jmenný registr celé obce podle domů: sčítání 1921, narození 1788–1796 a další přesně adresované osoby | `obyvatele_zahradky_domy.md` |
 | Jmenný domovní přehled s datem nebo mezními daty každého doloženého pobytu | `obyvatele_zahradky_domy/dolozene_pobyty.md` |
-| Generovaný domovní index 216 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
+| Generovaný domovní index 225 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
 | Podrobný rozbor sčítání 1921, zejména čp. 11 | `obyvatele_zahradky_1921.md` |
 | Katalog všech stažených veřejných pramenů | `prameny_online/README.md` |
 | Obrazy podle roku a typu | příslušné podsložky `prameny_online/` |
@@ -184,9 +184,9 @@ Junkovi / Jůnkovi v N11 jsou napojeni bez duplicit a Svačkovi jsou doloženi v
 Oddíl dalších dříve doložených osob obsahuje šestnáct bezpečných adresních řádků
 mimo č. 11 a oddíl `dům nezjištěn` šestnáct osob. Tyto vrstvy se nesčítají na
 unikátní osoby, protože některý člověk může být zachycen vícekrát.
-Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 216 bezpečných
+Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 225 bezpečných
 osobních řádků N11 / čp. 11 z podrobného staršího spisu a tři sporné řádky N11/N14.
-Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 1636
+Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 1890
 dokladových osobních řádků v 26 domech a u každého ukazuje datum nebo mezní data;
 obsahuje všech 174 osob sčítání 1921.
 Obrazy knihy 6619 jsou uloženy jako celé stránky a další práce nemá trávit čas
@@ -292,17 +292,35 @@ událostí z let 1862–1865. V N11 opravují data Barbory Fraňkové / Franíko
 stejného rodičovského páru v N11 do roku 1864. U Václava Fraňka roku 1865 je
 matkou Rosalie Železná, zatímco Petronila Nová je porodní bába. Zemiškovi jsou
 roku 1865 zapsáni jen `na sušárně`, takže jim číslo domu nebylo domýšleno.
-Další bod je snímek 335.
+Snímky 335–338 uzavírají další souvislý blok 42 narození z let 1866–1872 a
+všechny čitelné adresy přiřazují k domům. V N11 je šest událostí: Marie roku
+1866, Aloisie roku 1867, Josefa Dvořáková a Kateřina Čmuchová roku 1870,
+Antonie Zemišková roku 1871 a Jan Křižina (?) roku 1872. Josefa Dvořáková,
+Kateřina Čmuchová a Antonie Zemišková jsou napojeny na dříve založené rodiny;
+nejistý tvar `Křižina` se bez dalšího dokladu neslučuje se známou rodinou Kříž.
+Snímky 339–354 byly následně zkontrolovány podle sloupce místa a patří pouze
+Zlátence; žádná jejich osoba nebyla převzata do zahrádeckého registru. Na
+smíšených snímcích 355–358 bylo naopak přepsáno všech 28 zahrádeckých narození
+z let 1872–1876, každé s číslem domu. Jediný řádek N11, Marie Zemišková
+27./28. 1. 1874, je napojen na existující osobu bez duplicity. Mimo N11 přibyly
+přímé doklady mimo jiné pro rodiny Plášil, Pudil, Kříž, Pešta a Pavlík.
+Snímky 359–362 uzavírají dalších 23 zahrádeckých narození z let 1876–1880, opět
+všechna s číslem domu a přesnými dny narození a křtu. Jediným řádkem N11 je
+Alois Kaňka 7./8. 7. 1878; byl napojen na existující `ZAH-0001` bez duplicity.
+Celý snímek 362 opravil dřívější chybný výřez: zápis 6./7. 3. 1880 je Josef
+Dvořáček v N17, syn Václava a Kateřiny, nikoli Josef Tvrček v N11. ID
+`ZAH-0005` a `ZAH-0006` zůstala zachována, ale nyní nesou opravené osoby a dům.
+Na snímku 362 žádné N11 není. Tím je celý zahrádecký oddíl knihy 6621 na
+zápisových snímcích 309–362 personálně inventarizován; snímek 363 je rejstřík.
 
 ## Co má nejvyšší prioritu dál
 
-1. Pokračovat v `obyvatele_zahradky_domy.md` snímkem 335 knihy narozených 6621.
-   Zahrádecký oddíl této knihy má ověřený rozsah 309–362 (1844–1880); snímky
-   309–334 jsou už uloženy a inventarizovány po domech; snímek 314 je opakovaná
-   reprodukce bez nových řádků a snímek 326 obsahuje jeden odkazový opis staršího
-   řádku. Předchozí kniha 6620 je pro snímky 80–117 dokončena.
-2. Pro označená nejistá jména ve sčítání 1921 hledat potvrzení v matrikách nebo
+1. Pro označená nejistá jména ve sčítání 1921 hledat potvrzení v matrikách nebo
    jiném jmenném prameni. Vazbu na dům neměnit jen podle shody příjmení.
+2. Rozšířit časové řady lidí po domech z oddacích a úmrtních zápisů, přednostně
+   tam, kde už rodné knihy 6619, 6620 a 6621 ukazují opakovanou rodinu nebo změnu
+   domu. Nezahajovat další plošný výřezový projekt; celé snímky a přesné odkazy
+   stačí.
 3. Vyžádat reprodukci jednotky 40 fondu Velkostatek Březina–Zahrádka, protože kniha
    služného může přidat zaměstnance a domácnosti. Jednotky 20–23 mají význam hlavně
    pro stavbu a jsou teď nižší prioritou.
@@ -452,7 +470,7 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
 1. Nová stránka `website/mapa.html` — interaktivní mapa celé vsi. Každý dům má bod;
    klepnutí otevře boční panel s úplným výpisem doložených osob z
    `obyvatele_zahradky_domy/dolozene_pobyty.md` (27 oddílů včetně „dům
-   nezjištěn“, 1652 řádků; z toho 26 číslovaných domů a 1636 řádků).
+   nezjištěn“, 1906 řádků; z toho 26 číslovaných domů a 1890 řádků).
    Podklad se přepíná mezi císařským otiskem 1829 a snímky 1949, 1953, 1961, 1967,
    1975, 1978, 1990, 1992 a 2022; k dispozici je hledání osob (bez diakritiky),
    posun a přiblížení mapy. Odkaz „Mapa vsi a obyvatel“ přidán do navigace
@@ -492,7 +510,7 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
 
 ## Co bylo uděláno na webu 31. 7. 2026 (odpoledne)
 
-1. Data mapy znovu vygenerována z aktuálního registru (1636 domovních řádků
+1. Data mapy znovu vygenerována z aktuálního registru (1890 domovních řádků
    + 16 dům nezjištěn). Generátor `vytvorit_mapova_data.rb` nově odvozuje
    řadicí klíč data a značí rodičovské řádky narození; výpisy domů jsou
    chronologické (dřív se řadilo podle textu data — „29. 8." před „9. 4.").

@@ -343,6 +343,42 @@ def extract_main_evidence
     when "Narození 1865 — inventář snímku 334 knihy 6621"
       next unless header[0] == "Dům" && header[1] == "Dítě"
       add_birth_family(evidence, row, "1865")
+    when "Narození 1866–1867 — inventář snímku 335 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1866–1867")
+    when "Narození 1867–1868 — inventář snímku 336 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1867–1868")
+    when "Narození 1868–1870 — inventář snímku 337 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1868–1870")
+    when "Narození 1870–1872 — inventář snímku 338 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1870–1872")
+    when "Narození 1872–1873 — zahrádecké řádky snímku 355 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1872–1873")
+    when "Narození 1873–1874 — zahrádecké řádky snímku 356 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1873–1874")
+    when "Narození 1874–1875 — zahrádecké řádky snímku 357 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1874–1875")
+    when "Narození 1876 — zahrádecké řádky snímku 358 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1876")
+    when "Narození 1876–1878 — zahrádecké řádky snímku 359 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1876–1878")
+    when "Narození 1878 — zahrádecké řádky snímku 360 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1878")
+    when "Narození 1879 — zahrádecké řádky snímku 361 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1879")
+    when "Narození 1879–1880 — zahrádecké řádky snímku 362 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1879–1880")
     when "Další již doložené osoby mimo rok 1921"
       next unless header[0] == "Dům" && header[1] == "Osoba"
       add_person(
