@@ -40,6 +40,34 @@ def zdroj_to_html(cell)
   t
 end
 
+# Z volneho ceskeho datoveho udaje odvodi klice pro chronologicke razeni:
+# [rok_od, mesic, den] + pripadny rok_do. Bez nalezeneho roku se radi na konec.
+def date_keys(text)
+  plain = text.gsub(/<[^>]+>/, "")
+  years = plain.scan(/\b(1\d{3})\b/).flatten.map(&:to_i)
+  return [9999, 99, 99, nil] if years.empty?
+
+  r = years.min
+  rr = years.max > r ? years.max : nil
+  month = 99
+  day = 99
+  if (m = plain.match(/(\d{1,2})\.\s*(?:\/\s*\d{1,2}\.\s*)?(\d{1,2})\.\s*(1\d{3})/))
+    day = m[1].to_i
+    month = m[2].to_i
+    r = m[3].to_i if years.length == 1
+  end
+  [r, month, day, rr]
+end
+
+# Rodicovske radky narozeni se na strance vnoruji pod dite.
+def parent_role(p_html)
+  plain = p_html.gsub(/<[^>]+>/, "")
+  return "o" if plain.start_with?("otec při narození dítěte")
+  return "m" if plain.start_with?("matka při narození dítěte")
+
+  nil
+end
+
 lines = File.readlines(SRC, chomp: true)
 
 houses = []
@@ -119,6 +147,18 @@ if nezjisteni["osoby"].any?
   roky = nezjisteni["osoby"].flat_map { |o| o["d"].scan(/\b1\d{3}\b/) }.map(&:to_i)
   nezjisteni["rozsah"] = roky.empty? ? "?" : "#{roky.min}–#{roky.max}"
   houses << nezjisteni
+end
+
+houses.each do |house|
+  house["osoby"].each_with_index do |o, i|
+    r, month, day, rr = date_keys(o["d"])
+    o["r"] = r unless r == 9999
+    o["rr"] = rr if rr
+    rod = parent_role(o["p"])
+    o["rod"] = rod if rod
+    o["_sort"] = [r, month, day, i]
+  end
+  house["osoby"].sort_by! { |o| o.delete("_sort") }
 end
 
 houses.each do |house|

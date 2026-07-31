@@ -9,14 +9,14 @@ zkontroloval domy N1 a N11; jeho výsledky jsou v
 zpracovat všechny domy a zapisovat děti do
 [domovního registru](../../../../obyvatele_zahradky_domy.md).
 
-## Stav 30. 7. 2026
+## Stav 31. 7. 2026
 
 - ověřeno, že kniha má 369 veřejných snímků a na konci pokračují tabulkové
   zápisy; nebyl nalezen samostatný dobový domovní index srovnatelný s knihou 6619;
 - samostatná indexová kniha Pošné 6627 končí rokem 1777, takže tento oddíl nekryje;
 - veřejné elektronické jmenné hledání nelze použít jako úplný seznam lokality:
   dotaz `Zahrádka` hledá také osoby s příjmením Zahrádka a index je jen výběrový;
-- uloženy byly celé snímky 80–96 jako pracovní blok, bez výroby jednotlivých
+- uloženy byly celé snímky 80–117 jako pracovní blok, bez výroby jednotlivých
   výřezů;
 - snímek 80, rukopisná strana 154 pro rok 1797, je přepsán celý: pět narozených
   dětí a deset rodičovských zmínek je propojeno s domy v hlavním registru;
@@ -68,7 +68,68 @@ zpracovat všechny domy a zapisovat děti do
 - na snímku 96 je inventarizováno všech deset událostí 164–173 roku 1819; všechny
   domy jsou čitelné, známí Junkovi / Jůnkovi v N11 jsou napojeni bez duplicit a
   Anna s Josefem Svačkovými jsou doloženi v N2;
-- první uložený blok 80–87 a navazující snímky 88–96 jsou inventarizovány. Před vložením
+- na snímku 97 je inventarizováno všech deset událostí 174–183 z let 1820–1821;
+  známé rodiny v N1 a N11 jsou napojeny bez duplicit, Marie Pudilová s rodiči je
+  doložena v N18 a dva zápisy Fischerů v N16 zůstávají kvůli odlišným rodičům
+  oddělené;
+- na snímku 98 je inventarizováno všech deset událostí 184–193 z let 1821–1822;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a nejistá příjmení se
+  nepřiřazují jen podle místní rodové nápovědy;
+- na snímku 99 je inventarizováno všech devět událostí 194–202 z let 1822–1823;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a pracovní Pospíšilovi jsou
+  vedeni v N9 bez automatického sloučení domácností;
+- na snímku 100 je inventarizováno všech sedm událostí 203–209 z let 1823–1824;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a nejistá jména zůstávají
+  pracovně označena;
+- na snímku 101 je inventarizováno všech šest událostí 210–215 roku 1824;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a rodičovská či rodová
+  jména, která nelze bezpečně přečíst, zůstávají výslovně otevřená;
+- na snímku 102 je inventarizováno všech šest událostí 216–221 z let 1824–1825;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a nejistá příjmení se
+  nedoplňují podle známých rodů v témže domě;
+- na snímku 103 je inventarizováno všech šest událostí 222–227 z let 1825–1826;
+  všechny domy jsou čitelné, žádný zápis nepatří N11 a březnový měsíc u řádku
+  223 je výslovně veden jako údaj zděděný z předchozího zápisu;
+- na snímku 104 je inventarizováno všech sedm událostí 228–234 roku 1826;
+  všechny domy jsou čitelné, žádný zápis nepatří N11, jeden řádek zachycuje
+  nepokřtěné dítě bez jména a u posledního není uveden otec;
+- na snímku 105 je inventarizováno všech šest událostí 235–240 z let 1826–1828;
+  všechny domy jsou čitelné a známá Františka Josefa Ryplová v N11 je napojena
+  na existující osobní evidenci bez duplicity;
+- na snímku 106 je inventarizováno sedm událostí roku 1828: zápisy 241–246 a
+  jeden samostatný nečíslovaný řádek; všechny domy jsou čitelné a žádný není N11;
+- na snímku 107 je inventarizováno všech sedm zápisů 247–253 z roku 1829;
+  všechny domy jsou čitelné, žádný není N11 a u zápisu 252 není uveden otec;
+- na snímku 108 je inventarizováno všech osm zápisů 254–261 z let 1830–1831;
+  všechny domy jsou čitelné, žádný není N11 a pracovní čtení Vondráček v N4 a
+  Pudil v N23 se opírají o shodný tvar u dítěte i otce;
+- na snímku 109 je inventarizováno všech osm zápisů 262–269 z let 1831–1833;
+  všechny domy jsou čitelné, žádný není N11, dva zápisy neuvádějí otce a u
+  Adama Emanuela Přibyla (?) v N10 zůstává otcovské jméno nepřepsané;
+- na snímku 110 je inventarizováno všech sedm zápisů 270–276 z let 1833–1834;
+  všechny domy jsou čitelné, žádný není N11 a poslední zápis v N18 neuvádí otce;
+- na snímku 111 je inventarizováno všech sedm zápisů 277–283 z let 1834–1835;
+  všechny domy jsou čitelné, žádný není N11 a nečitelná rodičovská jména se
+  nepřenášejí do domovního přehledu jako domnělé osoby;
+- na snímku 112 je inventarizováno všech osm zápisů 284–291 z let 1836–1837;
+  všechny domy jsou čitelné, známý Václav Vojtěch v N11 je napojen bez duplicity,
+  pracovní Plášilovi jsou doloženi v N9 a zápis 289 je mrtvě narozené děvče;
+- na snímku 113 je inventarizováno všech šest zápisů 292–297 z let 1838–1839;
+  všechny domy jsou čitelné, žádný není N11 a pozdější přípisy u dvou dětí se
+  nepočítají jako další narození;
+- na snímku 114 je inventarizováno všech šest zápisů 298–303 z let 1839–1840;
+  všechny domy jsou čitelné, žádný není N11 a pracovní rodové tvary Langr a
+  Plášil zůstávají označeny otazníkem;
+- na snímku 115 je inventarizováno všech sedm zápisů 304–310 z let 1840–1841;
+  šest domů je čitelných, zápis 305 číslici domu vůbec neuvádí a Plášilovi jsou
+  pracovně doloženi v N2;
+- na snímku 116 je inventarizováno všech pět zápisů 311–315 z let 1841–1842;
+  všechny domy jsou čitelné, žádný není N11 a pozdější úmrtní přípisy se
+  nepočítají jako další narození;
+- na snímku 117 je inventarizováno všech sedm událostí z let 1842–1843;
+  červnový zápis opakuje číslo 315, dále číslování pokračuje 316–321, všechny
+  domy jsou čitelné a žádný není N11;
+- první uložený blok 80–87 a navazující snímky 88–117 jsou inventarizovány. Před vložením
   řádku je potřeba současně přečíst číslo domu, jméno dítěte a příjmení rodiny;
   samotné podobné příjmení se nesmí přenášet z jiného roku.
 
@@ -456,6 +517,460 @@ Jůnkovi mají v N11 mezní data přímých dokladů 1814–1819; zápis Svačko
 N2 na konci roku 1819. Trvalý je celý snímek; pracovní zvětšeniny jednotlivých
 řádků se neukládají.
 
+## Inventář snímku 97 — roky 1820–1821
+
+Snímek 97 obsahuje rukopisné strany 187–188 a zápisy 174–183. Všech deset
+událostí má čitelné číslo domu. Známá rodina Fraňkova v N1 se propojuje s
+`ZAH-O004`, `ZAH-O001` a `ZAH-O007`; rodina Františky Josefiny v N11 s
+`ZAH-0073`, `ZAH-0167` a `ZAH-0168`. Zápisy se v domovním přehledu neduplikují.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 187 | 174 | N5 | Josef Kejval (?) | 4. / 5. 1. 1820 | Josef Kejval (?) a Mariana | dům, data a křestní jméno bezpečné; příjmení pracovní, opakuje se u otce |
+| 187 | 175 | N10 | Marie Františka (?) `[příjmení nejasné]` | 22. 3. 1820 | Vojtěch (?) a Anna | dům, datum a první dvě jména dítěte čitelné |
+| 187 | 176 | N1 | František Franěk `[jedno z dvojčat]` | 4. / 5. 5. 1820 | Josef Franěk / Franík a Františka | známá rodina N1 a existující osobní ID; bez duplicity |
+| 187 | 177 | N11 | Františka Josefina `[příjmení nepřepsáno]` | 5. / 6. 6. 1820 | Adam a Barbora `[příjmení nepřepsána]` | známá rodina N11 a existující osobní ID; bez duplicity |
+| 187 | 178 | N18 | Marie Pudilová / Pudilowy | 10. 6. 1820 | Jan Pudil a Kateřina | dům, datum a rodina bezpečnější; příjmení čitelné u dítěte i otce |
+| 188 | 179 | N9 | Alois Svoboda | 27. / 28. 7. 1820 | otec neuveden; Mariana | dům, data, jméno i příjmení dítěte čitelné |
+| 188 | 180 | N14 | Alois (?) `[další jméno a příjmení nejasné]` | 10. 6. 1820 | Jakub (?) a Markéta (?) | dům a datum bezpečné; nechronologické umístění řádku se zachovává |
+| 188 | 181 | N14 | nepojmenované mrtvě narozené děvče | 30. 11. 1820 | Jakub Junek / Jůnek (?) a Mariana | dům, datum a stav bez křtu čitelné; příjmení pracovní |
+| 188 | 182 | N16 | Jiří Fischer (?) | 12. / 13. 2. 1821 | Jan Fischer (?) a Terezie (?) | dům, data a rodové čtení bezpečnější |
+| 188 | 183 | N16 | Josef Fischer (?) | 18. / 19. 2. 1821 | otec neuveden; Kateřina (?) | dům, data a rodové čtení dítěte bezpečnější |
+
+Adresní řada je N5, N10, N1, N11, N18, N9, N14, N14, N16 a N16. Pudilovi jsou
+doloženi v N18 roku 1820; dvě události Fischerů v N16 roku 1821 se kvůli odlišným
+rodičovským údajům automaticky neslučují. Celá dvoustrana už byla uložena při
+dřívějším auditu N1/N11; nový duplicitní obraz ani sada detailních výřezů
+nevznikají.
+
+## Inventář snímku 98 — roky 1821–1822
+
+Snímek 98 obsahuje rukopisné strany 189–190 a zápisy 184–193. Všech deset
+událostí má čitelné číslo domu; žádná nepatří N11. Příjmení, která nejsou
+spolehlivě čitelná, zůstávají otevřená i tehdy, když připomínají známé místní
+rodinné jméno.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 189 | 184 | N5 | Anna `[další jméno nebo příjmení nejasné]` | 25. / 26. 4. 1821 | Ondřej a Barbora `[příjmení nejasná]` | dům, data a křestní jména čitelná |
+| 189 | 185 | N10 | Anna Eleonora (?) `[příjmení nejasné]` | 9. / 10. 6. 1821 | otec neuveden; Emerencie (?) | dům, data a první jméno dítěte bezpečné; další jména pracovní |
+| 189 | 186 | N19 | Marie Schmidtová (?) | 5. 7. 1821 | František Schmidt (?) a Anna | dům, datum a křestní jména čitelné; příjmení pracovní, opakuje se u dítěte i otce |
+| 189 | 187 | N20 | Antonie `[příjmení nejasné]` | 20. 9. 1821 | Matěj a Anna `[příjmení nejasná]` | dům, datum a křestní jména čitelné; rodové údaje otevřené |
+| 189 | 188 | N19 | Anna `[příjmení nejasné]` | 24. / 25. 9. 1821 | Matěj a Marie `[příjmení nejasná]` | dům, data a křestní jména čitelné |
+| 190 | 189 | N10 | Alžběta Lenzová (?) | 26. / 27. 9. 1821 | Kryštof Lenz (?) a Anna | dům, data a křestní jména čitelné; příjmení pracovní, bez automatického spojení se starší rodinou |
+| 190 | 190 | N15 | Ondřej `[další jména a příjmení nejasné]` | 14. 11. 1821 | František a Veronika `[příjmení nejasná]` | dům, datum a základní křestní jména čitelná |
+| 190 | 191 | N9 | Matěj Pospíšil (?) | 10. 1. 1822 | Jan Pospíšil (?) a Kateřina | dům, datum a křestní jména čitelné; příjmení pracovní, opakuje se u dítěte i otce |
+| 190 | 192 | N14 | Matěj `[příjmení nejasné]` | 26. / 27. 1. 1822 | Vojtěch a Anna `[příjmení nejasná]` | dům, data a křestní jména čitelné |
+| 190 | 193 | N7 | Anna Františka a Barbora Josefina Marie (?) `[pravděpodobně dvojčata]` | 29. / 30. 1. 1822 | Josef a Kateřina `[příjmení nejasná]` | dům a data bezpečné; dvě dívčí jmenné řady v jediném zápisu, úplné čtení pracovní |
+
+Adresní řada je N5, N10, N19, N20, N19, N10, N15, N9, N14 a N7. Trvale se
+ukládá celý snímek; dočasná zvětšení jednotlivých řádků nejsou součástí
+pramenné složky.
+
+## Inventář snímku 99 — roky 1822–1823
+
+Snímek 99 obsahuje rukopisné strany 191–192 a zápisy 194–202. Devět událostí
+má čitelné číslo domu a žádná nepatří N11. Inkoustové skvrny na pravé straně
+omezují čtení příjmení, proto se do přepisu přenáší hlavně bezpečné adresy,
+data a křestní jména.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 191 | 194 | N3 | Salvátor (?) `[další jména a příjmení nejasné]` | 13. / 14. 2. 1822 | Vojtěch a Kateřina `[příjmení nejasná]` | dům, data a křestní jména rodičů čitelná; první jméno dítěte pracovní |
+| 191 | 195 | N13 | Ignác `[další jména a příjmení nejasné]` | 27. 3. 1822 | František a Anna `[příjmení nejasná]` | dům, datum a základní křestní jména čitelná |
+| 191 | 196 | N16 | Marie `[další jméno a příjmení nejasné]` | 13. 4. 1822 | Jan a Františka `[příjmení nejasná]` | dům, datum a základní křestní jména čitelná |
+| 191 | 197 | N13 | Ondřej `[další jméno a příjmení nejasné]` | 2. / 3. 5. 1822 | Josef a Mariana `[příjmení nejasná]` | dům, data a křestní jména čitelná |
+| 191 | 198 | N9 | Antonie Pospíšilová (?) | 3. 6. 1822 | Tomáš Pospíšil (?) a Mariana | dům, datum a křestní jména bezpečné; příjmení pracovní a opakuje se u dítěte i otce |
+| 192 | 199 | N21 | Josef `[další jméno a příjmení nejasné]` | 16. / 17. 8. 1822 | Josef a Veronika `[příjmení nejasná]` | dům, data a křestní jména čitelná; část řádku zakrývají skvrny |
+| 192 | 200 | N12 | Matěj `[příjmení nejasné]` | 17. / 18. 2. 1823 | Jan a Kateřina `[příjmení nejasná]` | dům, data a křestní jména čitelná |
+| 192 | 201 | N5 | František `[příjmení nejasné]` | 23. / 24. 3. 1823 | Ondřej a Barbora `[příjmení nejasná]` | dům, data a základní křestní jména čitelná; skvrny zakrývají část osobních údajů |
+| 192 | 202 | N6 | Jiří `[příjmení nejasné]` | 28. 4. 1823 | František a Anna `[příjmení nejasná]` | dům, datum a základní křestní jména čitelná |
+
+Adresní řada je N3, N13, N16, N13, N9, N21, N12, N5 a N6. Pracovní čtení
+Pospíšil v N9 se nespojuje automaticky s jinou událostí v témže domě. Trvale se
+ukládá celý snímek; dočasná zvětšení řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 100 — roky 1823–1824
+
+Snímek 100 obsahuje rukopisné strany 193–194 a zápisy 203–209. Všech sedm
+událostí má čitelné číslo domu a žádná nepatří N11. Rodové údaje jsou na několika
+místech přepsané, proto se bezpečné adresy a data oddělují od pracovních jmenných
+čtení.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 193 | 203 | N1 | Antonín Jan (?) `[další jména a příjmení nejasné]` | 29. / 30. 6. 1823 | Josef a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 193 | 204 | N14 | Josefa (?) `[další jméno a příjmení nejasné]` | 15. 9. 1823 | Jakub a Markéta `[příjmení nejasná]` | dům a datum bezpečné; osobní jména pracovní |
+| 193 | 205 | N18 | Rafael (?) `[další jména a příjmení nejasné]` | 4. / 5. 10. 1823 | František a Veronika `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní kvůli přepisům |
+| 193 | 206 | N20 | František (?) `[další jména a příjmení nejasné]` | 8. / 9. 11. 1823 | Martin a Františka `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 194 | 207 | N13 | Karel František (?) `[další jména a příjmení nejasné]` | 4. 11. 1823 | Josef a Kateřina `[příjmení nejasná]` | dům a datum bezpečné; nechronologické pořadí se zachovává |
+| 194 | 208 | N21 | Josef Wespel (?) | 17. / 18. 11. 1823 | Jan Wespel (?) a Magdalena | dům, data a křestní jména bezpečnější; příjmení pracovní |
+| 194 | 209 | N19 | Josef (?) `[další jména a příjmení nejasné]` | 30. / 31. 3. 1824 | Jan a Kateřina `[příjmení nejasná]` | dům, data a základní křestní jména čitelná |
+
+Adresní řada je N1, N14, N18, N20, N13, N21 a N19. Zápis 207 je v knize za
+pozdějším listopadovým řádkem 206 a u zápisu 208 se měsíc dědí z bezprostředně
+předchozího listopadového údaje. Trvale se ukládá celý snímek; dočasná zvětšení
+jednotlivých řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 101 — rok 1824
+
+Snímek 101 obsahuje rukopisné strany 195–196 a zápisy 210–215. Všech šest
+událostí má čitelné číslo domu a žádná nepatří N11. Příjmení a část rodičovských
+údajů jsou paleograficky obtížné, proto se od bezpečných adres a dat oddělují.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 195 | 210 | N10 | Laurencie (?) `[další jména a příjmení nejasné]` | 8. / 9. 4. 1824 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 195 | 211 | N19 | Josef Jiří (?) `[příjmení nejasné]` | 29. / 30. 6. 1824 | jméno otce nejasné; matka Marie `[příjmení nejasné]` | dům a data bezpečné; osobní jména pracovní |
+| 195 | 212 | N12 | Prokop František (?) `[příjmení nejasné]` | 1. / 2. 7. 1824 | František a Anna `[příjmení nejasná]` | dům a data bezpečné; základní křestní jména pracovní |
+| 196 | 213 | N8 | Markéta (?) `[příjmení nejasné]` | 13. 7. 1824 | otec neuveden; matka Markéta `[příjmení nejasné]` | nemanželský zápis; dům a datum bezpečné, jména pracovní |
+| 196 | 214 | N17 | Václav (?) `[příjmení nejasné]` | 21. / 22. 8. 1824 | Jan a Alžběta `[příjmení nejasná]` | dům a data bezpečné; základní křestní jména pracovní |
+| 196 | 215 | N3 | Marie Anna (?) `[příjmení nejasné]` | 30. 9. / 1. 10. 1824 | Kristian Emanuel (?) a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+
+Adresní řada je N10, N19, N12, N8, N17 a N3. U zápisu 213 je uveden jediný
+den, takže je veden jako narození a křest téhož dne. Trvale se ukládá celý
+snímek; dočasná zvětšení jednotlivých řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 102 — roky 1824–1825
+
+Snímek 102 obsahuje rukopisné strany 197–198 a zápisy 216–221. Všech šest
+událostí má čitelné číslo domu a žádná nepatří N11. Jména jsou přepisována jen
+v rozsahu, který dovoluje samotný obraz; pozdější přípisy se nepoužívají k
+domýšlení rodové identity.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 197 | 216 | N4 | Martin Jan Vojtěch (?) `[příjmení nejasné]` | 17. 10. 1824 | Martin a Anna `[příjmení nejasná]` | dům a datum bezpečné; osobní jména pracovní |
+| 197 | 217 | N6 | Karel Boromejský (?) `[příjmení nejasné]` | 28. / 29. 11. 1824 | Jan a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 197 | 218 | N17 | Adam (?) `[další jméno a příjmení nejasné]` | 8. 12. 1824 | František a Anna `[příjmení nejasná]` | dům a datum bezpečné; první jméno dítěte a rodičovská jména pracovní |
+| 198 | 219 | N15 | Martin Leopold `[příjmení nejasné]` | 17. 12. 1824 | Josef a Marie `[příjmení nejasná]` | dům, datum a obě jména dítěte čitelné; rodové údaje otevřené |
+| 198 | 220 | N14 | Marie `[příjmení nejasné]` | 16. / 17. 1. 1825 | otec neuveden; matka Mariana `[příjmení nejasné]` | nemanželský zápis; dům, data a základní jména čitelná |
+| 198 | 221 | N23 | Marie (?) `[příjmení nejasné]` | 3. 3. 1825 | Josef a Kateřina `[příjmení nejasná]` | dům a datum bezpečné; osobní jména pracovní |
+
+Adresní řada je N4, N6, N17, N15, N14 a N23. Zápisy 216, 218, 219 a 221
+uvádějí jediný den a jsou vedeny jako narození i křest téhož dne. Trvale se
+ukládá celý snímek; dočasná zvětšení jednotlivých řádků nejsou součástí
+pramenné složky.
+
+## Inventář snímku 103 — roky 1825–1826
+
+Snímek 103 obsahuje rukopisné strany 199–200 a zápisy 222–227. Všech šest
+událostí má čitelné číslo domu a žádná nepatří N11. U zápisu 223 není měsíc
+zopakován; údaj 28. března proto vychází z návaznosti na řádek 222.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 199 | 222 | N5 | Josef (?) `[další jméno a příjmení nejasné]` | 9. / 10. 3. 1825 | Ondřej a Barbora `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 199 | 223 | N16 | Františka Viktorie (?) `[další jméno a příjmení nejasné]` | 28. 3. 1825 | Jan a Kateřina `[příjmení nejasná]` | dům a den bezpečné; měsíc se dědí z předchozího řádku, jména jsou pracovní |
+| 199 | 224 | N7 | Jan Nepomuk Emanuel `[příjmení nejasné]` | 14. 5. 1825 | Josef a Kateřina `[příjmení nejasná]` | dům, datum a tři jména dítěte čitelné; rodové údaje otevřené |
+| 200 | 225 | N21 | Markéta (?) `[příjmení nejasné]` | 27. 8. 1825 | Josef a Veronika (?) `[příjmení nejasná]` | dům a datum bezpečné; osobní jména pracovní |
+| 200 | 226 | N17 | Martin Matyáš (?) `[příjmení nejasné]` | 3. / 4. 10. 1825 | Josef Matěj (?) a Kateřina `[příjmení nejasná]` | dům a data bezpečné; vícedílná jména pracovní |
+| 200 | 227 | N15 | Anna Rozina (?) `[příjmení nejasné]` | 15. / 16. 1. 1826 | Josef a Mariana `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+
+Adresní řada je N5, N16, N7, N21, N17 a N15. Zápisy 223–225 uvádějí jediný
+den a jsou vedeny jako narození i křest téhož dne. Trvale se ukládá celý snímek;
+dočasná zvětšení jednotlivých řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 104 — rok 1826
+
+Snímek 104 obsahuje rukopisné strany 201–202 a zápisy 228–234. Všech sedm
+událostí má čitelné číslo domu a žádná nepatří N11. U zápisu 233 není dítě
+pojmenováno a zápis je výslovně veden bez křtu; u zápisu 234 není uveden otec.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 201 | 228 | N12 | Josef Jiří (?) `[příjmení nejasné]` | 22. / 23. 2. 1826 | Jan a Barbora `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 201 | 229 | N8 | Markéta (?) `[další jméno a příjmení nejasné]` | 24. / 25. 3. 1826 | Bernard (?) a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 201 | 230 | N10 | Marie Magdalena `[příjmení nejasné]` | 5. / 6. 4. 1826 | Jiří Hýbl (?) a Kateřina `[příjmení nejasné]` | dům, data a dvě jména dítěte čitelné; Hýbl je pravděpodobné pracovní čtení |
+| 202 | 231 | N20 | Jan Křtitel (?) `[příjmení nejasné]` | 28. 5. 1826 | Václav a Markéta `[příjmení nejasná]` | dům a datum bezpečné; osobní jména pracovní |
+| 202 | 232 | N17 | Anna Johana (?) `[příjmení nejasné]` | 9. / 10. 7. 1826 | Tomáš a Petronila `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 202 | 233 | N21 | `[nepokřtěné dítě bez uvedeného jména]` | 29. 8. 1826 | Josef a Petronila `[příjmení nejasná]` | dům a datum bezpečné; dítě beze jména a bez křtu, rodičovská jména pracovní |
+| 202 | 234 | N17 | Josef Jan Nepomuk (?) `[příjmení nejasné]` | 5. 9. 1826 | otec neuveden; matka Mariana `[příjmení nejasné]` | nemanželský zápis; dům a datum bezpečné, osobní jména pracovní |
+
+Adresní řada je N12, N8, N10, N20, N17, N21 a N17. Zápisy 231 a 234 uvádějí
+jediný den a jsou vedeny jako narození i křest téhož dne; zápis 233 je bez křtu.
+Trvale se ukládá celý snímek; dočasná zvětšení jednotlivých řádků nejsou
+součástí pramenné složky.
+
+## Inventář snímku 105 — roky 1826–1828
+
+Snímek 105 obsahuje rukopisné strany 203–204 a zápisy 235–240. Všech šest
+událostí má čitelné číslo domu. Zápis 237 je již dříve podrobně zpracovaná
+Františka Josefa Ryplová v N11; zde je součástí úplného inventáře, ale osobní
+evidence se nezakládá podruhé. U zápisu 236 není měsíc zopakován a přebírá se
+z předchozího zářijového řádku 235.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 203 | 235 | N1 | Kristina Františka (?) `[příjmení nejasné]` | 14. 9. 1826 | Josef Franěk / Franík a Kateřina | dům a datum bezpečné; rodové čtení otce podporují starší zápisy N1, dětská jména jsou pracovní |
+| 203 | 236 | N10 | Františka Josefa `[příjmení nejasné]` | 17. 9. 1826 | Vojtěch a Anna `[příjmení nejasná]` | dům a datum bezpečné; měsíc se dědí z řádku 235, křestní jména jsou čitelná |
+| 203 | 237 | N11 | Františka Josefa Ryplová `[historický tvar také Reypl]` | 3. 6. 1827 | Jan Rypl a Kateřina | známý zápis `ZAH-0074`; dům, datum a křestní jména bezpečné, příjmení středně až vysoce jisté |
+| 204 | 238 | N13 | Františka Rozálie (?) `[příjmení nejasné]` | 27. / 28. 7. 1827 | Josef a Kateřina `[příjmení nejasná]` | dům a data bezpečné; druhé jméno dítěte a rodové údaje pracovní |
+| 204 | 239 | N5 | Martin Albrecht `[příjmení nejasné]` | 25. / 26. 10. 1827 | Ondřej a Barbora `[příjmení nejasná]` | dům, data a obě jména dítěte čitelné; rodičovská příjmení otevřená |
+| 204 | 240 | N10 | Jiří Vojtěch `[příjmení nejasné]` | 18. 4. 1828 | Jan a Gertruda `[příjmení nejasná]` | dům, datum a křestní jména čitelné; rodové údaje otevřené |
+
+Adresní řada je N1, N10, N11, N13, N5 a N10. Zápisy 235–237 a 240 uvádějí
+jediný den a jsou vedeny jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; dočasná zvětšení jednotlivých řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 106 — rok 1828
+
+Snímek 106 obsahuje rukopisné strany 205–206, číslované zápisy 241–246 a jeden
+samostatný nečíslovaný zápis na začátku strany 206, celkem sedm událostí. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. U zápisu 243 není srpen
+zopakován a přebírá se z řádku 242. Zápis 244 zachycuje narození 15. září a křest
+6. října.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 205 | 241 | N12 | Anna Jiřičková (?) | 28. / 29. 5. 1828 | Jan Jiřiček (?) a Barbora | dům a data bezpečné; dětské a otcovské příjmení pracovní, další rodové údaje otevřené |
+| 205 | 242 | N13 | Alois Emanuel `[příjmení nejasné]` | 5. / 6. 8. 1828 | Josef a Mariana `[příjmení nejasná]` | dům, data a obě jména dítěte čitelné; rodičovská příjmení otevřená |
+| 205 | 243 | N19 | Václav Tomáš `[příjmení nejasné]` | 10. / 11. 8. 1828 | Matěj a Kateřina `[příjmení nejasná]` | dům a data bezpečné; měsíc se dědí z řádku 242, křestní jména jsou čitelná |
+| 206 | bez č. | N1 | Antonín František `[příjmení nejasné]` | 5. 9. 1828 | Jakub Franěk / Franík a Antonie | nečíslovaný řádek mezi 243 a 244; dům, datum, dítě a otcovo příjmení čitelné |
+| 206 | 244 | N15 | Pavel (?) `[další jména a příjmení nejasná]` | 15. 9. / 6. 10. 1828 | otec neuveden; matka Anna `[příjmení nejasné]` | nemanželský zápis; dům a obě data bezpečná, křestní jméno dítěte pracovní |
+| 206 | 245 | N7 | František (?) `[další jména a příjmení nejasná]` | 22. / 23. 10. 1828 | Josef a Anna `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 206 | 246 | N13 | Františka Kateřina Anna `[příjmení nejasné]` | 26. / 27. 11. 1828 | Vojtěch a Kateřina `[příjmení nejasná]` | dům, data a tři jména dítěte čitelné; rodičovská příjmení otevřená |
+
+Adresní řada je N12, N13, N19, N1, N15, N7 a N13. Nečíslovaný zápis N1 uvádí
+jediný den a je veden jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; dočasná zvětšení jednotlivých řádků nejsou součástí pramenné složky.
+
+## Inventář snímku 107 — rok 1829
+
+Snímek 107 obsahuje rukopisné strany 207–208 a všech sedm číslovaných zápisů
+247–253. Všechna čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy
+248–249 sdílejí jednu rodičovskou buňku v N16; první dítě se narodilo 11. února
+a bylo pokřtěno 12. února, druhé má 12. února jako jediný zapsaný den. Zápis 252
+v N12 je nemanželský a otce neuvádí.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 207 | 247 | N21 | Anna (?) `[další jména a příjmení nejasná]` | 18. 1. 1829 | Josef a Anna `[příjmení nejasná]` | dům, datum a první jméno dítěte čitelné; další osobní údaje otevřené |
+| 207 | 248 | N16 | František Josef (?) `[příjmení nejasné]` | 11. / 12. 2. 1829 | Josef a Kateřina `[příjmení nejasná]` | první ze dvou dětí ve společné rodičovské buňce; dům a data bezpečné, druhé jméno pracovní |
+| 207 | 249 | N16 | Veronika (?) `[další jména a příjmení nejasná]` | 12. 2. 1829 | Josef a Kateřina `[příjmení nejasná]` | druhé dítě ve společné rodičovské buňce; dům, den a první jméno čitelné |
+| 207 | 250 | N10 | Josefa `[příjmení nejasné]` | 5. / 11. 3. 1829 | Jan a Kateřina `[příjmení nejasná]` | dům, data a křestní jména čitelná; rodové údaje otevřené |
+| 208 | 251 | N9 | Filipína (?) `[další jméno a příjmení nejasné]` | 27. / 28. 4. 1829 | Tomáš a Margareta `[příjmení nejasná]` | dům a data bezpečné; základní křestní jména čitelná |
+| 208 | 252 | N12 | Jan Nepomuk Jiří (?) `[příjmení nejasné]` | 7. 5. 1829 | otec neuveden; matka Kateřina `[příjmení nejasné]` | nemanželský zápis; dům, den a základní křestní jména čitelná |
+| 208 | 253 | N13 | Jakub Karel (?) `[další údaje a příjmení nejasné]` | 25. 7. 1829 | Josef a Kateřina `[příjmení nejasná]` | dům, den a první jméno bezpečné; druhé jméno a pozdější poznámka pracovní |
+
+Adresní řada je N21, N16, N16, N10, N9, N12 a N13. Zápisy 247, 249, 252 a
+253 uvádějí jediný den a jsou vedeny jako narození i křest téhož dne. Trvale se
+ukládá celý snímek; dočasná zvětšení jednotlivých řádků nejsou součástí pramenné
+složky.
+
+## Inventář snímku 108 — roky 1830–1831
+
+Snímek 108 obsahuje rukopisné strany 209–210 a všech osm číslovaných zápisů
+254–261. Zápisy 254–260 patří roku 1830, poslední zápis 261 už lednu 1831.
+Všechna čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy 257 a 259
+uvádějí jediný den, který se vede jako narození i křest téhož dne.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 209 | 254 | N3 | Eva Amanda (?) `[příjmení nejasné]` | 14. / 16. 1. 1830 | Václav a Kateřina `[příjmení nejasná]` | dům a data bezpečné; první jméno čitelné, druhé pracovní |
+| 209 | 255 | N9 | Magdalena Pospíšilová (?) | 8. / 9. 2. 1830 | Jan Pospíšil (?) a Kateřina | dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte i otce |
+| 209 | 256 | N4 | Kateřina Vondráčková (?) | 20. / 21. 5. 1830 | Matěj Vondráček (?) a Františka | dům a data bezpečné; příjmení opakované u dítěte i otce, nikoli odvozené z místní nápovědy |
+| 209 | 257 | N6 | Josef Arnold (?) | 15. 6. 1830 | František Arnold (?) a Margareta | dům a den bezpečné; příjmení dítěte a otce je pracovní čtení |
+| 210 | 258 | N23 | Kateřina Pudilová (?) | 22. / 23. 11. 1830 | Martin Pudil (?) a Františka | dům a data bezpečné; příjmení opakované u dítěte i otce, nikoli převzaté jen ze známých rodů |
+| 210 | 259 | N16 | František Josef `[příjmení nejasné]` | 25. 11. 1830 | Jan a Anna `[příjmení nejasná]` | dům, den a dvě křestní jména dítěte čitelné |
+| 210 | 260 | N13 | Josef `[příjmení nejasné]` | 30. / 31. 12. 1830 | Josef a Margareta `[příjmení nejasná]` | dům, data a křestní jména čitelné; rodové údaje otevřené |
+| 210 | 261 | N20 | Klement (?) `[příjmení nejasné]` | 13. / 14. 1. 1831 | Matěj a Margareta `[příjmení nejasná]` | dům a data bezpečné; osobní jména jsou pracovní čtení |
+
+Adresní řada je N3, N9, N4, N6, N23, N16, N13 a N20. Trvale se ukládá celý
+snímek; dočasná zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 109 — roky 1831–1833
+
+Snímek 109 obsahuje rukopisné strany 211–212 a všech osm číslovaných zápisů
+262–269. Zápisy 262–264 patří roku 1831, zápisy 265–268 roku 1832 a zápis 269
+lednu 1833. Všechna čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy
+262 a 266 mají prázdný otcovský sloupec; u zápisu 268 je otec zapsán, ale jeho
+jméno zůstává nečitelné.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 211 | 262 | N8 | Josefa (?) `[příjmení nejasné]` | 20. 9. 1831 | otec neuveden; matka Anna Johanna (?) | dům a den bezpečné; měsíc je zapsán jako latinské `7bris`, osobní jména pracovní |
+| 211 | 263 | N5 | Martin Pelhřinec (?) | 13. 10. 1831 | Josef Pelhřinec (?) a Johanna | dům a den bezpečné; příjmení opakované u dítěte i otce je pracovní čtení |
+| 211 | 264 | N12 | Josef Krejčí (?) | 28. 11. 1831 | Josef Krejčí (?) a Kateřina | dům a den bezpečné; příjmení opakované u dítěte i otce je pracovní čtení |
+| 211 | 265 | N3 | Jan Tomáš (?) `[příjmení nejasné]` | 25. / 26. 1. 1832 | Václav a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 212 | 266 | N14 | Františka (?) `[další údaje a příjmení nejasné]` | 15. 6. 1832 | otec neuveden; matka Anna | nemanželský zápis; dům a den bezpečné |
+| 212 | 267 | N13 | Anna (?) `[příjmení nejasné]` | 3. / 4. 11. 1832 | Václav a Kateřina `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 212 | 268 | N10 | Adam Emanuel Přibyl (?) | 27. / 29. 12. 1832 | jméno otce nejasné; matka Mariana (?) | dům, data a dvě jména dítěte čitelné; příjmení pracovní |
+| 212 | 269 | N12 | Emanuel (?) `[další jméno a příjmení nejasné]` | 19. / 20. 1. 1833 | Jan a Anna `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+
+Adresní řada je N8, N5, N12, N3, N14, N13, N10 a N12. Zápisy 262, 263, 264
+a 266 uvádějí jediný den a vedou se jako narození i křest téhož dne. Trvale se
+ukládá celý snímek; dočasná zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 110 — roky 1833–1834
+
+Snímek 110 obsahuje rukopisné strany 213–214 a všech sedm číslovaných zápisů
+270–276. Zápisy 270–275 patří roku 1833, poslední zápis 276 lednu 1834. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy 272, 275 a 276
+uvádějí jediný den; zápis 276 má prázdný otcovský sloupec.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 213 | 270 | N24 | Josef Kulka (?) | 26. / 27. 2. 1833 | Martin Kulka (?) a Anna | dům a data bezpečné; příjmení opakované u dítěte i otce je pracovní čtení |
+| 213 | 271 | N21 | Antonín (?) `[další jména a příjmení nejasné]` | 19. / 20. 3. 1833 | Josef a Johanna `[příjmení nejasná]` | dům, data a první jméno dítěte čitelné |
+| 213 | 272 | N15 | Františka (?) `[příjmení nejasné]` | 1. 7. 1833 | Matěj a Margareta `[příjmení nejasná]` | dům a den bezpečné; osobní jména pracovní |
+| 213 | 273 | N7 | Josef (?) `[další jména a příjmení nejasné]` | 18. / 19. 8. 1833 | Matěj a Františka `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 214 | 274 | N20 | Klementina Emilie (?) `[další jména a příjmení nejasné]` | 21. / 22. 10. 1833 | Antonín a Margareta `[příjmení nejasná]` | dům a data bezpečné; první dvě jména pracovní, pozdější přípis není další událost |
+| 214 | 275 | N19 | Emanuel (?) `[další jména a příjmení nejasné]` | 8. 12. 1833 | Kristián a Anna `[příjmení nejasná]` | dům a den bezpečné; osobní jména pracovní |
+| 214 | 276 | N18 | Lucie Scholastika Eleonora (?) `[příjmení nejasné]` | 18. 1. 1834 | otec neuveden; matka Emerenciana (?) | nemanželský zápis; dům, den a tři jména dítěte čitelná, jméno matky pracovní |
+
+Adresní řada je N24, N21, N15, N7, N20, N19 a N18. Zápisy 272, 275 a 276
+s jediným dnem se vedou jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; detailní zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 111 — roky 1834–1835
+
+Snímek 111 obsahuje rukopisné strany 215–216 a všech sedm číslovaných zápisů
+277–283. Zápisy 277–280 patří roku 1834, zápisy 281–283 roku 1835. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy 277, 280 a 282
+uvádějí jediný den. U zápisu 278 je dvojice 1. a 2. září bezpečná; pořadí
+narození a křtu se čte podle rozložení datových sloupců.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 215 | 277 | N17 | Mořic (?) `[další jméno a příjmení nejasné]` | 28. 8. 1834 | Kristián (?) a Margareta (?) `[příjmení nejasná]` | dům a den bezpečné; osobní jména pracovní |
+| 215 | 278 | N5 | Margareta (?) `[příjmení nejasné]` | 1. / 2. 9. 1834 | otec Antonín (?); jméno matky nejasné | dům a oba dny bezpečné; pořadí vychází z datových sloupců |
+| 215 | 279 | N6 | František (?) `[příjmení nejasné]` | 10. / 11. 9. 1834 | Jan (?) a Anna (?) `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 215 | 280 | N8 | Margareta Neradálová (?) | 13. 9. 1834 | jména rodičů nejasná | dům a den bezpečné; příjmení dítěte je pracovní čtení |
+| 216 | 281 | N12 | Josef (?) `[další jména a příjmení nejasné]` | 2. / 3. 3. 1835 | Josef (?) a Ludmila (?) `[příjmení nejasná]` | dům a data bezpečné; osobní jména pracovní |
+| 216 | 282 | N12 | Jan (?) `[další jméno a příjmení nejasné]` | 4. 5. 1835 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte je pracovní |
+| 216 | 283 | N6 | Kateřina (?) `[další jména a příjmení nejasné]` | 9. / 10. 5. 1835 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte je pracovní |
+
+Adresní řada je N17, N5, N6, N8, N12, N12 a N6. Zápisy 277, 280 a 282 s
+jediným dnem se vedou jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; detailní zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 112 — roky 1836–1837
+
+Snímek 112 obsahuje rukopisné strany 217–218 a všech osm číslovaných zápisů
+284–291. Zápisy 284–285 patří roku 1836, zápisy 286–291 roku 1837. Všechna
+čísla domu jsou čitelná. Václav Vojtěch z N11 je už podrobně veden v osobní
+evidenci a tento inventář jej znovu nezapočítává. Zápis 289 výslovně označuje
+nepojmenované mrtvě narozené děvče.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 217 | 284 | N24 | Karel (?) `[další jména a příjmení nejasné]` | 9. / 10. 10. 1836 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 217 | 285 | N11 | Václav Vojtěch `[příjmení otce nejspíš Löbl]` | 19. 10. 1836 | Václav `[Löbl?]` a Anna | bezpečný dříve zpracovaný zápis N11; zde bez tvorby duplicit |
+| 217 | 286 | N9 | Marie Plášilová / Plassil (?) | 6. 1. 1837 | Vojtěch Plášil / Plassil (?) a Kateřina (?) | dům a den bezpečné; historický tvar příjmení je pracovní čtení opakované u dítěte a otce |
+| 217 | 287 | N18 | Martin (?) `[další jména a příjmení nejasné]` | 6. / 7. 2. 1837 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 218 | 288 | N15 | Martin (?) `[další jména a příjmení nejasné]` | 15. / 16. 2. 1837 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 218 | 289 | N6 | nepojmenované mrtvě narozené děvče | 5. 3. 1837; bez křtu | jména rodičů nejasná | dům a den bezpečné; zápis výslovně uvádí mrtvě narozenou dívku bez jména |
+| 218 | 290 | N12 | Kateřina Anna (?) `[příjmení nejasné]` | 16. 3. 1837 | jména rodičů nejasná | dům a den bezpečné; dvě jména dítěte pracovní |
+| 218 | 291 | N13 | Jiří Vlastimil (?) `[příjmení nejasné]` | 28. 12. 1837 | jména rodičů nejasná | dům a den bezpečné; dvě jména dítěte pracovní, měsíc je zapsán česky jako prosinec |
+
+Adresní řada je N24, N11, N9, N18, N15, N6, N12 a N13. Zápisy 285, 286, 290
+a 291 s jediným dnem se vedou jako narození i křest téhož dne; zápis 289 zůstává
+bez křtu. Trvale se ukládá celý snímek, detailní kontrolní zvětšeniny nikoli.
+
+## Inventář snímku 113 — roky 1838–1839
+
+Snímek 113 obsahuje rukopisné strany 219–220 a všech šest číslovaných zápisů
+292–297. Zápisy 292–295 patří roku 1838, zápisy 296–297 roku 1839. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. Zápisy 292, 294 a 295 uvádějí
+jediný den. Pozdější přípisy u zápisů 295 a 297 patří k již zapsaným dětem a
+nejsou dalšími událostmi narození.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 219 | 292 | N6 | Kateřina (?) `[další jména a příjmení nejasné]` | 14. 6. 1838 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní |
+| 219 | 293 | N6 | Kateřina (?) `[další jména a příjmení nejasné]` | 1. / 2. 8. 1838 | jména rodičů nejasná | dům a data bezpečné; samostatný pozdější zápis v témže domě, první jméno pracovní |
+| 219 | 294 | N15 | Josefa (?) `[další jména a příjmení nejasné]` | 7. 8. 1838 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní |
+| 220 | 295 | N2 | Jan (?) `[další jména a příjmení nejasné]` | 15. 11. 1838 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní, měsíc je česky zapsán jako listopad |
+| 220 | 296 | N17 | Marie Magdalena (?) `[příjmení nejasné]` | 9. / 10. 3. 1839 | jména rodičů nejasná | dům a data bezpečné; dvě jména dítěte pracovní |
+| 220 | 297 | N20 | Martin (?) `[další jména a příjmení nejasné]` | 11. / 12. 4. 1839 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní, pozdější přípis není další narození |
+
+Adresní řada je N6, N6, N15, N2, N17 a N20. Zápisy 292, 294 a 295 s jediným
+dnem se vedou jako narození i křest téhož dne. Trvale se ukládá celý snímek;
+detailní zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 114 — roky 1839–1840
+
+Snímek 114 obsahuje rukopisné strany 221–222 a všech šest číslovaných zápisů
+298–303. Zápisy 298–301 patří roku 1839, zápisy 302–303 roku 1840. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. Zápis 301 uvádí jediný den.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 221 | 298 | N24 | Vojtěch (?) `[další jména a příjmení nejasné]` | 23. / 24. 4. 1839 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 221 | 299 | N9 | Rozálie (?) `[příjmení nejasné]` | 13. / 14. 9. 1839 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 221 | 300 | N8 | Františka Langrová (?) | 14. / 15. 10. 1839 | Václav Langr (?) a Marie (?) | dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte a otce |
+| 222 | 301 | N9 | Kateřina (?) `[další jména a příjmení nejasné]` | 7. 11. 1839 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní |
+| 222 | 302 | N23 | Josef Plášil / Plassil (?) | 10. / 11. 2. 1840 | jména rodičů nejasná | dům a data bezpečné; historický tvar příjmení dítěte je pracovní čtení |
+| 222 | 303 | N14 | Aloisie Emilie (?) `[příjmení nejasné]` | 8. / 9. 3. 1840 | jména rodičů nejasná | dům a data bezpečné; dvě jména dítěte pracovní |
+
+Adresní řada je N24, N9, N8, N9, N23 a N14. Zápis 301 s jediným dnem se vede
+jako narození i křest téhož dne. Trvale se ukládá celý snímek; detailní zvětšení
+nejsou součástí pramenné složky.
+
+## Inventář snímku 115 — roky 1840–1841
+
+Snímek 115 obsahuje rukopisné strany 223–224 a všech sedm číslovaných zápisů
+304–310. Zápisy 304–308 patří roku 1840, zápisy 309–310 roku 1841. Šest čísel
+domu je čitelných. U zápisu 305 je v domovním sloupci pouze `N°` bez číslice;
+zápis se proto nepřiřazuje podle sousedů. Zápisy 304 a 308 uvádějí jediný den.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 223 | 304 | N18 | Marie Magdalena (?) `[příjmení nejasné]` | 19. 7. 1840 | jména rodičů nejasná | dům a den bezpečné; dvě jména dítěte pracovní |
+| 223 | 305 | číslo neuvedeno | Marie (?) `[další jména a příjmení nejasné]` | 21. / 22. 9. 1840 | jména rodičů nejasná | domovní sloupec obsahuje jen `N°` bez číslice; data a první jméno pracovní |
+| 223 | 306 | N6 | Helena (?) `[další jména a příjmení nejasné]` | 26. / 28. 9. 1840 | jména rodičů nejasná | dům a oba dny bezpečné; první jméno dítěte pracovní |
+| 223 | 307 | N20 | Marie (?) `[další jména a příjmení nejasné]` | 9. / 10. 11. 1840 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 224 | 308 | N19 | Marie (?) `[další jména a příjmení nejasné]` | 13. 12. 1840 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní |
+| 224 | 309 | N2 | Anna Plášilová / Plassilová (?) | 19. / 20. 4. 1841 | Martin Plášil / Plassil (?) a Kateřina (?) | dům a data bezpečné; historický tvar příjmení je pracovní čtení opakované u dítěte a otce |
+| 224 | 310 | N17 | Emanuel (?) `[další jména a příjmení nejasné]` | 26. / 27. 4. 1841 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+
+Adresní řada je N18, číslo neuvedeno, N6, N20, N19, N2 a N17. Zápisy 304 a 308
+s jediným dnem se vedou jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; detailní zvětšení nejsou součástí pramenné složky.
+
+## Inventář snímku 116 — roky 1841–1842
+
+Snímek 116 obsahuje rukopisné strany 225–226 a všech pět číslovaných zápisů
+311–315. Zápisy 311–312 patří roku 1841, zápisy 313–315 roku 1842. Všechna
+čísla domu jsou čitelná a žádný řádek nepatří N11. Zápis 312 uvádí jediný den.
+Pozdější úmrtní přípisy u zápisů 311, 314 a 315 nejsou další narození.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 225 | 311 | N10 | Ignác (?) `[další jména a příjmení nejasné]` | 13. / 14. 7. 1841 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní, pozdější přípis není další narození |
+| 225 | 312 | N4 | Martin (?) `[další jména a příjmení nejasné]` | 26. 12. 1841 | jména rodičů nejasná | dům a den bezpečné; první jméno dítěte pracovní |
+| 226 | 313 | N17 | Marie (?) `[další jména a příjmení nejasné]` | 26. / 27. 1. 1842 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 226 | 314 | N17 | Josef (?) `[další jména a příjmení nejasné]` | 11. / 13. 2. 1842 | jména rodičů nejasná | dům a oba dny bezpečné; první jméno dítěte pracovní, pozdější přípis není další narození |
+| 226 | 315 | N7 | Martin (?) `[další jména a příjmení nejasné]` | 13. / 14. 2. 1842 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní, pozdější přípis není další narození |
+
+Adresní řada je N10, N4, N17, N17 a N7. Zápis 312 s jediným dnem se vede jako
+narození i křest téhož dne. Trvale se ukládá celý snímek; detailní zvětšení
+nejsou součástí pramenné složky.
+
+## Inventář snímku 117 — roky 1842–1843
+
+Snímek 117 obsahuje rukopisné strany 227–228 a sedm událostí. První z nich má
+v prameni znovu číslo 315, přestože toto číslo už nese poslední únorový zápis na
+snímku 116; následné zápisy jsou číslovány 316–321. Prvních pět událostí patří
+roku 1842, poslední dvě roku 1843. Všechna čísla domu jsou čitelná a žádný
+řádek nepatří N11. Zápisy 315 (červnový) a 318 uvádějí jediný den.
+
+| Strana | Č. zápisu | Dům | Dítě | Datum | Rodiče | Jistota |
+|---:|---:|---|---|---|---|---|
+| 227 | 315 (znovu) | N5 | Anna Marie (?) `[příjmení nejasné]` | 1. 6. 1842 | jména rodičů nejasná | dům a den bezpečné; dvě jména dítěte pracovní, číslo 315 je v prameni opakováno |
+| 227 | 316 | N19 | Anna (?) `[další jména a příjmení nejasné]` | 26. / 27. 8. 1842 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní |
+| 227 | 317 | N10 | Václav (?) `[další jména a příjmení nejasné]` | 1. / 3. 9. 1842 | jména rodičů nejasná | dům a oba dny bezpečné; první jméno dítěte pracovní |
+| 228 | 318 | N8 | Olívie Ludmila (?) `[příjmení nejasné]` | 8. 9. 1842 | jména rodičů nejasná | dům a den bezpečné; dvě jména dítěte pracovní |
+| 228 | 319 | N3 | Dorota (?) `[další jména a příjmení nejasné]` | 12. / 13. 12. 1842 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte je nejisté pracovní čtení latinského tvaru `Dorothea` |
+| 228 | 320 | N18 | František Romuald (?) `[příjmení nejasné]` | 26. / 27. 1. 1843 | jména rodičů nejasná | dům a data bezpečné; dvě jména dítěte pracovní |
+| 228 | 321 | N20 | Antonín (?) `[další jména a příjmení nejasné]` | 30. / 31. 1. 1843 | jména rodičů nejasná | dům a data bezpečné; první jméno dítěte pracovní, pozdější přípis není další narození |
+
+Adresní řada je N5, N19, N10, N8, N3, N18 a N20. Zápisy 315 (červnový) a 318
+s jediným dnem se vedou jako narození i křest téhož dne. Trvale se ukládá celý
+snímek; detailní zvětšení nejsou součástí pramenné složky. Tím je celý
+zahrádecký oddíl na snímcích 80–117 souvisle inventarizován podle domů.
+
 ## První uložený blok
 
 | Snímek | Místní obraz | Originál | Stav |
@@ -482,9 +997,29 @@ N2 na konci roku 1819. Trvalý je celý snímek; pracovní zvětšeniny jednotli
 | 94 | [obraz](kniha6620_snim094.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/94) | deset událostí inventarizováno; Plášilovi doloženi v N13, známý Jan Ros / Roš v N11 napojen bez duplicity, František Pudil (?) veden pracovně |
 | 95 | [obraz](kniha6620_snim095.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/95) | dvanáct událostí inventarizováno; všechny domy čitelné, bez N11, opakovaní Fraňkovi v N1 a Jan Plášil v N7 |
 | 96 | [obraz](kniha6620_snim096.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/96) | deset událostí inventarizováno; všechny domy čitelné, známí Junkovi / Jůnkovi v N11 napojeni bez duplicit, Svačkovi doloženi v N2 |
+| 97 | [dříve uložený celý obraz](../1820/snim97_cela_dvoustrana.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/97) | deset událostí inventarizováno; známé rodiny N1 a N11 bez duplicit, Pudilovi v N18 a dva rodičovsky odlišné zápisy Fischerů v N16 |
+| 98 | [obraz](kniha6620_snim098.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/98) | deset událostí inventarizováno; všechny domy čitelné, bez N11, zápisy sahají do ledna 1822 |
+| 99 | [obraz](kniha6620_snim099.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/99) | devět událostí inventarizováno; všechny domy čitelné, bez N11, pracovní Pospíšilovi v N9 |
+| 100 | [obraz](kniha6620_snim100.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/100) | sedm událostí inventarizováno; všechny domy čitelné, bez N11, zápisy sahají do března 1824 |
+| 101 | [obraz](kniha6620_snim101.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/101) | šest událostí inventarizováno; všechny domy čitelné, bez N11, zápisy sahají do října 1824 |
+| 102 | [obraz](kniha6620_snim102.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/102) | šest událostí inventarizováno; všechny domy čitelné, bez N11, zápisy sahají do března 1825 |
+| 103 | [obraz](kniha6620_snim103.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/103) | šest událostí inventarizováno; všechny domy čitelné, bez N11, zápisy sahají do ledna 1826 |
+| 104 | [obraz](kniha6620_snim104.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/104) | sedm událostí inventarizováno; všechny domy čitelné, bez N11, jeden nepokřtěný bezejmenný zápis a jeden zápis bez otce |
+| 105 | [obraz](kniha6620_snim105.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/105) | šest událostí inventarizováno; všechny domy čitelné, známá Františka Josefa Ryplová v N11 napojena bez duplicity |
+| 106 | [obraz](kniha6620_snim106.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/106) | sedm událostí inventarizováno; všechny domy čitelné, bez N11, jeden platný nečíslovaný zápis N1 |
+| 107 | [obraz](kniha6620_snim107.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/107) | sedm událostí inventarizováno; všechny domy čitelné, bez N11, u zápisu 252 není uveden otec |
+| 108 | [obraz](kniha6620_snim108.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/108) | osm událostí z let 1830–1831 inventarizováno; všechny domy čitelné, bez N11 |
+| 109 | [obraz](kniha6620_snim109.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/109) | osm událostí z let 1831–1833 inventarizováno; všechny domy čitelné, bez N11, dva zápisy bez otce |
+| 110 | [obraz](kniha6620_snim110.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/110) | sedm událostí z let 1833–1834 inventarizováno; všechny domy čitelné, bez N11, poslední zápis bez otce |
+| 111 | [obraz](kniha6620_snim111.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/111) | sedm událostí z let 1834–1835 inventarizováno; všechny domy čitelné, bez N11, nečitelná rodičovská jména ponechána otevřená |
+| 112 | [obraz](kniha6620_snim112.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/112) | osm událostí z let 1836–1837 inventarizováno; všechny domy čitelné, známé N11 bez duplicity, pracovní Plášilovi v N9, jeden mrtvě narozený zápis |
+| 113 | [obraz](kniha6620_snim113.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/113) | šest událostí z let 1838–1839 inventarizováno; všechny domy čitelné, bez N11, pozdější přípisy u dvou dětí nejsou další narození |
+| 114 | [obraz](kniha6620_snim114.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/114) | šest událostí z let 1839–1840 inventarizováno; všechny domy čitelné, bez N11, pracovní Langrovi v N8 a Plášil v N23 |
+| 115 | [obraz](kniha6620_snim115.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/115) | sedm událostí z let 1840–1841 inventarizováno; u zápisu 305 není uvedena číslice domu, pracovní Plášilovi v N2 |
+| 116 | [obraz](kniha6620_snim116.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/116) | pět událostí z let 1841–1842 inventarizováno; všechny domy čitelné, bez N11, pozdější úmrtní přípisy nejsou další narození |
+| 117 | [obraz](kniha6620_snim117.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6620/117) | sedm událostí z let 1842–1843 inventarizováno; červnový zápis opakuje číslo 315, všechny domy čitelné, bez N11 |
 
-Nejúspornější další metoda je pokračovat snímkem 97 a přepisovat jednu celou
-stránku do tabulky se sloupci
-`dům`, `dítě`, `datum`, `otec`, `matka`, `snímek` a teprve poté pokračovat na další
-stranu. Výřezy mají vzniknout jen u skutečně nečitelného detailu, nikoli ke každému
+Celý zahrádecký oddíl knihy 6620 je nyní zpracován. Při případné paleografické
+revizi se má opravovat zdrojový řádek v hlavním registru i zde v katalogu;
+výřezy mají vzniknout jen u skutečně nečitelného detailu, nikoli ke každému
 řádku.

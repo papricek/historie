@@ -242,6 +242,19 @@
   .osoba .co { font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); line-height: 1.5; }
   .osoba .co b { color: var(--accent-ink); }
   .osoba .zdroj { font-family: system-ui, sans-serif; font-size: 10.5px; color: var(--muted); line-height: 1.5; margin-top: 1px; }
+  .osoba .rodice { font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); line-height: 1.5; margin-top: 2px; }
+  .osoba .rodice b { font-weight: 600; color: var(--muted); }
+  .dekada {
+    position: sticky; top: 0; z-index: 1; background: var(--surface);
+    font: 700 11px/1 system-ui, sans-serif; letter-spacing: .1em; color: var(--accent-ink);
+    padding: 7px 2px 5px; border-bottom: 1px solid var(--border);
+  }
+  .sparky { display: flex; align-items: flex-end; gap: 2px; height: 22px; margin: 2px 0 10px; }
+  .sparky button {
+    flex: 0 0 8px; border: 0; border-radius: 2px 2px 0 0; padding: 0; cursor: pointer;
+    background: color-mix(in srgb, var(--accent) 45%, var(--surface));
+  }
+  .sparky button:hover { background: var(--accent); }
   .nej { color: var(--muted); font-style: italic; }
   mark {
     background: color-mix(in srgb, var(--accent) 22%, transparent);
@@ -287,12 +300,12 @@
   <div class="wrap">
     <div class="rule-top"></div>
     <div class="eyebrow">
-      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 30.&nbsp;7.&nbsp;2026</span>
+      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 31.&nbsp;7.&nbsp;2026</span>
       <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
     </div>
     <h1>Domy a lidé <span class="amp">na&nbsp;Zahrádce</span></h1>
     <p class="lede">Každé kolečko je jeden dům. Klepnutím na kolečko se ukáže, koho k&nbsp;němu prameny
-      zatím dokládají — <strong><span id="statDomu">26</span> domovních oddílů</strong> a <strong><span id="statRadku">828</span> osobních dokladových řádků</strong>
+      zatím dokládají — <strong><span id="statDomu">27</span> domovních oddílů</strong> a <strong><span id="statRadku">1189</span> osobních dokladových řádků</strong>
       z&nbsp;matrik farnosti Pošná (od&nbsp;1772), josefínského katastru a sčítání lidu 1921 — a nejstarší jmenný soupis vsi z berní ruly 1654.
       Podklad mapy lze přepínat mezi císařským otiskem 1829 a leteckými snímky 1949–2022.</p>
     <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
@@ -502,6 +515,74 @@ function otevriPanel() { panelEl.classList.add("otevreny"); }
 document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny"));
 window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny"); });
 
+function seskupUdalosti(osoby) {
+  const udalosti = [];
+  for (const o of osoby) {
+    const posledni = udalosti[udalosti.length - 1];
+    if (posledni && posledni.d === o.d) posledni.radky.push(o);
+    else udalosti.push({ d: o.d, r: o.r, radky: [o] });
+  }
+  return udalosti;
+}
+
+/* Jedna událost: dítě/děti + vnoření rodiče, pokud jsou jednoznační. */
+function kartaHtml(u) {
+  const rodice = u.radky.filter((o) => o.rod);
+  const otcove = [...new Set(rodice.filter((o) => o.rod === "o").map((o) => o.j))];
+  const matky = [...new Set(rodice.filter((o) => o.rod === "m").map((o) => o.j))];
+  if (!rodice.length || otcove.length > 1 || matky.length > 1)
+    return u.radky.map(radekHtml).join("");
+  let html = '<div class="osoba"><div class="kdy">' + u.d + "</div>";
+  for (const o of u.radky.filter((x) => !x.rod)) {
+    html += '<div class="kdo">' + o.j + "</div>" +
+      '<div class="co">' + o.p + "</div>" +
+      (o.z ? '<div class="zdroj">' + o.z + "</div>" : "");
+  }
+  const casti = [];
+  if (otcove.length) casti.push("<b>otec:</b> " + otcove[0]);
+  if (matky.length) casti.push("<b>matka:</b> " + matky[0]);
+  return html + '<div class="rodice">' + casti.join(" · ") + "</div></div>";
+}
+
+function seznamHtml(dum) {
+  const udalosti = seskupUdalosti(dum.osoby);
+  const separatory = dum.osoby.length > 20;
+  let html = "";
+  let dekada = null;
+  for (const u of udalosti) {
+    if (separatory && u.r) {
+      const d = Math.floor(u.r / 10) * 10;
+      if (d !== dekada) {
+        dekada = d;
+        html += '<div class="dekada" id="dek-' + dum.klic + "-" + d + '">' + d + "</div>";
+      }
+    }
+    html += kartaHtml(u);
+  }
+  return html;
+}
+
+/* Hustota dokladů po desetiletích; sloupky skáčou na oddělovač v seznamu. */
+function sparklineHtml(dum) {
+  const pocty = new Map();
+  for (const o of dum.osoby) {
+    if (!o.r) continue;
+    const d = Math.floor(o.r / 10) * 10;
+    pocty.set(d, (pocty.get(d) || 0) + 1);
+  }
+  if (pocty.size < 2) return "";
+  const dekady = [...pocty.keys()].sort((a, b) => a - b);
+  const max = Math.max(...pocty.values());
+  let html = '<div class="sparky">';
+  for (let d = dekady[0]; d <= dekady[dekady.length - 1]; d += 10) {
+    const n = pocty.get(d) || 0;
+    html += '<button style="height:' + (n ? Math.round(4 + 16 * n / max) : 2) +
+      'px" title="' + d + "–" + (d + 9) + ": " + n + '" data-dek="' + d +
+      '" aria-label="' + d + ": " + n + '"></button>';
+  }
+  return html + "</div>";
+}
+
 function radekHtml(o) {
   return '<div class="osoba">' +
     '<div class="kdy">' + o.d + "</div>" +
@@ -559,7 +640,16 @@ function vyberDum(klic) {
     "<h3>" + dum.nazev + "</h3>" +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
-    '<div class="osoby">' + dum.osoby.map((o) => radekHtml(o)).join("") + "</div>";
+    sparklineHtml(dum) +
+    '<div class="osoby">' + seznamHtml(dum) + "</div>";
+  const spark = panel.querySelector(".sparky");
+  if (spark) spark.addEventListener("click", (e) => {
+    const cil = e.target.closest("button");
+    if (!cil) return;
+    const sep = document.getElementById("dek-" + klic + "-" + cil.dataset.dek);
+    const box = panel.querySelector(".osoby");
+    if (sep && box) box.scrollTop = sep.offsetTop - box.offsetTop;
+  });
 }
 
 uvodPanelu();

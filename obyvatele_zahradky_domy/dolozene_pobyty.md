@@ -16,30 +16,30 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | Dům | Od–do doloženo | Osobních dokladových řádků |
 |---|---|---:|
 | č. 1a | 1921 | 5 |
-| N1 / čp. 1 | 1788–1921 | 58 |
-| N2 / čp. 2 | 1788–1921 | 40 |
-| N3 / čp. 3 | 1788–1921 | 34 |
-| N4 / čp. 4 | 1788–1921 | 18 |
-| N5 / čp. 5 | 1788–1921 | 31 |
-| N6 / čp. 6 | 1797–1921 | 30 |
-| N7 / čp. 7 | 1788–1921 | 28 |
-| N8 / čp. 8 | 1800–1921 | 57 |
-| N9 / čp. 9 | 1788–1921 | 44 |
-| N10 / čp. 10 | 1788–1921 | 47 |
-| N11 / čp. 11 | 1772–1930 | 172 |
-| N12 / čp. 12 | 1788–1921 | 18 |
-| N13 / čp. 13 | 1788–1817 | 28 |
-| N14 / čp. 14 | 1788–1921 | 41 |
-| N15 / čp. 15 | 1788–1921 | 27 |
-| N16 / čp. 16 | 1802–1921 | 23 |
-| N17 / čp. 17 | 1788–1921 | 28 |
-| N18 / čp. 18 | 1808–1921 | 20 |
-| N19 / čp. 19 | 1813–1921 | 18 |
-| N20 / čp. 20 | 1819–1921 | 12 |
-| N21 / čp. 21 | 1812–1921 | 24 |
+| N1 / čp. 1 | 1788–1921 | 77 |
+| N2 / čp. 2 | 1788–1921 | 56 |
+| N3 / čp. 3 | 1788–1921 | 65 |
+| N4 / čp. 4 | 1788–1921 | 34 |
+| N5 / čp. 5 | 1788–1921 | 61 |
+| N6 / čp. 6 | 1797–1921 | 71 |
+| N7 / čp. 7 | 1788–1921 | 45 |
+| N8 / čp. 8 | 1800–1921 | 72 |
+| N9 / čp. 9 | 1788–1921 | 71 |
+| N10 / čp. 10 | 1788–1921 | 91 |
+| N11 / čp. 11 | 1772–1930 | 205 |
+| N12 / čp. 12 | 1788–1921 | 43 |
+| N13 / čp. 13 | 1788–1845 | 59 |
+| N14 / čp. 14 | 1788–1921 | 82 |
+| N15 / čp. 15 | 1788–1921 | 52 |
+| N16 / čp. 16 | 1802–1921 | 55 |
+| N17 / čp. 17 | 1788–1921 | 52 |
+| N18 / čp. 18 | 1808–1921 | 34 |
+| N19 / čp. 19 | 1813–1921 | 47 |
+| N20 / čp. 20 | 1819–1921 | 54 |
+| N21 / čp. 21 | 1812–1921 | 54 |
 | N22 / čp. 22 | 1815–1921 | 12 |
-| N23 / čp. 23 | 1921 | 4 |
-| N24 / čp. 24 | 1921 | 4 |
+| N23 / čp. 23 | 1825–1921 | 13 |
+| N24 / čp. 24 | 1833–1921 | 12 |
 | N25 / čp. 25 | 1921 | 5 |
 
 ## Č. 1a
@@ -105,8 +105,27 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 8. 12. 1818; křest téhož dne | Kateřina | matka při narození dítěte Barbora Fraňková / Franíková | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4./5. 5. 1820 | Františka, manželka Josefa Fraňka | matka Františka a druhého dvojčete | [matrika 1820](https://digi.ceskearchivy.cz/6620/96) |
 | narozen 4./5. 5. 1820; doložen 1849 a 1868 | František Franěk | syn Josefa; později sedlák a otec Anny | [matrika 1820](https://digi.ceskearchivy.cz/6620/96), [matrika 1849](https://digi.ceskearchivy.cz/6621/314) |
+| 29. / 30. 6. 1823 | Antonín Jan (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě první jména dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1823 | Josef `[příjmení nejasné]` | otec při narození dítěte Antonín Jan (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1823 | Kateřina | matka při narození dítěte Antonín Jan (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 9. 1826; křest téhož dne | Josef Franěk / Franík | otec při narození dítěte Kristina Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 9. 1826; křest téhož dne | Kateřina | matka při narození dítěte Kristina Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 9. 1826; křest téhož dne | Kristina Františka (?) `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; rodové čtení otce podporují starší zápisy téhož domu, dětská jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 9. 1828; křest téhož dne | Antonie | matka při narození dítěte Antonín František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 9. 1828; křest téhož dne | Antonín František `[příjmení nejasné]` | narození / křest; nečíslovaný zápis mezi 243 a 244; dům, datum, dítě a otcovo příjmení čitelné, mateřské rodové údaje otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 9. 1828; křest téhož dne | Jakub Franěk / Franík | otec při narození dítěte Antonín František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1847 | Anna | matka při narození dítěte František Franěk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1847 | František Franěk | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1847 | František Franěk | otec při narození dítěte František Franěk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 11. 1848 | Barbora (?) `[příjmení nejasné]` | narození / křest; první jméno dítěte a matky, dům a oba dny bezpečné; dítě je nemanželské | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 11. 1848 | Marie | matka při narození dítěte Barbora (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1849 a 1868 | Anna Neubauerová, manželka Františka Fraňka | matka Anny; rodinná vazba k N1 | tytéž zápisy jako u Anny Fraňkové |
 | narozena 18./19. 9. 1849; oddána 4. 2. 1868 | Anna Fraňková, později Dvořáková | dcera sedláka Františka Fraňka a Anny Neubauerové | [matrika 1849](https://digi.ceskearchivy.cz/6621/314), [sňatek 1868](https://digi.ceskearchivy.cz/6623/132) |
+| 20. 9. 1850; den křtu neuveden | Ludmila (?) | matka při narození dítěte Marie `[příjmení neuvedeno]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1850; den křtu neuveden | Marie `[příjmení neuvedeno]` | narození / křest; první jméno dítěte a matky, dům a den narození bezpečné; dítě je nemanželské | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1855 | Anna Neubauerová | matka při narození dítěte Jan Franěk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1855 | František Franěk | otec při narození dítěte Jan Franěk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1855 | Jan Franěk | narození / křest; dítě, rodiče, dům a oba dny bezpečné; známá rodina N1 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anežka Rohovcová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Božena Rohovcová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Františka Rohovcová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -152,6 +171,22 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 27. / 29. 12. 1819 | Anna Svačková / Swaczkowa | narození / křest; dům, data, dítě a otec bezpečnější; historické rodové tvary čitelné, matčino jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. / 29. 12. 1819 | Josef Svaček / Swaczek | otec při narození dítěte Anna Svačková / Swaczkowa | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. / 29. 12. 1819 | Terezie (?) | matka při narození dítěte Anna Svačková / Swaczkowa | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 11. 1838; křest téhož dne | Jan (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení, měsíc je česky zapsán jako listopad | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 4. 1841 | Anna Plášilová / Plassilová (?) | narození / křest; dům a data bezpečné; historický tvar příjmení je pracovní čtení opakované u dítěte a otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 4. 1841 | Kateřina (?) `[rodné příjmení nejasné]` | matka při narození dítěte Anna Plášilová / Plassilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 4. 1841 | Martin Plášil / Plassil (?) | otec při narození dítěte Anna Plášilová / Plassilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1846 | Kateřina | matka při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1846 | Kateřina Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné; příjmení je v zápisu `Plassilowa` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1846 | Václav Plášil | otec při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1849 | Antonie Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné; historický tvar příjmení je `Plassil` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1849 | Kateřina | matka při narození dítěte Antonie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1849 | Václav Plášil | otec při narození dítěte Antonie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1851 | Františka Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1851 | Kateřina | matka při narození dítěte Františka Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1851 | Václav Plášil | otec při narození dítěte Františka Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 8. 1854 | Barbora Plášilová | narození / křest; dítě, otec, dům a oba dny bezpečné; matčino jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 8. 1854 | Ludmila (?) | matka při narození dítěte Barbora Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 8. 1854 | Vojtěch Plášil | otec při narození dítěte Barbora Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Kudrnová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kudrna | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Kudrna | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -191,6 +226,37 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 18. / 19. 11. 1819 | Alois (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečná; osobní jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 11. 1819 | Kateřina (?) | matka při narození dítěte Alois (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 11. 1819 | Vojtěch (?) | otec při narození dítěte Alois (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 2. 1822 | Kateřina | matka při narození dítěte Salvátor (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 2. 1822 | Salvátor (?) `[další jména a příjmení nejasné]` | narození / křest; dům, data a křestní jména rodičů čitelná; první jméno dítěte pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 2. 1822 | Vojtěch `[příjmení nejasné]` | otec při narození dítěte Salvátor (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 9. / 1. 10. 1824 | Kateřina | matka při narození dítěte Marie Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 9. / 1. 10. 1824 | Kristian Emanuel (?) `[příjmení nejasné]` | otec při narození dítěte Marie Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 9. / 1. 10. 1824 | Marie Anna (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte a rodičovská křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 16. 1. 1830 | Eva Amanda (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno čitelné, druhé jméno pracovní a rodové údaje otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 16. 1. 1830 | Kateřina `[příjmení nejasné]` | matka při narození dítěte Eva Amanda (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 16. 1. 1830 | Václav `[příjmení nejasné]` | otec při narození dítěte Eva Amanda (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 1. 1832 | Jan Tomáš (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě křestní jména dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 1. 1832 | Kateřina `[příjmení nejasné]` | matka při narození dítěte Jan Tomáš (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 1. 1832 | Václav `[příjmení nejasné]` | otec při narození dítěte Jan Tomáš (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 12. 1842 | Dorota (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je nejisté pracovní čtení latinského tvaru `Dorothea` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 12. 1844; den křtu neuveden | František Plašil / Plášil (?) | narození / křest; dům a den narození bezpečné; příjmení je pracovní čtení historického tvaru, pozdější úmrtní přípis není další narození | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 1. 1846; den křtu neuveden | Alžběta (?) | matka při narození dítěte Jan (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 1. 1846; den křtu neuveden | Jan (?) `[příjmení nejasné]` | narození / křest; dům a den narození bezpečné; dítě je nemanželské a další údaje matky zůstávají nejasné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 4. 1847 | František Plášil | otec při narození dítěte Marianna Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 4. 1847 | Marianna | matka při narození dítěte Marianna Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 4. 1847 | Marianna Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné; historický tvar příjmení je `Plassil` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 7. 1849 | František Plášil | otec při narození dítěte Václav Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 7. 1849 | Marie Anna | matka při narození dítěte Václav Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 7. 1849 | Václav Plášil | narození / křest; dítě, rodiče, dům a oba dny bezpečné; historický tvar příjmení je `Plassil` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 6. 1851 | Aloisie Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 6. 1851 | František Plášil | otec při narození dítěte Aloisie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 6. 1851 | Marie Anna | matka při narození dítěte Aloisie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. 1. 1854; den křtu neuveden | Anna | matka při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. 1. 1854; den křtu neuveden | František Plášil | otec při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. 1. 1854; den křtu neuveden | Kateřina Plášilová | narození / křest; dítě, rodiče, dům a den narození bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 1. 1856 | František Plášil | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 1. 1856 | František Plášil | otec při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 1. 1856 | Marie Anna | matka při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Bartoška | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Božena Bartošková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Schmied | sloužící; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -214,6 +280,22 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 18. / 19. 6. 1818 | Jana Nepomucena `[příjmení nejasné]` | narození / křest; dům, data a obě jména dítěte čitelné; rodičovská jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 6. 1818 | Markéta (?) | matka při narození dítěte Jana Nepomucena `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 6. 1818 | Tomáš (?) | otec při narození dítěte Jana Nepomucena `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 10. 1824; křest téhož dne | Anna | matka při narození dítěte Martin Jan Vojtěch (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 10. 1824; křest téhož dne | Martin Jan Vojtěch (?) `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; vícedílné jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 10. 1824; křest téhož dne | Martin `[příjmení nejasné]` | otec při narození dítěte Martin Jan Vojtěch (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1830 | Františka `[příjmení nejasné]` | matka při narození dítěte Kateřina Vondráčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1830 | Kateřina Vondráčková (?) | narození / křest; dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte i otce, nikoli odvozené z místní nápovědy | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1830 | Matěj Vondráček (?) | otec při narození dítěte Kateřina Vondráčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. 12. 1841; křest téhož dne | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 10. 1845; den křtu neuveden | Jan Vondráček | otec při narození dítěte Martin Jan Vondráček (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 10. 1845; den křtu neuveden | Kateřina (?) | matka při narození dítěte Martin Jan Vondráček (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 10. 1845; den křtu neuveden | Martin Jan Vondráček (?) | narození / křest; obě křestní jména, otec, dům a den narození bezpečné; příjmení dítěte je odvozeno z otce, pozdější úmrtní přípis patří témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 6. 1847 | Anna Vondráčková | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 6. 1847 | Jan Vondráček | otec při narození dítěte Anna Vondráčková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 6. 1847 | Kateřina | matka při narození dítěte Anna Vondráčková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 27. 6. 1848 | Marie | matka při narození dítěte Marie Chramostová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 27. 6. 1848 | Marie Chramostová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 27. 6. 1848 | Matěj Chramosta (?) | otec při narození dítěte Marie Chramostová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Matějka | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Františka Matějková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jindřiška Matějková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -246,6 +328,36 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 14. 10. 1809; křest téhož dne | Michal (?) `[příjmení nejasné]` | otec při narození dítěte Marie (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. 11. 1811; křest téhož dne | Anna (?) | matka při narození dítěte Barbora `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. 11. 1811; křest téhož dne | Barbora `[příjmení nejasné]` | narození / křest; dům, datum a jméno dítěte čitelné; další údaje otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 1. 1820 | Josef Kejval (?) | otec při narození dítěte Josef Kejval (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 1. 1820 | Josef Kejval (?) | narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 1. 1820 | Mariana | matka při narození dítěte Josef Kejval (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1821 | Anna `[další jméno nebo příjmení nejasné]` | narození / křest; dům, data a tři křestní jména rodiny čitelná; příjmení se nedoplňuje odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1821 | Barbora `[rodové údaje nejasné]` | matka při narození dítěte Anna `[další jméno nebo příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 4. 1821 | Ondřej `[příjmení nejasné]` | otec při narození dítěte Anna `[další jméno nebo příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 3. 1823 | Barbora | matka při narození dítěte František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 3. 1823 | František `[příjmení nejasné]` | narození / křest; dům, data a základní křestní jména čitelná; skvrny zakrývají část osobních údajů | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 3. 1823 | Ondřej `[příjmení nejasné]` | otec při narození dítěte František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 3. 1825 | Barbora | matka při narození dítěte Josef (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 3. 1825 | Josef (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 3. 1825 | Ondřej `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 10. 1827 | Barbora | matka při narození dítěte Martin Albrecht `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 10. 1827 | Martin Albrecht `[příjmení nejasné]` | narození / křest; dům, data a obě jména dítěte čitelné; rodičovská příjmení se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 10. 1827 | Ondřej `[příjmení nejasné]` | otec při narození dítěte Martin Albrecht `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 10. 1831; křest téhož dne | Johanna `[příjmení nejasné]` | matka při narození dítěte Martin Pelhřinec (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 10. 1831; křest téhož dne | Josef Pelhřinec (?) | otec při narození dítěte Martin Pelhřinec (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 10. 1831; křest téhož dne | Martin Pelhřinec (?) | narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 9. 1834 | Antonín (?) `[příjmení nejasné]` | otec při narození dítěte Margareta (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 9. 1834 | Margareta (?) `[příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; pořadí narození a křtu je čteno podle datových sloupců, osobní jména zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 6. 1842; křest téhož dne | Anna Marie (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení, v prameni jde o opakované číslo zápisu 315 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Anna | matka při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Anna Nuníková (?) | narození / křest; dům, oba dny a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Martin Nuník (?) | otec při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Marie | matka při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | František Nuník (?) | narození / křest; dům a den narození bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte František Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | Marie | matka při narození dítěte František Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Vaňková | tchyně přednosty | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -283,6 +395,47 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 4. / 5. 9. 1817 | Anna (?) | matka při narození dítěte Marie Kateřina `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 9. 1817 | František (?) | otec při narození dítěte Marie Kateřina `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 9. 1817 | Marie Kateřina `[příjmení nejasné]` | narození / křest; dům, data a obě jména dítěte čitelné; další údaje pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 4. 1823; křest téhož dne | Anna | matka při narození dítěte Jiří `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 4. 1823; křest téhož dne | František `[příjmení nejasné]` | otec při narození dítěte Jiří `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 4. 1823; křest téhož dne | Jiří `[příjmení nejasné]` | narození / křest; dům, datum a základní křestní jména čitelná; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 11. 1824 | Jan `[příjmení nejasné]` | otec při narození dítěte Karel Boromejský (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 11. 1824 | Karel Boromejský (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; druhé jméno dítěte a rodičovská jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 11. 1824 | Kateřina | matka při narození dítěte Karel Boromejský (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 6. 1830; křest téhož dne | František Arnold (?) | otec při narození dítěte Josef Arnold (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 6. 1830; křest téhož dne | Josef Arnold (?) | narození / křest; dům a den bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 6. 1830; křest téhož dne | Margareta `[příjmení nejasné]` | matka při narození dítěte Josef Arnold (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 9. 1834 | Anna (?) `[příjmení nejasné]` | matka při narození dítěte František (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 9. 1834 | František (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; osobní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 9. 1834 | Jan (?) `[příjmení nejasné]` | otec při narození dítěte František (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 5. 1835 | Kateřina (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní, rodičovská jména zůstávají otevřená | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 3. 1837; bez křtu | nepojmenované mrtvě narozené děvče | narození; dům a den bezpečné; zápis výslovně uvádí mrtvě narozenou dívku bez jména | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 8. 1838 | Kateřina (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, jde o samostatný pozdější zápis v témže domě | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 6. 1838; křest téhož dne | Kateřina (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 28. 9. 1840 | Helena (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 7. 1846 | Anna | matka při narození dítěte Vojtěch Chramosta (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 7. 1846 | Matěj Chramosta (?) | otec při narození dítěte Vojtěch Chramosta (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 7. 1846 | Vojtěch Chramosta (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 6. 1847 | Anna | matka při narození dítěte Marie Chramostová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 6. 1847 | Marie Chramostová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 6. 1847 | Matěj Chramosta (?) | otec při narození dítěte Marie Chramostová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Anna | matka při narození dítěte Josef Chramosta (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Anna | matka při narození dítěte Anna Marie Chramostová (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Anna Marie Chramostová (?) `[dvojče]` | narození / křest; druhé dvojče téhož zápisu; nerozšiřuje počet matričních zápisů | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Josef Chramosta (?) `[dvojče]` | narození / křest; první z dvojčat; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Matěj Chramosta (?) | otec při narození dítěte Josef Chramosta (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Matěj Chramosta (?) | otec při narození dítěte Anna Marie Chramostová (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 7. 1853 | Marie Reníková (?) | narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 7. 1853 | Martin Reník (?) | otec při narození dítěte Marie Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 7. 1853 | Terezie (?) | matka při narození dítěte Marie Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 7. 1854 | František Reník (?) | narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 7. 1854 | Martin Reník (?) | otec při narození dítěte František Reník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 7. 1854 | Terezie (?) | matka při narození dítěte František Reník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 8. 1855 | Anna Reníková (?) | narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 8. 1855 | Ludmila (?) | matka při narození dítěte Anna Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 8. 1855 | Martin Reník (?) | otec při narození dítěte Anna Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 2. 1855 | Anna (?) | matka při narození dítěte Josef Dvořáček (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 2. 1855 | Jan Dvořáček (?) | otec při narození dítěte Josef Dvořáček (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 2. 1855 | Josef Dvořáček (?) | narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anežka Perníčková | dítě v domácnosti; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Beldánová (?) | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Pánková | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -321,6 +474,23 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 30. 6. / 1. 7. 1818 | Jan Nepomuk Plášil / Plassil | narození / křest; dům, data, dítě a otec bezpečné; matčina jména pracovní a neslučují se automaticky s Marianou z roku 1815 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 30. 6. / 1. 7. 1818 | Jan Plášil / Plassil | otec při narození dítěte Jan Nepomuk Plášil / Plassil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 30. 6. / 1. 7. 1818 | Marie Magdalena (?) | matka při narození dítěte Jan Nepomuk Plášil / Plassil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1822 | Anna Františka a Barbora Josefina Marie (?) `[pravděpodobně dvojčata]` | narození / křest; dům a data bezpečné; dvě dívčí jmenné řady stojí v jednom zápisu, jejich úplné čtení a označení dvojčat zůstává pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1822 | Josef `[příjmení nejasné]` | otec při narození dítěte Anna Františka a Barbora Josefina Marie (?) `[pravděpodobně dvojčata]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1822 | Kateřina | matka při narození dítěte Anna Františka a Barbora Josefina Marie (?) `[pravděpodobně dvojčata]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 5. 1825; křest téhož dne | Jan Nepomuk Emanuel `[příjmení nejasné]` | narození / křest; dům, datum a tři jména dítěte čitelné; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 5. 1825; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Jan Nepomuk Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 5. 1825; křest téhož dne | Kateřina | matka při narození dítěte Jan Nepomuk Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 10. 1828 | Anna | matka při narození dítěte František (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 10. 1828 | František (?) `[další jména a příjmení nejasná]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 10. 1828 | Josef `[příjmení nejasné]` | otec při narození dítěte František (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 8. 1833 | Františka `[příjmení nejasné]` | matka při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 8. 1833 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 8. 1833 | Matěj `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 2. 1842 | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 1. 1845 | Marie Barta (?) | narození / křest; dům a oba dny bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 5. 1848 | Anna | matka při narození dítěte Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 5. 1848 | Anna (?) `[příjmení nejasné]` | narození / křest; první jméno dítěte a rodičů, dům a oba dny bezpečné; příjmení zůstává otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 5. 1848 | Josef (?) `[příjmení nejasné]` | otec při narození dítěte Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Moravcová (?) | členka domácnosti; vztah nejasný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Pachtová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Pachta | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -379,13 +549,28 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 27. 12. 1819; křest téhož dne | Jan František Emanuel `[příjmení nejasné]` | narození / křest; dům, datum a tři jména dítěte čitelné; rodičovská jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. 12. 1819; křest téhož dne | Kateřina (?) | matka při narození dítěte Jan František Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. 12. 1819; křest téhož dne | Vojtěch (?) | otec při narození dítěte Jan František Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 7. 1824; křest téhož dne | Markéta (?) `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům a datum bezpečné, dětské a mateřské jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 7. 1824; křest téhož dne | Markéta `[příjmení nejasné]` | matka při narození dítěte Markéta (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1826 | Bernard (?) `[příjmení nejasné]` | otec při narození dítěte Markéta (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1826 | Kateřina | matka při narození dítěte Markéta (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1826 | Markéta (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečné; osobní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1831; křest téhož dne | Anna Johanna (?) `[příjmení nejasné]` | matka při narození dítěte Josefa (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1831; křest téhož dne | Josefa (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; měsíc je zapsán jako `7bris`; otcovský sloupec je prázdný, osobní jména zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 9. 1834; křest téhož dne | Margareta Neradálová (?) | narození / křest; dům a den bezpečné; podoba příjmení dítěte je pracovní, rodičovská jména se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 10. 1839 | Františka Langrová (?) | narození / křest; dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte a otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 10. 1839 | Marie (?) `[rodné příjmení nejasné]` | matka při narození dítěte Františka Langrová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 10. 1839 | Václav Langr (?) | otec při narození dítěte Františka Langrová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 9. 1842; křest téhož dne | Olívie Ludmila (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 7. 1846 | Jan Křtitel Rypl | narození / křest; dítě, rodiče, dům a oba dny bezpečné; dnešní pravopis příjmení vychází z historického tvaru | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 7. 1846 | Lidmila | matka při narození dítěte Jan Křtitel Rypl | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 7. 1846 | Matěj Rypl | otec při narození dítěte Jan Křtitel Rypl | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Kolářová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Růž | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Šimek | pracovník domácnosti; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Růžová | členka domácnosti; vztah nejasný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Václav Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
 ## N9 / čp. 9
@@ -416,8 +601,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 7. / 8. 1. 1808 | Josef (?) `[příjmení nejasné]` | otec při narození dítěte Jan (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 1. 1808 | Marie Anna | matka při narození dítěte Jan (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. 5. 1808; křest téhož dne | Eleonora (?) | matka při narození dítěte Josef (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 7. 5. 1808; křest téhož dne | Josef (?) `[příjmení nejasné]` | narození / křest; dům a datum čitelné; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. 5. 1808; křest téhož dne | Josef (?) `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. 5. 1808; křest téhož dne | Josef (?) `[příjmení nejasné]` | narození / křest; dům a datum čitelné; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 8. 10. 1810 | Jiří (?) | otec při narození dítěte Marie Anna Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 8. 10. 1810 | Marie Anna | matka při narození dítěte Marie Anna Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 8. 10. 1810 | Marie Anna Josefa `[příjmení nejasné]` | narození / křest; dům, datum a tři jména dítěte čitelné; otcovo jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -429,12 +614,39 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 4. / 5. 1. 1815 | Anna Rozálie (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečná; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 1. 1815 | Magdalena (?) | matka při narození dítěte Anna Rozálie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 1. 1815 | Tomáš (?) | otec při narození dítěte Anna Rozálie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1820 | Alois Svoboda | narození / křest; dům, data, jméno i příjmení dítěte čitelné; nemanželský zápis | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1820 | Mariana | matka při narození dítěte Alois Svoboda | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 1. 1822; křest téhož dne | Jan Pospíšil (?) | otec při narození dítěte Matěj Pospíšil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 1. 1822; křest téhož dne | Kateřina | matka při narození dítěte Matěj Pospíšil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 1. 1822; křest téhož dne | Matěj Pospíšil (?) | narození / křest; dům, datum a křestní jména bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. 6. 1822; křest téhož dne | Antonie Pospíšilová (?) | narození / křest; dům, datum a křestní jména bezpečné; příjmení je pracovní čtení opakované u dítěte i otce, bez sloučení s lednovou rodinou N9 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. 6. 1822; křest téhož dne | Mariana | matka při narození dítěte Antonie Pospíšilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. 6. 1822; křest téhož dne | Tomáš Pospíšil (?) | otec při narození dítěte Antonie Pospíšilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 4. 1829 | Filipína (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 4. 1829 | Margareta `[příjmení nejasné]` | matka při narození dítěte Filipína (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 4. 1829 | Tomáš `[příjmení nejasné]` | otec při narození dítěte Filipína (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 2. 1830 | Jan Pospíšil (?) | otec při narození dítěte Magdalena Pospíšilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 2. 1830 | Kateřina `[příjmení nejasné]` | matka při narození dítěte Magdalena Pospíšilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 2. 1830 | Magdalena Pospíšilová (?) | narození / křest; dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. 1. 1837; křest téhož dne | Kateřina (?) `[rodné příjmení nejasné]` | matka při narození dítěte Marie Plášilová / Plassil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. 1. 1837; křest téhož dne | Marie Plášilová / Plassil (?) | narození / křest; dům a den bezpečné; historický tvar příjmení je pracovní čtení opakované u dítěte a otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. 1. 1837; křest téhož dne | Vojtěch Plášil / Plassil (?) | otec při narození dítěte Marie Plášilová / Plassil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 9. 1839 | Rozálie (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. 11. 1839; křest téhož dne | Kateřina (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 6. 1845; den křtu neuveden | Anna (?) | matka při narození dítěte Anna Hrušková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 6. 1845; den křtu neuveden | Anna Hrušková (?) | narození / křest; dům a den narození bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 6. 1845; den křtu neuveden | Josef Hruška (?) | otec při narození dítěte Anna Hrušková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 4. 1853; den křtu neuveden | Jan `[příjmení neuvedeno]` | narození / křest; nemanželské dítě; první jména, dům a den narození bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 4. 1853; den křtu neuveden | Kateřina `[příjmení nejasné]` | matka při narození dítěte Jan `[příjmení neuvedeno]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 8. 1853; pokřtěna téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Marie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 8. 1853; pokřtěna téhož dne | Kateřina (?) | matka při narození dítěte Marie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 8. 1853; pokřtěna téhož dne | Marie `[příjmení nejasné]` | narození / křest; dům, den a první jména čitelné; pozdější přípis patří témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Plášil | bratr přednosty; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Barbora Kudrnová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Karel Plášil | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Karel Plášil | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Plášilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Plášilová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Plášilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Plášilová | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
 ## N10 / čp. 10
@@ -480,6 +692,50 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 11. 5. 1818; křest téhož dne | Jiří (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a datum bezpečné; dětské a otcovské jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 1. 1819; křest téhož dne | Josef `[příjmení nejasné]` | narození / křest; dům, datum a křestní jméno dítěte čitelné; matčino jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 1. 1819; křest téhož dne | Terezie (?) | matka při narození dítěte Josef `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. 3. 1820; křest téhož dne | Anna | matka při narození dítěte Marie Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. 3. 1820; křest téhož dne | Marie Františka (?) `[příjmení nejasné]` | narození / křest; dům, datum a první dvě jména dítěte čitelné; otcovo jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. 3. 1820; křest téhož dne | Vojtěch (?) | otec při narození dítěte Marie Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 9. 1821 | Alžběta Lenzová (?) | narození / křest; dům, data a křestní jména bezpečné; rodové čtení Lenz je pracovní a osoby se neslučují se staršími Lenzovými bez dalšího dokladu | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 9. 1821 | Anna | matka při narození dítěte Alžběta Lenzová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 9. 1821 | Kryštof Lenz (?) | otec při narození dítěte Alžběta Lenzová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 6. 1821 | Anna Eleonora (?) `[příjmení nejasné]` | narození / křest; dům, data a první jméno dítěte bezpečné; druhé jméno a jméno matky pracovní; nemanželský zápis | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 6. 1821 | Emerencie (?) `[rodové údaje nejasné]` | matka při narození dítěte Anna Eleonora (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 4. 1824 | Laurencie (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní a rodičovská jména se nepřenášejí odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 9. 1826; křest téhož dne | Anna | matka při narození dítěte Františka Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 9. 1826; křest téhož dne | Františka Josefa `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; měsíc se dědí z řádku 235, dětská a rodičovská křestní jména jsou čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 9. 1826; křest téhož dne | Vojtěch `[příjmení nejasné]` | otec při narození dítěte Františka Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 4. 1826 | Jiří Hýbl (?) | otec při narození dítěte Marie Magdalena `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 4. 1826 | Kateřina | matka při narození dítěte Marie Magdalena `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 4. 1826 | Marie Magdalena `[příjmení nejasné]` | narození / křest; dům, data a dvě jména dítěte čitelné; otcovo příjmení je pravděpodobné, nikoli definitivní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 4. 1828; křest téhož dne | Gertruda | matka při narození dítěte Jiří Vojtěch `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 4. 1828; křest téhož dne | Jan `[příjmení nejasné]` | otec při narození dítěte Jiří Vojtěch `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 4. 1828; křest téhož dne | Jiří Vojtěch `[příjmení nejasné]` | narození / křest; dům, datum a křestní jména čitelné; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 11. 3. 1829 | Jan `[příjmení nejasné]` | otec při narození dítěte Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 11. 3. 1829 | Josefa `[příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelná; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 11. 3. 1829 | Kateřina `[příjmení nejasné]` | matka při narození dítěte Josefa `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 29. 12. 1832 | Adam Emanuel Přibyl (?) | narození / křest; dům, data a obě jména dítěte čitelné; příjmení je pracovní, otcovské jméno se nevytváří odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 29. 12. 1832 | Mariana (?) `[příjmení nejasné]` | matka při narození dítěte Adam Emanuel Přibyl (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 7. 1841 | Ignác (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 3. 9. 1842 | Václav (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. 9. 1845; den křtu neuveden | Marie (?) | matka při narození dítěte Vojtěch Průša | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. 9. 1845; den křtu neuveden | Vojtěch Průša | narození / křest; jméno dítěte, otec, dům a den narození bezpečné; jméno matky je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. 9. 1845; den křtu neuveden | Václav Průša | otec při narození dítěte Vojtěch Průša | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1848 | František Plášil | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1848 | Marie | matka při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1848 | Václav Plášil | otec při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1849 | Anna Průšová | narození / křest; dítě, rodiče, dům a oba dny bezpečné; historický tvar příjmení je normalizovaný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1849 | Ludmila | matka při narození dítěte Anna Průšová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 5. 1849 | Václav Průša | otec při narození dítěte Anna Průšová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1850 | František Průša | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1850 | Ludmila | matka při narození dítěte František Průša | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1850 | Václav Průša | otec při narození dítěte František Průša | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 3. 1852 | Antonie Průšová | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 3. 1852 | Ludmila | matka při narození dítěte Antonie Průšová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 3. 1852 | Václav Průša | otec při narození dítěte Antonie Průšová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 1. 1853; den křtu neuveden | Josef Průša (?) | narození / křest; dům, den narození a křestní jména bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 1. 1853; den křtu neuveden | Václav Průša (?) | otec při narození dítěte Josef Průša (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 11. 1855 | Josef `[příjmení nejasné]` | otec při narození dítěte Kateřina `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 11. 1855 | Kateřina `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména čitelné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | sňatek 2. 7. 1860 | Rosalie Moravcová | nevěsta ze Zahrádky N10; později rodina v N11 | [oddací matrika](https://digi.ceskearchivy.cz/6623/116) |
 | 1921 (sčítací arch) | Bohuslava Kejvalová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Božena Plášilová | schovanka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -572,8 +828,33 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | narozen a pokřtěn 19. 10. 1836 | Václav Vojtěch `[příjmení otce nejspíš Löbl]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0075; [originál, snímek 112](https://digi.ceskearchivy.cz/DA?doctree=1nrpI&menu=3&id=6620&page=112), [výřez](../prameny_online/matriky/narozeni/1836/zaznam_vaclav_vojtech_n11_snim112.jpg), [detail a poznámky](../prameny_online/matriky/narozeni/1836/README.md) |
 | doložen 1845 a 1848 | Václav Zikmund | **šafář v Zahrádce**; otec Vojtěcha a Josefy; adresní posloupnost: Zahrádka N11 | ZAH-0013; [originál 1845](https://digi.ceskearchivy.cz/6621/308), [originál 1848](https://digi.ceskearchivy.cz/6621/312) |
 | doložena 1845 a 1848 | Marie, manželka Václava Zikmunda | matka Vojtěcha a Josefy; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0014; tytéž dva zápisy |
-| narozen roku 1845 | Vojtěch Zikmund | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0011; [originál, snímek 309](https://digi.ceskearchivy.cz/6621/308), [místní výřez](../prameny_online/matriky/narozeni/1845/zaznam_vojtech_zikmund_n11_snim309.png) |
+| narozen 9. 3. 1845, pokřtěn 10. 3. 1845 | Vojtěch Zikmund | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0011; [originál, snímek 309](https://digi.ceskearchivy.cz/6621/308), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim309.jpg), [starší místní výřez](../prameny_online/matriky/narozeni/1845/zaznam_vojtech_zikmund_n11_snim309.png) |
+| doložena 5./6. 8. 1846 | Marie `[příjmení nepřepsáno]` | svobodná matka Marty Marie; adresní posloupnost: při narození dcery spojena se Zahrádkou N11 | ZAH-0181; tentýž zápis jako ZAH-0180 |
+| narozen 11. 9., pokřtěn 12. 9. 1846 | Jan `[příjmení nejisté]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0182; [originál, snímek 311](https://digi.ceskearchivy.cz/6621/310), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim311.jpg) |
+| narozena 5. 8., pokřtěna 6. 8. 1846 | Marta Marie `[příjmení nepřepsáno]` | nemanželské narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0180; [originál, snímek 311](https://digi.ceskearchivy.cz/6621/310), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim311.jpg) |
+| doložen 12. 12. 1847 | Leopold `[příjmení nepřepsáno]` | otec Josefa; adresní posloupnost: Zahrádka N11 | ZAH-0190; tentýž zápis jako ZAH-0189 |
+| doložen 2./3. 4. 1847 | Josef Lenka `[příjmení pracovní]` | otec Jana; adresní posloupnost: Zahrádka N11 | ZAH-0187; tentýž zápis jako ZAH-0186 |
+| doložen 4. 3. 1847 | Antonín Langr `[příjmení pracovní]` | otec Marie; adresní posloupnost: Zahrádka N11 | ZAH-0184; tentýž zápis jako ZAH-0183 |
+| doložena 12. 12. 1847 | Marie, manželka Leopolda | matka Josefa; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0191; tentýž zápis jako ZAH-0189 |
+| doložena 2./3. 4. 1847 | Anna, manželka Josefa Lenky | matka Jana; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0188; tentýž zápis jako ZAH-0186 |
+| doložena 4. 3. 1847 | Marie, manželka Antonína Langra | matka Marie Langrové; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0185; tentýž zápis jako ZAH-0183 |
+| narozen 12. 12. 1847; den křtu neuveden | Josef `[příjmení nepřepsáno]` | narození; adresní posloupnost: Zahrádka N11 | ZAH-0189; [originál, snímek 312](https://digi.ceskearchivy.cz/6621/311), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim312.jpg) |
+| narozen 2. 4., pokřtěn 3. 4. 1847 | Jan Lenka `[příjmení pracovní]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0186; [originál, snímek 312](https://digi.ceskearchivy.cz/6621/311), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim312.jpg) |
+| narozena 4. 3. 1847; den křtu neuveden | Marie Langrová `[příjmení pracovní]` | narození; adresní posloupnost: Zahrádka N11 | ZAH-0183; [originál, snímek 312](https://digi.ceskearchivy.cz/6621/311), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim312.jpg) |
 | narozena 10. 12. 1848, pokřtěna 11. 12. 1848 | Josefa Zikmundová | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0012; [originál, snímek 313](https://digi.ceskearchivy.cz/6621/312), [místní výřez](../prameny_online/matriky/narozeni/1848/zaznam_josefa_zikmundova_n11_snim313.png) |
+| doložen 19./20. 12. 1850 a 3./4. 5. 1852 | Matěj Zemišek `[příjmení pracovní]` | **čeledín ve dvoře v Zahrádce N11**; otec Františka a Jana; adresní posloupnost: Zahrádka N11 | ZAH-0195; [snímek 316](https://digi.ceskearchivy.cz/6621/315), [snímek 318](https://digi.ceskearchivy.cz/6621/317), celé místní snímky u obou zápisů |
+| doložena 10./11. 2. 1850 | Kateřina Zikmundová | svobodná matka Františka; adresní posloupnost: při narození syna spojena se Zahrádkou N11 | ZAH-0193; tentýž zápis jako ZAH-0192 |
+| doložena 19./20. 12. 1850 | Mariana, partnerka Matěje Zemiška | matka Františka; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0196; tentýž zápis jako ZAH-0194 |
+| narozen 10. 2., pokřtěn 11. 2. 1850 | František `[příjmení neuvedeno]` | nemanželské narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0192; [originál, snímek 316](https://digi.ceskearchivy.cz/6621/315), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim316.jpg) |
+| narozen 19. 12., pokřtěn 20. 12. 1850 | František Zemišek `[příjmení pracovní]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0194; [originál, snímek 316](https://digi.ceskearchivy.cz/6621/315), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim316.jpg) |
+| narozeno mrtvé 28. 11. 1850; bez křtu | nepojmenované mrtvě narozené děvče | mrtvé narození; adresní posloupnost: Zahrádka N11 | ZAH-0197; [originál, snímek 317](https://digi.ceskearchivy.cz/6621/316), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim317.jpg) |
+| doložena 14./15. 9. 1851 | Marie `[příjmení nepřepsáno]` | svobodná matka Marie; adresní posloupnost: při narození dcery spojena se Zahrádkou N11 | ZAH-0199; tentýž zápis jako ZAH-0198 |
+| narozena 14. 9., pokřtěna 15. 9. 1851 | Marie `[příjmení neuvedeno]` | nemanželské narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0198; [originál, snímek 317](https://digi.ceskearchivy.cz/6621/316), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim317.jpg) |
+| doložena 3./4. 5. 1852 | Marie, partnerka Matěje Zemiška | matka Jana; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0201; tentýž zápis jako ZAH-0200 |
+| narozen 3. 5., pokřtěn 4. 5. 1852 | Jan Zemišek `[příjmení pracovní]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0200; [originál, snímek 318](https://digi.ceskearchivy.cz/6621/317), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim318.jpg) |
+| doložen 24./25. 6. 1853 | Vojtěch Zimler `[příjmení pracovní; také čteno Zimmer]` | otec Marie; spojen přímo s panským dvorem N11; adresní posloupnost: Zahrádka N11 | ZAH-0203; tentýž zápis jako ZAH-0202 |
+| doložena 24./25. 6. 1853 | Anna, manželka Vojtěcha Zimlera | matka Marie Zimlerové; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0204; tentýž zápis jako ZAH-0202 |
+| narozena 24. 6., pokřtěna 25. 6. 1853 | Marie Zimlerová `[příjmení pracovní; také čteno Zimmerlová]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0202; [originál, snímek 319](https://digi.ceskearchivy.cz/6621/318), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim319.jpg) |
 | doložen 1854–1857 | František Forel | **posel na panském dvoře**; manžel Reginy Červené; otec Jana, mrtvě narozené dcery a Marie; adresní posloupnost: Zahrádka N11 | ZAH-0018; [sňatek, snímek 104](https://digi.ceskearchivy.cz/6623/103), [snímek 321](https://digi.ceskearchivy.cz/6621/320), [narození, snímek 323](https://digi.ceskearchivy.cz/6621/322), [úmrtí, snímek 151](https://digi.ceskearchivy.cz/6626/150), [snímek 324](https://digi.ceskearchivy.cz/6621/323), [výřez sňatku](../prameny_online/matriky/snatky/1854/snatek_frantisek_forel_regina_cervena_n11_snim104.png) |
 | doložen 23. 9. 1854 | Josef Žák | **čeledín na dvoře**; otec Anny; adresní posloupnost: Zahrádka N11 | ZAH-0016; [originál, snímek 321](https://digi.ceskearchivy.cz/6621/320) |
 | doložena 7. 8. 1854 | Anna Pilská / Pílská | matka mrtvě narozeného syna; adresní posloupnost: v okamžiku porodu v Zahrádce N11 | ZAH-0041; tytéž dva zápisy jako ZAH-0040 |
@@ -583,6 +864,14 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | oddána 14. 2. 1854; doložena u rodiny do roku 1857 | Regina Červená | manželka posla Františka Forela; matka Jana, mrtvě narozené dcery a Marie; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0043; [sňatek, snímek 104](https://digi.ceskearchivy.cz/6623/103), [narození, snímek 323](https://digi.ceskearchivy.cz/6621/322), [výřez sňatku](../prameny_online/matriky/snatky/1854/snatek_frantisek_forel_regina_cervena_n11_snim104.png), [výřez narození](../prameny_online/matriky/narozeni/1856/zaznam_mrtve_narozena_dcera_forelova_n11_snim323.png) |
 | oddán 15. 3. 1855 | Jan Achovec | **čeledín ve dvoře**; ženich; adresní posloupnost: Zahrádka N11 | ZAH-0047; [originál, snímek 107](https://digi.ceskearchivy.cz/6623/106), [místní výřez](../prameny_online/matriky/snatky/1855/snatek_jan_achovec_veronika_anna_cervena_n11_snim107.png) |
 | oddána 15. 3. 1855 | Veronika Anna Červená | nevěsta bydlící v N11; adresní posloupnost: Zahrádka N11 | ZAH-0048; [originál, snímek 107](https://digi.ceskearchivy.cz/6623/106), [místní výřez](../prameny_online/matriky/snatky/1855/snatek_jan_achovec_veronika_anna_cervena_n11_snim107.png) |
+| doložen 10./20. 3. 1856 | František Líčka `[příjmení pracovní]` | **čeledín v panském dvoře N11**; otec Josefa; adresní posloupnost: Zahrádka N11 | ZAH-0211; tentýž zápis jako ZAH-0210 |
+| doložen 27. 1. 1856 | Vojtěch Jindřich | **šafář v panském dvoře N11**; otec Františka; adresní posloupnost: Zahrádka N11 | ZAH-0208; tentýž zápis jako ZAH-0207 |
+| doložena 10./20. 3. 1856 | Marie, manželka Františka Líčky | matka Josefa; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0212; tentýž zápis jako ZAH-0210 |
+| doložena 11./13. 1. 1856 | Petronila `[příjmení nepřepsáno]` | svobodná matka Antonína; adresní posloupnost: při narození syna spojena se Zahrádkou N11 | ZAH-0206; tentýž zápis jako ZAH-0205 |
+| doložena 27. 1. 1856 | Anna, manželka Vojtěcha Jindřicha | matka Františka Jindřicha; adresní posloupnost: rodina v Zahrádce N11 | ZAH-0209; tentýž zápis jako ZAH-0207 |
+| narozen 10. 3., pokřtěn 20. 3. 1856 | Josef Líčka `[příjmení pracovní]` | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0210; [originál, snímek 322](https://digi.ceskearchivy.cz/6621/321), [starší výřez](../prameny_online/matriky/narozeni/1856/zaznam_josef_n11_snim322.png), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim322.jpg) |
+| narozen 11. 1., pokřtěn 13. 1. 1856 | Antonín `[příjmení neuvedeno]` | nemanželské narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0205; [originál, snímek 322](https://digi.ceskearchivy.cz/6621/321), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim322.jpg) |
+| narozen 27. 1. 1856; den křtu neuveden | František Jindřich | narození; adresní posloupnost: Zahrádka N11 | ZAH-0207; [originál, snímek 322](https://digi.ceskearchivy.cz/6621/321), [celý místní snímek](../prameny_online/matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim322.jpg) |
 | narozena mrtvá a zemřela 22. 10., pohřbena 24. 10. 1856 | nepojmenovaná mrtvě narozená dcera Forelová | mrtvé narození a pohřeb; adresní posloupnost: Zahrádka N11 | ZAH-0042; [narození, snímek 323](https://digi.ceskearchivy.cz/6621/322), [úmrtí, snímek 151](https://digi.ceskearchivy.cz/6626/150), [výřez narození](../prameny_online/matriky/narozeni/1856/zaznam_mrtve_narozena_dcera_forelova_n11_snim323.png), [výřez úmrtí](../prameny_online/matriky/zemreli/1856/umrti_mrtve_narozena_dcera_forelova_n11_snim151.jpg) |
 | narozena 21. 9. 1857, pokřtěna 22. 9. 1857 | Marie Forelová | narození a křest; adresní posloupnost: Zahrádka N11 | ZAH-0019; [originál, snímek 324](https://digi.ceskearchivy.cz/6621/323), [místní výřez](../prameny_online/matriky/narozeni/1857/zaznam_marie_forelova_n11_snim324.png) |
 | oddána 20. 7. 1857 | Marie Horníková | vdova; nevěsta bydlící v N11; adresní posloupnost: Zahrádka N11 | ZAH-0049; [originál, snímek 111](https://digi.ceskearchivy.cz/6623/110), [místní výřez](../prameny_online/matriky/snatky/1857/snatek_marie_hornikova_n11_snim111.png) |
@@ -685,6 +974,31 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 22. 12. 1811 | Adam `[další jméno a příjmení nejasné]` | narození / křest; dům, datum a první jméno čitelné; další údaje pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 22. 12. 1811 | František (?) | otec při narození dítěte Adam `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 22. 12. 1811 | Veronika (?) | matka při narození dítěte Adam `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 2. 1823 | Jan `[příjmení nejasné]` | otec při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 2. 1823 | Kateřina | matka při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 2. 1823 | Matěj `[příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelná; příjmení se nedoplňuje podle známého rodového seznamu | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 7. 1824 | Anna | matka při narození dítěte Prokop František (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 7. 1824 | František `[příjmení nejasné]` | otec při narození dítěte Prokop František (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 7. 1824 | Prokop František (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; základní křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 2. 1826 | Barbora | matka při narození dítěte Josef Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 2. 1826 | Jan `[příjmení nejasné]` | otec při narození dítěte Josef Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 2. 1826 | Josef Jiří (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 5. 1828 | Anna Jiřičková (?) | narození / křest; dům a data bezpečné; dětské a otcovské příjmení je pracovní čtení, mateřské rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 5. 1828 | Barbora | matka při narození dítěte Anna Jiřičková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 5. 1828 | Jan Jiřiček (?) | otec při narození dítěte Anna Jiřičková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. 5. 1829; křest téhož dne | Jan Nepomuk Jiří (?) `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům, den a základní křestní jména čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. 5. 1829; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Jan Nepomuk Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 11. 1831; křest téhož dne | Josef Krejčí (?) | narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 11. 1831; křest téhož dne | Josef Krejčí (?) | otec při narození dítěte Josef Krejčí (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 11. 1831; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Josef Krejčí (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 1. 1833 | Anna `[příjmení nejasné]` | matka při narození dítěte Emanuel (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 1. 1833 | Emanuel (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 1. 1833 | Jan `[příjmení nejasné]` | otec při narození dítěte Emanuel (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 3. 1835 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 3. 1835 | Josef (?) `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 3. 1835 | Ludmila (?) `[příjmení nejasné]` | matka při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 5. 1835; křest téhož dne | Jan (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní, rodičovská jména zůstávají otevřená | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. 3. 1837; křest téhož dne | Kateřina Anna (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Budil | přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Budil | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josefa Kejvalová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -723,6 +1037,37 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 6. / 7. 9. 1817 | František Pudil (?) | narození / křest; dům, data a křestní jméno bezpečné; příjmení je pracovní čtení s oporou v místním rodovém jménu, elektronický rejstřík je nepotvrdil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 9. 1817 | Josef Pudil (?) | otec při narození dítěte František Pudil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 9. 1817 | Kateřina (?) | matka při narození dítěte František Pudil (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 5. 1822 | Josef `[příjmení nejasné]` | otec při narození dítěte Ondřej `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 5. 1822 | Mariana | matka při narození dítěte Ondřej `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 2. / 3. 5. 1822 | Ondřej `[další jméno a příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelná; příjmení se nepřenáší z jiného řádku | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 3. 1822; křest téhož dne | Anna | matka při narození dítěte Ignác `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 3. 1822; křest téhož dne | František `[příjmení nejasné]` | otec při narození dítěte Ignác `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 3. 1822; křest téhož dne | Ignác `[další jména a příjmení nejasné]` | narození / křest; dům, datum a základní křestní jména čitelná; další jména se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 11. 1823; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Karel František (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 11. 1823; křest téhož dne | Karel František (?) `[další jména a příjmení nejasné]` | narození / křest; dům a datum bezpečné; nechronologické umístění za zápisem z 8./9. listopadu se zachovává | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 11. 1823; křest téhož dne | Kateřina | matka při narození dítěte Karel František (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1827 | Františka Rozálie (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; druhé jméno dítěte a rodové údaje zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1827 | Josef `[příjmení nejasné]` | otec při narození dítěte Františka Rozálie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1827 | Kateřina | matka při narození dítěte Františka Rozálie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 11. 1828 | Františka Kateřina Anna `[příjmení nejasné]` | narození / křest; dům, data a tři jména dítěte čitelné; rodičovská příjmení zůstávají otevřená | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 11. 1828 | Kateřina | matka při narození dítěte Františka Kateřina Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 11. 1828 | Vojtěch `[příjmení nejasné]` | otec při narození dítěte Františka Kateřina Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 8. 1828 | Alois Emanuel `[příjmení nejasné]` | narození / křest; dům, data a obě jména dítěte čitelné; rodičovská příjmení se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 8. 1828 | Josef `[příjmení nejasné]` | otec při narození dítěte Alois Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 8. 1828 | Mariana | matka při narození dítěte Alois Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 7. 1829; křest téhož dne | Jakub Karel (?) `[další údaje a příjmení nejasné]` | narození / křest; dům, den a první jméno bezpečné; druhé jméno a pozdější poznámka jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 7. 1829; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Jakub Karel (?) `[další údaje a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 7. 1829; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Jakub Karel (?) `[další údaje a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 12. 1830 | Josef `[příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelné; příjmení se nedoplňuje podle podobného zápisu | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 12. 1830 | Josef `[příjmení nejasné]` | otec při narození dítěte Josef `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 12. 1830 | Margareta `[příjmení nejasné]` | matka při narození dítěte Josef `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1832 | Anna (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dětské a rodičovské křestní jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1832 | Kateřina `[příjmení nejasné]` | matka při narození dítěte Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1832 | Václav `[příjmení nejasné]` | otec při narození dítěte Anna (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 12. 1837; křest téhož dne | Jiří Vlastimil (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení, měsíc je česky zapsán jako prosinec | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1845 | František Kulhan (?) | otec při narození dítěte Marianna Kulhanová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1845 | Lidmila (?) | matka při narození dítěte Marianna Kulhanová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1845 | Marianna Kulhanová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a rodičovská jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
 ## N14 / čp. 14
 
@@ -745,8 +1090,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. / 2. 10. 1801 | Mariana | matka při narození dítěte Zikmund František Kazimír `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 10. 1801 | Zikmund František Kazimír `[příjmení nejasné]` | narození / křest; dům, datum a tři jména dítěte čitelné; otcovo jméno je pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1802 | František Lenz, dvojče | narození / křest; první ze dvou po sobě zapsaných dvojčat; rodina se shoduje s Jakubem a Kateřinou z roku 1799 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 7. / 8. 8. 1802 | Jakub Lenz | otec při narození dítěte Václav Lenz, dvojče | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1802 | Jakub Lenz | otec při narození dítěte František Lenz, dvojče | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 8. 1802 | Jakub Lenz | otec při narození dítěte Václav Lenz, dvojče | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1802 | Kateřina | matka při narození dítěte František Lenz, dvojče | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1802 | Kateřina | matka při narození dítěte Václav Lenz, dvojče | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1802 | Václav Lenz, dvojče | narození / křest; druhé dvojče; po předchozích úmrtích jde o další dítě téhož jména Václav | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -754,8 +1099,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 4. 10. 1803; křest téhož dne | Kateřina | matka při narození dítěte Kateřina Anna Eva Lenzová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. 10. 1803; křest téhož dne | Kateřina Anna Eva Lenzová | narození / křest; oba rodiče opakují rodinu z N17 roku 1799 a N14 roku 1802; otec je `ZAH-0082` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 17. 11. 1808; křest téhož dne | Františka (?) | matka při narození dítěte Václav (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 17. 11. 1808; křest téhož dne | Václav (?) `[příjmení nejasné]` | narození / křest; dům a datum čitelné; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 17. 11. 1808; křest téhož dne | Václav (?) `[příjmení nejasné]` | otec při narození dítěte Václav (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 11. 1808; křest téhož dne | Václav (?) `[příjmení nejasné]` | narození / křest; dům a datum čitelné; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. 6. 1809; křest téhož dne | Anna Marie (?) | matka při narození dítěte František (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. 6. 1809; křest téhož dne | František (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a datum čitelné; jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. 6. 1809; křest téhož dne | Jakub (?) `[příjmení nejasné]` | otec při narození dítěte František (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -767,6 +1112,47 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 19. / 20. 2. 1819 | Martin František (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečná; osobní jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 5. 1819 | Anna | matka při narození dítěte Kateřina Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 5. 1819 | Kateřina Františka (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečná; dvě jména dítěte pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Alois (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a datum bezpečné; osobní jména pracovní; zápis stojí v knize až za červencovou událostí | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Jakub (?) | otec při narození dítěte Alois (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Markéta (?) | matka při narození dítěte Alois (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 11. 1820; bez křtu | Jakub Junek / Jůnek (?) | otec při narození dítěte nepojmenované mrtvě narozené děvče | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 11. 1820; bez křtu | Mariana | matka při narození dítěte nepojmenované mrtvě narozené děvče | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 11. 1820; bez křtu | nepojmenované mrtvě narozené děvče | narození; dům, datum, nepokřtěný stav a rodičovská křestní jména čitelné; otcovo příjmení pracovní, bez spojení s rodinou Jana Junka v N11 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 1. 1822 | Anna | matka při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 1. 1822 | Matěj `[příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelné; další rodové údaje se nepřenášejí odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 1. 1822 | Vojtěch `[příjmení nejasné]` | otec při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 9. 1823; křest téhož dne | Jakub `[příjmení nejasné]` | otec při narození dítěte Josefa (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 9. 1823; křest téhož dne | Josefa (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a datum bezpečné; osobní jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 9. 1823; křest téhož dne | Markéta | matka při narození dítěte Josefa (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 1. 1825 | Mariana `[příjmení nejasné]` | matka při narození dítěte Marie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 1. 1825 | Marie `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům, data a základní křestní jména čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 6. 1832; křest téhož dne | Anna `[příjmení nejasné]` | matka při narození dítěte Františka (?) `[další údaje a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 6. 1832; křest téhož dne | Františka (?) `[další údaje a příjmení nejasné]` | narození / křest; nemanželský zápis; dům a den bezpečné, otcovský sloupec je prázdný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 3. 1840 | Aloisie Emilie (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 1. 1845 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 11. 1845 | Anna (?) | matka při narození dítěte Josef Litzhammer | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 11. 1845 | Jan Litzhammer | otec při narození dítěte Josef Litzhammer | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. / 6. 11. 1845 | Josef Litzhammer | narození / křest; jméno dítěte, otec, dům a oba dny bezpečné; jméno matky je pracovní čtení, pozdější přípisy patří témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 11. 1846 | František (?) `[příjmení nejasné]` | narození / křest; první jméno dítěte, dům a oba dny bezpečné; pozdější úmrtní přípis patří témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 11. 1846 | Marie (?) | matka při narození dítěte František (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 12. 1847 | Marie | matka při narození dítěte Marie Litzhammerová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 12. 1847 | Marie Litzhammerová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. / 21. 12. 1847 | Vojtěch Litzhammer (?) | otec při narození dítěte Marie Litzhammerová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1849 | Marie | matka při narození dítěte Vojtěch Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1849 | Vojtěch Junek / Jůnek | narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravopis příjmení je normalizovaný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1849 | Vojtěch Junek / Jůnek | otec při narození dítěte Vojtěch Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 11. 1850 | Anna | matka při narození dítěte Jan Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 11. 1850 | Jan Junek / Jůnek | narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravopis příjmení je normalizovaný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 11. 1850 | Vojtěch Junek / Jůnek | otec při narození dítěte Jan Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 9. 1851; den křtu neuveden | Anna | matka při narození dítěte Terezie Junková / Jůnková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 9. 1851; den křtu neuveden | Terezie Junková / Jůnková | narození / křest; dítě, rodiče, dům a den narození bezpečné; pravopis příjmení je normalizovaný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. 9. 1851; den křtu neuveden | Vojtěch Junek / Jůnek | otec při narození dítěte Terezie Junková / Jůnková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 6. 1852; den křtu neuveden | Anna `[příjmení nejasné]` | narození / křest; první jména dítěte a rodičů, dům a den narození čitelné; příjmení se nedoplňuje odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 6. 1852; den křtu neuveden | Jan `[příjmení nejasné]` | otec při narození dítěte Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 6. 1852; den křtu neuveden | Terezie (?) | matka při narození dítěte Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1854 | Anna | matka při narození dítěte Josef Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1854 | Josef Junek / Jůnek | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1854 | Vojtěch Junek / Jůnek | otec při narození dítěte Josef Junek / Jůnek | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Kejvalová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Matěj Kejval | přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
@@ -775,8 +1161,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | Doložené datum / období | Osoba | Podklad vazby k domu | ID / pramen |
 |---|---|---|---|
 | 1788–1796 (přesný rok zatím nepřepsán) | Josef Brůdek | narození; dům v dobovém rejstříku; indexová podoba příjmení `Brudek` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1788–1796 (přesný rok zatím nepřepsán) | Kateřina Brůdková | narození; dům v dobovém rejstříku; indexová podoba příjmení `Brudek` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1788–1796 (přesný rok zatím nepřepsán) | Kateřina Brůdková | narození; dům v dobovém rejstříku; jiná událost než Kateřina na straně 28 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1788–1796 (přesný rok zatím nepřepsán) | Kateřina Brůdková | narození; dům v dobovém rejstříku; indexová podoba příjmení `Brudek` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1788–1796 (přesný rok zatím nepřepsán) | Marie Anna Kejvalová | narození; dům v dobovém rejstříku; dům a osoba čitelné v rejstříku | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1788–1796 (přesný rok zatím nepřepsán) | Vojtěch Kejval | narození; dům v dobovém rejstříku; dům a osoba čitelné v rejstříku | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 10. 4. 1800; nouzový křest porodní bábou | Anna Magdalena | matka při narození dítěte Leopold `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -794,6 +1180,31 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 2. 1. 1818; křest téhož dne | Josef (?) | otec při narození dítěte Marie Anna (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. 1. 1818; křest téhož dne | Mariana (?) | matka při narození dítěte Marie Anna (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. 1. 1818; křest téhož dne | Marie Anna (?) `[další jméno a příjmení nejasné]` | narození / křest; dům, datum a první dvě jména dítěte čitelné; další údaje pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 11. 1821; křest téhož dne | František `[příjmení nejasné]` | otec při narození dítěte Ondřej `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 11. 1821; křest téhož dne | Ondřej `[další jména a příjmení nejasné]` | narození / křest; dům, datum a základní křestní jména čitelná; další jména se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. 11. 1821; křest téhož dne | Veronika `[rodové údaje nejasné]` | matka při narození dítěte Ondřej `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 12. 1824; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Martin Leopold `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 12. 1824; křest téhož dne | Marie | matka při narození dítěte Martin Leopold `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. 12. 1824; křest téhož dne | Martin Leopold `[příjmení nejasné]` | narození / křest; dům, datum a obě jména dítěte čitelné; příjmení a další rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1826 | Anna Rozina (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte a rodičovská křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1826 | Josef `[příjmení nejasné]` | otec při narození dítěte Anna Rozina (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 1. 1826 | Mariana | matka při narození dítěte Anna Rozina (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 9. / 6. 10. 1828 | Anna `[příjmení nejasné]` | matka při narození dítěte Pavel (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 9. / 6. 10. 1828 | Pavel (?) `[další jména a příjmení nejasná]` | narození / křest; zápis 244; nemanželské dítě, dům a obě data bezpečná, křestní jméno dítěte pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 7. 1833; křest téhož dne | Františka (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; osobní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 7. 1833; křest téhož dne | Margareta `[příjmení nejasné]` | matka při narození dítěte Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. 7. 1833; křest téhož dne | Matěj `[příjmení nejasné]` | otec při narození dítěte Františka (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 2. 1837 | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. 8. 1838; křest téhož dne | Josefa (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 5. 11. 1850 | František Langr (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 5. 11. 1850 | Marie Anna | matka při narození dítěte František Langr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 5. 11. 1850 | Václav Langr (?) | otec při narození dítěte František Langr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 11. 1851 | Kateřina Langrová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 11. 1851 | Marie Anna | matka při narození dítěte Kateřina Langrová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 11. 1851 | Václav Langr (?) | otec při narození dítěte Kateřina Langrová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1854 | Josef Langr (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1854 | Marie | matka při narození dítěte Josef Langr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1854 | Václav Langr (?) | otec při narození dítěte Josef Langr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Kulhavá | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kejval | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kudlec | čeledín; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -818,6 +1229,38 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 28. 9. 1814; křest téhož dne | Jakub (?) | otec při narození dítěte Václav Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 9. 1814; křest téhož dne | Marie Anna (?) | matka při narození dítěte Václav Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 9. 1814; křest téhož dne | Václav Emanuel `[příjmení nejasné]` | narození / křest; dům, datum a obě jména dítěte čitelné; další údaje pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 2. 1821 | Jan Fischer (?) | otec při narození dítěte Jiří Fischer (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 2. 1821 | Jiří Fischer (?) | narození / křest; dům, data a rodové čtení dítěte a otce bezpečnější; další údaje pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 2. 1821 | Terezie (?) | matka při narození dítěte Jiří Fischer (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 2. 1821 | Josef Fischer (?) | narození / křest; dům, data a rodové čtení dítěte bezpečnější; neslučuje se automaticky s předchozí rodinou v témže domě | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 2. 1821 | Kateřina (?) | matka při narození dítěte Josef Fischer (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 4. 1822; křest téhož dne | Františka | matka při narození dítěte Marie `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 4. 1822; křest téhož dne | Jan `[příjmení nejasné]` | otec při narození dítěte Marie `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 4. 1822; křest téhož dne | Marie `[další jméno a příjmení nejasné]` | narození / křest; dům, datum a základní křestní jména čitelná; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 3. 1825; křest téhož dne | Františka Viktorie (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a den bezpečné; měsíc se dědí z řádku 222 a osobní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 3. 1825; křest téhož dne | Jan `[příjmení nejasné]` | otec při narození dítěte Františka Viktorie (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 3. 1825; křest téhož dne | Kateřina | matka při narození dítěte Františka Viktorie (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1829 | František Josef (?) `[příjmení nejasné]` | narození / křest; první ze dvou dětí ve společné rodičovské buňce; dům a data bezpečné, druhé jméno dítěte pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1829 | Josef `[příjmení nejasné]` | otec při narození dítěte František Josef (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 2. 1829 | Kateřina `[příjmení nejasné]` | matka při narození dítěte František Josef (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1829; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Veronika (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1829; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Veronika (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1829; křest téhož dne | Veronika (?) `[další jména a příjmení nejasná]` | narození / křest; druhé dítě ve společné rodičovské buňce; dům, den a první jméno čitelné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 11. 1830; křest téhož dne | Anna `[příjmení nejasné]` | matka při narození dítěte František Josef `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 11. 1830; křest téhož dne | František Josef `[příjmení nejasné]` | narození / křest; dům, den a obě křestní jména dítěte čitelné; rodové údaje otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. 11. 1830; křest téhož dne | Jan `[příjmení nejasné]` | otec při narození dítěte František Josef `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 3. 1844 | František Kralička (?) | narození / křest; dům a oba dny bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 9. 1845 | Františka (?) | matka při narození dítěte Václav (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 9. 1845 | Václav (?) `[příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; dítě je nemanželské, příjmení a další údaje matky zůstávají nejasné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 1. 1847 | Josef Rypl (?) | narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravopis příjmení je pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 1. 1847 | Josef Rypl (?) | otec při narození dítěte Josef Rypl (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 1. 1847 | Kateřina | matka při narození dítěte Josef Rypl (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. 2. 1852; den křtu neuveden | Anna | matka při narození dítěte Anna Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. 2. 1852; den křtu neuveden | Anna Díčková (?) | narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. 2. 1852; den křtu neuveden | Vojtěch Díčka (?) | otec při narození dítěte Anna Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. 10. 1854; den křtu neuveden | Anna | matka při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. 10. 1854; den křtu neuveden | Marie Díčková (?) | narození / křest; dům a den narození bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. 10. 1854; den křtu neuveden | Vojtěch Díčka (?) | otec při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Emil Kejval | vnuk; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kejval | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Rohovec | vnuk; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -851,6 +1294,30 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. 6. 1816; křest téhož dne | Kateřina (?) | matka při narození dítěte Františka Pavla `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 5. / 6. 2. 1818 | Adam (?) | otec při narození dítěte Martin (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 5. / 6. 2. 1818 | Martin (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečná; křestní jméno dítěte a otce pracovní, matčino jméno se nedoplňuje odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1824 | Alžběta | matka při narození dítěte Václav (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1824 | Jan `[příjmení nejasné]` | otec při narození dítěte Václav (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1824 | Václav (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; základní křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1824; křest téhož dne | Adam (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a datum bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1824; křest téhož dne | Anna | matka při narození dítěte Adam (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1824; křest téhož dne | František `[příjmení nejasné]` | otec při narození dítěte Adam (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 10. 1825 | Josef Matěj (?) `[příjmení nejasné]` | otec při narození dítěte Martin Matyáš (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 10. 1825 | Kateřina | matka při narození dítěte Martin Matyáš (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 10. 1825 | Martin Matyáš (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; vícedílná dětská a otcovská jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 9. 1826; křest téhož dne | Josef Jan Nepomuk (?) `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům a datum bezpečné, vícedílné jméno dítěte a jméno matky jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 9. 1826; křest téhož dne | Mariana `[příjmení nejasné]` | matka při narození dítěte Josef Jan Nepomuk (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1826 | Anna Johana (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; osobní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1826 | Petronila | matka při narození dítěte Anna Johana (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 7. 1826 | Tomáš `[příjmení nejasné]` | otec při narození dítěte Anna Johana (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 8. 1834; křest téhož dne | Kristián (?) `[příjmení nejasné]` | otec při narození dítěte Mořic (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 8. 1834; křest téhož dne | Margareta (?) `[příjmení nejasné]` | matka při narození dítěte Mořic (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 8. 1834; křest téhož dne | Mořic (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 3. 1839 | Marie Magdalena (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 4. 1841 | Emanuel (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 13. 2. 1842 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 1. 1842 | Marie (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 1. 1852 | Marie | matka při narození dítěte Marie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 1. 1852 | Marie `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména čitelné; další rodové údaje zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 1. 1852 | Václav (?) `[příjmení nejasné]` | otec při narození dítěte Marie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Nováková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Plášilová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Barbora Franíková (?) | přednostka domácnosti; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -884,6 +1351,20 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 11. / 12. 1. 1816 | Veronika (?) | matka při narození dítěte Antonín Romuald `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 17. / 18. 9. 1818 | Mariana (?) | matka při narození dítěte Marie Magdalena Eleonora `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 17. / 18. 9. 1818 | Marie Magdalena Eleonora `[příjmení nejasné]` | narození / křest; dům, data a tři jména dítěte čitelné; matčino jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Jan Pudil | otec při narození dítěte Marie Pudilová / Pudilowy | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Kateřina | matka při narození dítěte Marie Pudilová / Pudilowy | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. 6. 1820; křest téhož dne | Marie Pudilová / Pudilowy | narození / křest; dům, datum a rodina bezpečnější; příjmení je čitelné u dítěte i otce a podporuje je známý místní rodový tvar | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 10. 1823 | František `[příjmení nejasné]` | otec při narození dítěte Rafael (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 10. 1823 | Rafael (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; křestní jména jsou pracovní kvůli přepisům přes řádek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 10. 1823 | Veronika | matka při narození dítěte Rafael (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 1. 1834; křest téhož dne | Emerenciana (?) `[příjmení nejasné]` | matka při narození dítěte Lucie Scholastika Eleonora (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 1. 1834; křest téhož dne | Lucie Scholastika Eleonora (?) `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům, den a tři jména dítěte jsou čitelná, otcovský sloupec je prázdný a jméno matky pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 2. 1837 | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. 7. 1840; křest téhož dne | Marie Magdalena (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 1. 1843 | František Romuald (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 7. 1844 | Antonín (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno je pracovní čtení, pozdější přípis patří témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. 10. 1853; bez křtu | Josefa `[příjmení nejasné]` | matka při narození dítěte nepojmenované mrtvě narozené dítě | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. 10. 1853; bez křtu | nepojmenované mrtvě narozené dítě | narození; dům, den a mrtvé narození bezpečné; dítě je nemanželské | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Apolonie Kudrnová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Kudrna | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Matějková (?) | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -904,6 +1385,35 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 19. / 20. 11. 1818 | Alois Jiří (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečná; osobní jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 11. 1818 | Marie (?) | matka při narození dítěte Alois Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 11. 1818 | Vojtěch (?) | otec při narození dítěte Alois Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 9. 1821 | Anna `[příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelné; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 9. 1821 | Marie | matka při narození dítěte Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. / 25. 9. 1821 | Matěj `[příjmení nejasné]` | otec při narození dítěte Anna `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 7. 1821; křest téhož dne | Anna | matka při narození dítěte Marie Schmidtová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 7. 1821; křest téhož dne | František Schmidt (?) | otec při narození dítěte Marie Schmidtová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 5. 7. 1821; křest téhož dne | Marie Schmidtová (?) | narození / křest; dům, datum a křestní jména bezpečné; rodové čtení Schmidt je pracovní a opakuje se u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1824 | Josef Jiří (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; dětská jména a jméno matky jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 6. 1824 | Marie `[příjmení nejasné]` | matka při narození dítěte Josef Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1824 | Jan `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1824 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům, data a základní křestní jména čitelná; rodové údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 3. 1824 | Kateřina | matka při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 8. 1828 | Kateřina | matka při narození dítěte Václav Tomáš `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 8. 1828 | Matěj `[příjmení nejasné]` | otec při narození dítěte Václav Tomáš `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 8. 1828 | Václav Tomáš `[příjmení nejasné]` | narození / křest; dům a data bezpečné; měsíc se dědí z řádku 242, dětská a rodičovská křestní jména jsou čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1833; křest téhož dne | Anna `[příjmení nejasné]` | matka při narození dítěte Emanuel (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1833; křest téhož dne | Emanuel (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. 12. 1833; křest téhož dne | Kristián `[příjmení nejasné]` | otec při narození dítěte Emanuel (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. 12. 1840; křest téhož dne | Marie (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 8. 1842 | Anna (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1. / 2. 3. 1844 | Josefa (?) `[další jména a příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 24. 2. 1845; den křtu neuveden | Josefa (?) `[další jména a příjmení nejasné]` | narození / křest; dům a den narození bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 4. 1848; den křtu neuveden | Františka Plášilová (?) | matka při narození dítěte Jan (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 4. 1848; den křtu neuveden | Jan (?) `[příjmení nejasné]` | narození / křest; první jméno dítěte, matka, dům a den narození bezpečné; dítě je nemanželské, matčino příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1850 | Alois Novotný | otec při narození dítěte František Novotný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1850 | Anna | matka při narození dítěte František Novotný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1850 | František Novotný | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 2. 1854 | František Novák (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 2. 1854 | Jakub Novák (?) | otec při narození dítěte František Novák (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 2. 1854 | Marie | matka při narození dítěte František Novák (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Františka Vaňková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Vaněk | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Vaněk | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -921,6 +1431,48 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 9. 4. 1819; křest téhož dne | Anna | matka při narození dítěte Františka Eleonora `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. 4. 1819; křest téhož dne | Františka Eleonora `[příjmení nejasné]` | narození / křest; dům, datum a obě jména dítěte čitelné; otcovo jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. 4. 1819; křest téhož dne | Martin (?) | otec při narození dítěte Františka Eleonora `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1821; křest téhož dne | Anna | matka při narození dítěte Antonie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1821; křest téhož dne | Antonie `[příjmení nejasné]` | narození / křest; dům, datum a křestní jména čitelné; příjmení se nepřebírá jen podle místní rodové nápovědy | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 9. 1821; křest téhož dne | Matěj `[příjmení nejasné]` | otec při narození dítěte Antonie `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 11. 1823 | František (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; osobní jména pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 11. 1823 | Františka | matka při narození dítěte František (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 11. 1823 | Martin `[příjmení nejasné]` | otec při narození dítěte František (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 5. 1826; křest téhož dne | Jan Křtitel (?) `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; osobní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 5. 1826; křest téhož dne | Markéta | matka při narození dítěte Jan Křtitel (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 5. 1826; křest téhož dne | Václav `[příjmení nejasné]` | otec při narození dítěte Jan Křtitel (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 1. 1831 | Klement (?) `[příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 1. 1831 | Margareta `[příjmení nejasné]` | matka při narození dítěte Klement (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 1. 1831 | Matěj `[příjmení nejasné]` | otec při narození dítěte Klement (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1833 | Antonín `[příjmení nejasné]` | otec při narození dítěte Klementina Emilie (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1833 | Klementina Emilie (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první dvě jména dítěte jsou pracovní, pozdější přípis se nevykládá jako samostatná událost | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 10. 1833 | Margareta `[příjmení nejasné]` | matka při narození dítěte Klementina Emilie (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 11. / 12. 4. 1839 | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 11. 1840 | Marie (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 1. 1843 | Antonín (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 7. 1846 | Anna | matka při narození dítěte Anna Žáková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 7. 1846 | Anna Žáková (?) | narození / křest; otec, dům a oba dny bezpečné; ženský tvar příjmení dítěte je odvozen z otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 7. 1846 | Josef Žák | otec při narození dítěte Anna Žáková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1848 | Anna | matka při narození dítěte Štěpán Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1848 | Josef Žák | otec při narození dítěte Štěpán Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1848 | Štěpán Žák | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 1. 1848 | Alois Novotný (?) | otec při narození dítěte Brigida Marie Novotná (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 1. 1848 | Anna | matka při narození dítěte Brigida Marie Novotná (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. / 31. 1. 1848 | Brigida Marie Novotná (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 8. 1850 | Anna | matka při narození dítěte Terezie Žáková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 8. 1850 | Josef Žák | otec při narození dítěte Terezie Žáková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 8. 1850 | Terezie Žáková | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 28. 7. 1852 | Anna | matka při narození dítěte Ignác `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 28. 7. 1852 | Ignác `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 28. 7. 1852 | Martin `[příjmení nejasné]` | otec při narození dítěte Ignác `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 4. / 1. 5. 1852 | Anna | matka při narození dítěte Jan Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 4. / 1. 5. 1852 | Jan Žák | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 30. 4. / 1. 5. 1852 | Josef Žák | otec při narození dítěte Jan Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 5. 1854; den křtu neuveden | Anna | matka při narození dítěte Antonie Žáková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 5. 1854; den křtu neuveden | Antonie Žáková | narození / křest; dítě, rodiče, dům a den narození bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 20. 5. 1854; den křtu neuveden | Josef Žák | otec při narození dítěte Antonie Žáková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 11. 1855 | Jan `[příjmení nejasné]` | otec při narození dítěte Kateřina `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 11. 1855 | Kateřina `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména čitelné; matčino jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 11. 1855 | Ludmila (?) | matka při narození dítěte Kateřina `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 15./16. 2. 1868 | Jan Svaček / Sváček | podruh; otec Josefa | [rodná matrika syna](https://digi.ceskearchivy.cz/6621/336) |
 | narozen 15./16. 2. 1868 | Josef Svaček / Sváček | syn podruha Jana Sváčka a Marie; později obyvatel č. 11 | [rodná matrika](https://digi.ceskearchivy.cz/6621/336) |
 | 1921 (sčítací arch) | Anna Zelenková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -937,12 +1489,42 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 2. / 3. 4. 1812 | Marie Anna (?) | matka při narození dítěte Josef Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. / 3. 12. 1819 | Jan Evangelista Emanuel `[příjmení nejasné]` | narození / křest; dům, data a tři jména dítěte čitelné; další údaje se nedoplňují odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. / 3. 12. 1819 | Josef (?) | otec při narození dítěte Jan Evangelista Emanuel `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 8. 1822 | Josef `[další jméno a příjmení nejasné]` | narození / křest; dům, data a křestní jména čitelná; další rodové údaje poškozují skvrny | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 8. 1822 | Josef `[příjmení nejasné]` | otec při narození dítěte Josef `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 8. 1822 | Veronika | matka při narození dítěte Josef `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 11. 1823 | Jan Wespel (?) | otec při narození dítěte Josef Wespel (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 11. 1823 | Josef Wespel (?) | narození / křest; dům, data a křestní jména bezpečnější; příjmení je pracovní a opakuje se u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 18. 11. 1823 | Magdalena | matka při narození dítěte Josef Wespel (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 8. 1825; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Markéta (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 8. 1825; křest téhož dne | Markéta (?) `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; dětské a rodičovské křestní jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. 8. 1825; křest téhož dne | Veronika (?) | matka při narození dítěte Markéta (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. 8. 1826; bez křtu | Josef `[příjmení nejasné]` | otec při narození dítěte `[nepokřtěné dítě bez uvedeného jména]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. 8. 1826; bez křtu | Petronila | matka při narození dítěte `[nepokřtěné dítě bez uvedeného jména]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. 8. 1826; bez křtu | `[nepokřtěné dítě bez uvedeného jména]` | narození; dům a datum bezpečné; dítě je v zápisu beze jména, rodičovská křestní jména jsou pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 1. 1829; křest téhož dne | Anna (?) `[další jména a příjmení nejasná]` | narození / křest; dům, datum a první jméno dítěte čitelné; další osobní údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 1. 1829; křest téhož dne | Anna `[příjmení nejasné]` | matka při narození dítěte Anna (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. 1. 1829; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Anna (?) `[další jména a příjmení nejasná]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1833 | Antonín (?) `[další jména a příjmení nejasné]` | narození / křest; dům, data a první jméno dítěte čitelné; další osobní údaje zůstávají otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1833 | Johanna `[příjmení nejasné]` | matka při narození dítěte Antonín (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 20. 3. 1833 | Josef `[příjmení nejasné]` | otec při narození dítěte Antonín (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1850 | Anna | matka při narození dítěte Marie Dušánková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1850 | František Dušánek (?) | otec při narození dítěte Marie Dušánková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 14. / 15. 6. 1850 | Marie Dušánková (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 1. 1851 | Anna | matka při narození dítěte Anna Dušánková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 1. 1851 | Anna Dušánková (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 8. / 9. 1. 1851 | František Dušánek (?) | otec při narození dítěte Anna Dušánková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1853 | Anna | matka při narození dítěte Marie Dušánková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1853 | František Dušánek | otec při narození dítěte Marie Dušánková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1853 | Marie Dušánková | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 8. 4. 1855 | Anna | matka při narození dítěte František Dušánek | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 8. 4. 1855 | František Dušánek | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 8. 4. 1855 | František Dušánek | otec při narození dítěte František Dušánek | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1868 a 1896 | Anna Dušánková, rozená Kejvalová | matka Karolíny; rodinná vazba k č. 21 | tytéž zápisy jako u Karolíny |
 | 1868 a 1896 | František Dušánek | otec Karolíny; roku 1896 baráčník v č. 21 | tytéž zápisy jako u Karolíny |
 | narozena 6. 6. 1868; oddána 21. 4. 1896 | Karolína Dušánková, později Sváčková | dcera Františka Dušánka a Anny Kejvalové | [rodná matrika](https://digi.ceskearchivy.cz/6621/336), [oddací matrika](https://digi.ceskearchivy.cz/6624/55) |
 | 1921 (sčítací arch) | Alois Horáček | přednosta třetí domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Anna Horáčková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Horáčková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Anna Horáčková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Horáčková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Božena Horáčková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Motl (?) | přednosta čtvrté domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -978,15 +1560,32 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 
 | Doložené datum / období | Osoba | Podklad vazby k domu | ID / pramen |
 |---|---|---|---|
+| 3. 3. 1825; křest téhož dne | Josef `[příjmení nejasné]` | otec při narození dítěte Marie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. 3. 1825; křest téhož dne | Kateřina | matka při narození dítěte Marie (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. 3. 1825; křest téhož dne | Marie (?) `[příjmení nejasné]` | narození / křest; dům a datum bezpečné; dětské a rodičovské křestní jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1830 | Františka `[příjmení nejasné]` | matka při narození dítěte Kateřina Pudilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1830 | Kateřina Pudilová (?) | narození / křest; dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte i otce, nikoli převzaté jen ze seznamu známých rodů | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 23. 11. 1830 | Martin Pudil (?) | otec při narození dítěte Kateřina Pudilová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 10. / 11. 2. 1840 | Josef Plášil / Plassil (?) | narození / křest; dům a data bezpečné; historický tvar příjmení dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 3. 1854; bez křtu | Jan `[příjmení nejasné]` | otec při narození dítěte nepojmenované mrtvě narozené dítě | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 3. 1854; bez křtu | nepojmenované mrtvě narozené dítě | narození; dům, den a mrtvé narození bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jiřina Vytisková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Vytiska | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Vytisková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Vytisková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Vytisková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
 ## N24 / čp. 24
 
 | Doložené datum / období | Osoba | Podklad vazby k domu | ID / pramen |
 |---|---|---|---|
+| 26. / 27. 2. 1833 | Anna `[příjmení nejasné]` | matka při narození dítěte Josef Kulka (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 2. 1833 | Josef Kulka (?) | narození / křest; dům a data bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. / 27. 2. 1833 | Martin Kulka (?) | otec při narození dítěte Josef Kulka (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 10. 10. 1836 | Karel (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 23. / 24. 4. 1839 | Vojtěch (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 6. 1849 | Eva (?) | matka při narození dítěte Jan `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 6. 1849 | František (?) `[příjmení nejasné]` | otec při narození dítěte Jan `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 13. / 14. 6. 1849 | Jan `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména čitelné; další rodové údaje zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Plášil | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Juliana Plášilová | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Kateřina Plášilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |

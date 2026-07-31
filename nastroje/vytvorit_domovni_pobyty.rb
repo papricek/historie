@@ -34,6 +34,7 @@ def valid_person?(raw)
   text = raw.to_s.gsub(/[`*]/, "").strip
   return false if text.empty?
   return false if text.match?(/\A(?:neuveden|otec neuveden|jméno zatím|dosud nepřepsaná matka)\b/i)
+  return false if text.match?(/\Ajméno (?:otce|matky|dítěte) nejasné\b/i)
 
   true
 end
@@ -72,8 +73,13 @@ def add_birth_family(evidence, row, year_label)
   date = date_with_year(date, year_label)
   source = "[hlavní registr](../obyvatele_zahradky_domy.md)"
   note = status.to_s
+  event_type = if date.match?(/bez křtu/i) || child.match?(/nepokřtěné|mrtvě narozené/i) || note.match?(/bez křtu/i)
+    "narození"
+  else
+    "narození / křest"
+  end
 
-  add_person(evidence, house, date, child, "narození / křest; #{note}", source)
+  add_person(evidence, house, date, child, "#{event_type}; #{note}", source)
   add_person(evidence, house, date, father, "otec při narození dítěte #{child}", source)
   add_person(evidence, house, date, mother, "matka při narození dítěte #{child}", source)
 end
@@ -193,6 +199,114 @@ def extract_main_evidence
     when "Narození 1819 — inventář snímku 96"
       next unless header[0] == "Dům" && header[1] == "Dítě"
       add_birth_family(evidence, row, "1819")
+    when "Narození 1820–1821 — inventář snímku 97"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      # N1 je již zachyceno v oddílu přesně adresovaných starších osob; N11 se
+      # obecně přebírá z úplnějšího samostatného indexu.
+      next if normalize_house(row[0]) == "1"
+      add_birth_family(evidence, row, "1820–1821")
+    when "Narození 1821–1822 — inventář snímku 98"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1821–1822")
+    when "Narození 1822–1823 — inventář snímku 99"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1822–1823")
+    when "Narození 1823–1824 — inventář snímku 100"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1823–1824")
+    when "Narození 1824 — inventář snímku 101"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1824")
+    when "Narození 1824–1825 — inventář snímku 102"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1824–1825")
+    when "Narození 1825–1826 — inventář snímku 103"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1825–1826")
+    when "Narození 1826 — inventář snímku 104"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1826")
+    when "Narození 1826–1828 — inventář snímku 105"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1826–1828")
+    when "Narození 1828 — inventář snímku 106"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1828")
+    when "Narození 1829 — inventář snímku 107"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1829")
+    when "Narození 1830–1831 — inventář snímku 108"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1830–1831")
+    when "Narození 1831–1833 — inventář snímku 109"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1831–1833")
+    when "Narození 1833–1834 — inventář snímku 110"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1833–1834")
+    when "Narození 1834–1835 — inventář snímku 111"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1834–1835")
+    when "Narození 1836–1837 — inventář snímku 112"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1836–1837")
+    when "Narození 1838–1839 — inventář snímku 113"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1838–1839")
+    when "Narození 1839–1840 — inventář snímku 114"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1839–1840")
+    when "Narození 1840–1841 — inventář snímku 115"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1840–1841")
+    when "Narození 1841–1842 — inventář snímku 116"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1841–1842")
+    when "Narození 1842–1843 — inventář snímku 117"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1842–1843")
+    when "Narození 1844–1845 — inventář snímku 309 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1844–1845")
+    when "Narození 1845–1846 — inventář snímku 310 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1845–1846")
+    when "Narození 1846 — inventář snímku 311 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1846")
+    when "Narození 1847 — inventář snímku 312 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1847")
+    when "Narození 1848 — inventář snímku 313 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1848")
+    when "Narození 1849 — inventář snímku 315 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      # Anna Fraňková a její rodiče v N1 jsou již vedeni mezi přesně
+      # adresovanými staršími osobami, proto se z rodného inventáře neopakují.
+      next if normalize_house(row[0]) == "1"
+      add_birth_family(evidence, row, "1849")
+    when "Narození 1850 — inventář snímku 316 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1850")
+    when "Narození 1850–1851 — inventář snímku 317 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1850–1851")
+    when "Narození 1851–1852 — inventář snímku 318 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1851–1852")
+    when "Narození 1852–1853 — inventář snímku 319 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1852–1853")
+    when "Narození 1854 — inventář snímku 320 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1854")
+    when "Narození 1854–1855 — inventář snímku 321 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1854–1855")
+    when "Narození 1855–1856 — inventář snímku 322 knihy 6621"
+      next unless header[0] == "Dům" && header[1] == "Dítě"
+      add_birth_family(evidence, row, "1855–1856")
     when "Další již doložené osoby mimo rok 1921"
       next unless header[0] == "Dům" && header[1] == "Osoba"
       add_person(

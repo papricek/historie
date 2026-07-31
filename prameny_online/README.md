@@ -258,12 +258,12 @@ Místní soubory jsou badatelské výřezy z veřejných digitálních reprodukc
 
 Rodná část smíšené matriky 6618 byla souvisle prohlédnuta na snímcích 4–85. Přinesla pět bezpečných událostí N11 z let 1772–1791 a jeden adresně rozporný křest Václava Lenze. V překrývající se starší knize 6617 byly podrobně zkontrolovány snímky 183–189 s rokem 1771 a začátkem roku 1772. Starší zahrádecké N11 se neobjevilo, ale snímek 189 paralelně potvrzuje Jana Křtitele, jeho rodinu a N11 z 27./28. 5. 1772; uložený výřez je kvůli slabšímu originálu obrazově zvýrazněn. Jde o tutéž událost, proto se do počtu nezapočítává podruhé. Zahrádecký oddíl paralelní matriky narozených 1788–1796 (kniha 6619) byl souvisle prohlédnut na snímcích 12–17 a jeho dobový rejstřík přepsán pro celou obec: bezpečně potvrzuje Jiřího Junka / Jůnka v N11 roku 1788 a Annu v N11 roku 1791. Rejstřík uvádí 36 dětí, z nichž 35 má přiřazený dům; [úplný domovní index a celé snímky](matriky/narozeni/1788-1796_zahradka_cela_obec/README.md) jsou uloženy samostatně. U Václava Lenze z 9./10. 3. 1791 však kniha 6618 uvádí N11 a kniha 6619 N14; oba obrazy jsou uloženy a událost se do bezpečného součtu N11 nezapočítává. Zahrádecký oddíl následující knihy narozených 1797–1843 (kniha 6620) byl zkontrolován na všech zápisových snímcích 80–117. Po zvětšení je bezpečně potvrzeno devatenáct dalších událostí u N11 z let 1800–1836; devatenáctou je při celovesnickém průchodu doplněný Josef Zelinka ze 7. 1. 1811 na snímku 89. Zdánlivé shody na dalších řádcích byly vyřazeny jako domy N14, N17, N20 nebo N21. Záznamové snímky 3–350 mladší knihy narozených 1881–1911 (kniha 11210) byly rovněž souvisle obrazově prohlédnuty. Deset zápisů z let 1885–1911 skutečně patří Zahrádce č. 11; dvě zdánlivé shody byly po kontrole celého řádku vyloučeny jako Zlátenka č. 11 a Vysočká Lhota č. 11. Výřezy zachovávají i nepřepsané sloupce rodičů a kmotrů pro pozdější paleografickou kontrolu.
 
-Pro nový domovní registr celé vsi je samostatně otevřen také [pracovní blok knihy
+Pro nový domovní registr celé vsi je samostatně veden také [úplný průchod knihou
 6620](matriky/narozeni/1797-1843_zahradka_cela_obec/README.md). Celé snímky
-80–96 jsou uloženy bez jednotlivých výřezů. Protože u knihy nebyl nalezen
-dobový domovní index srovnatelný s knihou 6619, budou se ostatní domy přepisovat po
-celých stranách a v malých kontrolovatelných blocích. Snímky 80–96 jsou už
-inventarizovány. Snímek 89 přidává deset událostí z let 1810–1811: Josef Hýbl
+80–117 jsou uloženy bez jednotlivých výřezů. Protože u knihy nebyl nalezen
+dobový domovní index srovnatelný s knihou 6619, byly ostatní domy přepsány po
+celých stranách a v malých kontrolovatelných blocích. Celý zahrádecký oddíl
+snímků 80–117 je inventarizován. Snímek 89 přidává deset událostí z let 1810–1811: Josef Hýbl
 dokládá známou rodinu roku 1810 v N13 a Josef Zelinka přidává dosud přehlédnutý
 zápis N11 ze 7. 1. 1811. Snímek 90 přidává jedenáct zápisů z let 1811–1812 se
 všemi čitelnými domy; pravděpodobná dvojčata Kateřina a Václav jsou vedena v N7
@@ -283,6 +283,100 @@ doklady Jana Plášila / Plassila v N7 do roku 1818.
 Snímek 96 přidává deset událostí roku 1819, všechny s čitelným domem. Známá
 rodina Junkových / Jůnkových v N11 je napojena bez duplicit a Anna s Josefem
 Svačkovými jsou doloženi v N2.
+Snímek 97 přidává deset událostí z let 1820–1821, všechny s čitelným domem.
+Známé rodiny N1 a N11 se neduplikují, Pudilovi jsou doloženi v N18 a dvě
+rodičovsky odlišné události Fischerů v N16 zůstávají oddělené.
+Snímek 98 přidává deset událostí z let 1821–1822, všechny s čitelným domem a
+bez N11. Nejasná příjmení zůstávají pracovní i tam, kde připomínají známý
+místní rodový tvar.
+Snímek 99 přidává devět událostí z let 1822–1823, opět všechny s čitelným domem
+a bez N11. Pracovní čtení Pospíšil v N9 se nepoužívá k automatickému sloučení
+dvou blízkých událostí.
+Snímek 100 přidává sedm událostí z let 1823–1824, všechny s čitelným domem a
+bez N11. Adresní řada je N1, N14, N18, N20, N13, N21 a N19; přepisovaná
+příjmení zůstávají označena jako pracovní.
+Snímek 101 přidává šest událostí roku 1824, opět všechny s čitelným domem a
+bez N11. Adresní řada je N10, N19, N12, N8, N17 a N3; dvě nečitelná rodičovská
+jména a všechna nejistá příjmení zůstávají otevřená.
+Snímek 102 přidává šest událostí z let 1824–1825, všechny s čitelným domem a
+bez N11. Adresní řada je N4, N6, N17, N15, N14 a N23; u nemanželské Marie v
+N14 se prázdný otcovský sloupec nepřevádí na domnělou osobu.
+Snímek 103 přidává šest událostí z let 1825–1826, všechny s čitelným domem a
+bez N11. Adresní řada je N5, N16, N7, N21, N17 a N15; datum 28. března u
+řádku 223 přebírá měsíc z bezprostředně předchozího zápisu.
+Snímek 104 přidává sedm událostí roku 1826, všechny s čitelným domem a bez N11.
+Adresní řada je N12, N8, N10, N20, N17, N21 a N17; zápis 233 zachycuje
+nepokřtěné dítě bez jména a zápis 234 neuvádí otce.
+Snímek 105 přidává šest událostí z let 1826–1828, všechny s čitelným domem.
+Adresní řada je N1, N10, N11, N13, N5 a N10; známá Františka Josefa Ryplová
+v N11 a její rodiče jsou napojeni na existující osobní evidenci bez duplicit.
+Snímek 106 přidává sedm událostí roku 1828, všechny s čitelným domem a bez N11.
+Adresní řada je N12, N13, N19, N1, N15, N7 a N13; vedle zápisů 241–246 je
+zachován samostatný nečíslovaný zápis Antonína Františka v N1.
+Snímek 107 přidává sedm událostí roku 1829, všechny s čitelným domem a bez N11.
+Adresní řada je N21, N16, N16, N10, N9, N12 a N13; zápisy 248–249 sdílejí
+rodičovskou buňku a zápis 252 neuvádí otce.
+Snímek 108 přidává osm událostí z let 1830–1831, všechny s čitelným domem a bez
+N11. Adresní řada je N3, N9, N4, N6, N23, N16, N13 a N20; pracovní čtení
+Vondráček v N4 a Pudil v N23 je v každém řádku zopakováno u dítěte i otce.
+Snímek 109 přidává osm událostí z let 1831–1833, všechny s čitelným domem a bez
+N11. Adresní řada je N8, N5, N12, N3, N14, N13, N10 a N12; dva zápisy jsou bez
+otce a u Adama Emanuela Přibyla (?) v N10 se nečitelné otcovské jméno nedoplňuje.
+Snímek 110 přidává sedm událostí z let 1833–1834, všechny s čitelným domem a bez
+N11. Adresní řada je N24, N21, N15, N7, N20, N19 a N18; poslední zápis v N18
+neuvádí otce a nejistá osobní jména zůstávají označena jako pracovní.
+Snímek 111 přidává sedm událostí z let 1834–1835, všechny s čitelným domem a bez
+N11. Adresní řada je N17, N5, N6, N8, N12, N12 a N6; bezpečně nepřečtená
+rodičovská jména se nedoplňují odhadem a nevytvářejí osoby v domovním přehledu.
+Snímek 112 přidává osm událostí z let 1836–1837, všechny s čitelným domem.
+Adresní řada je N24, N11, N9, N18, N15, N6, N12 a N13; známý Václav Vojtěch
+v N11 je napojen bez duplicity, pracovní Plášilovi jsou doloženi v N9 a zápis
+289 zachycuje nepojmenované mrtvě narozené děvče.
+Snímek 113 přidává šest událostí z let 1838–1839, všechny s čitelným domem a bez
+N11. Adresní řada je N6, N6, N15, N2, N17 a N20; pozdější přípisy u zápisů 295
+a 297 se nepočítají jako další narození.
+Snímek 114 přidává šest událostí z let 1839–1840, všechny s čitelným domem a bez
+N11. Adresní řada je N24, N9, N8, N9, N23 a N14; pracovní čtení Langr a Plášil
+zůstávají označena otazníkem.
+Snímek 115 přidává sedm událostí z let 1840–1841. U zápisu 305 číslice domu není
+uvedena; zbývající adresní řada je N18, N6, N20, N19, N2 a N17 a pracovní
+Plášilovi jsou doloženi v N2.
+Snímek 116 přidává pět událostí z let 1841–1842 s adresní řadou N10, N4, N17,
+N17 a N7. Všechny domy jsou čitelné, žádný není N11 a pozdější úmrtní přípisy
+nejsou další narození.
+Snímek 117 uzavírá oddíl sedmi událostmi z let 1842–1843 v domech N5, N19, N10,
+N8, N3, N18 a N20. Písař u červnového zápisu znovu použil číslo 315; následné
+zápisy pokračují 316–321. Tím je kniha 6620 pro celou Zahrádku souvisle
+inventarizována podle domů.
+
+Navazující [celovesnický průchod knihou 6621](matriky/narozeni/1844-1880_zahradka_cela_obec/README.md)
+má ověřený zahrádecký rozsah snímků 309–362 pro léta 1844–1880. První uložený a
+inventarizovaný snímek 309 přidává osm událostí v domech N19, N16, N18, N3,
+N14, N7, N19 a N11. Vojtěch Zikmund v N11 je napojen bez duplicity a jeho
+dosavadní záznam je zpřesněn na narození 9. 3. a křest 10. 3. 1845.
+Snímek 310 přidává sedm událostí z let 1845–1846 v domech N9, N13, N10, N16,
+N4, N14 a N3. Čitelně zachycuje rodiny Průšových, Vondráčkových a
+Litzhammerových; paleograficky méně jistá příjmení zůstávají označena otazníkem.
+Snímek 311 přidává sedm událostí roku 1846 v domech N2, N8, N20, N6, N11, N11
+a N14. Marta Marie v N11 byla při starším průchodu přehlédnuta; Janovi v N11
+byla doplněna přesná data 11./12. 9. 1846.
+Snímek 312 přidává devět událostí roku 1847 v domech N16, N11, N11, N3, N4,
+N6, N1, N11 a N14. Tři zápisy N11 zachycují Marii Langrovou (?), Jana Lenku
+(?) a Josefa s dosud nejasným příjmením; u všech jsou zaznamenána data narození
+a tam, kde je matrika uvádí, i křtu. Snímek 313 přidává osm událostí roku 1848
+v domech N20, N10, N19, N7, N4, N1, N20 a N11. Josefa Zikmundová v N11 je
+napojena na existující osobu bez duplicity. Snímek 314 je druhá reprodukce stejné
+rukopisné strany jako snímek 313 a nepřidává další osoby. Snímek 315 přidává
+sedm událostí roku 1849 v domech N5, N14, N2, N10, N24, N3 a N1; Anna Fraňková
+v N1 je napojena bez duplicity. Snímky 316–318 přidávají 23 matričních zápisů
+a 24 dětí z let 1850–1852; rozdíl tvoří dvojčata v N6. V N11 přesně datují
+Františka, mrtvě narozené děvče, Františka Zemiška (?), Marii a Jana Zemiška
+(?). Matěj Zemišek (?) je v letech 1850 a 1852 výslovně čeledínem v N11.
+Snímky 319–322 přidávají 32 událostí z let 1852–1856 se všemi čitelnými čísly
+domů. V N11 zpřesňují Marii Zimlerovou (?), tři známé události roku 1854 a
+Antonína, Františka Jindřicha a Josefa Líčku (?) roku 1856. Vojtěch Jindřich
+je v zápisu šafářem a František Líčka (?) čeledínem v panském dvoře N11.
+Pokračuje se snímkem 323.
 
 | Rok | Místní výřez | Obsah | Veřejný originál |
 |---|---|---|---|
@@ -317,11 +411,17 @@ V letech 1837–1843 nebyl v tomto oddílu nalezen žádný další bezpečný z
 
 | Rok | Místní výřez | Obsah | Veřejný originál |
 |---|---|---|---|
-| 1845 | [Vojtěch Zikmund](matriky/narozeni/1845/zaznam_vojtech_zikmund_n11_snim309.png) | syn šafáře Václava Zikmunda, N11 | [snímek 309](https://digi.ceskearchivy.cz/6621/308) |
-| 1848 | [Josefa Zikmundová](matriky/narozeni/1848/zaznam_josefa_zikmundova_n11_snim313.png) | dcera šafáře Václava Zikmunda, N11 | [snímek 313](https://digi.ceskearchivy.cz/6621/312) |
+| 1845 | [Vojtěch Zikmund](matriky/narozeni/1845/zaznam_vojtech_zikmund_n11_snim309.png) | narozen 9. 3., pokřtěn 10. 3.; syn šafáře Václava Zikmunda, N11 | [snímek 309](https://digi.ceskearchivy.cz/6621/308) |
+| 1846 | [celý snímek 311](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim311.jpg) | Marta Marie narozena 5. 8. a pokřtěna 6. 8.; Jan narozen 11. 9. a pokřtěn 12. 9.; dvě události N11, příjmení zatím nejasná | [snímek 311](https://digi.ceskearchivy.cz/6621/310) |
+| 1847 | [celý snímek 312](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim312.jpg) | Marie Langrová (?) narozena 4. 3.; Jan Lenka (?) narozen 2. 4. a pokřtěn 3. 4.; Josef s nepřepsaným příjmením narozen 12. 12.; tři události N11 | [snímek 312](https://digi.ceskearchivy.cz/6621/311) |
+| 1848 | [Josefa Zikmundová](matriky/narozeni/1848/zaznam_josefa_zikmundova_n11_snim313.png) | narozena 10. 12., pokřtěna 11. 12.; dcera šafáře Václava Zikmunda, N11 | [snímek 313](https://digi.ceskearchivy.cz/6621/312) |
+| 1850 | [celé snímky 316–317](matriky/narozeni/1844-1880_zahradka_cela_obec/README.md) | František 10./11. 2.; mrtvě narozené děvče 28. 11.; František Zemišek (?) 19./20. 12.; tři události N11 | [snímek 316](https://digi.ceskearchivy.cz/6621/315), [snímek 317](https://digi.ceskearchivy.cz/6621/316) |
+| 1851 | [celý snímek 317](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim317.jpg) | Marie narozena 14. 9. a pokřtěna 15. 9.; nemanželská dcera Marie, N11 | [snímek 317](https://digi.ceskearchivy.cz/6621/316) |
+| 1852 | [celý snímek 318](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim318.jpg) | Jan Zemišek (?) narozen 3. 5. a pokřtěn 4. 5.; syn čeledína Matěje Zemiška (?) a Marie, N11 | [snímek 318](https://digi.ceskearchivy.cz/6621/317) |
+| 1853 | [celý snímek 319](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim319.jpg) | Marie Zimlerová (?) narozena 24. 6. a pokřtěna 25. 6.; dcera Vojtěcha Zimlera (?), spojeného přímo s panským dvorem N11, a Anny | [snímek 319](https://digi.ceskearchivy.cz/6621/318) |
 | 1854 | [Anna Žáková a Jan Forel](matriky/narozeni/1854/zaznamy_anna_zakova_jan_forel_n11_snim321.png) | dvě rodiny u N11; Josef Žák je čeledín na dvoře | [snímek 321](https://digi.ceskearchivy.cz/6621/320) |
 | 1854 | [mrtvě narozený syn Anny Pilské / Pílské](matriky/narozeni/1854/zaznam_mrtve_narozeny_syn_anny_pilske_n11_snim321.png) | N11; tatáž událost je také v úmrtní knize | [snímek 321](https://digi.ceskearchivy.cz/6621/320) |
-| 1856 | [Josef, příjmení nečitelné](matriky/narozeni/1856/zaznam_josef_n11_snim322.png) | otec je čeledín v panském dvoře N11 | [snímek 322](https://digi.ceskearchivy.cz/6621/321) |
+| 1856 | [celý snímek 322](matriky/narozeni/1844-1880_zahradka_cela_obec/kniha6621_snim322.jpg), [starší výřez Josefa](matriky/narozeni/1856/zaznam_josef_n11_snim322.png) | Antonín 11./13. 1.; František Jindřich 27. 1., syn šafáře Vojtěcha Jindřicha; Josef Líčka (?) 10./20. 3., syn čeledína Františka Líčky (?); tři události N11 | [snímek 322](https://digi.ceskearchivy.cz/6621/321) |
 | 1856 | [mrtvě narozená dcera Forelová](matriky/narozeni/1856/zaznam_mrtve_narozena_dcera_forelova_n11_snim323.png) | dcera Františka Forela, posla na panském dvoře N11, a Reginy Červené | [snímek 323](https://digi.ceskearchivy.cz/6621/322) |
 | 1857 | [Marie Forelová](matriky/narozeni/1857/zaznam_marie_forelova_n11_snim324.png) | dcera Františka Forela, N11 | [snímek 324](https://digi.ceskearchivy.cz/6621/323) |
 | 1858 | [Kateřina](matriky/narozeni/1858/zaznam_katerina_n11_snim326.png) | dcera Václava Junka/Jůnka, čeledína ve panském dvoře N11 | [snímek 326](https://digi.ceskearchivy.cz/6621/325) |
