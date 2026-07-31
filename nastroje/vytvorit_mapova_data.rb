@@ -11,6 +11,7 @@ require "json"
 ROOT = File.expand_path("..", __dir__)
 SRC = File.join(ROOT, "obyvatele_zahradky_domy", "dolozene_pobyty.md")
 SRC_REGISTR = File.join(ROOT, "obyvatele_zahradky_domy.md")
+SRC_DNES = File.join(ROOT, "soucasny_stav_domu.md")
 OUT = File.join(ROOT, "website", "mapa_data.js")
 
 def html_escape(text)
@@ -232,10 +233,30 @@ end
 
 total = houses.sum { |h| h["osoby"].length }
 
-File.open(OUT, "w") do |f|
-  f.puts "// Generováno skriptem nastroje/vytvorit_mapova_data.rb z"
-  f.puts "// obyvatele_zahradky_domy/dolozene_pobyty.md — neupravovat ručně."
-  f.puts "window.MAPA_DATA = #{JSON.pretty_generate({ 'domy' => houses })};"
+# Dnešní stav (2026) ze soucasny_stav_domu.md: tabulka | Čp. | Údaj | Zdroj |.
+# Klíč "obec" platí pro celou ves (úvod panelu); ostatní klíče jsou čp.
+dnes = Hash.new { |h, k| h[k] = [] }
+if File.exist?(SRC_DNES)
+  in_table = false
+  File.foreach(SRC_DNES, chomp: true) do |line|
+    in_table = line.start_with?("## Domy") if line.start_with?("## ")
+    next unless in_table && line.start_with?("|")
+
+    cells = line.split("|").map(&:strip)
+    next if cells.length < 4 || cells[1].start_with?("---") || cells[1] == "Čp."
+
+    zaznam = { "u" => cell_to_html(cells[2]) }
+    zdroj = cells[3] ? cell_to_html(cells[3]) : ""
+    zaznam["z"] = zdroj unless zdroj.empty?
+    dnes[cells[1]] << zaznam
+  end
 end
 
-puts "#{OUT}: #{houses.length} domů, #{total} osobních řádků"
+File.open(OUT, "w") do |f|
+  f.puts "// Generováno skriptem nastroje/vytvorit_mapova_data.rb z"
+  f.puts "// obyvatele_zahradky_domy/dolozene_pobyty.md a soucasny_stav_domu.md — neupravovat ručně."
+  f.puts "window.MAPA_DATA = #{JSON.pretty_generate({ 'domy' => houses })};"
+  f.puts "window.MAPA_DNES = #{JSON.pretty_generate(dnes)};"
+end
+
+puts "#{OUT}: #{houses.length} domů, #{total} osobních řádků, dnešní stav: #{dnes.values.sum(&:length)} údajů u #{dnes.length} klíčů"

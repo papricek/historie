@@ -1,5 +1,5 @@
 // Generováno skriptem nastroje/vytvorit_mapova_data.rb z
-// obyvatele_zahradky_domy/dolozene_pobyty.md — neupravovat ručně.
+// obyvatele_zahradky_domy/dolozene_pobyty.md a soucasny_stav_domu.md — neupravovat ručně.
 window.MAPA_DATA = {
   "domy": [
     {
@@ -728,15 +728,15 @@ window.MAPA_DATA = {
         {
           "d": "8. / 9. 12. 1877",
           "j": "František Franěk (?)",
-          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
-          "r": 1877
+          "p": "otec při narození dítěte František Franěk (?)",
+          "r": 1877,
+          "rod": "o"
         },
         {
           "d": "8. / 9. 12. 1877",
           "j": "František Franěk (?)",
-          "p": "otec při narození dítěte František Franěk (?)",
-          "r": 1877,
-          "rod": "o"
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
+          "r": 1877
         },
         {
           "d": "8. / 9. 12. 1877",
@@ -764,6 +764,27 @@ window.MAPA_DATA = {
           "j": "Marie Fraňková (?)",
           "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
           "r": 1880
+        },
+        {
+          "d": "18. 5. 1920",
+          "j": "František Franěk",
+          "p": "rolník v č. 1, otec ženicha",
+          "z": "tentýž zápis",
+          "r": 1920
+        },
+        {
+          "d": "18. 5. 1920",
+          "j": "Josef Franěk / Franík",
+          "p": "rolnický syn v č. 1, ženich; matrika jej píše Franěk / Fraňek",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/158\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 158</a>",
+          "r": 1920
+        },
+        {
+          "d": "1. 2. 1921",
+          "j": "František Rohovec",
+          "p": "tesař ze Zahrádky č. 1, narozen 15. 7. 1895; ženich Terezie Kejvalové",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>",
+          "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
@@ -820,9 +841,23 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · pomocník v zemědělství; pracovištěm velkostatek na Zahrádce",
           "r": 1921
+        },
+        {
+          "d": "15. 7. 1928",
+          "j": "Otilie Kudrnová, rozená Fraňková",
+          "p": "matka Jana Kudrny; pocházela z Fraňkovy usedlosti „Zahrádka č. 1“",
+          "z": "tentýž zápis",
+          "r": 1928
+        },
+        {
+          "d": "24. 11. 1928",
+          "j": "Marie Rohovcová, provdaná Kudrnová",
+          "p": "bytem v č. 1, narozena 24. 5. 1898 v č. 22; dcera tesaře Jana Rohovce",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/208\" target=\"_blank\" rel=\"noopener\">sn. 208</a>",
+          "r": 1928
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1928"
     },
     {
       "klic": "2",
@@ -1157,15 +1192,15 @@ window.MAPA_DATA = {
         {
           "d": "15. / 16. 10. 1874",
           "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1874,
-          "rod": "o"
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
+          "r": 1874
         },
         {
           "d": "15. / 16. 10. 1874",
           "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
-          "r": 1874
+          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1874,
+          "rod": "o"
         },
         {
           "d": "15. / 16. 10. 1874",
@@ -1213,6 +1248,14 @@ window.MAPA_DATA = {
           "j": "Václav Zimr (?)",
           "p": "narození / křest; dům, oba dny a rodiče bezpečné; pravděpodobně stejný pár jako u Josefa v N2 roku 1876",
           "r": 1879
+        },
+        {
+          "d": "18. 5. 1920 a 18. 7. 1922",
+          "j": "František Kudrna",
+          "p": "rolník v č. 2, svědek dvou sňatků; zemřel před rokem 1928",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/158\" target=\"_blank\" rel=\"noopener\">sn. 158</a>, <a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">sn. 174</a>",
+          "r": 1920,
+          "rr": 1922
         },
         {
           "d": "1921 (sčítací arch)",
@@ -1269,9 +1312,24 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
+        },
+        {
+          "d": "15. 7. 1928",
+          "j": "Jan Kudrna",
+          "p": "dělník, narozen 10. 4. 1905 v č. 2; oddán v evangelickém chrámu v Moravči. Ohlášky vyšly i v tisku",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/13243/175\" target=\"_blank\" rel=\"noopener\">Moraveč ČCE, sn. 175</a>",
+          "r": 1928
+        },
+        {
+          "d": "15. 7. 1928 a 3. 2. 1934",
+          "j": "Karel Kudrna",
+          "p": "rolník v č. 2; po smrti otce Františka převzal usedlost",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/13243/175\" target=\"_blank\" rel=\"noopener\">Moraveč, sn. 175</a>, <a href=\"https://digi.ceskearchivy.cz/13251/31\" target=\"_blank\" rel=\"noopener\">Červená Řečice, sn. 31</a>",
+          "r": 1928,
+          "rr": 1934
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1934"
     },
     {
       "klic": "3",
@@ -1898,9 +1956,46 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Buřenice · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
+        },
+        {
+          "d": "17. 4. 1923",
+          "j": "Božena Bartošková",
+          "p": "dcera Matěje Bartošky ze Zahrádky č. 3, nevěsta",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/176\" target=\"_blank\" rel=\"noopener\">sn. 176</a>",
+          "r": 1923
+        },
+        {
+          "d": "17. 4. 1923 a 5. 1. 1925",
+          "j": "Matěj Bartoška",
+          "p": "rolník v č. 3; otec Boženy a Václava",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/176\" target=\"_blank\" rel=\"noopener\">sn. 176</a>, <a href=\"https://digi.ceskearchivy.cz/6347/198\" target=\"_blank\" rel=\"noopener\">Pelhřimov, sn. 198</a>",
+          "r": 1923,
+          "rr": 1925
+        },
+        {
+          "d": "1923 a 1925",
+          "j": "Antonie Bartošková, rozená Svobodová",
+          "p": "manželka Matěje; z Malých Outěchovic č. 30",
+          "z": "tytéž zápisy",
+          "r": 1923,
+          "rr": 1925
+        },
+        {
+          "d": "5. 1. 1925",
+          "j": "Václav Bartoška",
+          "p": "rolník v Zahrádce u Pošné č. 3, narozen 17. 9. 1894; roku 1925 už hospodář. Ohlášky sňatku vyšly i v tisku",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6347/198\" target=\"_blank\" rel=\"noopener\">Pelhřimov, sn. 198</a>, <a href=\"https://kramerius.kkvysociny.cz/uuid/uuid:0ea75ebf-2e66-4747-a28f-e13833b161f0\" target=\"_blank\" rel=\"noopener\">Týdeník z Českomoravské vysočiny, 3. 1. 1925, s. 4</a>",
+          "r": 1925
+        },
+        {
+          "d": "24. 4. 1926",
+          "j": "Jan Svoboda",
+          "p": "dělník v č. 3, otec Marie. Příjmení Svoboda není ve sčítání 1921 ani u č. 3, ani u č. 6 — šlo o novou rodinu nebo podnájemníky",
+          "z": "tentýž zápis",
+          "r": 1926
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1926"
     },
     {
       "klic": "4",
@@ -2089,15 +2184,15 @@ window.MAPA_DATA = {
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1863,
-          "rod": "o"
+          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
+          "r": 1863
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
-          "r": 1863
+          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1863,
+          "rod": "o"
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
@@ -2207,6 +2302,13 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "31. 5. 1921",
+          "j": "Antonie Markvartová",
+          "p": "dcera Josefa Markvarta z č. 4, nevěsta",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/166\" target=\"_blank\" rel=\"noopener\">sn. 166</a>",
+          "r": 1921
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Matějka",
           "p": "syn; svobodný",
@@ -2261,9 +2363,39 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
+        },
+        {
+          "d": "1921, 1929 a 1930",
+          "j": "Josef Markvart",
+          "p": "rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. <b>Rozpor:</b> sčítání 1921 vede u čp. 4 rodinu Josefa Matějky a příjmení Markvart nezná — otevřená otázka, viz místní paměť MJS‑001 (Novák → Markvart)",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/166\" target=\"_blank\" rel=\"noopener\">sn. 166</a>, <a href=\"https://digi.ceskearchivy.cz/6624/211\" target=\"_blank\" rel=\"noopener\">sn. 211</a>, <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
+          "r": 1921,
+          "rr": 1930
+        },
+        {
+          "d": "1921–1930",
+          "j": "Antonie Markvartová, rozená Bečková",
+          "p": "manželka Josefa Markvarta; ze Zlátenky č. 5",
+          "z": "tytéž zápisy",
+          "r": 1921,
+          "rr": 1930
+        },
+        {
+          "d": "13. 7. 1929",
+          "j": "Anežka Markvartová, provdaná Kejvalová",
+          "p": "narozena 4. 10. 1907 v č. 4; provdána za Jana Kejvala z č. 15",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/211\" target=\"_blank\" rel=\"noopener\">sn. 211</a>",
+          "r": 1929
+        },
+        {
+          "d": "25. 2. 1930",
+          "j": "Václav Markvart",
+          "p": "rolník‑chalupník v č. 4, narozen 13. 9. 1900",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
+          "r": 1930
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1930"
     },
     {
       "klic": "5",
@@ -2405,15 +2537,15 @@ window.MAPA_DATA = {
         {
           "d": "4. / 5. 1. 1820",
           "j": "Josef Kejval (?)",
-          "p": "otec při narození dítěte Josef Kejval (?)",
-          "r": 1820,
-          "rod": "o"
+          "p": "narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce",
+          "r": 1820
         },
         {
           "d": "4. / 5. 1. 1820",
           "j": "Josef Kejval (?)",
-          "p": "narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce",
-          "r": 1820
+          "p": "otec při narození dítěte Josef Kejval (?)",
+          "r": 1820,
+          "rod": "o"
         },
         {
           "d": "4. / 5. 1. 1820",
@@ -2828,9 +2960,32 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
+        },
+        {
+          "d": "1921 a 1929",
+          "j": "František Vaněk",
+          "p": "rolník v č. 5; svědek roku 1921, otec Karolíny roku 1929",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/160\" target=\"_blank\" rel=\"noopener\">sn. 160</a>, <a href=\"https://digi.ceskearchivy.cz/6624/212\" target=\"_blank\" rel=\"noopener\">sn. 212</a>",
+          "r": 1921,
+          "rr": 1929
+        },
+        {
+          "d": "1929 a 3. 2. 1934",
+          "j": "Antonín Kříž",
+          "p": "rolník v č. 5; svědek dvou sňatků",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/212\" target=\"_blank\" rel=\"noopener\">sn. 212</a>, <a href=\"https://digi.ceskearchivy.cz/13251/31\" target=\"_blank\" rel=\"noopener\">Červená Řečice, sn. 31</a>",
+          "r": 1929,
+          "rr": 1934
+        },
+        {
+          "d": "26. 9. 1929",
+          "j": "Karolína Vaňková",
+          "p": "dcera Františka Vaňka, narozena 18. 4. 1901 v č. 5",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/212\" target=\"_blank\" rel=\"noopener\">sn. 212</a>",
+          "r": 1929
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1934"
     },
     {
       "klic": "6",
@@ -3129,14 +3284,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
@@ -3650,9 +3805,23 @@ window.MAPA_DATA = {
           "h": 2,
           "c": "rodiště nejisté · práce v domácnosti",
           "r": 1921
+        },
+        {
+          "d": "24. 4. 1926",
+          "j": "Josef Svoboda",
+          "p": "tesař v č. 6, svědek",
+          "z": "tentýž zápis",
+          "r": 1926
+        },
+        {
+          "d": "24. 4. 1926",
+          "j": "Marie Svobodová",
+          "p": "bytem v č. 6, narozena v č. 3; nevěsta",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/193\" target=\"_blank\" rel=\"noopener\">sn. 193</a>",
+          "r": 1926
         }
       ],
-      "rozsah": "1797–1921"
+      "rozsah": "1797–1926"
     },
     {
       "klic": "7",
@@ -4516,15 +4685,15 @@ window.MAPA_DATA = {
         {
           "d": "10. 9. 1876; pokřtěn téhož dne",
           "j": "Václav Plášil",
-          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; zápis připojuje k N8 místní polohový dovětek, který se nevykládá jako jiné číslo domu",
-          "r": 1876
+          "p": "otec při narození dítěte Václav Plášil",
+          "r": 1876,
+          "rod": "o"
         },
         {
           "d": "10. 9. 1876; pokřtěn téhož dne",
           "j": "Václav Plášil",
-          "p": "otec při narození dítěte Václav Plášil",
-          "r": 1876,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; zápis připojuje k N8 místní polohový dovětek, který se nevykládá jako jiné číslo domu",
+          "r": 1876
         },
         {
           "d": "28. / 30. 3. 1878",
@@ -4649,9 +4818,16 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · dítě bez povolání",
           "r": 1921
+        },
+        {
+          "d": "1930",
+          "j": "František Kříž",
+          "p": "rolník v čp. 8; přísedící představenstva Družstva pro rozvod elektrické energie Proseč–Pošná. Roku 1921 byl přednostou domácnosti čp. 8 František Růž — držitel se mezitím změnil, nebo šlo o dalšího obyvatele domu",
+          "z": "<a href=\"https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb\" target=\"_blank\" rel=\"noopener\">Český jih, 5. 4. 1930, s. 5</a>",
+          "r": 1930
         }
       ],
-      "rozsah": "1800–1921"
+      "rozsah": "1800–1930"
     },
     {
       "klic": "9",
@@ -4821,15 +4997,15 @@ window.MAPA_DATA = {
         {
           "d": "7. 5. 1808; křest téhož dne",
           "j": "Josef (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Josef (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1808,
-          "rod": "o"
+          "p": "narození / křest; dům a datum čitelné; jména pracovní",
+          "r": 1808
         },
         {
           "d": "7. 5. 1808; křest téhož dne",
           "j": "Josef (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; dům a datum čitelné; jména pracovní",
-          "r": 1808
+          "p": "otec při narození dítěte Josef (?) <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1808,
+          "rod": "o"
         },
         {
           "d": "8. 10. 1810",
@@ -5137,9 +5313,9 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
-          "p": "matka přednosty; ovdovělá",
+          "p": "manželka",
           "h": 1,
-          "c": "Kladruby (?) · bez bezpečně čitelného povolání",
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
@@ -5153,13 +5329,55 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
-          "p": "manželka",
+          "p": "matka přednosty; ovdovělá",
           "h": 1,
-          "c": "Zahrádka · práce v domácnosti",
+          "c": "Kladruby (?) · bez bezpečně čitelného povolání",
           "r": 1921
+        },
+        {
+          "d": "22. 11. 1925",
+          "j": "Alois Plášil",
+          "p": "rolník v č. 9, svědek. Roku 1927/28 a 1928/29 je Alois Plášil, rodák ze Zahrádky, žákem Zemské střední školy hospodářské v Táboře",
+          "z": "tentýž zápis, <a href=\"https://kramerius.cbvk.cz/uuid/uuid:a42130a1-befd-11e5-b7c3-001b63bd97ba\" target=\"_blank\" rel=\"noopener\">výroční zpráva školy</a>",
+          "r": 1925
+        },
+        {
+          "d": "22. 11. 1925",
+          "j": "Božena Plášilová",
+          "p": "dcera hostinského, bytem v č. 9, narozena v č. 6; provdána do Moravče",
+          "z": "tentýž zápis",
+          "r": 1925
+        },
+        {
+          "d": "22. 11. 1925",
+          "j": "Josef Plášil",
+          "p": "hostinský v č. 9, otec Boženy. V témže domě je roku 1921 i 1943 doložen Karel Plášil — šlo o širší rodinu",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/190\" target=\"_blank\" rel=\"noopener\">sn. 190</a>",
+          "r": 1925
+        },
+        {
+          "d": "22. 11. 1925",
+          "j": "Marie Plášilová, rozená Vorlová",
+          "p": "manželka Josefa Plášila; z Hadovek č. 28",
+          "z": "tentýž zápis",
+          "r": 1925
+        },
+        {
+          "d": "17. 3. 1943",
+          "j": "Marie Plášilová",
+          "p": "„při hospodářství, bytem v Zahrádce u Pošné čp. 9“; vedena v úředním seznamu opatrovnictví Okresního soudu v Pacově (č. j. L 1/43—6), opatrovníkem ustanoven Karel Plášil z téhož domu",
+          "z": "tentýž zápis Úředního listu",
+          "r": 1943
+        },
+        {
+          "d": "21. 4. 1943",
+          "j": "Karel Plášil",
+          "p": "rolník v čp. 9, ustanoven opatrovníkem Marie Plášilové bytem tamtéž; shoduje se s majitelem domu ze sčítání 1921, případně se stejnojmenným synem — čteno jen z veřejných úryvků stránky v režimu DNNT",
+          "z": "<a href=\"https://kramerius5.nkp.cz/uuid/uuid:da85fe7c-30ea-4c58-94d5-4ca860f39ab4\" target=\"_blank\" rel=\"noopener\">Úřední list Protektorátu, 21. 4. 1943, s. 3001</a>",
+          "r": 1943
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1943"
     },
     {
       "klic": "10",
@@ -5805,15 +6023,15 @@ window.MAPA_DATA = {
         {
           "d": "13. / 14. 3. 1867",
           "j": "Josef Průša (?)",
-          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
-          "r": 1867
+          "p": "otec při narození dítěte Josef Průša (?)",
+          "r": 1867,
+          "rod": "o"
         },
         {
           "d": "13. / 14. 3. 1867",
           "j": "Josef Průša (?)",
-          "p": "otec při narození dítěte Josef Průša (?)",
-          "r": 1867,
-          "rod": "o"
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1867
         },
         {
           "d": "13. / 14. 3. 1867",
@@ -5854,6 +6072,12 @@ window.MAPA_DATA = {
           "j": "Václav <span class=\"nej\">[příjmení neuvedeno]</span>",
           "p": "narození / křest; nemanželské dítě; první jméno, dům, den a matčino první jméno bezpečné",
           "r": 1875
+        },
+        {
+          "d": "adresář 1915",
+          "j": "František Kejval",
+          "p": "člen obecního výboru; číslo vytištěno přímo u jména",
+          "r": 1915
         },
         {
           "d": "1921 (sčítací arch)",
@@ -5910,9 +6134,17 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
+        },
+        {
+          "d": "21. 11. 1923 a 1930",
+          "j": "František Kejval",
+          "p": "rolník v čp. 10; roku 1923 nově zvolen členem představenstva Hospodářského družstva skladištního v Pacově, roku 1930 přísedícím Družstva pro rozvod elektrické energie Proseč–Pošná. Jiná osoba než stejnojmenný starosta z č. 15",
+          "z": "<a href=\"https://kramerius5.nkp.cz/uuid/uuid:43c4aee0-e5eb-11ea-8ce6-005056825209\" target=\"_blank\" rel=\"noopener\">Úřední list RČS, 15. 12. 1923, s. 8360</a>, <a href=\"https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb\" target=\"_blank\" rel=\"noopener\">Český jih, 5. 4. 1930, s. 5</a>",
+          "r": 1923,
+          "rr": 1930
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1930"
     },
     {
       "klic": "11",
@@ -7315,6 +7547,13 @@ window.MAPA_DATA = {
           "r": 1885
         },
         {
+          "d": "1890",
+          "j": "A. Kaplan",
+          "p": "<b>hospodář panského dvora</b>; adresní posloupnost: Zahrádka č. 11 (panský dvůr)",
+          "z": "ZAH-0236; <a href=\"https://kramerius.cbvk.cz/view/uuid:9a167624-eab9-11e4-8977-001b63bd97ba\" target=\"_blank\" rel=\"noopener\">regionální tisk, Kramerius JVK</a>",
+          "r": 1890
+        },
+        {
           "d": "sčítání 1921; narozena 22. 5. 1892",
           "j": "Kateřina Vytisková",
           "p": "manželka Františka Vytisky; adresní posloupnost: Zahrádka č. 11",
@@ -7491,25 +7730,54 @@ window.MAPA_DATA = {
           "rr": 1921
         },
         {
-          "d": "doložen 24. 4. 1924",
-          "j": "František Vopálka",
+          "d": "oddán 1. 2. 1921; doložen do prosince 1928",
+          "j": "František Vitiska / Vytiska",
+          "p": "<b>šafář</b> panského dvora; svědek čtyř sňatků 1921–1930, roku 1928 kandidát do okresního zastupitelstva; adresní posloupnost: Zahrádka č. 11",
+          "z": "ZAH-0237; <a href=\"https://digi.ceskearchivy.cz/6624/164\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 164</a>, <a href=\"https://kramerius.kkvysociny.cz/view/uuid:f334a828-b5a1-4226-b5e1-3522c6cab420\" target=\"_blank\" rel=\"noopener\">kandidátní listina, Týdeník z Českomoravské vysočiny 17. 11. 1928</a>",
+          "r": 1921,
+          "rr": 1928
+        },
+        {
+          "d": "oddána 1. 2. 1921",
+          "j": "Kateřina Vitisková, rozená Kejvalová",
+          "p": "nevěsta šafáře; adresní posloupnost: před sňatkem Zahrádka č. 12, poté rodina v Zahrádce č. 11",
+          "z": "ZAH-0238; <a href=\"https://digi.ceskearchivy.cz/6624/164\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 164</a>",
+          "r": 1921
+        },
+        {
+          "d": "doložen 24. 5. 1924",
+          "j": "František Vytiska",
           "p": "<b>šafář v Zahrádce č. 11</b>; svědek sňatku; adresní posloupnost: Zahrádka č. 11",
           "z": "ZAH-0110; tentýž zápis jako ZAH-0108",
           "r": 1924
         },
         {
-          "d": "oddán 24. 4. 1924",
+          "d": "oddán 24. 5. 1924",
           "j": "Matěj Kudrhalt",
           "p": "<b>hospodářský pomocník v Zahrádce č. 11</b>; ženich; adresní posloupnost: Zahrádka č. 11",
           "z": "ZAH-0108; <a href=\"https://digi.ceskearchivy.cz/6624/182\" target=\"_blank\" rel=\"noopener\">originál, snímek 182</a>",
           "r": 1924
         },
         {
-          "d": "oddána 24. 4. 1924",
+          "d": "oddána 24. 5. 1924",
           "j": "Anna Procházková",
           "p": "nevěsta bydlící v č. 11; adresní posloupnost: Zahrádka č. 11",
           "z": "ZAH-0109; tentýž zápis jako ZAH-0108",
           "r": 1924
+        },
+        {
+          "d": "doložen 23. 11. 1929",
+          "j": "Josef Vacík",
+          "p": "<b>zemědělský dělník</b> ve dvoře; otec Marie; adresní posloupnost: Zahrádka č. 11",
+          "z": "ZAH-0239; <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 215</a>",
+          "r": 1929
+        },
+        {
+          "d": "oddána 23. 11. 1929",
+          "j": "Marie Vacíková",
+          "p": "nevěsta; adresní posloupnost: Zahrádka č. 11, u rodičů",
+          "z": "ZAH-0240; tentýž zápis jako ZAH-0239",
+          "r": 1929
         },
         {
           "d": "doložen 9. 10. 1930",
@@ -7722,15 +7990,15 @@ window.MAPA_DATA = {
         {
           "d": "28. 11. 1831; křest téhož dne",
           "j": "Josef Krejčí (?)",
-          "p": "narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce",
-          "r": 1831
+          "p": "otec při narození dítěte Josef Krejčí (?)",
+          "r": 1831,
+          "rod": "o"
         },
         {
           "d": "28. 11. 1831; křest téhož dne",
           "j": "Josef Krejčí (?)",
-          "p": "otec při narození dítěte Josef Krejčí (?)",
-          "r": 1831,
-          "rod": "o"
+          "p": "narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce",
+          "r": 1831
         },
         {
           "d": "28. 11. 1831; křest téhož dne",
@@ -7792,6 +8060,20 @@ window.MAPA_DATA = {
           "r": 1837
         },
         {
+          "d": "1. 2. 1921",
+          "j": "František Kejval",
+          "p": "dělník a domkář v č. 12, otec Kateřiny",
+          "z": "tentýž zápis",
+          "r": 1921
+        },
+        {
+          "d": "1. 2. 1921",
+          "j": "Kateřina Kejvalová, provdaná Vitisková",
+          "p": "nevěsta ze Zahrádky č. 12, narozena 23. 10. 1892 v Loutkově č. 3; provdala se za šafáře panského dvora č. 11",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/164\" target=\"_blank\" rel=\"noopener\">sn. 164</a>",
+          "r": 1921
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Jan Budil",
           "p": "přednosta domácnosti",
@@ -7830,9 +8112,24 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · zemědělská pomocnice",
           "r": 1921
+        },
+        {
+          "d": "1921, 1925 a 1930",
+          "j": "Jan Pudil",
+          "p": "dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Sčítání 1921 čte v čp. 12 „Jan Budil“; matrika píše opakovaně Pudil a on sám se roku 1925 podepsal „Jan Pudil, otec“",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>, <a href=\"https://digi.ceskearchivy.cz/6624/186\" target=\"_blank\" rel=\"noopener\">sn. 186</a>, <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
+          "r": 1921,
+          "rr": 1930
+        },
+        {
+          "d": "14. 2. 1925",
+          "j": "Marie Pudilová, provdaná Zelenková",
+          "p": "dcera Jana Pudila ze Zahrádky č. 12",
+          "z": "tentýž zápis",
+          "r": 1925
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1930"
     },
     {
       "klic": "13",
@@ -8230,9 +8527,16 @@ window.MAPA_DATA = {
           "j": "Marianna Kulhanová (?)",
           "p": "narození / křest; dům a oba dny bezpečné; příjmení dítěte a rodičovská jména jsou pracovní čtení",
           "r": 1845
+        },
+        {
+          "d": "18. 5. 1920",
+          "j": "Kateřina Fraňková, rozená Kejval",
+          "p": "matka ženicha; pramen ji uvádí jako „rozenou Kejval ze Zahrádky č. 13“ — vzácný doklad k domu, jehož arch ve sčítání 1921 chybí",
+          "z": "tentýž zápis",
+          "r": 1920
         }
       ],
-      "rozsah": "1788–1845"
+      "rozsah": "1788–1920"
     },
     {
       "klic": "14",
@@ -9245,15 +9549,15 @@ window.MAPA_DATA = {
         {
           "d": "9. / 11. 9. 1865",
           "j": "Václav Kejval",
-          "p": "otec při narození dítěte Václav Kejval",
-          "r": 1865,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1865
         },
         {
           "d": "9. / 11. 9. 1865",
           "j": "Václav Kejval",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1865
+          "p": "otec při narození dítěte Václav Kejval",
+          "r": 1865,
+          "rod": "o"
         },
         {
           "d": "3. 12. 1868; pokřtěn téhož dne",
@@ -9356,6 +9660,12 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "adresář 1915",
+          "j": "František Kejval",
+          "p": "starosta obce; jiná osoba než stejnojmenný člen výboru z č. 10",
+          "r": 1915
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Kulhavá",
           "p": "služka; svobodná",
@@ -9410,9 +9720,76 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · ženské práce; přesný zápis povolání nejasný",
           "r": 1921
+        },
+        {
+          "d": "21. 11. 1923",
+          "j": "František Kejval",
+          "p": "vystoupil z představenstva Hospodářského družstva skladištního v Pacově; zapsán „ze Zahrádky u Pošné čp. 15“ — navazuje na starostu z roku 1915 a majitele domu ze sčítání 1921",
+          "z": "<a href=\"https://kramerius5.nkp.cz/uuid/uuid:43c4aee0-e5eb-11ea-8ce6-005056825209\" target=\"_blank\" rel=\"noopener\">Úřední list RČS, 15. 12. 1923, s. 8360</a>",
+          "r": 1923
+        },
+        {
+          "d": "21. 11. 1923",
+          "j": "Josef Dvořák",
+          "p": "vystoupil z představenstva téhož družstva; zapsán rovněž „ze Zahrádky u Pošné čp. 15“ (zápis „oba čp. 15“ ještě ověřit ve skenu)",
+          "z": "tentýž zápis Úředního listu",
+          "r": 1923
+        },
+        {
+          "d": "22. 11. 1925 a 13. 7. 1929",
+          "j": "Jan Kejval",
+          "p": "rolník v č. 15, narozen 1. 2. 1902 tamtéž; svědek a později ženich",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/190\" target=\"_blank\" rel=\"noopener\">sn. 190</a>, <a href=\"https://digi.ceskearchivy.cz/6624/211\" target=\"_blank\" rel=\"noopener\">sn. 211</a>",
+          "r": 1925,
+          "rr": 1929
+        },
+        {
+          "d": "1925 a 1930",
+          "j": "Marie Pudilová, rozená Kejvalová",
+          "p": "manželka Jana Pudila; matrika ji uvádí „ze Zahrádky č. 15“",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/186\" target=\"_blank\" rel=\"noopener\">sn. 186</a>, <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
+          "r": 1925,
+          "rr": 1930
+        },
+        {
+          "d": "26. 9. 1929",
+          "j": "Antonie Vaňková, rozená Kejvalová",
+          "p": "manželka Františka Vaňka, matka Karolíny; „ze Zahrádky č. 15“",
+          "z": "tentýž zápis",
+          "r": 1929
+        },
+        {
+          "d": "1929 a 1930",
+          "j": "František Kejval",
+          "p": "rolník v č. 15; otec Jana a Marie. Navazuje na starostu obce z let 1915 a 1928 a na zápis z roku 1923",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/211\" target=\"_blank\" rel=\"noopener\">sn. 211</a>, <a href=\"https://digi.ceskearchivy.cz/6624/219\" target=\"_blank\" rel=\"noopener\">sn. 219</a>",
+          "r": 1929,
+          "rr": 1930
+        },
+        {
+          "d": "1929 a 1930",
+          "j": "Františka Kejvalová, rozená Kudrnová",
+          "p": "manželka Františka Kejvala; z Roučkovic č. 4",
+          "z": "tytéž zápisy",
+          "r": 1929,
+          "rr": 1930
+        },
+        {
+          "d": "25. 2. 1930",
+          "j": "Josef Pudil",
+          "p": "bytem v č. 15, narozen 28. 12. 1906 v č. 22; syn Jana Pudila z č. 12",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
+          "r": 1930
+        },
+        {
+          "d": "4. 10. 1930",
+          "j": "Marie Kejvalová",
+          "p": "dcera Františka Kejvala, narozena 17. 6. 1907 v č. 15; provdána do Pošné č. 26",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/219\" target=\"_blank\" rel=\"noopener\">sn. 219</a>",
+          "r": 1930
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1930"
     },
     {
       "klic": "16",
@@ -9653,15 +10030,15 @@ window.MAPA_DATA = {
         {
           "d": "10. / 11. 1. 1847",
           "j": "Josef Rypl (?)",
-          "p": "otec při narození dítěte Josef Rypl (?)",
-          "r": 1847,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravopis příjmení je pracovní",
+          "r": 1847
         },
         {
           "d": "10. / 11. 1. 1847",
           "j": "Josef Rypl (?)",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pravopis příjmení je pracovní",
-          "r": 1847
+          "p": "otec při narození dítěte Josef Rypl (?)",
+          "r": 1847,
+          "rod": "o"
         },
         {
           "d": "10. / 11. 1. 1847",
@@ -9720,15 +10097,15 @@ window.MAPA_DATA = {
         {
           "d": "7. / 8. 8. 1857",
           "j": "Vojtěch Díčka (?)",
-          "p": "otec při narození dítěte Vojtěch Díčka (?)",
-          "r": 1857,
-          "rod": "o"
+          "p": "narození / křest; dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení opakované v N16",
+          "r": 1857
         },
         {
           "d": "7. / 8. 8. 1857",
           "j": "Vojtěch Díčka (?)",
-          "p": "narození / křest; dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení opakované v N16",
-          "r": 1857
+          "p": "otec při narození dítěte Vojtěch Díčka (?)",
+          "r": 1857,
+          "rod": "o"
         },
         {
           "d": "25. / 26. 11. 1859",
@@ -9809,6 +10186,20 @@ window.MAPA_DATA = {
           "p": "otec při narození dítěte Jan Díčka (?)",
           "r": 1867,
           "rod": "o"
+        },
+        {
+          "d": "1. 2. 1921",
+          "j": "Anna Kejvalová, provdaná Plášilová",
+          "p": "nevěsta ze Zahrádky č. 16, narozena 22. 5. 1890",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>",
+          "r": 1921
+        },
+        {
+          "d": "1. 2. 1921",
+          "j": "Terezie Kejvalová, provdaná Rohovcová",
+          "p": "nevěsta ze Zahrádky č. 16, narozena 3. 10. 1896; téhož dne se vdávala i sestra Anna",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>",
+          "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
@@ -9897,9 +10288,38 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · žákyně",
           "r": 1921
+        },
+        {
+          "d": "1921 a 1922",
+          "j": "Jan Kejval",
+          "p": "domkář v č. 16; otec Anny, Terezie a Karolíny",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>, <a href=\"https://digi.ceskearchivy.cz/6624/171\" target=\"_blank\" rel=\"noopener\">sn. 171</a>",
+          "r": 1921,
+          "rr": 1922
+        },
+        {
+          "d": "14. 2. 1922",
+          "j": "Karolína Kejvalová, provdaná Kulhavá",
+          "p": "narozena 5. 4. 1901 v č. 16; provdána do Velkých Outěchovic č. 35. Otec udělil nezletilé souhlas",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/171\" target=\"_blank\" rel=\"noopener\">sn. 171</a>",
+          "r": 1922
+        },
+        {
+          "d": "14. 2. 1922",
+          "j": "Kateřina Kejvalová, rozená Pošusta",
+          "p": "manželka Jana Kejvala, matka Karolíny; z Litohoště č. 25",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/171\" target=\"_blank\" rel=\"noopener\">sn. 171</a>",
+          "r": 1922
+        },
+        {
+          "d": "22. 10. 1948",
+          "j": "J. Kejvalová",
+          "p": "zemřela; matriční zpráva farnosti Pošná. Křestní jméno pramen zkracuje. Navazuje patrně na rodinu Jana Kejvala z čp. 16, pramen to však neuvádí",
+          "z": "<a href=\"https://www.digitalniknihovna.cz/cbvk/uuid/uuid:ab945563-3fde-11f0-8920-005056841fbb\" target=\"_blank\" rel=\"noopener\">Palcát, 12. 11. 1948, s. 6</a>",
+          "r": 1948
         }
       ],
-      "rozsah": "1802–1921"
+      "rozsah": "1802–1948"
     },
     {
       "klic": "17",
@@ -10474,9 +10894,16 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · zemědělský pracovník",
           "r": 1921
+        },
+        {
+          "d": "14. 7. 1928",
+          "j": "Václav Plášil",
+          "p": "krejčí v č. 17, svědek; jiná osoba než stejnojmenný domkář v č. 24",
+          "z": "tentýž zápis",
+          "r": 1928
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1788–1928"
     },
     {
       "klic": "18",
@@ -10814,15 +11241,15 @@ window.MAPA_DATA = {
         {
           "d": "4. / 5. 10. 1870",
           "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1870,
-          "rod": "o"
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
+          "r": 1870
         },
         {
           "d": "4. / 5. 10. 1870",
           "j": "František <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné",
-          "r": 1870
+          "p": "otec při narození dítěte František <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1870,
+          "rod": "o"
         },
         {
           "d": "4. / 5. 10. 1870",
@@ -10977,9 +11404,45 @@ window.MAPA_DATA = {
           "p": "služka; svobodná",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "18. 7. 1922",
+          "j": "Antonie Kudrnová, rozená Kratochvíl",
+          "p": "vdova po Josefu Kudrnovi, domkáři v č. 18",
+          "z": "tentýž zápis",
+          "r": 1922
+        },
+        {
+          "d": "18. 7. 1922",
+          "j": "Marie Kratochvílová",
+          "p": "nevěsta ze Zahrádky č. 18, narozena v Táboře č. 238; dcera Antonie",
+          "z": "tentýž zápis",
+          "r": 1922
+        },
+        {
+          "d": "zemřel před 18. 7. 1922",
+          "j": "Josef Kudrna",
+          "p": "domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">sn. 174</a>",
+          "r": 1922
+        },
+        {
+          "d": "24. 11. 1928",
+          "j": "Josef Vacík",
+          "p": "truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují",
+          "z": "tentýž zápis",
+          "r": 1928
+        },
+        {
+          "d": "24. 11. 1928 a 9. 11. 1929",
+          "j": "Antonín Kudrna",
+          "p": "domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/208\" target=\"_blank\" rel=\"noopener\">sn. 208</a>, <a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>",
+          "r": 1928,
+          "rr": 1929
         }
       ],
-      "rozsah": "1808–1921"
+      "rozsah": "1808–1929"
     },
     {
       "klic": "19",
@@ -11431,6 +11894,20 @@ window.MAPA_DATA = {
           "r": 1880
         },
         {
+          "d": "8. 1. 1921",
+          "j": "Anna Vaňková",
+          "p": "dcera Josefa Vaňka, narozena 14. 5. 1889",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/160\" target=\"_blank\" rel=\"noopener\">sn. 160</a>",
+          "r": 1921
+        },
+        {
+          "d": "3. 2. 1921",
+          "j": "Jan Vaněk",
+          "p": "rolnický syn narozený v č. 19; oženil se do Nesvačil č. 3",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/164\" target=\"_blank\" rel=\"noopener\">sn. 164</a>",
+          "r": 1921
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Františka Vaňková",
           "p": "manželka",
@@ -11471,9 +11948,39 @@ window.MAPA_DATA = {
           "p": "syn; svobodný",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "1921, 1923, 1924 a 1929",
+          "j": "Josef Vaněk",
+          "p": "chalupník v č. 19; otec Anny, Jana, Karla, Růženy a Aloise",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/160\" target=\"_blank\" rel=\"noopener\">sn. 160</a>, <a href=\"https://digi.ceskearchivy.cz/6624/164\" target=\"_blank\" rel=\"noopener\">sn. 164</a>, <a href=\"https://digi.ceskearchivy.cz/6624/179\" target=\"_blank\" rel=\"noopener\">sn. 179</a>, <a href=\"https://digi.ceskearchivy.cz/6624/185\" target=\"_blank\" rel=\"noopener\">sn. 185</a>, <a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>",
+          "r": 1921,
+          "rr": 1929
+        },
+        {
+          "d": "20. 11. 1923; svědek 1929 a 1930",
+          "j": "Karel Vaněk",
+          "p": "narozen 3. 1. 1891 v č. 19, roku 1929 rolník tamtéž. Totožný s legionářem Karlem Vaňkem (Itálie, 39. pěší pluk) — datum narození souhlasí na den",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/179\" target=\"_blank\" rel=\"noopener\">sn. 179</a>, <a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>, <a href=\"https://www.csol.cz/legionar/119257/\" target=\"_blank\" rel=\"noopener\">legionářská karta</a>",
+          "r": 1923,
+          "rr": 1930
+        },
+        {
+          "d": "22. 11. 1924",
+          "j": "Růžena Vaňková",
+          "p": "dcera Josefa Vaňka, narozena 6. 11. 1900; provdána za průvodčího vlaků do Ústí nad Labem",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/185\" target=\"_blank\" rel=\"noopener\">sn. 185</a>",
+          "r": 1924
+        },
+        {
+          "d": "16. 11. 1929",
+          "j": "Alois Vaněk",
+          "p": "narozen 25. 6. 1894 v č. 19; zaměstnanec při polním hospodářství v Nesvačilech",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>",
+          "r": 1929
         }
       ],
-      "rozsah": "1813–1921"
+      "rozsah": "1813–1930"
     },
     {
       "klic": "20",
@@ -12027,15 +12534,15 @@ window.MAPA_DATA = {
         {
           "d": "18. / 19. 5. 1876",
           "j": "Jan Dvořáček",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1876
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1876,
+          "rod": "o"
         },
         {
           "d": "18. / 19. 5. 1876",
           "j": "Jan Dvořáček",
-          "p": "otec při narození dítěte Jan Dvořáček",
-          "r": 1876,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
         },
         {
           "d": "18. / 19. 5. 1876",
@@ -12065,6 +12572,13 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "sňatek 28. 1. 1901",
+          "j": "Alois Kaňka",
+          "p": "zedník a ženich; dříve narozen v N11",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/75\" target=\"_blank\" rel=\"noopener\">oddací matrika</a>",
+          "r": 1901
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Zelenková",
           "p": "manželka",
@@ -12091,9 +12605,30 @@ window.MAPA_DATA = {
           "p": "dcera; svobodná",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "14. 2. 1925",
+          "j": "Jan Zelenka",
+          "p": "domkář v č. 20, svědek; v domě tak žijí současně Václav i Jan Zelenka",
+          "z": "tentýž zápis",
+          "r": 1925
+        },
+        {
+          "d": "14. 2. 1925",
+          "j": "Karel Zelenka",
+          "p": "tesařský pomocník v č. 20, narozen tamtéž; ženich Marie Pudilové z č. 12",
+          "z": "tentýž zápis",
+          "r": 1925
+        },
+        {
+          "d": "14. 2. 1925",
+          "j": "Václav Zelenka",
+          "p": "domkář v č. 20, otec Karla",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/186\" target=\"_blank\" rel=\"noopener\">sn. 186</a>",
+          "r": 1925
         }
       ],
-      "rozsah": "1819–1921"
+      "rozsah": "1819–1925"
     },
     {
       "klic": "21",
@@ -12535,14 +13070,14 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
-          "p": "syn; svobodný",
+          "p": "přednosta domácnosti",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
-          "p": "přednosta domácnosti",
+          "p": "syn; svobodný",
           "h": 1,
           "r": 1921
         },
@@ -12580,9 +13115,16 @@ window.MAPA_DATA = {
           "p": "dcera; svobodná",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "9. 11. 1929",
+          "j": "Anežka Rohovcová",
+          "p": "u rodičů v č. 21, narozena 11. 10. 1903; dcera tesaře Jana Rohovce. Táž rodina je roku 1921 a 1928 u č. 1 — posun čísla domu zůstává nevysvětlen",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>",
+          "r": 1929
         }
       ],
-      "rozsah": "1812–1921"
+      "rozsah": "1812–1929"
     },
     {
       "klic": "22",
@@ -12675,6 +13217,42 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "doložen 1901",
+          "j": "Tomáš Kaňka",
+          "p": "obuvník; otec Aloise, spojený v zápisu s č. 22",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/75\" target=\"_blank\" rel=\"noopener\">oddací matrika syna</a>",
+          "r": 1901
+        },
+        {
+          "d": "doložena 1901",
+          "j": "Kateřina Kaňková, rozená Čermáková",
+          "p": "matka Aloise; rodinná vazba k č. 22",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/75\" target=\"_blank\" rel=\"noopener\">oddací matrika syna</a>",
+          "r": 1901
+        },
+        {
+          "d": "18. 5. 1920",
+          "j": "Jan Rohovec",
+          "p": "tesař v č. 22, otec nevěsty; roku 1928 týž tesař v č. 1 a roku 1929 v č. 21",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/158\" target=\"_blank\" rel=\"noopener\">sn. 158</a>, <a href=\"https://digi.ceskearchivy.cz/6624/208\" target=\"_blank\" rel=\"noopener\">sn. 208</a>, <a href=\"https://digi.ceskearchivy.cz/6624/213\" target=\"_blank\" rel=\"noopener\">sn. 213</a>",
+          "r": 1920
+        },
+        {
+          "d": "18. 5. 1920",
+          "j": "Růžena Rohovcová, provdaná Fraňková",
+          "p": "nevěsta, narozená v č. 22",
+          "z": "tentýž zápis",
+          "r": 1920
+        },
+        {
+          "d": "1920, 1928 a 1929",
+          "j": "Josefa Rohovcová, rozená Žák",
+          "p": "matka Růženy, Marie a Anežky; ve všech zápisech „ze Zahrádky č. 22“",
+          "z": "tytéž zápisy",
+          "r": 1920,
+          "rr": 1929
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Božena Bílková",
           "p": "dcera; svobodná",
@@ -12738,7 +13316,7 @@ window.MAPA_DATA = {
           "r": 1921
         }
       ],
-      "rozsah": "1815–1921"
+      "rozsah": "1815–1929"
     },
     {
       "klic": "23",
@@ -12971,6 +13549,20 @@ window.MAPA_DATA = {
           "r": 1849
         },
         {
+          "d": "1. 2. 1921",
+          "j": "Antonín Plášil",
+          "p": "rolník v č. 24, narozen 14. 1. 1891 tamtéž; ženich",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 163</a>",
+          "r": 1921
+        },
+        {
+          "d": "1. 2. 1921",
+          "j": "Kateřina Plášilová, rozená Šíva",
+          "p": "matka Antonína; z Pošné č. 37",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>",
+          "r": 1921
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Plášil",
           "p": "majitel bytu; přednosta domácnosti",
@@ -12997,9 +13589,24 @@ window.MAPA_DATA = {
           "p": "dcera; svobodná",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "1921 a 1928",
+          "j": "Václav Plášil",
+          "p": "domkář v č. 24, otec Antonína a děd Antonie",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>, <a href=\"https://digi.ceskearchivy.cz/6624/206\" target=\"_blank\" rel=\"noopener\">sn. 206</a>",
+          "r": 1921,
+          "rr": 1928
+        },
+        {
+          "d": "14. 7. 1928",
+          "j": "Antonie Plášilová",
+          "p": "narozena v č. 24, nemanželská dcera Anny provdané Škodové, vnučka Václava Plášila",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/206\" target=\"_blank\" rel=\"noopener\">sn. 206</a>",
+          "r": 1928
         }
       ],
-      "rozsah": "1833–1921"
+      "rozsah": "1833–1928"
     },
     {
       "klic": "25",
@@ -13039,9 +13646,30 @@ window.MAPA_DATA = {
           "p": "služka; svobodná",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "16. 6. 1928",
+          "j": "Jan Kadlec",
+          "p": "dělník v č. 25; matrika čte Kadlec, sčítání 1921 vede u čp. 25 Josefa Kudlce — pravopis se bez zvětšeniny nesjednocuje",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/206\" target=\"_blank\" rel=\"noopener\">sn. 206</a>",
+          "r": 1928
+        },
+        {
+          "d": "16. 6. 1928",
+          "j": "Marie Kadlecová",
+          "p": "manželka Jana Kadlece",
+          "z": "tentýž zápis",
+          "r": 1928
+        },
+        {
+          "d": "16. 6. 1928",
+          "j": "Terezie Habarthová",
+          "p": "schovanka Jana a Marie Kadlecových v č. 25, narozená ve Vídni",
+          "z": "tentýž zápis",
+          "r": 1928
         }
       ],
-      "rozsah": "1921"
+      "rozsah": "1921–1928"
     },
     {
       "klic": "x",
@@ -13104,11 +13732,54 @@ window.MAPA_DATA = {
           "r": 1654
         },
         {
+          "d": "narozen 10. 9. 1876, pohřben 12. 1. 1956",
+          "j": "Václav Plášil",
+          "p": "rodák ze Zahrádky; podle vzpomínkového dopisu bydlela rodina v <b>obecní pastoušce</b> a patřila k nejchudším ve vsi, na stáří se manželé odstěhovali do Samšína k dceři",
+          "z": "Z mého kraje, týž ročník · —",
+          "r": 1876,
+          "rr": 1956
+        },
+        {
+          "d": "1884",
+          "j": "Václav Kejval",
+          "p": "fundátor žulového kříže u kaple; nápis: „Tento kříž založil ke cti a chvále Boží Václav a Marie Kejval ze Zahrádky 1884“",
+          "z": "Památkový katalog NPÚ, element 13227938 · —",
+          "r": 1884
+        },
+        {
+          "d": "1884",
+          "j": "Marie Kejvalová",
+          "p": "fundátorka žulového kříže u kaple; týž nápis",
+          "z": "tentýž pramen · —",
+          "r": 1884
+        },
+        {
+          "d": "1884",
+          "j": "Jan Košilka",
+          "p": "fundátor kříže „ke cti a chvále Boží“, který stojí před domem čp. 9; pramen jmenuje dům jen jako místo kříže, nikoli jako bydliště",
+          "z": "Z mého kraje, 2023 · —",
+          "r": 1884
+        },
+        {
+          "d": "1884",
+          "j": "Anna Košilková",
+          "p": "fundátorka téhož kříže před čp. 9",
+          "z": "tentýž pramen · —",
+          "r": 1884
+        },
+        {
           "d": "seznam pro rok 1898",
           "j": "František Franěk",
           "p": "rolník a porotce ze Zahrádky u Pošné",
           "z": "uložený novinový výřez · ZAH-O002",
           "r": 1898
+        },
+        {
+          "d": "narozena 22. 6. 1901",
+          "j": "Marie Bartošková",
+          "p": "oznámení v okresním týdeníku Nástup",
+          "z": "Nástup · —",
+          "r": 1901
         },
         {
           "d": "adresář 1915",
@@ -13158,9 +13829,483 @@ window.MAPA_DATA = {
           "p": "člen obecního výboru",
           "z": "tentýž pramen · ZAH-O016",
           "r": 1915
+        },
+        {
+          "d": "leden–listopad 1918; zemřel v říjnu 1919",
+          "j": "Antonín Franěk",
+          "p": "ukryl zvonek z návesní kapličky před válečnou rekvizicí v místě zvaném Hejdův lom a 10. 11. 1918 jej vrátil obci; zemřel na španělskou chřipku. Podle pamětníků dal postavit kříž za vsí, jemuž se říká „U Fraňku“",
+          "z": "Z mého kraje, Z mého kraje, 2023 · —",
+          "r": 1918,
+          "rr": 1919
+        },
+        {
+          "d": "narozen 29. 8. 1919",
+          "j": "František Rohovec",
+          "p": "jubilea 1984, 1986 a 1989 oznámena v okresním týdeníku Nástup",
+          "z": "Nástup · —",
+          "r": 1919
+        },
+        {
+          "d": "narozen 2. 10. 1920, pohřben 28. 5. 1982",
+          "j": "František Kříž",
+          "p": "parte v okresním týdeníku",
+          "z": "Nástup · —",
+          "r": 1920,
+          "rr": 1982
+        },
+        {
+          "d": "2. 10. 1932",
+          "j": "Františka Kudrnová",
+          "p": "manželka rolníka ze Zahrádky; o pouti v Pacově ji v průvodu srazil nákladní automobil, když šla s manželem a tříletým synkem",
+          "z": "Týdeník z Českomoravské vysočiny · —",
+          "r": 1932
+        },
+        {
+          "d": "8. 7. 1938",
+          "j": "Jan Plášil",
+          "p": "<b>deputátník</b> (deputátní dělník velkostatku); neznámý pachatel se mu vloupal oknem do bytu",
+          "z": "Český jih, 16. 7. 1938, s. 3, Týdeník, 21. 7. 1938 · —",
+          "r": 1938
+        },
+        {
+          "d": "červenec 1943",
+          "j": "Karel Adam",
+          "p": "manžel zesnulé ženy; poděkování za účast na pohřbu 22. 7. 1943 na hřbitově v Pošné je datováno „V Zahrádce u Pošné“",
+          "z": "Týdeník, 29. 7. 1943, s. 4 · —",
+          "r": 1943
+        },
+        {
+          "d": "červenec 1943",
+          "j": "Josef Pachta",
+          "p": "otec zesnulé; podepsán pod týmž poděkováním spolu s manželkou Antonií a synem Josefem",
+          "z": "tentýž pramen · —",
+          "r": 1943
+        },
+        {
+          "d": "červenec 1943",
+          "j": "Antonie Pachtová",
+          "p": "matka zesnulé",
+          "z": "tentýž pramen · —",
+          "r": 1943
+        },
+        {
+          "d": "prosinec 1952",
+          "j": "Coufal",
+          "p": "rolník hospodařící na 8 ha, jehož podpis podle dobového tisku rozhodl o založení JZD Zahrádka 19. 12. 1952",
+          "z": "Vesnické noviny, 1955 · —",
+          "r": 1952
+        },
+        {
+          "d": "1953–1957",
+          "j": "Kejval; Kejvalová; Kříž (František Kříž)",
+          "p": "jmenovitě doložení družstevníci JZD Zahrádka v soutěžích živočišné výroby; roku 1956 Svobodovi a Kejvalovi 6 litrů mléka na ustájenou krávu, Kejvalové 114,1 vejce I. třídy",
+          "z": "Vesnické noviny · —",
+          "r": 1953,
+          "rr": 1957
+        },
+        {
+          "d": "1954 a 1957",
+          "j": "Josef Pachta",
+          "p": "<b>tajemník MNV Zahrádka</b> (1954), výcvikář ZO Svazarmu (1957). Shoda jména s otcem zesnulé z roku 1943; totožnost není doložena",
+          "z": "Vesnické noviny, 1954, 8. 5. 1957 · —",
+          "r": 1954,
+          "rr": 1957
+        },
+        {
+          "d": "1955 a 1956",
+          "j": "Rohovec",
+          "p": "<b>předseda JZD Zahrádka</b> (výroční členská schůze 12. 3. 1955); roku 1956 uveden mezi třemi družstevníky Pacovska, kteří již mají osobní automobil",
+          "z": "Vesnické noviny, 12. 3. 1955, 11. 8. 1956 · —",
+          "r": 1955,
+          "rr": 1956
+        },
+        {
+          "d": "1956 a 8. 5. 1957",
+          "j": "Zdeněk (Zd.) Svoboda",
+          "p": "družstevník živočišné výroby JZD Zahrádka, roku 1957 předseda místní základní organizace Svazarmu",
+          "z": "Vesnické noviny · —",
+          "r": 1956,
+          "rr": 1957
+        },
+        {
+          "d": "leden–duben 1956",
+          "j": "Rohovcová",
+          "p": "družstevnice JZD Zahrádka; ošetřovala 100 slepic a dosáhla snůšky 6 051 vajec",
+          "z": "Vesnické noviny · —",
+          "r": 1956
+        },
+        {
+          "d": "8. 5. 1957",
+          "j": "Václav Bulant",
+          "p": "hospodář základní organizace Svazarmu v Zahrádce u Pošné",
+          "z": "tentýž pramen · —",
+          "r": 1957
+        },
+        {
+          "d": "pohřbena 26. 12. 1957",
+          "j": "Marie Plášilová",
+          "p": "„občanka ze Zahrádky u Pošné“, manželka Václava Plášila",
+          "z": "tytéž prameny · —",
+          "r": 1957
+        },
+        {
+          "d": "srpen 1957",
+          "j": "Jaroslav (Jar.) Plášil",
+          "p": "vedoucí prodejny Jednoty v Zahrádce u Pošné",
+          "z": "Vesnické noviny, 23. 8. 1957 · —",
+          "r": 1957
+        },
+        {
+          "d": "zemřela 30. 11. 1968",
+          "j": "Marie Plášilová",
+          "p": "pozůstalé rodiny se v parte podepsaly jako Chloupkova, Peštova a Plášilová",
+          "z": "Nástup · —",
+          "r": 1968
+        },
+        {
+          "d": "zemřel v červenci 1972",
+          "j": "Jan Zelenka",
+          "p": "po léčení v humpolecké nemocnici a pobytu v Domově důchodců v Humpolci; pohřbu se účastnili zástupci JZD a MO KSČ v Útěchovičkách",
+          "z": "Nástup · —",
+          "r": 1972
+        },
+        {
+          "d": "zemřel 29. 4. 1983",
+          "j": "Jan Kejval",
+          "p": "v parte podepsány děti Věra, Marie a Pavel",
+          "z": "Nástup · —",
+          "r": 1983
+        },
+        {
+          "d": "zemřela 3. 2. 1984",
+          "j": "Anežka Kejvalová",
+          "p": "manželka Jana Kejvala",
+          "z": "tentýž pramen · —",
+          "r": 1984
+        },
+        {
+          "d": "zemřel 10. 10. 1985",
+          "j": "Karel Kejval",
+          "p": "rodák ze Zahrádky u Pošné, pracovník Agrozetu Pelhřimov; sestra Věra",
+          "z": "Nástup · —",
+          "r": 1985
         }
       ],
-      "rozsah": "1654–1915"
+      "rozsah": "1654–1985"
+    }
+  ]
+};
+window.MAPA_DNES = {
+  "obec": [
+    {
+      "u": "Sčítání 2021: 24 obyvatel s obvyklým pobytem, 12 obydlených bytů. RÚIAN 2026: 26 adresních míst (čp. 1–11, 13–16, 20, 21, 24–32) a 37 stavebních objektů (11 bez čp.); čp. 12, 17, 18, 19, 22, 23 zanikla",
+      "z": "ČSÚ SLDB 2021; RÚIAN"
+    },
+    {
+      "u": "Stopy zaniklých stavení v katastru: zbořeniště st. 27/2 (u čp. 6), st. 28/1 a 28/2; „objekt k bydlení“ bez čp. na st. 49 a „zemědělská usedlost“ bez čp. na st. 37; v řadě stavebních parcel chybí 18 kmenových čísel — kandidátní místa zaniklých čp.",
+      "z": "RÚIAN, rozbor 31. 7. 2026"
+    },
+    {
+      "u": "Kaple sv. Jana Nepomuckého (st. 42) s žulovým křížem je kulturní památka od 3. 5. 1958 (ÚSKP 28918/3‑3351): zděná návesní kaple 19. století se stanovou střechou a lucernou; kříž z roku 1884 nese nápis fundátorů „Tento kříž založil ke cti a chvále Boží Václav a Marie Kejval ze Zahrádky 1884“",
+      "z": "Památkový katalog NPÚ"
+    },
+    {
+      "u": "Jediný zastupitel obce Pošná s bydlištěm na Zahrádce: Luděk Bulant (zvolen 2018 i 2022 za Sdružení nezávislých kandidátů Pošná; 2022 třetí nejvyšší počet hlasů) — bydliště dle kandidátní listiny jen na úroveň části obce",
+      "z": "volby.cz, otevřená data KV2018/KV2022"
+    },
+    {
+      "u": "Pouť sv. Jana Nepomuckého obnovena rokem 2025; ročník 2026 ohlášen na 16. 5. s trasou od kaple k areálu bývalého dvora",
+      "z": "poutnazahradce.cz"
+    },
+    {
+      "u": "Pole katastru (198 ha v LPIS) obhospodařují: ZD Velká Chyška 151,4 ha, Bc. David Andrew Homolka (Březina 1) 38,2 ha, SPV Pelhřimov a.s. 5,2 ha a dva menší uživatelé; Státní pozemkový úřad propachtovává ZD Velká Chyška 0,86 ha státních pozemků",
+      "z": "LPIS 25. 7. 2026; registr smluv 74N1648"
+    },
+    {
+      "u": "Prodeje státního lesa 5/2026: Lesy ČR prodaly parc. 155/2 (0,36 ha, 70 500 Kč) manželům Duffkovým z Pacova a parc. 288/1 (1,23 ha, 300 000 Kč) Bc. Davidu A. Homolkovi a Mileně Homolkové — potomek posledních majitelů velkostatku tak získává i les na katastru",
+      "z": "registr smluv, kupní smlouvy Lesů ČR"
+    },
+    {
+      "u": "Obec Pošná 2023–2026: oprava místních komunikací 5c a 6c na Zahrádce (SWIETELSKY, 1,11 mil. Kč, 2024), žádost o opravu mostku (2025), vodné/stočné vodovodu Zahrádka shodné s Pošnou; ČOV (plocha Z27 dle ÚP 2017) zatím bez kroků v usneseních",
+      "z": "usnesení ZO Pošná"
+    },
+    {
+      "u": "Odstávka elektřiny EG.D 7. 8. 2026 dokládá aktivní odběrná místa: čp. 1–11, 13, 14, 15, 20, 21, 24–28 a 31 + odběry na parcelách bez čp. (3/1, 12/2, 44, 420/7); mimo seznam této odstávky jsou čp. 16, 29, 30 a 32",
+      "z": "EG.D, úřední deska Pošné"
+    },
+    {
+      "u": "Ves má <b>vlastní vodovod „Vodovod Zahrádka“</b> s prameništěm v lese asi 500 m jihovýchodně od vsi, oddělený od soustavy Pošné; proto obec stanovovala pro Zahrádku výrazně nižší vodné (2007: 5 vs 12 Kč/m³ v Pošné; 2012 vč. DPH: 12,50 vs 21,70)",
+      "z": "Územní plán Pošná, kap. 2.1.2; usnesení ZO Pošná 2007–2012"
+    },
+    {
+      "u": "Na Zahrádce stojí <b>samostatná hasičská zbrojnice</b>; obec ji roku 2011 opravovala a roku 2012 jí vyměnila a podbila střechu (Lacina – Střechy, Hořepník). Téhož roku byla zrušena zahrádecká stříkačka PPS 8 a pořízeno plovoucí kalové čerpadlo",
+      "z": "usnesení ZO Pošná č. 4/2011, 4/2012, 5/2012 a 1/2012"
+    },
+    {
+      "u": "Územní plán (účinný 7. 3. 2017) vymezuje na Zahrádce jen dvě zastavitelné plochy: <b>Z26 pro venkovské bydlení, 0,32 ha, výslovně pro dva rodinné domy</b>, a Z27 pro technickou infrastrukturu, 0,08 ha, pro ČOV na části p. č. 386/1",
+      "z": "Územní plán Pošná"
+    },
+    {
+      "u": "Katastrální území měří <b>371,4467 ha</b>, sídlo leží ve výšce 515–540 m n. m. Houskův Mlýn stojí při Kejtovském potoce v k. ú. Zahrádka u Pošné, ale jeho budovy nesou čísla popisná části obce Pošná (čp. 35 a 79)",
+      "z": "Územní plán Pošná"
+    },
+    {
+      "u": "V katastru je evidováno <b>poddolované území č. 2509 „Zahrádka u Pošné“</b> po těžbě rud před 16. stoletím — ves stojí na starém hornickém revíru",
+      "z": "Územní plán Pošná, odůvodnění"
+    },
+    {
+      "u": "Kaple a kříž pod dlouhodobou péčí obce: 2007 žádost o dotaci z POV Vysočina, 2008 oprava kapličky, 2013 další oprava, <b>2020 zjištěn havarijní stav památného kříže</b> a získána dotace Ministerstva kultury; kříž restauroval MgA. Jan Vodáček",
+      "z": "usnesení ZO Pošná 2007–2020; Z mého kraje"
+    },
+    {
+      "u": "Lesní pozemky p. č. 206/5 a 302/8 v katastru vlastnila k roku 2021 společnost Zem. spol. SKALSKO, s. r. o.; obec si nechala zpracovat znalecký posudek a jednala o odkupu",
+      "z": "usnesení ZO Pošná 2021/2/15"
+    },
+    {
+      "u": "Podle pamětníků vyřezal sošku sv. Jana Nepomuckého v návesní kapličce „pan Franěk z chalupy, kde se říkalo u Lučanů“; kříž za vsí dal postavit Antonín Franěk a místu se říká „U Fraňku“ nebo „u Lučanovského křížku“",
+      "z": "Z mého kraje (vzpomínky pamětníků)"
+    }
+  ],
+  "1": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 29/1, zastavěná plocha 415 m², 2 podlaží, dokončení 22. 9. 2023 (novostavba/přestavba na místě historického N1 rodu Fraňků); vedle „jiná stavba“ bez čp. na st. 29/2",
+      "z": "RÚIAN, SO 8831181"
+    }
+  ],
+  "1a": [
+    {
+      "u": "Historické označení bytu ze sčítání 1921; dnes bez samostatné adresy v RÚIAN",
+      "z": "RÚIAN"
+    }
+  ],
+  "2": [
+    {
+      "u": "Kulturní památka „venkovská usedlost“ od 3. 5. 1958 (ÚSKP 36052/3‑3350): zděné hospodářské budovy a roubené obytné stavení s trojdílnou dispozicí, doklad stavebního vývoje 19. století; stodola úředně zanikla (oznámení NPÚ 12. 1. 2021); chráněna st. 15/1, na st. 15/2 novostavba RD z 30. 3. 2016 (mimo ochranu)",
+      "z": "Památkový katalog NPÚ; RÚIAN"
+    },
+    {
+      "u": "Územní plán uvádí úřední členění kulturní památky do pěti chráněných částí: obytná část, stáje, kolna, stodola a ohradní zeď s brankou (stodola úředně zanikla roku 2021)",
+      "z": "Územní plán Pošná; NPÚ"
+    }
+  ],
+  "3": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 16/6 (78 m²); vedle zemědělská stavba bez čp. na st. 16/5",
+      "z": "RÚIAN, SO 8831203"
+    }
+  ],
+  "4": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 17, 152 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 21). Místní paměť MJS‑001: „naše chalupa“ — posloupnost rodin Novák → Markvart",
+      "z": "RÚIAN, SO 8831211; místní paměť"
+    }
+  ],
+  "5": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960",
+      "z": "RÚIAN, SO 8831220"
+    }
+  ],
+  "6": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 27/1, 113 m², dokončení evidováno k roku 1960; sousední st. 27/2 (404 m²) je zbořeniště",
+      "z": "RÚIAN, SO 8831238"
+    },
+    {
+      "u": "Zdeněk Svoboda: v letech 2019–2020 zde měl trvalý pobyt a byl vlastníkem rodinného domu — smlouva Kraje Vysočina o kotlíkové dotaci (PR02737.1375, 120 000 Kč, 9. 4. 2020) uvádí adresu „Zahrádka 6, 395 01 Pošná“",
+      "z": "registr smluv, KUJIP01F3XZV"
+    }
+  ],
+  "7": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 8, 145 m², dokončení evidováno k roku 1945",
+      "z": "RÚIAN, SO 8831246"
+    }
+  ],
+  "8": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Sídlo podnikání: Anna Vlčková (od 2006; technické návrhy a grafika, chov a výcvik zvířat, výroba upomínkových předmětů)",
+      "z": "RÚIAN, SO 8831254; ARES/RŽP"
+    }
+  ],
+  "9": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 24, 397 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1980",
+      "z": "RÚIAN, SO 8831262"
+    },
+    {
+      "u": "Jaroslav Plášil, bytem Zahrádka 9, byl od 26. 9. 2001 do 22. 2. 2013 členem představenstva Zemědělského družstva Velká Chyška (a dříve 1993–1998); v komunálních volbách 1998 byl za sdružení nezávislých kandidátů zvolen zastupitelem obce Pošná",
+      "z": "obchodní rejstřík (ARES), volby.cz KV1998"
+    },
+    {
+      "u": "Roku 2008 schválilo zastupitelstvo obce úpravu veřejného prostranství u čp. 9 spolu s dezinfekcí obecní studny a opravou kanalizace na Zahrádce",
+      "z": "usnesení ZO Pošná č. 3/2008"
+    }
+  ],
+  "10": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 26, 234 m², dokončení evidováno k roku 1980",
+      "z": "RÚIAN, SO 8831271"
+    }
+  ],
+  "11": [
+    {
+      "u": "RÚIAN: rodinný dům (bývalý panský dvůr) na st. 1 — s 3 543 m² zdaleka největší stavební parcele katastru; zastavěná plocha 304 m², způsob využití „rodinný dům“ od 2. 6. 2022",
+      "z": "RÚIAN, SO 8831289"
+    },
+    {
+      "u": "Sídlo spolku iZahrádka z. s. (od 31. 1. 2018; předseda výboru Patrik Jíra, místopředsedkyně Pavla Švantnerová); účelem mj. zachování lokálních tradic a historických reálií a rozvoj kulturně‑historického dědictví",
+      "z": "veřejný rejstřík, L 7471"
+    },
+    {
+      "u": "Areál bývalého dvora je cílem obnovené pouti („ruiny hospodářské usedlosti“); pozor — elektronická dražba 8/2026 se týká Pošné čp. 11 (jiný dům v k. ú. Pošná), nikoli tohoto areálu",
+      "z": "poutnazahradce.cz; portaldrazeb.cz"
+    }
+  ],
+  "13": [
+    {
+      "u": "RÚIAN: „objekt k bydlení“ (ne rodinný dům) na st. 12, 99 m², bez evidovaného bytu; aktivní odběr elektřiny 2026",
+      "z": "RÚIAN, SO 8831297; EG.D"
+    }
+  ],
+  "14": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 40, 242 m², 2 byty",
+      "z": "RÚIAN, SO 8831301"
+    }
+  ],
+  "15": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 10/3, 235 m², dokončení evidováno k roku 2006. Sídlo podnikání: Pavla Moravcová (od 2019; jóga — vázaná živnost, obchod)",
+      "z": "RÚIAN, SO 8831319; ARES/RŽP"
+    },
+    {
+      "u": "Pavla Moravcová zde má nejen sídlo podnikání, ale doloženě i bydliště — smlouva o kotlíkové dotaci (PR02270.0027, 120 000 Kč, 27. 3. 2018) uvádí adresu čp. 15 a je podepsána „V Zahrádce“",
+      "z": "registr smluv, KUJIP018KO5Y"
+    }
+  ],
+  "16": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 7, 159 m², dokončení evidováno k roku 1960; jediné obydlené starší čp. mimo seznam odstávky EG.D 8/2026",
+      "z": "RÚIAN, SO 8831327; EG.D"
+    }
+  ],
+  "20": [
+    {
+      "u": "RÚIAN: „objekt k bydlení“ na st. 18, 138 m², 1 byt. Sídlo podnikání: Michael Marousek (od 26. 6. 2025; ubytovací služby — možný nástup agroturistiky)",
+      "z": "RÚIAN, SO 8831335; ARES/RŽP"
+    }
+  ],
+  "21": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 38, 281 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 4)",
+      "z": "RÚIAN, SO 8831343"
+    }
+  ],
+  "24": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 31, 111 m²",
+      "z": "RÚIAN, SO 8831351"
+    }
+  ],
+  "25": [
+    {
+      "u": "RÚIAN: stavba pro rodinnou rekreaci na st. 34/2, 39 m²; tvoří dvojici s čp. 29 na st. 34/1",
+      "z": "RÚIAN, SO 8831360"
+    }
+  ],
+  "26": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 32, 206 m²",
+      "z": "RÚIAN, SO 8831378"
+    }
+  ],
+  "27": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 43, 223 m², 2 podlaží, dokončení evidováno k roku 1960. Sídlo podnikání: Stanislav Janda (zednictví od 1999, přerušeno od 13. 1. 2025). Místní paměť MJS‑004: „Standa Janda byl původně Rohovec“ (sdělení bez čísla domu; nespojovat automaticky)",
+      "z": "RÚIAN, SO 8831386; ARES/RŽP; místní paměť"
+    },
+    {
+      "u": "Stanislav Janda je v kotlíkové dotaci Kraje Vysočina (PR01537.0092, smlouva 16. 5. 2016, dodatek 12. 1. 2017) veden s adresou „Zahrádka 27, 395 01 Pošná“ — čp. 27 je tedy jeho bydliště, nejen sídlo živnosti",
+      "z": "registr smluv, KUJIP01683BH"
+    }
+  ],
+  "28": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 47, 142 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1990 — číslo nad historickou řadou, dosud bez historických dokladů ve spisu",
+      "z": "RÚIAN, SO 8831394"
+    },
+    {
+      "u": "Luděk Bulant, zastupitel obce Pošná, měl v letech 2017–2018 na čp. 28 trvalý pobyt: smlouva o kotlíkové dotaci (PR02270.2421, 100 000 Kč, 27. 3. 2018) uvádí adresu „Zahrádka 28, Pošná“ a žádost místo realizace v k. ú. 775606",
+      "z": "registr smluv, KUJIP018KDEU"
+    },
+    {
+      "u": "Zvolen zastupitelem v šesti po sobě jdoucích komunálních volbách (2002, 2006, 2010, 2014, 2018, 2022; roku 2002 s nejvyšším počtem hlasů v obci) a opakovaně předsedou kontrolního výboru (2014, 2018, 2022)",
+      "z": "volby.cz, otevřená data; usnesení ZO Pošná"
+    },
+    {
+      "u": "Starší vazba téhož domu: Václav Bulant (nar. 1939) byl členem představenstva ZD Velká Chyška 1993–2001, před ním Růžena Bulantová (1993); obchodní rejstřík u obou uvádí adresu „č. p. 28, Zahrádka“ (ARES ji chybně standardizoval na Zahrádku u Třebíče)",
+      "z": "obchodní rejstřík (ARES)"
+    }
+  ],
+  "29": [
+    {
+      "u": "RÚIAN: drobný objekt na st. 34/1 (40 m², bez bytu), vedle rekreačního čp. 25",
+      "z": "RÚIAN, SO 8831408"
+    }
+  ],
+  "30": [
+    {
+      "u": "RÚIAN: stavba pro rodinnou rekreaci na st. 10/4, 193 m², vedle čp. 15",
+      "z": "RÚIAN, SO 30401500"
+    }
+  ],
+  "31": [
+    {
+      "u": "RÚIAN: rekreační dřevostavba na st. 53, 87 m², dokončena 17. 5. 2019",
+      "z": "RÚIAN, SO 97458104"
+    }
+  ],
+  "32": [
+    {
+      "u": "RÚIAN: rodinný dům na st. 3/1, 220 m², 2 podlaží, dokončen 13. 2. 2025 — nejnovější dům vsi (vytápění dřevo/biomasa, vlastní ČOV); sousední st. 3/2 je „společný dvůr“",
+      "z": "RÚIAN, SO 150466081"
+    }
+  ],
+  "12": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
+    }
+  ],
+  "17": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
+    }
+  ],
+  "18": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
+    }
+  ],
+  "19": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
+    }
+  ],
+  "22": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
+    }
+  ],
+  "23": [
+    {
+      "u": "Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách",
+      "z": "RÚIAN, 31. 7. 2026"
     }
   ]
 };

@@ -1,0 +1,500 @@
+# Úplná zjištění rešerše současného stavu (31. 7. 2026)
+
+62 zjištění a 113 domovních záznamů ze čtyř směrů, generováno ze surových
+dat (`reserse_vystup.json`). Kurátorovaný výtah je v
+[soucasny_stav_domu.md](../../../soucasny_stav_domu.md).
+
+## RÚIAN — budovy a adresy (12)
+
+- **Část obce Zahrádka (kód 175609) náleží k obci Pošná (kód 548600) a má k červenci 2026 v RÚIAN přesně 26 adresních míst: čp. 1–11, 13–16, 20, 21, 24–32, všechna ve tvaru „Zahrádka N, 395 01 Pošná“. Všech 26 objektů je typu „budova s číslem popisným“ — na Zahrádce nejsou žádná čísla evidenční (i rekreační objekty čp. 25, 30, 31 mají čp.).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST služba (vrstvy AdresniMisto a StavebniObjekt) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=castobce%3D175609&outFields=*&returnGeometry=false&f=json>
+
+- **Ověřeno: čp. 12, 17, 18, 19, 22 a 23 v RÚIAN neexistují — nemají adresní místo ani stavební objekt (žádný objekt s tímto číslem domovním v části obce 175609 není evidován). Rovněž historické čp. 1a nemá v RÚIAN žádnou stopu, čísla domovní na Zahrádce jsou výhradně číselná.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (úplná enumerace SO části obce 175609) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=castobce%3D175609&outFields=kod,cisladomovni&returnGeometry=false&f=json>
+
+- **Číselná řada čp. dnes pokračuje za známé čp. 27 až do čp. 32: čp. 28 (RD, dokončen 1990, st. 47), čp. 29 (drobný objekt na st. 34/1 u čp. 25), čp. 30 (rekreace, st. 10/4), čp. 31 (rekreační dřevostavba dokončená 17. 5. 2019, st. 53) a čp. 32 (novostavba RD dokončená 13. 2. 2025, st. 3/1).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=castobce%3D175609&outFields=kod,cisladomovni,dokonceni,zpusobvyuzitikod&returnGeometry=false&f=json>
+
+- **V k.ú. Zahrádka u Pošné (775606) je v RÚIAN evidováno celkem 37 stavebních objektů: 26 s čp. a 11 bez čp./č.e. Všechny stojí na stavebních parcelách (st.); prostorový dotaz polygonem k.ú. potvrdil, že žádný stavební objekt nestojí na pozemkové parcele.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (prostorový dotaz polygonem k.ú. 775606, vrstva StavebnihoObjektuDefinicniBod) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/7/query?where=kod%3D775606&outFields=kod,nazev&f=json>
+
+- **K.ú. 775606 má 43 stavebních parcel (vše druh pozemku „zastavěná plocha a nádvoří“): st. 1, 2, 3/1, 3/2, 7, 8, 10/3, 10/4, 12, 15/1, 15/2, 16/5, 16/6, 17, 18, 21, 22, 24, 26, 27/1, 27/2, 28/1, 28/2, 29/1, 29/2, 31, 32, 34/1, 34/2, 37, 38, 39, 40, 42, 43, 44, 46, 47, 48, 49, 50, 52, 53.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (vrstva Parcela) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/5/query?where=katastralniuzemi%3D775606+AND+druhcislovanikod%3D1&outFields=*&returnGeometry=false&f=json>
+
+- **Zvláštní parcely: st. 3/2 (63 m²) má způsob využití „společný dvůr“; st. 27/2 (404 m²), st. 28/1 (102 m²) a st. 28/2 (387 m²) jsou „zbořeniště“. Parcely st. 50 (43 m²) a st. 52 (10 m²) jsou zastavěná plocha, ale bez evidovaného stavebního objektu v RÚIAN.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (vrstva Parcela) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/5/query?where=katastralniuzemi%3D775606+AND+druhcislovanikod%3D1&outFields=cisloparcely,vymeraparcely,zpusobyvyuzitipozemku&returnGeometry=false&f=json>
+
+- **V řadě stavebních parcel chybí kmenová čísla st. 4, 5, 6, 9, 11, 13, 14, 19, 20, 23, 25, 30, 33, 35, 36, 41, 45 a 51 — tyto parcely v katastru zanikly. Spolu se třemi zbořeništi (st. 27/2, 28/1, 28/2) jde o hlavní nepřímé stopy po zbořených staveních, tedy kandidáty na místa zaniklých čp. 12, 17, 18, 19, 22, 23.** *(jistota: střední)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (vlastní rozbor číselné řady parcel); přiřazení ke konkrétním čp. je interpretace, RÚIAN historická čp. nevede — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/5/query?where=katastralniuzemi%3D775606+AND+druhcislovanikod%3D1&outFields=cisloparcely&returnGeometry=false&f=json>
+
+- **Bývalý panský dvůr čp. 11 (stavební objekt 8831289, adresní místo 8882321) stojí na st. 1 s výměrou 3 543 m² — zdaleka největší stavební parcele k.ú. (druhá největší je st. 22 s 1 775 m²). RÚIAN jej vede jako rodinný dům, zastavěná plocha 304 m², 1 byt; podlaží, dokončení i technické parametry „nezjištěno“.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – VDP detail stavebního objektu — <https://vdp.cuzk.gov.cz/vdp/ruian/stavebniobjekty/8831289>
+
+- **Mezi 11 objekty bez čp. jsou dva kandidáti na bývalá popisná stavení: „objekt k bydlení“ na st. 49 (42 m², SO 39261409) a „zemědělská usedlost“ na st. 37 (95 m², SO 45286183). Že jde o zaniklá čp., je ale jen interpretace — RÚIAN to nedokládá.** *(jistota: střední)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (vrstva StavebniObjekt, dotaz podle identifikační parcely) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=kod+IN+(39261409,45286183)&outFields=*&returnGeometry=false&f=json>
+
+- **Nejstarší evidovaná data dokončení na Zahrádce: čp. 4 a čp. 21 mají 31. 12. 1919; dále 31. 12. 1945 (čp. 7), 31. 12. 1960 (čp. 5, 6, 16, 27), 31. 12. 1970 (čp. 8), 31. 12. 1980 (čp. 9, 10), 31. 12. 1990 (čp. 28), 31. 12. 2006 (čp. 15). Data k 31. 12. jsou v RÚIAN typicky zástupné roční údaje (znám je jen rok dokončení), nikoli přesná denní data; přesná data mají jen novostavby: čp. 2 (30. 3. 2016), čp. 31 (17. 5. 2019), čp. 1 (22. 9. 2023), čp. 32 (13. 2. 2025).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (pole dokonceni); zástupný charakter dat 31. 12. je vlastní interpretace vzoru v datech — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=castobce%3D175609&outFields=cisladomovni,dokonceni&returnGeometry=false&f=json>
+
+- **Čp. 1 je podle RÚIAN novostavba/přestavba dokončená 22. 9. 2023 (2 podlaží, zděná, zastavěná plocha 415 m², podlahová 450 m²). Čp. 2 vzniklo 30. 3. 2016 na nově oddělené st. 15/2 (3 podlaží, 84 m²) a současně s ním byla dokončena dvoupodlažní „jiná stavba“ bez čp. s 1 bytem na sousední st. 15/1 (216 m², SO 8831190).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – VDP detail stavebního objektu — <https://vdp.cuzk.gov.cz/vdp/ruian/stavebniobjekty/82154007>
+
+- **Jako „objekt k bydlení“ (nikoli rodinný dům) vede RÚIAN čp. 13 (st. 12, zast. 99 m², 0 bytů) a čp. 20 (st. 18, zast. 138 m², 1 byt); jako „stavbu pro rodinnou rekreaci“ čp. 25 (st. 34/2, 39 m²), čp. 30 (st. 10/4, 193 m²) a čp. 31 (st. 53, 87 m²). Vše ostatní s čp. jsou rodinné domy.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK, RÚIAN – ArcGIS REST (pole zpusobvyuzitikod, číselník vrstvy StavebniObjekt) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3?f=json>
+
+## Katastr a vlastnictví (13)
+
+- **Nahlížení do KN je v r. 2026 chráněno bot-managementem (Radware/perfdrive) už na úvodní stránce – curl dostane 302 se skriptem validate.perfdrive.com; zobrazení vlastníka/LV navíc vyžaduje opsání captchy. Automatizovaný přístup nebyl obcházen; proveden a zdokumentován 1 testovací požadavek (31. 7. 2026).** *(jistota: vysoká)*
+  - Zdroj: Nahlížení do katastru nemovitostí (ČÚZK) — <https://nahlizenidokn.cuzk.gov.cz/>
+
+- **Otevřená data ČÚZK (RÚIAN/VFR, katastrální mapa, INSPIRE) vlastnictví neobsahují – RÚIAN vrstvy Stavební objekt a Parcela nemají žádný atribut vlastníka (ověřeno výpisem polí ArcGIS REST). VDP obsahuje jen územní prvky RÚIAN, nikoli vlastníky.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK RÚIAN ArcGIS REST, metadata vrstev 3 a 5 — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3?f=json>
+
+- **Vyhláška č. 50/2024 Sb. (účinnost 1. 7. 2024) zavedla bezplatnou webovou službu ČÚZK jen pro vybrané základní údaje SPI výslovně BEZ osobních údajů – jména vlastníků tedy nejsou v žádném otevřeném/bezplatném strojovém kanálu; výpis LV s vlastníky jen přes Nahlížení (captcha) nebo registrovaný Dálkový přístup/WSDP.** *(jistota: vysoká)*
+  - Zdroj: Vyhláška č. 50/2024 Sb., kterou se mění vyhláška č. 358/2013 Sb. — <https://www.sagit.cz/info/sb24050>
+
+- **Parcely 155/2 a 288/1 v k.ú. Zahrádka u Pošné (oba lesní pozemky) byly do 5/2026 ve vlastnictví České republiky s právem hospodařit Lesy ČR, s. p., zapsané na LV č. 182 pro k.ú. Zahrádka u Pošné (uvedeno v obou kupních smlouvách).** *(jistota: vysoká)*
+  - Zdroj: Kupní smlouvy SML-00041-2026-191 a SML-00042-2026-191, registr smluv — <https://smlouvy.gov.cz/smlouva/38070537>
+
+- **Kupní smlouvou S 1157/25/191 z 21. 5. 2026 prodaly Lesy ČR, s. p. lesní pozemek parc. č. 155/2 (3 636 m², k.ú. Zahrádka u Pošné, LV 182) manželům Petru Duffkovi a Lence Duffkové (bydliště Pacov) za 70 500 Kč (vítězové výběrového řízení; vklad do KN hradí kupující). Primární dokument (PDF smlouvy) přečten.** *(jistota: vysoká)*
+  - Zdroj: Registr smluv, smlouva ID 38070537 vč. PDF přílohy — <https://smlouvy.gov.cz/smlouva/soubor/46002149/SML-00041-2026-191.pdf>
+
+- **Kupní smlouvou S 1191/25/191 z 18. 5. 2026 prodaly Lesy ČR, s. p. lesní pozemek parc. č. 288/1 (12 283 m², k.ú. Zahrádka u Pošné, LV 182) manželům Bc. Davidu Andrew Homolkovi (bydliště Hořepník) a Mileně Homolkové (bydliště Pacov) za 300 000 Kč. Primární dokument (PDF smlouvy) přečten.** *(jistota: vysoká)*
+  - Zdroj: Registr smluv, smlouva ID 38027705 vč. PDF přílohy — <https://smlouvy.gov.cz/smlouva/soubor/45952785/SML-00042-2026-191.pdf>
+
+- **Stát (ČR – Státní pozemkový úřad) má v k.ú. Zahrádka u Pošné zemědělské pozemky parc. č. 147/3 (3 031 m²), část 307/2, část 342/17, část 342/32 a 369/1 (propachtovaná výměra v k.ú. celkem 8 554 m²), propachtované Zemědělskému družstvu Velká Chyška – dodatek č. 4 pachtovní smlouvy 74N1648 z 8. 9. 2025. Existence parcel ověřena v RÚIAN.** *(jistota: vysoká)*
+  - Zdroj: Registr smluv, smlouva ID 34721977 (SPÚ – ZD Velká Chyška), příloha dodatku — <https://smlouvy.gov.cz/smlouva/34721977>
+
+- **V ARES je na Zahrádce 5 subjektů: iZahrádka z. s. (IČO 06725384, sídlo Zahrádka čp. 11, vznik 31. 1. 2018, spolek) a 4 podnikající fyzické osoby – Anna Vlčková (IČO 74248634, čp. 8, od 2006), Pavla Moravcová (IČO 08434557, čp. 15, od 2019), Michael Marousek (IČO 23443871, čp. 20, od 26. 6. 2025), Stanislav Janda (IČO 68541040, čp. 27, od 1999). Sídlo v ARES nedokládá vlastnictví domu.** *(jistota: vysoká)*
+  - Zdroj: ARES REST API, vyhledání dle kodCastiObce 175609 — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/vyhledat>
+
+- **RÚIAN eviduje na Zahrádce (část obce 175609) 26 stavebních objektů s čp.: 1–11, 13–16, 20, 21 a 24–32; čp. 12, 17, 18, 19, 22, 23 neexistují. Oproti dosavadnímu stavu poznání jsou v RÚIAN i čp. 28–32, mj. novostavby: čp. 1 nový rodinný dům na st. 29/1 (dokončení 22. 9. 2023), čp. 31 rekreační stavba na st. 53 (17. 5. 2019), čp. 32 rodinný dům na st. 3/1 (13. 2. 2025).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK RÚIAN ArcGIS REST, vrstva 3 (Stavební objekt), dotaz castobce=175609 — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3/query?where=castobce%3D175609&outFields=kod,cisladomovni,identifikacniparcela,zpusobvyuzitikod,dokonceni&returnGeometry=false&f=json>
+
+- **Kaple na Zahrádce stojí na st. 42 (zastavěná plocha a nádvoří, 16 m², k.ú. 775606, RÚIAN id parcely 2959940304); vlastníka nelze z veřejných strojových zdrojů zjistit. Kontext (nikoli doklad vlastnictví kaple): obec Pošná uzavřela 2023 veřejnoprávní smlouvu o dotaci s Římskokatolickou farností Pacov.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK RÚIAN ArcGIS REST vrstva 5; úřední deska obce Pošná (smlouva č. 202301) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3107>
+
+- **Elektronická dražba nařízená na 12. 8. 2026 (č. j. 219EX 00619/26-123, portaldrazeb.cz) se týká POŠNÉ čp. 11 na st. 11 v k.ú. Pošná (726320), LV 249, povinný Oleksandr Checholka – NIKOLI čp. 11 na Zahrádce (bývalý dvůr, st. 1, k.ú. 775606). Nezaměňovat.** *(jistota: vysoká)*
+  - Zdroj: Dražební vyhláška na úřední desce obce Pošná — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3656>
+
+- **ÚZSVM po 1. 1. 2024 (konec agendy nedostatečně identifikovaných vlastníků, přechod opuštěného majetku na stát) již nepublikuje seznamy NIV podle k.ú.; na webu zůstala jen souhrnná brožura z r. 2023 bez údajů po parcelách. Pro k.ú. 775606 tedy tato cesta k vlastníkům už nevede.** *(jistota: vysoká)*
+  - Zdroj: ÚZSVM – Nedostatečně určitě identifikovaní vlastníci — <https://www.uzsvm.gov.cz/nedostatecne-urcite-identifikovani-vlastnici>
+
+- **Ruční recept na zjištění vlastníka kteréhokoli domu/parcely (jediná bezplatná cesta): nahlizenidokn.cuzk.gov.cz → Vyhledat stavbu (obec Pošná, část obce Zahrádka, čp.) nebo Vyhledat parcelu (k.ú. Zahrádka u Pošné, kód 775606, parcelní číslo st. X) → opsat captchu → zobrazí se č. LV a vlastník/spoluvlastníci. Alternativa: placený/registrovaný Dálkový přístup (katastr.cuzk.gov.cz/DPWEB) – úplný výpis LV.** *(jistota: vysoká)*
+  - Zdroj: Nahlížení do KN / Dálkový přístup ČÚZK — <https://nahlizenidokn.cuzk.gov.cz/>
+
+## Subjekty a veřejné role (19)
+
+- **ARES eviduje k 31. 7. 2026 v části obce Zahrádka (kód 175609) přesně 5 ekonomických subjektů: iZahrádka z. s. (čp. 11, adresní místo 8882321), Anna Vlčková (čp. 8, AM 8882291), Pavla Moravcová (čp. 15, AM 8882355), Michael Marousek (čp. 20, AM 8882371) a Stanislav Janda (čp. 27, AM 8882428). Kontrola úplnosti: z 55 subjektů se sídlem v obci Pošná (548600) mají část obce Zahrádka právě tyto čtyři fyzické osoby a jeden spolek.** *(jistota: vysoká)*
+  - Zdroj: ARES REST API (vyhledání dle sidlo.kodCastiObce=175609, resp. kodObce=548600) — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/vyhledat>
+
+- **iZahrádka z. s., IČO 06725384, sídlo Zahrádka 11, 395 01 Pošná; zapsán 31. 1. 2018 do spolkového rejstříku, sp. zn. L 7471 u Krajského soudu v Českých Budějovicích; stav AKTIVNÍ; CZ-NACE 94993 (činnosti ostatních organizací sdružujících osoby za účelem prosazování společných zájmů).** *(jistota: vysoká)*
+  - Zdroj: ARES + veřejný rejstřík (or.justice.cz) — <https://or.justice.cz/ias/ui/rejstrik-$firma?ico=06725384>
+
+- **Účel spolku iZahrádka z. s. dle spolkového rejstříku (zápis 31. 1. 2018): a) zlepšení kvality života na vesnici pomocí moderních technologií, b) zachování lokálních tradic a lokálních historických reálií, c) rozvoj a podpora kulturně-historického a přírodního dědictví, d) péče o domestikovaná zvířata v nouzi. Způsob řízení kolektivní, nejvyšší orgán členská schůze.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj VR (spolkový rejstřík) — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384>
+
+- **Statutární orgán iZahrádka z. s. (výbor, zapsáno 31. 1. 2018, bez výmazu): předseda výboru Patrik Jíra (nar. 13. 1. 1984, bytem Humpolecká 1886/26, Praha 4-Krč) a místopředsedkyně výboru Pavla Švantnerová (nar. 12. 9. 1988, tamtéž).** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj VR (spolkový rejstřík) — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384>
+
+- **Anna Vlčková, IČO 74248634, sídlo Zahrádka 8: OSVČ od 20. 11. 2006, živnost volná AKTIVNÍ s obory: příprava a vypracování technických návrhů, grafické a kresličské práce; chov zvířat a jejich výcvik (s výjimkou živočišné výroby); výroba školních a kancelářských potřeb, bižuterie, upomínkových předmětů aj.; zprostředkování obchodu a služeb. Samostatná živnost 'Zprostředkování obchodu a služeb' zanikla 30. 6. 2008. RŽP celkem: 1 aktivní, 1 zaniklá.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj RŽP (data shodná s rzp.gov.cz) — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/74248634>
+
+- **Pavla Moravcová, IČO 08434557, sídlo Zahrádka 15: OSVČ od 19. 8. 2019, dvě AKTIVNÍ živnosti — vázaná 'Poskytování tělovýchovných a sportovních služeb v oblasti jógy' a volná s oborem 'Velkoobchod a maloobchod' (obě od 19. 8. 2019); žádná přerušená ani zaniklá.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj RŽP — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/08434557>
+
+- **Michael Marousek, IČO 23443871, sídlo (místo podnikání) Zahrádka 20: nejnovější subjekt na Zahrádce — OSVČ od 26. 6. 2025, jedna AKTIVNÍ volná živnost s oborem 'Ubytovací služby' (CZ-NACE 55); bez provozoven v RŽP.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj RŽP — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/23443871>
+
+- **Stanislav Janda, IČO 68541040, sídlo Zahrádka 27: řemeslná živnost 'Zednictví' od 1. 3. 1999; provozování PŘERUŠENO od 13. 1. 2025 do 31. 12. 2050 (0 aktivních, 1 přerušená živnost).** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj RŽP — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/68541040>
+
+- **Komunální volby 2022 (obec Pošná, 23.–24. 9. 2022): jediným kandidátem s bydlištěm na Zahrádce byl Luděk Bulant, 54 let, vedoucí výroby, poř. č. 5 na kandidátce č. 1 'Sdružení nezávislých kandidátů Pošná' (NK, bez politické příslušnosti); získal 79 hlasů (14,00 %) a byl ZVOLEN zastupitelem (3. v pořadí zvolení). Kandidátka SNK Pošná byla jediná (564 hlasů, 100 %, všech 7 mandátů); volební účast 54,19 %. Bydliště kandidátů je ve sloupci BYDLISTEN otevřených dat (registr kandidátů kvrk.csv, KODZASTUP=548600).** *(jistota: vysoká)*
+  - Zdroj: volby.cz – otevřená data KV2022 (kvrk.csv, kvros.csv) + jmenné seznamy zvolených zastupitelů — <https://volby.gov.cz/opendata/kv2022/csv_od/kvrk.csv>
+
+- **Komunální volby 2018 (obec Pošná, 5.–6. 10. 2018): Luděk Bulant, 50 let, vedoucí výroby, bydliště Zahrádka, poř. č. 5 kandidátky 'Sdružení nezávislých kandidátů' (NK, BEZPP); 81 hlasů (14,26 %), ZVOLEN (3. v pořadí). Opět jediný kandidát s bydlištěm na Zahrádce (ostatní: Pošná, Proseč, Nesvačily).** *(jistota: vysoká)*
+  - Zdroj: volby.cz – otevřená data KV2018 (KV2018_reg_20230224_csv.zip → csv_od/kvrk.csv) — <https://volby.gov.cz/opendata/kv2018/KV2018_reg_20230224_csv.zip>
+
+- **Zvolení zastupitelé obce Pošná 2022 dle volby.cz: Klika Radek (98 hlasů), Novotný Petr (87), Bulant Luděk (79), Kudrhaltová Marie (77), Kamír Jiří (56), Brothánek Luděk (74), Čelonková Kuchařová Zlatuše (52).** *(jistota: vysoká)*
+  - Zdroj: volby.cz – jmenné seznamy, zvolení zastupitelé dle výsledku, obec Pošná — <https://volby.gov.cz/pls/kv2022/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=1&xnumnuts=6103&xobec=548600&xstrana=0>
+
+- **Současné zastupitelstvo obce Pošná dle webu obce: starosta Radek Klika, místostarosta Petr Novotný, členové Marie Kudrhaltová, Luděk Bulant, Luděk Brothánek, Jiří Kamír, Zlatuše Čelonková Kuchařová (účetní Blanka Brothánková). Luděk Bulant je tak jediným veřejně doložitelným zastupitelem s vazbou na Zahrádku (bydliště dle kandidátních listin 2018 i 2022).** *(jistota: vysoká)*
+  - Zdroj: posna.cz – struktura obecního úřadu — <https://www.posna.cz/struktura-obecniho-uradu/d-52/p1=55>
+
+- **SZIF – seznam příjemců dotací FY2024 (open data spd2024czk.csv): ŽÁDNÝ z pěti subjektů se sídlem na Zahrádce nefiguruje mezi příjemci. Jediným příjemcem v obci Pošná byla Markéta Mokrá, IČO 04961447 (EZZF 411 031,78 Kč; EZFRV 121 229,87 Kč + spolufinancování 225 141,58 Kč; převážně přímé platby BISS, CIS, ekoplatba, AEKO/EZ, ANC).** *(jistota: vysoká)*
+  - Zdroj: SZIF – open data seznamu příjemců dotací (spd2024czk.csv) — <https://szif.gov.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2024czk.csv>
+
+- **SZIF – seznam příjemců dotací FY2025 (spd2025czk.csv): opět žádný ze zahrádeckých subjektů; příjemci v obci Pošná jsou Markéta Mokrá (IČO 04961447; EZZF 403 490,12 Kč, EZFRV 125 390,01 Kč + spolufin. 232 867,48 Kč) a Zdeněk Pavlas (IČO 21482713, sídlo Nesvačily 3; EZZF 28 695,67 Kč, EZFRV 4 130,91 Kč + spolufin. 7 671,82 Kč).** *(jistota: vysoká)*
+  - Zdroj: SZIF – open data seznamu příjemců dotací (spd2025czk.csv) — <https://szif.gov.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2025czk.csv>
+
+- **Markéta Mokrá (IČO 04961447), jediný stabilní zemědělský příjemce dotací v obci, má dle ARES sídlo č.p. 80, část obce POŠNÁ (kód 126322) — tedy NIKOLI na Zahrádce. Pošná čp. 80 nelze zaměňovat se zahrádeckými čp.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – detail subjektu 04961447 — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/04961447>
+
+- **Žádný z pěti subjektů se sídlem na Zahrádce není veden ve společném zemědělském registru / evidenci zemědělského podnikatele (stavZdrojeSzr = NEEXISTUJICI u všech pěti).** *(jistota: vysoká)*
+  - Zdroj: ARES REST – seznam registrací subjektů — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/vyhledat>
+
+- **Wattlink: v rejstřících existují energetická společenství Wattlink Alfa z.s. (IČO 22402489, vznik 27. 12. 2024) a Wattlink Beta z.s. (IČO 23023180, vznik 21. 3. 2025), obě se sídlem Starodvorská 617, Pacov, s účelem 'poskytování environmentálních, hospodářských a sociálních přínosů členů formou sdílení elektřiny mezi členy spolku'; statutárním orgánem obou je Jan Smolek. Žádný z nich nemá sídlo ani zapsanou vazbu na Zahrádku či iZahrádka z. s.** *(jistota: vysoká)*
+  - Zdroj: ARES REST – zdroj VR — <https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/22402489>
+
+- **Web wattlink.cz (komunitní energetika, kontaktní adresa Pacov) uvádí 'Naše první skupiny sdílení vznikly na Pacovsku' a v patičce odkazuje na LinkedIn profily 'Jan Smolek' a 'Patrik Jíra' — jmenná shoda s předsedou výboru iZahrádka z. s.; jde však o firemní web, nikoli oficiální rejstřík, a partnerství Wattlink–iZahrádka z něj přímo doložit nelze.** *(jistota: nízká)*
+  - Zdroj: wattlink.cz (firemní web, nikoli oficiální rejstřík) — <https://wattlink.cz/pro-energeticka-spolecenstvi>
+
+- **Otevřená data volby.cz jsou publikována na https://www.volby.cz/opendata/opendata.htm (dnes redirect na volby.gov.cz); pro KV2022 přímé CSV: registr kandidátů https://volby.gov.cz/opendata/kv2022/csv_od/kvrk.csv a registr stran https://volby.gov.cz/opendata/kv2022/csv_od/kvros.csv; pro KV2018 balíček KV2018_reg_20230224_csv.zip.** *(jistota: vysoká)*
+  - Zdroj: volby.cz – otevřená data (rozcestník KV2022) — <https://www.volby.cz/opendata/kv2022/kv2022_opendata.htm>
+
+## Památky a obecní agenda (18)
+
+- **Usedlost čp. 2 na Zahrádce je nemovitá kulturní památka „venkovská usedlost“, rejstř. č. ÚSKP 36052/3-3350, katalogové číslo 1000147883, památkově chráněna od 3. 5. 1958, zápis do státního seznamu proveden 31. 12. 1963; aktuální fáze ochrany je „památkově chráněno, rozsah revidován“. Rozsah ochrany: st. 15/1 v k.ú. Zahrádka u Pošné celý pozemek, st. 15/2 „pozemek chráněn bez staveb“ (novostavba na st. 15/2 tedy chráněna není).** *(jistota: vysoká)*
+  - Zdroj: Památkový katalog NPÚ, právní stav 147883 (JSON API; trvalý odkaz https://www.pamatkovykatalog.cz/pravni-ochrana/venkovska-usedlost-147883) — <https://pamatkovykatalog.cz/api/legal-state/147883>
+
+- **Oficiální anotace NPÚ k usedlosti čp. 2: „Uzavřená venkovská usedlost skládající se ze zděných hospodářských budov a roubeného obytného stavení s trojdílnou dispozicí představuje ojediněle zachovalý areál, který je hodnotným dokladem stavebního vývoje venkovských stavení v 19. století.“ Kategorie areál, typ „usedlost“, hlavní objekt „obytné stavení“.** *(jistota: vysoká)*
+  - Zdroj: NPÚ otevřená data ÚSKP, npu_opendata_KP.csv (řádek 4372, stav dat 2. 7. 2026) a API element 694394 — <https://pamatkovykatalog.cz/opendata/npu_opendata_KP.csv>
+
+- **Součást KP usedlosti čp. 2 – stodola – úředně zanikla: v záznamu je akt „Oznámení o zániku části KP“ č. NPU-372/6512/2021 z 12. 1. 2021; k záznamu jsou v MIS připojeny dva veřejné dokumenty (původní evidenční list KP, id 1051976, a oznámení o zániku stodoly, id 1439420).** *(jistota: vysoká)*
+  - Zdroj: Památkový katalog NPÚ, právní stav 147883, sekce statements a misMedia — <https://iispp.npu.cz/mis_public/documentDetail.htm?id=1439420>
+
+- **Starší vymezení chráněných částí usedlosti čp. 2 podle ÚSKP znělo: „Venkovská usedlost: dům čp. 2, chlévy, kolna, stodola, ohradní zeď s bránou.“ (dnes bez stodoly, viz zánik 2021).** *(jistota: střední)*
+  - Zdroj: Wikipedie, Seznam kulturních památek v okrese Pelhřimov, oddíl Pošná (wikitext) — <https://cs.wikipedia.org/wiki/Seznam_kulturn%C3%ADch_pam%C3%A1tek_v_okrese_Pelh%C5%99imov>
+
+- **Návesní kaple s křížem na Zahrádce je nemovitá kulturní památka, rejstř. č. ÚSKP 28918/3-3351, katalogové číslo 1000140254, chráněna od 3. 5. 1958, zápis do státního seznamu 31. 12. 1963 (pod názvem „návesní kaple“); jde o soubor dvou objektů: kaple (1000140254_0001) a kříž (1000140254_0002). Rozsah ochrany: st. 42 v k.ú. Zahrádka u Pošné celý pozemek; p. 420/14 „pozemek bez ochrany“.** *(jistota: vysoká)*
+  - Zdroj: Památkový katalog NPÚ, právní stav 140254 (trvalý odkaz https://www.pamatkovykatalog.cz/pravni-ochrana/kaple-140254) — <https://pamatkovykatalog.cz/api/legal-state/140254>
+
+- **Oficiální popis kaple: drobná zděná návesní kaple rustikálního charakteru z 19. století, čtvercový půdorys s mírně okosenými nárožími, v průčelí segmentový vstup, stanová střecha se čtyřbokou lucernou ve vrcholu.** *(jistota: vysoká)*
+  - Zdroj: Památkový katalog NPÚ, element 13227901 (kaple) — <https://pamatkovykatalog.cz/api/element/13227901>
+
+- **Kříž před kaplí je pamětní žulový hrotový kříž z roku 1884 s litinovým korpusem Krista a štítkem INRI, na ořímsovaném čtyřbokém podstavci; nápis na přední straně soklu zní: „Pochválen Buď / Pán Ježíš Kristus. / Tento kříž založil / ke cti a chvále Boží / Václav a Marie / Kejval ze Zahrádky / 1884.“ — přímý doklad fundátorů, manželů Kejvalových ze Zahrádky.** *(jistota: vysoká)*
+  - Zdroj: Památkový katalog NPÚ, element 13227938 (kříž), sekce inscriptions — <https://pamatkovykatalog.cz/api/element/13227938>
+
+- **Starší evidence (Wikipedie dle Památkového katalogu 2017) uváděla u kaple parcely „st. 42, pp. 420/6“; aktuální právní stav NPÚ uvádí st. 42 a p. 420/14 — číslo pozemkové parcely u kaple se v evidenci změnilo (přečíslování/dělení).** *(jistota: střední)*
+  - Zdroj: Srovnání: Wikipedie (2017) vs. Památkový katalog právní stav 140254 (2026) — <https://pamatkovykatalog.cz/api/legal-state/140254>
+
+- **EG.D oznámila přerušení dodávky elektřiny (odstávka č. 260306694) na 7. 8. 2026 od 8:00 do 17:00; mezi vypnutými adresami je na Zahrádce (Pošná, Zahrádka) uvedeno 21 čp.: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 20, 21, 24, 25, 26, 27, 28, dále čp. 31, sporné „Čp. 61“ a „Čp. 0“, a odběrná místa na parcelách 3/1, 12/2, 44 a 420/7 — doklad aktivních odběrných míst elektřiny v roce 2026. Ve stejné odstávce jsou i Pošná čp. 35 a čp. 79 (Houskův mlýn) a dále obce Důl/Nová Ves, Litohošť a Růžkův Mlýn (Pacov, če. 600).** *(jistota: vysoká)*
+  - Zdroj: Oznámení EG.D o přerušení dodávky elektrické energie, PDF na úřední desce obce Pošná, vyvěšeno 20. 7. 2026 — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660>
+
+- **V seznamu vypnutých adres EG.D pro Zahrádku NEJSOU čp. 16, 29, 30 a 32, přestože v RÚIAN adresní místa existují; seznam se týká jen této odstávky, absence tedy dokládá pouze to, že tato čp. nejsou mezi vypínanými odběrnými místy (nemusí nutně znamenat, že nemají přípojku). Naopak „Zahrádka Čp. 61“ v RÚIAN pro Zahrádku neexistuje (jde zjevně o čp. z Pošné přiřazené v datech EG.D k lokalitě Zahrádka) a „Čp. 0“ označuje odběrné místo bez čísla popisného.** *(jistota: vysoká)*
+  - Zdroj: Srovnání EG.D PDF s dotazem do RÚIAN (ČÚZK ArcGIS REST, vrstva AdresniMisto, prostorový filtr k.ú. 775606) — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/1>
+
+- **RÚIAN k 31. 7. 2026 eviduje na Zahrádce 26 adresních míst: čp. 1–11, 13–16, 20, 21, 24, 25, 26, 27, 28, 29, 30, 31, 32; chybí čp. 12, 17, 18, 19, 22, 23. Oproti dřívějšímu stavu projektu tedy přibyla čp. 28 (RD, dokončení evid. 31. 12. 1990), 29 (RD 40 m² bez bytu), 30 (stavba pro rodinnou rekreaci 193 m²), 31 (rekreace 87 m² na st. 53, dokončení 17. 5. 2019) a 32 (RD 220 m², dokončení 13. 2. 2025 — nejnovější dům vsi).** *(jistota: vysoká)*
+  - Zdroj: ČÚZK RÚIAN ArcGIS REST, vrstvy AdresniMisto a StavebniObjekt, prostorový dotaz polygonem k.ú. 775606 — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3>
+
+- **Houskův mlýn má dnes číslo popisné: usnesení zastupitelstva obce Pošná č. 2023/3/20 ze 7. 6. 2023 schvaluje smlouvu o smlouvě budoucí o zřízení věcného břemene na stavbu „Pošná, č.p.35, Houskův Mlýn kabel NN“ se společností EG.D, a.s. — mlýn je tedy úředně ztotožněn s čp. 35 části obce Pošná.** *(jistota: vysoká)*
+  - Zdroj: Usnesení ze 3. zasedání ZO Pošná 7. 6. 2023, bod 2023/3/20 (ODT na posna.cz) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3020>
+
+- **RÚIAN u Houskova mlýna eviduje dvě budovy s čp. (žádné číslo evidenční): Pošná č.p. 35 (rodinný dům, zastavěná plocha 218 m², 1 byt, dokončení evidováno k 31. 12. 1919, st. 53/3 v k.ú. Pošná, adresní místo 8865485, definiční bod 49.46924 N, 15.06466 E) a novostavbu Pošná č.p. 79 (rodinný dům, 2 podlaží, 221 m², dokončení 25. 1. 2010, st. 53/4 v k.ú. Pošná, adresní místo 28040597). Poloha odpovídá lokalitě „kříž u Houskova mlýna“ (49.4693 N, 15.0649 E dle drobnepamatky.cz); stavební parcely leží v k.ú. Pošná těsně při hranici k.ú. Zahrádka u Pošné (polygony budov hranici protínají), zatímco odůvodnění ÚP Pošná klade Houskův Mlýn do k.ú. Zahrádka u Pošné — areál leží přímo na hranici obou katastrů.** *(jistota: vysoká)*
+  - Zdroj: ČÚZK RÚIAN ArcGIS REST (vrstvy 1, 2, 3, 5); parcely st. 53/3 a st. 53/4, k.ú. 726320 Pošná — <https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/2>
+
+- **Obec Pošná v červnu 2023 schválila podání žádosti o dotaci na projekt „Oprava místní komunikace – Zahrádka u Pošné“ (podprogram 117D8210A Podpora obnovy místních komunikací) a v listopadu 2024 schválila smlouvu o dílo č. S24-043-0054 na opravu místních komunikací 5c a 6c Zahrádka u Pošné se společností SWIETELSKY stavební s.r.o. za 1 112 696,86 Kč včetně DPH (usnesení 2023/3/19, 2024/3/19 a 2024/3/20).** *(jistota: vysoká)*
+  - Zdroj: Usnesení ZO Pošná 3/2023 a 3/2024 (posna.cz) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3318>
+
+- **Kalkulace vodného a stočného pro rok 2024 (usnesení 2023/6/40 z 8. 12. 2023) uvádí Zahrádku u Pošné jako samostatnou položku vodovodu se stejnými cenami jako Pošná a Proseč: vodné 33,04 Kč bez DPH / 37,00 Kč s DPH, stočné 20,54 / 23,00 Kč; provozování veřejného vodovodu řeší každoroční přílohy k dodatku č. 13 smlouvy (na rok 2026 přílohy č. 30–32 za 468 587 Kč bez DPH, usnesení ZO 6/2025 z 22. 12. 2025) a v červnu 2026 obec schválila Dohodu vlastníků provozně souvisejících vodovodů s družstvem Pevak Pelhřimov (usnesení 2026/3/21).** *(jistota: vysoká)*
+  - Zdroj: Usnesení ZO Pošná 6/2023, 6/2025 a 3/2026 (posna.cz) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3115>
+
+- **Obecní pozemkové transakce v k.ú. Zahrádka u Pošné 2023–2026: žádost o odkup p.č. 399/1 (2023/6/41), schválený prodej části p.č. 399/1 o cca 269 m² za 200 Kč/m² (2024/1/6, kupující v publikovaném usnesení 2024/2/12 anonymizovány); nesouhlas s prodejem části p.č. 231 (2025/2/14); směna, v níž obec získala p.č. 342/3 o 599 m² (2025/5, cena dle posudku 2 911 Kč); nesouhlas s mimořádným vydržením pozemků v k.ú. (2026/2/11); schválený prodej částí p.č. 401/3 (cca 63 m²) a p.č. 420/14 (cca 406 m²) za 200 Kč/m² (2026/2/12) — p. 420/14 je pozemek u návesní kaple uvedený v památkovém záznamu jako „bez ochrany“.** *(jistota: vysoká)*
+  - Zdroj: Usnesení ZO Pošná 6/2023, 1/2024, 2/2024, 2/2025, 5/2025, 2/2026 (posna.cz) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3578>
+
+- **Zastupitelstvo obce Pošná vzalo 24. 9. 2025 na vědomí žádost o opravu mostku v k.ú. Zahrádka u Pošné a pověřilo starostu zajištěním cenové nabídky (usnesení 2025/4/37).** *(jistota: vysoká)*
+  - Zdroj: Usnesení ZO Pošná 4/2025 (posna.cz) — <https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3479>
+
+- **V usneseních ZO Pošná 2023–2026 není žádná zmínka o údržbě či opravě kaple na Zahrádce ani o výstavbě ČOV Zahrádka (plocha Z27 dle ÚP); vodohospodářská usnesení se týkají výhradně Proseče u Pošné (projekt vodovod+kanalizace, ČOV DD Proseč).** *(jistota: vysoká)*
+  - Zdroj: Prohledány texty usnesení ZO Pošná 1/2023–3/2026 (14 dokumentů + 3 přílohy, posna.cz) — <https://www.posna.cz/usneseni-zastupitelstva/ds-1001/p1=58>
+
+## Domovní záznamy po čp.
+
+### Čp. 1
+
+- *(ruian)* RÚIAN: rodinný dům, st. 29/1 (941 m²), zastavěná plocha 415 m², podlahová 450 m², 2 podlaží, 1 byt, dokončení 22. 9. 2023, konstrukce cihly/tvárnice, vodovod, jímka, bez plynu; SO 8831181, adresní místo 8882223; na sousední st. 29/2 (235 m²) stojí „jiná stavba“ bez čp. (SO 48290319)
+- *(kn)* RÚIAN: rodinný dům, st. 29/1 (941 m²), kód objektu 8831181, zastavěná plocha 415 m², dokončení 22. 9. 2023 (novostavba); vlastník: KN-recept (captcha), k.ú. 775606 + st. 29/1
+- *(pamatky_obec)* EG.D: aktivní odběrné místo (odstávka 7. 8. 2026); RÚIAN: rodinný dům, 415 m², 2 podlaží, dokončení evid. 22. 9. 2023 (novostavba/přestavba)
+
+### Čp. 2
+
+- *(ruian)* RÚIAN: rodinný dům, st. 15/2 (84 m²), zastavěná plocha 84 m², 3 podlaží, 1 byt, dokončení 30. 3. 2016, zděný; SO 82154007, adresní místo 79448071; na sousední st. 15/1 (766 m²) dvoupodlažní „jiná stavba“ bez čp. s 1 bytem z téhož data (SO 8831190)
+- *(kn)* RÚIAN: rodinný dům, st. 15/2 (84 m²), kód 82154007, dokončení 30. 3. 2016; vlastník: KN-recept, k.ú. 775606 + st. 15/2 (vedle st. 15/1, 766 m²)
+- *(pamatky_obec)* NPÚ: nemovitá KP „venkovská usedlost“, rejstř. č. 36052/3-3350, katalog. č. 1000147883, chráněno od 3. 5. 1958, zápis do státního seznamu 31. 12. 1963, stav „památkově chráněno, rozsah revidován“; ochrana: st. 15/1 celý pozemek, st. 15/2 pozemek chráněn bez staveb; anotace: uzavřená usedlost ze zděných hospodářských budov a roubeného obytného stavení s trojdílnou dispozicí, doklad stavebního vývoje 19. století; starší výčet částí dle ÚSKP: dům čp. 2, chlévy, kolna, stodola, ohradní zeď s bránou; stodola úředně zanikla (oznámení NPU-372/6512/2021 z 12. 1. 2021, MIS id 1439420); RÚIAN: čp. 2 = budova na st. 15/2 (rodinný dům, 84 m², 3 podlaží, dokončení evid. 30. 3. 2016), na chráněné st. 15/1 (766 m²) stojí stavba bez čp. („jiná stavba“, 216 m², 1 byt, 2 podlaží); EG.D: aktivní odběrné místo, odstávka 7. 8. 2026
+
+### Čp. 3
+
+- *(ruian)* RÚIAN: rodinný dům, st. 16/6 (78 m²), zastavěná plocha 78 m², 1 podlaží, 1 byt, dokončení neuvedeno, technické údaje nezjištěny; SO 8831203, adresní místo 8882240; na sousední st. 16/5 (861 m²) zemědělská stavba bez čp. (SO 50272551)
+- *(kn)* RÚIAN: rodinný dům, st. 16/6 (78 m²), kód 8831203; vlastník: KN-recept, k.ú. 775606 + st. 16/6
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 78 m², 1 podlaží, dokončení neuvedeno
+
+### Čp. 4
+
+- *(ruian)* RÚIAN: rodinný dům, st. 17 (967 m²), zastavěná plocha 152 m², 1 podlaží, 1 byt, dokončení 31. 12. 1919 (zástupné roční datum), konstrukce kámen/cihly/tvárnice; SO 8831211, adresní místo 8882258
+- *(kn)* RÚIAN: rodinný dům, st. 17 (967 m²), kód 8831211, dokončení dle RÚIAN 1919; vlastník: KN-recept, k.ú. 775606 + st. 17
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 152 m², dokončení evid. k 31. 12. 1919 (orientační údaj starých staveb)
+
+### Čp. 5
+
+- *(ruian)* RÚIAN: rodinný dům, st. 21 (1 245 m²), zastavěná plocha 240 m², 1 podlaží, 1 byt, dokončení 31. 12. 1960, lokální vytápění, vodovod i kanalizace; SO 8831220, adresní místo 8882266
+- *(kn)* RÚIAN: rodinný dům, st. 21 (1 245 m²), kód 8831220, dokončení dle RÚIAN 1960; vlastník: KN-recept, k.ú. 775606 + st. 21
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 240 m², dokončení evid. 31. 12. 1960
+
+### Čp. 6
+
+- *(ruian)* RÚIAN: rodinný dům, st. 27/1 (113 m²), zastavěná plocha 113 m², 1 podlaží, 1 byt, dokončení 31. 12. 1960, konstrukce kámen/cihly/tvárnice; SO 8831238, adresní místo 8882274; sousední st. 27/2 (404 m², poddělení téže kmenové parcely) je zbořeniště
+- *(kn)* RÚIAN: rodinný dům, st. 27/1 (113 m²), kód 8831238, dokončení dle RÚIAN 1960; vlastník: KN-recept, k.ú. 775606 + st. 27/1
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 113 m², dokončení evid. 31. 12. 1960
+
+### Čp. 7
+
+- *(ruian)* RÚIAN: rodinný dům, st. 8 (512 m²), zastavěná plocha 145 m², 1 podlaží, 1 byt, dokončení 31. 12. 1945, konstrukce kámen/cihly/tvárnice; SO 8831246, adresní místo 8882282
+- *(kn)* RÚIAN: rodinný dům, st. 8 (512 m²), kód 8831246, dokončení dle RÚIAN 1945; vlastník: KN-recept, k.ú. 775606 + st. 8
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 145 m², dokončení evid. 31. 12. 1945
+
+### Čp. 8
+
+- *(ruian)* RÚIAN: rodinný dům, st. 22 (1 775 m² – druhá největší st. parcela k.ú.), zastavěná plocha 536 m² (největší na Zahrádce), podlahová 600 m², 2 podlaží, 1 byt, dokončení 31. 12. 1970; SO 8831254, adresní místo 8882291
+- *(kn)* RÚIAN: rodinný dům, st. 22 (1 775 m²), kód 8831254, zastavěná plocha 536 m², dokončení dle RÚIAN 1970; ARES: sídlo OSVČ Anna Vlčková (IČO 74248634, od 2006) – sídlo nedokládá vlastnictví; vlastník: KN-recept, k.ú. 775606 + st. 22
+- *(subjekty)* ARES/RŽP: Anna Vlčková, IČO 74248634, OSVČ od 20. 11. 2006, živnost volná AKTIVNÍ – obory: technické návrhy a grafické/kresličské práce, chov a výcvik zvířat, výroba školních a kancelářských potřeb/bižuterie/upomínkových předmětů, zprostředkování obchodu a služeb (samostatná živnost zprostředkování zanikla 30. 6. 2008); adresní místo RÚIAN 8882291; není v zemědělském registru ani mezi příjemci SZIF 2024/2025
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 536 m² (největší zastavěná plocha ve vsi), 2 podlaží, dokončení evid. 31. 12. 1970
+
+### Čp. 9
+
+- *(ruian)* RÚIAN: rodinný dům, st. 24 (1 131 m²), zastavěná plocha 397 m², 2 podlaží, 2 byty, dokončení 31. 12. 1980, vodovod i kanalizace; SO 8831262, adresní místo 8882304
+- *(kn)* RÚIAN: rodinný dům, st. 24 (1 131 m²), kód 8831262, dokončení dle RÚIAN 1980; vlastník: KN-recept, k.ú. 775606 + st. 24
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 2 byty, 397 m², 2 podlaží, dokončení evid. 31. 12. 1980
+
+### Čp. 10
+
+- *(ruian)* RÚIAN: rodinný dům, st. 26 (1 190 m²), zastavěná plocha 234 m², 1 podlaží, 1 byt, dokončení 31. 12. 1980; SO 8831271, adresní místo 8882312
+- *(kn)* RÚIAN: rodinný dům, st. 26 (1 190 m²), kód 8831271, dokončení dle RÚIAN 1980; vlastník: KN-recept, k.ú. 775606 + st. 26
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 234 m², dokončení evid. 31. 12. 1980
+
+### Čp. 11
+
+- *(ruian)* RÚIAN: rodinný dům (bývalý panský dvůr), st. 1 (3 543 m² – největší stavební parcela k.ú.), zastavěná plocha 304 m², 1 byt, podlaží/dokončení/technické údaje nezjištěny; SO 8831289, adresní místo 8882321
+- *(kn)* Bývalý dvůr. RÚIAN: rodinný dům, st. 1 (3 543 m²), kód objektu 8831289, adresní místo 8882321, zastavěná plocha 304 m²; ARES: sídlo spolku iZahrádka z. s. (IČO 06725384, od 31. 1. 2018) – sídlo nedokládá vlastnictví; POZOR: dražba 8/2026 se týká Pošné čp. 11 (k.ú. 726320), ne tohoto domu; vlastník: KN-recept, k.ú. 775606 + st. 1
+- *(subjekty)* ARES/VR: iZahrádka z. s., IČO 06725384, zapsán 31. 1. 2018, sp. zn. L 7471 KS České Budějovice, stav AKTIVNÍ, CZ-NACE 94993; účel: zlepšení kvality života na vesnici pomocí moderních technologií, zachování lokálních tradic a historických reálií, rozvoj kulturně-historického a přírodního dědictví, péče o domestikovaná zvířata v nouzi; statutární orgán: předseda výboru Patrik Jíra (nar. 1984), místopředsedkyně Pavla Švantnerová (nar. 1988); nejvyšší orgán členská schůze; sídlo na adresním místě 8882321 (bývalý panský dvůr, parcela st. 1); veřejně doložené aktivity (pouť, Wattlink) nenalezeny v oficiálních zdrojích
+- *(pamatky_obec)* EG.D: aktivní odběrné místo (bývalý dvůr); RÚIAN: rodinný dům, 304 m², st. 1, stavební objekt 8831289, adresní místo 8882321 (beze změny proti dřívějšímu stavu projektu)
+
+### Čp. 12
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu; konkrétní parcelu zaniklého domu z RÚIAN nelze určit
+- *(kn)* RÚIAN: stavební objekt s čp. 12 neexistuje (ověřeno dotazem na část obce 175609); zaniklé číslo – vlastnictví pozůstalé st. parcely nutno hledat přes historické mapy/pozemkovou knihu, ne přes čp.
+
+### Čp. 13
+
+- *(ruian)* RÚIAN: „objekt k bydlení“ (ne rodinný dům), st. 12 (540 m²), zastavěná plocha 99 m², 0 bytů, ostatní údaje nezjištěny; SO 8831297, adresní místo 8882339
+- *(kn)* RÚIAN: objekt k bydlení, st. 12 (540 m²), kód 8831297; vlastník: KN-recept, k.ú. 775606 + st. 12
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: „objekt k bydlení“, 99 m², 0 bytů
+
+### Čp. 14
+
+- *(ruian)* RÚIAN: rodinný dům, st. 40 (661 m²), zastavěná plocha 242 m², 1 podlaží, 2 byty, dokončení neuvedeno; SO 8831301, adresní místo 8882347
+- *(kn)* RÚIAN: rodinný dům, st. 40 (661 m²), kód 8831301; vlastník: KN-recept, k.ú. 775606 + st. 40
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 2 byty, 242 m²
+
+### Čp. 15
+
+- *(ruian)* RÚIAN: rodinný dům, st. 10/3 (1 015 m²), zastavěná plocha 235 m², 1 podlaží, 1 byt, dokončení 31. 12. 2006; SO 8831319, adresní místo 8882355; sousední st. 10/4 (poddělení téže kmenové parcely) nese rekreační čp. 30
+- *(kn)* RÚIAN: rodinný dům, st. 10/3 (1 015 m²), kód 8831319, dokončení 2006; ARES: sídlo OSVČ Pavla Moravcová (IČO 08434557, od 2019) – sídlo nedokládá vlastnictví; vlastník: KN-recept, k.ú. 775606 + st. 10/3
+- *(subjekty)* ARES/RŽP: Pavla Moravcová, IČO 08434557, OSVČ od 19. 8. 2019, obě živnosti AKTIVNÍ – vázaná 'Poskytování tělovýchovných a sportovních služeb v oblasti jógy' a volná s oborem 'Velkoobchod a maloobchod'; adresní místo RÚIAN 8882355
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 235 m², dokončení evid. 31. 12. 2006
+
+### Čp. 16
+
+- *(ruian)* RÚIAN: rodinný dům, st. 7 (278 m²), zastavěná plocha 159 m², 1 podlaží, 1 byt, dokončení 31. 12. 1960, konstrukce kámen/cihly/tvárnice; SO 8831327, adresní místo 8882363
+- *(kn)* RÚIAN: rodinný dům, st. 7 (278 m²), kód 8831327, dokončení dle RÚIAN 1960; vlastník: KN-recept, k.ú. 775606 + st. 7
+- *(pamatky_obec)* EG.D: NENÍ v seznamu vypnutých adres odstávky 7. 8. 2026 (jediné obydlené staré čp. mimo seznam); RÚIAN: rodinný dům, 159 m², dokončení evid. 31. 12. 1960
+
+### Čp. 17
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu
+- *(kn)* RÚIAN: stavební objekt s čp. 17 neexistuje; zaniklé číslo – viz poznámka u čp. 12
+
+### Čp. 18
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu
+- *(kn)* RÚIAN: stavební objekt s čp. 18 neexistuje; zaniklé číslo – viz poznámka u čp. 12
+
+### Čp. 19
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu
+- *(kn)* RÚIAN: stavební objekt s čp. 19 neexistuje; zaniklé číslo – viz poznámka u čp. 12
+
+### Čp. 20
+
+- *(ruian)* RÚIAN: „objekt k bydlení“ (ne rodinný dům), st. 18 (496 m²), zastavěná plocha 138 m², 1 podlaží, 1 byt, lokální vytápění, vodovod; SO 8831335, adresní místo 8882371
+- *(kn)* RÚIAN: objekt k bydlení, st. 18 (496 m²), kód 8831335; ARES: sídlo OSVČ Michael Marousek (IČO 23443871, od 26. 6. 2025) – sídlo nedokládá vlastnictví; vlastník: KN-recept, k.ú. 775606 + st. 18
+- *(subjekty)* ARES/RŽP: Michael Marousek, IČO 23443871, OSVČ od 26. 6. 2025 (nejnovější subjekt na Zahrádce), volná živnost AKTIVNÍ s oborem 'Ubytovací služby' (CZ-NACE 55), místo podnikání Zahrádka 20; adresní místo RÚIAN 8882371
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: „objekt k bydlení“, 138 m², 1 byt
+
+### Čp. 21
+
+- *(ruian)* RÚIAN: rodinný dům, st. 38 (561 m²), zastavěná plocha 281 m², 1 podlaží, 1 byt, dokončení 31. 12. 1919 (zástupné roční datum), konstrukce kámen/cihly/tvárnice; SO 8831343, adresní místo 8882380
+- *(kn)* RÚIAN: rodinný dům, st. 38 (561 m²), kód 8831343, dokončení dle RÚIAN 1919; vlastník: KN-recept, k.ú. 775606 + st. 38
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 281 m², dokončení evid. k 31. 12. 1919
+
+### Čp. 22
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu
+- *(kn)* RÚIAN: stavební objekt s čp. 22 neexistuje; zaniklé číslo – viz poznámka u čp. 12
+
+### Čp. 23
+
+- *(ruian)* RÚIAN 2026: čp. neexistuje — bez adresního místa i stavebního objektu
+- *(kn)* RÚIAN: stavební objekt s čp. 23 neexistuje; zaniklé číslo – viz poznámka u čp. 12
+
+### Čp. 24
+
+- *(ruian)* RÚIAN: rodinný dům, st. 31 (212 m²), zastavěná plocha 111 m², 1 podlaží, 1 byt, dokončení neuvedeno; SO 8831351, adresní místo 8882398
+- *(kn)* RÚIAN: rodinný dům, st. 31 (212 m²), kód 8831351; vlastník: KN-recept, k.ú. 775606 + st. 31
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 111 m²
+
+### Čp. 25
+
+- *(ruian)* RÚIAN: stavba pro rodinnou rekreaci (s čp., ne č.e.), st. 34/2 (62 m²), zastavěná plocha 39 m², 0 bytů; SO 8831360, adresní místo 8882401; tvoří dvojici s čp. 29 na st. 34/1 (poddělení téže kmenové parcely)
+- *(kn)* RÚIAN: stavba pro rodinnou rekreaci, st. 34/2 (62 m²), kód 8831360; vlastník: KN-recept, k.ú. 775606 + st. 34/2
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: stavba pro rodinnou rekreaci, 39 m², bez bytu
+
+### Čp. 26
+
+- *(ruian)* RÚIAN: rodinný dům, st. 32 (404 m²), zastavěná plocha 206 m², 1 podlaží, 1 byt, dokončení neuvedeno; SO 8831378, adresní místo 8882410
+- *(kn)* RÚIAN: rodinný dům, st. 32 (404 m²), kód 8831378; vlastník: KN-recept, k.ú. 775606 + st. 32
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 206 m²
+
+### Čp. 27
+
+- *(ruian)* RÚIAN: rodinný dům, st. 43 (221 m²), zastavěná plocha 223 m², 2 podlaží, 1 byt, dokončení 31. 12. 1960, konstrukce kámen/cihly/tvárnice; SO 8831386, adresní místo 8882428
+- *(kn)* RÚIAN: rodinný dům, st. 43 (221 m²), kód 8831386, dokončení dle RÚIAN 1960; ARES: sídlo OSVČ Stanislav Janda (IČO 68541040, od 1999) – sídlo nedokládá vlastnictví; vlastník: KN-recept, k.ú. 775606 + st. 43
+- *(subjekty)* ARES/RŽP: Stanislav Janda, IČO 68541040, řemeslná živnost 'Zednictví' od 1. 3. 1999, provozování PŘERUŠENO 13. 1. 2025 – 31. 12. 2050; adresní místo RÚIAN 8882428; čp. 27 je novodobé (mimo historickou řadu 1–25)
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 223 m², 2 podlaží, dokončení evid. 31. 12. 1960
+
+### Čp. 28
+
+- *(ruian)* RÚIAN: rodinný dům, st. 47 (141 m²), zastavěná plocha 142 m², 2 podlaží, 2 byty, dokončení 31. 12. 1990; SO 8831394, adresní místo 8882436
+- *(kn)* RÚIAN: rodinný dům, st. 47 (141 m²), kód 8831394, dokončení dle RÚIAN 1990; vlastník: KN-recept, k.ú. 775606 + st. 47
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: rodinný dům, 2 byty, 142 m², 2 podlaží, dokončení evid. 31. 12. 1990 — čp. nad historickou řadou 1–27, v projektu dosud nepodchycené
+
+### Čp. 29
+
+- *(ruian)* RÚIAN: veden jako rodinný dům, ale jde o drobný objekt — st. 34/1 (82 m²), zastavěná plocha 40 m², 0 bytů, údaje nezjištěny; SO 8831408, adresní místo 8882444; sousedí s rekreačním čp. 25 na st. 34/2
+- *(kn)* RÚIAN: rodinný dům, st. 34/1 (82 m²), kód 8831408, zastavěná plocha 40 m²; vlastník: KN-recept, k.ú. 775606 + st. 34/1
+- *(pamatky_obec)* EG.D: není v seznamu odstávky; RÚIAN: adresní místo existuje, rodinný dům 40 m² bez bytu — nové čp. nad historickou řadou
+
+### Čp. 30
+
+- *(ruian)* RÚIAN: stavba pro rodinnou rekreaci, st. 10/4 (471 m²), zastavěná plocha 193 m², 0 bytů; SO 30401500, adresní místo 30933056; sousedí s čp. 15 na st. 10/3
+- *(kn)* RÚIAN: stavba pro rodinnou rekreaci, st. 10/4 (471 m²), kód 30401500; vlastník: KN-recept, k.ú. 775606 + st. 10/4
+- *(pamatky_obec)* EG.D: není v seznamu odstávky; RÚIAN: adresní místo existuje, stavba pro rodinnou rekreaci, 193 m² — nové čp. nad historickou řadou
+
+### Čp. 31
+
+- *(ruian)* RÚIAN: stavba pro rodinnou rekreaci, st. 53 (87 m² – nejvyšší st. číslo k.ú.), zastavěná plocha 87 m², 1 podlaží, 0 bytů, dokončení 17. 5. 2019, dřevostavba (lehký rámový skelet, staveništní montáž); SO 97458104, adresní místo 79425089
+- *(kn)* RÚIAN: stavba pro rodinnou rekreaci, st. 53 (87 m²), kód 97458104, dokončení 17. 5. 2019; vlastník: KN-recept, k.ú. 775606 + st. 53
+- *(pamatky_obec)* EG.D: aktivní odběrné místo; RÚIAN: stavba pro rodinnou rekreaci, 87 m², st. 53 v k.ú. Zahrádka u Pošné, dokončení 17. 5. 2019 — nové čp. nad historickou řadou
+
+### Čp. 32
+
+- *(ruian)* RÚIAN: rodinný dům, st. 3/1 (928 m²), zastavěná plocha 220 m², podlahová 323 m², 2 podlaží, 1 byt, dokončení 13. 2. 2025 (nejnovější dům na Zahrádce), zděný, vytápění dřevo/biomasa, vlastní ČOV; SO 150466081, adresní místo 86829114; sousední st. 3/2 (63 m²) je společný dvůr
+- *(kn)* RÚIAN: rodinný dům, st. 3/1 (928 m²), kód 150466081, dokončení 13. 2. 2025 (nejnovější dům na Zahrádce); vlastník: KN-recept, k.ú. 775606 + st. 3/1 (vedle st. 3/2, 63 m², společný dvůr)
+- *(pamatky_obec)* EG.D: není v seznamu odstávky; RÚIAN: rodinný dům, 220 m², 2 podlaží, dokončení 13. 2. 2025 — nejnovější dům na Zahrádce
+
+### 35 (Pošná) – Houskův mlýn
+
+- *(pamatky_obec)* Usnesení ZO Pošná 2023/3/20 ze 7. 6. 2023 („Pošná, č.p.35, Houskův Mlýn kabel NN“, smlouva s EG.D) úředně ztotožňuje mlýn s čp. 35 části obce Pošná; RÚIAN: rodinný dům, 218 m², 1 byt, dokončení evid. k 31. 12. 1919, st. 53/3 v k.ú. Pošná těsně při hranici k.ú. Zahrádka u Pošné, definiční bod 49.46924 N, 15.06466 E; žádné evidenční číslo; EG.D: aktivní odběrné místo (odstávka 7. 8. 2026)
+
+### 61 (anomálie EG.D)
+
+- *(pamatky_obec)* EG.D uvádí „Pošná, Zahrádka, Čp. 61“, ale v RÚIAN žádné čp. 61 na Zahrádce neexistuje; zjevně jde o čp. z Pošné přiřazené v datech EG.D k lokalitě Zahrádka
+
+### 79 (Pošná) – u Houskova mlýna
+
+- *(pamatky_obec)* RÚIAN: novostavba u mlýna, rodinný dům, 221 m², 2 podlaží, dokončení 25. 1. 2010, st. 53/4 v k.ú. Pošná; EG.D: aktivní odběrné místo (odstávka 7. 8. 2026)
+
+### bez čp. (kaple)
+
+- *(kn)* RÚIAN: st. 42 (16 m², zastavěná plocha a nádvoří, id parcely 2959940304); vlastník kaple veřejně strojově nezjistitelný – KN-recept, k.ú. 775606 + st. 42; kontext: obec Pošná dotovala Římskokatolickou farnost Pacov (smlouva 202301, úřední deska), což ale vlastnictví kaple nedokládá
+
+### bez čp. (kaple, st. 42)
+
+- *(pamatky_obec)* NPÚ: nemovitá KP „kaple“ – soubor „kaple s křížem“, rejstř. č. 28918/3-3351, katalog. č. 1000140254, chráněno od 3. 5. 1958, zápis do státního seznamu 31. 12. 1963 („návesní kaple“); části: kaple (drobná zděná návesní kaple rustikálního charakteru z 19. století, čtvercový půdorys s okosenými nárožími, segmentový vstup, stanová střecha se čtyřbokou lucernou) a žulový hrotový kříž z r. 1884 s litinovým korpusem Krista a nápisem „Tento kříž založil ke cti a chvále Boží Václav a Marie Kejval ze Zahrádky 1884“; ochrana: st. 42 celý pozemek, p. 420/14 bez ochrany; obec 25. 3. 2026 schválila prodej části p. 420/14 (~406 m²) za 200 Kč/m²
+
+### bez čp. (odběrná místa na parcelách)
+
+- *(pamatky_obec)* EG.D dále vypíná odběrná místa „Zahrádka, Čp. 0“ (bez čísla popisného) a na parcelách 12/2, 3/1, 420/7 a 44 v k.ú. Zahrádka u Pošné — doklad přípojek na pozemcích bez čp. (stodoly, rekreační či technické objekty)
+
+### bez čp. (st. 15/1)
+
+- *(ruian)* RÚIAN: „jiná stavba“ bez čp./č.e., 2 podlaží, zastavěná plocha 216 m², podlahová 180 m², 1 byt, dokončení 30. 3. 2016 (současně s čp. 2 na sousední st. 15/2), zděná, vodovod, jímka; SO 8831190
+
+### bez čp. (st. 16/5)
+
+- *(ruian)* RÚIAN: zemědělská stavba bez čp./č.e., st. 16/5 (861 m², půdorys objektu ~145 m²), vedle čp. 3; SO 50272551
+
+### bez čp. (st. 2)
+
+- *(ruian)* RÚIAN: zemědělská stavba bez čp./č.e., st. 2 (479 m², půdorys objektu ~479 m²); SO 39261441
+
+### bez čp. (st. 29/2)
+
+- *(ruian)* RÚIAN: „jiná stavba“ bez čp./č.e., st. 29/2 (235 m², půdorys ~235 m²), vedle čp. 1 na st. 29/1; SO 48290319
+
+### bez čp. (st. 37)
+
+- *(ruian)* RÚIAN: „zemědělská usedlost“ bez čp./č.e., st. 37 (95 m², půdorys ~98 m²); zařazení „usedlost“ naznačuje možné bývalé popisné stavení (interpretace); SO 45286183
+
+### bez čp. (st. 39)
+
+- *(ruian)* RÚIAN: stavba technického vybavení bez čp./č.e., st. 39 (9 m², půdorys ~8 m² — drobný technický objekt); SO 45286191
+
+### bez čp. (st. 42)
+
+- *(ruian)* RÚIAN: objekt občanské vybavenosti bez čp./č.e., st. 42 (16 m², půdorys ~12 m² — drobná stavba); SO 39261450
+
+### bez čp. (st. 44)
+
+- *(ruian)* RÚIAN: zemědělská stavba bez čp./č.e., st. 44 (641 m², půdorys ~639 m² — největší hospodářský objekt vsi); SO 45286175
+
+### bez čp. (st. 46)
+
+- *(ruian)* RÚIAN: objekt občanské vybavenosti bez čp./č.e., st. 46 (102 m², půdorys ~92 m²); SO 39261433
+
+### bez čp. (st. 48)
+
+- *(ruian)* RÚIAN: garáž bez čp./č.e., st. 48 (24 m²); SO 39261417
+
+### bez čp. (st. 49)
+
+- *(ruian)* RÚIAN: „objekt k bydlení“ bez čp./č.e., st. 49 (42 m², půdorys ~35 m²); obytné zařazení bez čísla naznačuje možné bývalé popisné stavení (interpretace); SO 39261409
+
+### bez čp. (zaniklé/prázdné st. parcely)
+
+- *(ruian)* RÚIAN: zbořeniště st. 27/2 (404 m², u čp. 6), st. 28/1 (102 m²) a st. 28/2 (387 m²); společný dvůr st. 3/2 (63 m²); zastavěné plochy bez evidovaného objektu st. 50 (43 m²) a st. 52 (10 m²); v katastru zcela chybějí kmenová st. čísla 4, 5, 6, 9, 11, 13, 14, 19, 20, 23, 25, 30, 33, 35, 36, 41, 45, 51 — kandidátní místa zaniklých čp. 12, 17, 18, 19, 22, 23
+
+## Slepé konce (33)
+
+- ruian: VDP web ČÚZK (https://vdp.cuzk.gov.cz/vdp/ruian/adresnimista?casobc=175609) je JavaScriptová aplikace — HTML neobsahuje data a strojově ji nelze vytěžit; enumerace proto provedena přes oficiální ArcGIS REST službu RÚIAN (týž primární zdroj ČÚZK). Deep-linky na detail objektu (https://vdp.cuzk.gov.cz/vdp/ruian/stavebniobjekty/{kód}) ale fungují pro ruční ověření.
+- ruian: Přiřazení zaniklých čp. 12, 17, 18, 19, 22, 23 (a čp. 1a) ke konkrétním stavebním parcelám nelze z RÚIAN odvodit — RÚIAN nevede historii čísel domovních ani zaniklé objekty. K dispozici jsou jen nepřímé stopy (zbořeniště st. 27/2, 28/1, 28/2; zaniklá kmenová st. čísla; objekty bez čp. na st. 37 a 49). Nutno dohledat ve stabilním katastru (císařské otisky, archivnimapy.cuzk.gov.cz) a pozemkových knihách.
+- ruian: Vlastníci budov a parcel: nahlizenidokn.cuzk.gov.cz je za captchou — nezkoušeno (dle pravidel). Ruční dohledání: https://nahlizenidokn.cuzk.gov.cz/ → Vyhledat parcelu → k.ú. Zahrádka u Pošné (775606) → parcelní číslo st. X (stavební parcela); pro budovy → Vyhledat stavbu → část obce Zahrádka, čp.
+- ruian: U 8 z 11 objektů bez čp. a u čp. 3, 11, 13, 14, 24, 25, 26, 29 RÚIAN neuvádí datum dokončení ani technické parametry (kód 9 „nezjištěno“) — z veřejného RÚIAN dál nezjistitelné.
+- ruian: Pokus o strojový JSON výstup z VDP REST (vdp.cuzk.gov.cz/vdp/rest/…) vrací pouze aplikační shell, nikoli data.
+- kn: nahlizenidokn.cuzk.gov.cz: už úvodní stránka vrací 302 s bot-management skriptem (Radware/validate.perfdrive.com); vlastníci jen po captchе. Nebyl činěn žádný pokus o obejití – proveden jediný dokumentační požadavek. Ruční recept: Vyhledat parcelu → k.ú. Zahrádka u Pošné (775606) → st. parcela dle tabulky domů (nebo Vyhledat stavbu → Pošná / Zahrádka / čp.); výsledkem je č. LV a jména vlastníků.
+- kn: Otevřená data ČÚZK na data.gov.cz (katastrální mapa, RÚIAN/VFR, INSPIRE CP): vlastnictví neobsahují; bezplatná webová služba dle vyhlášky 50/2024 Sb. je výslovně bez osobních údajů. Úplný LV jen přes registrovaný Dálkový přístup (katastr.cuzk.gov.cz/DPWEB) nebo WSDP.
+- kn: VDP (vdp.cuzk.gov.cz): pouze územní prvky RÚIAN, žádní vlastníci – slouží k mapování čp.↔parcela, což bylo využito.
+- kn: nabidkamajetku.gov.cz (ÚZSVM): seznam nabídek se vykresluje klientsky, žádné veřejné API nenalezeno (zkoušeny /Home/FullTextSearch, /api/Property/Search, GET/POST filtry CadastreId a Fulltext – bez výsledku). Ruční recept: Nabídka majetku → filtr Katastrální území = Zahrádka u Pošné. Aktuální nabídku pro k.ú. 775606 se nepodařilo strojově potvrdit ani vyvrátit.
+- kn: pnm.lesycr.cz (prodeje Lesů ČR): aplikace Oracle APEX se session – strojově neprocházitelná; výběrové řízení z 1/2026 na parc. 288/1 a 155/2 už na portálu nebylo dohledatelné, výsledek ale nalezen v registru smluv (kupní smlouvy 5/2026 – viz nálezy).
+- kn: Registr smluv (smlouvy.gov.cz): fulltextové vyhledávání v UI nevrací výsledky server-side (parametr q ignorován); jako index posloužil Hlídač státu (hlidacstatu.cz/hledat?Q="Zahrádka u Pošné", 26 zásahů), každý relevantní nález následně ověřen na primárním záznamu a PDF na smlouvy.gov.cz.
+- kn: edesky.cz: vyhledávání dokumentů přes /hledat?q= vrátilo 0 položek (výsledky se zjevně renderují jinak); úřední deska posna.cz prošla ručně – žádný záměr prodeje ani VŘ Lesů ČR pro k.ú. 775606 (aktuální ani archiv).
+- kn: Dražební/aukční portály: pro k.ú. Zahrádka u Pošné žádná dražba nenalezena. POZOR na záměnu: dražba 219EX 00619/26-123 (12. 8. 2026, portaldrazeb.cz) je Pošná čp. 11, k.ú. Pošná 726320, LV 249 – jiný dům než čp. 11 na Zahrádce. Rovněž nezaměňovat s k.ú. Hrobská Zahrádka (u Cetoraze) a zaniklou Zahrádkou u Ledče n. S.
+- kn: ÚZSVM seznamy nedostatečně identifikovaných vlastníků dle k.ú.: po 1. 1. 2024 staženy, na webu jen souhrnná brožura 2023 (bez parcel); případně by šlo hledat starší XLSX ve Wayback Machine – neprovedeno (mimo oficiální zdroje).
+- kn: Aplikace ÚZSVM „Majetek České republiky“ (uzsvm.gov.cz/majetek-ceske-republiky): při přístupu hlásila chybu; ruční ověření státního majetku v k.ú. 775606 tam zůstává k vyzkoušení.
+- kn: Vlastník kaple (st. 42) a majetek obce Pošná v k.ú. 775606: žádný veřejně enumerovatelný zdroj nenalezen (úřední deska bez inventarizace, Program rozvoje obce 2020–2024 bez majetkových výčtů); nutný KN-recept přes captchu, u obce případně žádost dle zák. 106/1999 Sb.
+- subjekty: Luděk Bulant (zastupitel, bydliště Zahrádka dle kandidátních listin 2018 a 2022) NELZE přiřadit ke konkrétnímu čp. — volby.cz publikuje bydliště jen na úroveň části obce (sloupec BYDLISTEN v kvrk.csv), HTML jmenné seznamy bydliště nezobrazují vůbec; podle pravidla o soukromí nepřiřazovat k domu.
+- subjekty: KV2026: otevřená data ani prezentace zatím neexistují (https://volby.gov.cz/opendata/kv2026/... i /pls/kv2026/ vrací 404 k 31. 7. 2026).
+- subjekty: Pouť na Zahrádce / veřejné akce spolku iZahrádka: žádná stopa na posna.cz ani ve vyhledávačích; POZOR — všechny nálezy 'Zahrádecká pouť' a 'Spolek Přátelé Zahrádky' (zahradkauledce.cz) patří zaniklé Zahrádce u Ledče nad Sázavou, nikoli naší Zahrádce.
+- subjekty: Partnerství iZahrádka × Wattlink není doloženo v žádném veřejném oficiálním zdroji; jediná veřejná stopa je jmenná shoda 'Patrik Jíra' v patičce wattlink.cz (LinkedIn odkaz) — firemní web, nízká důkazní hodnota.
+- subjekty: LPIS: veřejný LPIS (lpis.mze.cz) je interaktivní JS aplikace bez jednoduchého REST výstupu — manuální ověření: vyhledat uživatele dle IČO (např. 04961447 Mokrá) nebo zobrazit k.ú. Zahrádka u Pošné (775606) a odečíst uživatele dílů půdních bloků.
+- subjekty: SZIF open data za FY2022 a FY2023 (spd2022.csv, spd2023czk.csv na szif.gov.cz, stejný vzor URL) nebyly staženy kvůli velikosti a pomalému stahování (~50 MB/soubor); zkontrolovány FY2024 a FY2025 — v obou bez zahrádeckých subjektů.
+- subjekty: Vyhledávací aplikace SZIF 'Seznam příjemců dotací' (https://szif.gov.cz/cs/seznam-prijemcu-dotaci) je JS aplikace; místo ní použita open data CSV z téže stránky.
+- subjekty: Vyhledávání na posna.cz (/vyhledavani) vrací 404; Zahrádka je na webu obce jen jako fotogalerie 'Zahrádka a okolí' (https://www.posna.cz/zahradka-a-okoli/gs-1006) a oznámení EG.D o přerušení dodávky elektřiny pro 'Zahrádka u Pošné' z 20. 7. 2026 na úřední desce.
+- subjekty: ARES RŽP vrací obory činnosti bez čísel oborů (jen názvy); plný výpis z RŽP s čísly oborů by vyžadoval ruční dotaz na https://rzp.gov.cz/verejne-udaje/cs/udaje/vyber-subjektu (zadat IČO subjektu).
+- pamatky_obec: pamatkovykatalog.cz blokuje požadavky bez prohlížečového User-Agentu (403) a výpis adresáře /opendata/ je zakázán i s ním; webový katalog je čistá JS aplikace bez SSR. Obejito: CSV dump https://pamatkovykatalog.cz/opendata/npu_opendata_KP.csv (17 MB, stav 2. 7. 2026) a nedokumentované JSON API /api/legal-state/{id} a /api/element/{id}, kde {id} je zkrácené katalogové číslo bez předpony 1000 (např. 147883, 140254).
+- pamatky_obec: API /api/search/* Památkového katalogu se nepodařilo rozklíčovat (režimy vyhledávání minifikované), takže případné dílčí elementy areálu usedlosti čp. 2 (dům, chlévy, kolna…) nejsou v API vypsané — element 694394 má pole elements prázdné; výčet částí je znám jen ze staršího popisu ÚSKP a z oznámení o zániku stodoly 2021.
+- pamatky_obec: geoportal.npu.cz/opendata/ vrací 403 pro WebFetch i curl s prohlížečovou hlavičkou; nebyl potřeba (data získána z pamatkovykatalog.cz/opendata/).
+- pamatky_obec: Archiv usnesení ZO Pošná 2006–2022 na posna.cz nebyl systematicky projit (prohledáno jen období 1/2023–3/2026, tj. 14 usnesení + 3 přílohy); starší usnesení k vodovodu Zahrádka či kapli by vyžadovala další průchod archivních skupin na https://www.posna.cz/usneseni-zastupitelstva/ds-1001/p1=58.
+- pamatky_obec: Jména kupujících obecních pozemků v k.ú. Zahrádka u Pošné jsou v publikovaných usneseních anonymizována („xxxxx“, „Panu…“) — nelze je doplnit z veřejného zdroje; vlastníky parcel 399/1, 420/14, 401/3, 342/3 a 231 by šlo ověřit jen ručně přes captcha-gated https://nahlizenidokn.cuzk.gov.cz/ (k.ú. Zahrádka u Pošné 775606, zadat číslo parcely).
+- pamatky_obec: Původní evidenční listy KP (MIS id 1051976 usedlost, 1051971 kaple) a oznámení o zániku stodoly (id 1439420) jsou na iispp.npu.cz/mis_public/documentDetail.htm — stažení skenů nebylo v této rešerši provedeno (projekt už má lokální kopie dokumentů z 2005 a 2021 dle vyzkum_statku.md).
+- pamatky_obec: Položky EG.D „Zahrádka, Čp. 61“ a „Čp. 0“ nejde ověřit proti RÚIAN (čp. 61 na Zahrádce neexistuje); „Pacov, Růžkův Mlýn, Če. 600“ patří ke k.ú. Pacov, s naší Zahrádkou nesouvisí — nezaměňovat, stejně jako celou odstávkovou skupinu Důl/Nová Ves.
+- pamatky_obec: WebFetch Wikipedie (Seznam kulturních památek v okrese Pelhřimov) vracel zkrácený obsah bez oddílu Pošná; obejito přes action=raw wikitext.

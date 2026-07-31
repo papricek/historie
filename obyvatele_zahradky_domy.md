@@ -2305,7 +2305,9 @@ uzavřen; snímek 363 je už abecední rejstřík.
 Tento oddíl vytahuje z dřívějšího výzkumného spisu osoby, u nichž už primární
 pramen výslovně uvádí jiné číslo domu než č. 11. Sloupec `Starší ID` zachovává
 odkaz na podrobný záznam v [původní osobní evidenci](obyvatele_zahradky.md#ostatní-obyvatelé-zahrádky),
-kde jsou rozepsány jistoty a všechny pomocné prameny.
+kde jsou rozepsány jistoty a všechny pomocné prameny. Od 31. 7. 2026 sem
+přibývají i nové přímo adresované nálezy z tisku a úředních věstníků; řádky bez
+staršího ID pocházejí z této vrstvy.
 
 | Dům | Osoba | Datum / období | Co pramen dokládá | Hlavní pramen | Starší ID |
 |---|---|---|---|---|---|
@@ -2325,6 +2327,83 @@ kde jsou rozepsány jistoty a všechny pomocné prameny.
 | N21 / č. 21 | Anna Dušánková, rozená Kejvalová | 1868 a 1896 | matka Karolíny; rodinná vazba k č. 21 | tytéž zápisy jako u Karolíny | ZAH-O019 |
 | č. 22 | Tomáš Kaňka | doložen 1901 | obuvník; otec Aloise, spojený v zápisu s č. 22 | [oddací matrika syna](https://digi.ceskearchivy.cz/6624/75) | ZAH-0002 |
 | č. 22 | Kateřina Kaňková, rozená Čermáková | doložena 1901 | matka Aloise; rodinná vazba k č. 22 | [oddací matrika syna](https://digi.ceskearchivy.cz/6624/75) | ZAH-0003 |
+| č. 15 | František Kejval | 21. 11. 1923 | vystoupil z představenstva Hospodářského družstva skladištního v Pacově; zapsán „ze Zahrádky u Pošné čp. 15“ — navazuje na starostu z roku 1915 a majitele domu ze sčítání 1921 | [Úřední list RČS, 15. 12. 1923, s. 8360](https://kramerius5.nkp.cz/uuid/uuid:43c4aee0-e5eb-11ea-8ce6-005056825209) | ZAH-O008 |
+| č. 15 | Josef Dvořák | 21. 11. 1923 | vystoupil z představenstva téhož družstva; zapsán rovněž „ze Zahrádky u Pošné čp. 15“ (zápis „oba čp. 15“ ještě ověřit ve skenu) | tentýž zápis Úředního listu | — |
+| č. 9 | Karel Plášil | 21. 4. 1943 | rolník v čp. 9, ustanoven opatrovníkem Marie Plášilové bytem tamtéž; shoduje se s majitelem domu ze sčítání 1921, případně se stejnojmenným synem — čteno jen z veřejných úryvků stránky v režimu DNNT | [Úřední list Protektorátu, 21. 4. 1943, s. 3001](https://kramerius5.nkp.cz/uuid/uuid:da85fe7c-30ea-4c58-94d5-4ca860f39ab4) | — |
+| č. 9 | Marie Plášilová | 17. 3. 1943 | „při hospodářství, bytem v Zahrádce u Pošné čp. 9“; vedena v úředním seznamu opatrovnictví Okresního soudu v Pacově (č. j. L 1/43—6), opatrovníkem ustanoven Karel Plášil z téhož domu | tentýž zápis Úředního listu | — |
+| č. 10 | František Kejval | 21. 11. 1923 a 1930 | rolník v čp. 10; roku 1923 nově zvolen členem představenstva Hospodářského družstva skladištního v Pacově, roku 1930 přísedícím Družstva pro rozvod elektrické energie Proseč–Pošná. Jiná osoba než stejnojmenný starosta z č. 15 | [Úřední list RČS, 15. 12. 1923, s. 8360](https://kramerius5.nkp.cz/uuid/uuid:43c4aee0-e5eb-11ea-8ce6-005056825209), [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) | — |
+| č. 8 | František Kříž | 1930 | rolník v čp. 8; přísedící představenstva Družstva pro rozvod elektrické energie Proseč–Pošná. Roku 1921 byl přednostou domácnosti čp. 8 František Růž — držitel se mezitím změnil, nebo šlo o dalšího obyvatele domu | [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) | — |
+| č. 16 | J. Kejvalová | 22. 10. 1948 | zemřela; matriční zpráva farnosti Pošná. Křestní jméno pramen zkracuje. Navazuje patrně na rodinu Jana Kejvala z čp. 16, pramen to však neuvádí | [Palcát, 12. 11. 1948, s. 6](https://www.digitalniknihovna.cz/cbvk/uuid/uuid:ab945563-3fde-11f0-8920-005056841fbb) | — |
+| č. 1 | Josef Franěk / Franík | 18. 5. 1920 | rolnický syn v č. 1, ženich; matrika jej píše Franěk / Fraňek | [oddací matrika, sn. 158](https://digi.ceskearchivy.cz/6624/158) | — |
+| č. 1 | František Franěk | 18. 5. 1920 | rolník v č. 1, otec ženicha | tentýž zápis | — |
+| č. 13 | Kateřina Fraňková, rozená Kejval | 18. 5. 1920 | matka ženicha; pramen ji uvádí jako „rozenou Kejval ze Zahrádky č. 13“ — vzácný doklad k domu, jehož arch ve sčítání 1921 chybí | tentýž zápis | — |
+| č. 22 | Růžena Rohovcová, provdaná Fraňková | 18. 5. 1920 | nevěsta, narozená v č. 22 | tentýž zápis | — |
+| č. 22 | Jan Rohovec | 18. 5. 1920 | tesař v č. 22, otec nevěsty; roku 1928 týž tesař v č. 1 a roku 1929 v č. 21 | [sn. 158](https://digi.ceskearchivy.cz/6624/158), [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
+| č. 22 | Josefa Rohovcová, rozená Žák | 1920, 1928 a 1929 | matka Růženy, Marie a Anežky; ve všech zápisech „ze Zahrádky č. 22“ | tytéž zápisy | — |
+| č. 2 | František Kudrna | 18. 5. 1920 a 18. 7. 1922 | rolník v č. 2, svědek dvou sňatků; zemřel před rokem 1928 | [sn. 158](https://digi.ceskearchivy.cz/6624/158), [sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
+| č. 24 | Antonín Plášil | 1. 2. 1921 | rolník v č. 24, narozen 14. 1. 1891 tamtéž; ženich | [oddací matrika, sn. 163](https://digi.ceskearchivy.cz/6624/163) | — |
+| č. 24 | Václav Plášil | 1921 a 1928 | domkář v č. 24, otec Antonína a děd Antonie | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 206](https://digi.ceskearchivy.cz/6624/206) | — |
+| č. 24 | Kateřina Plášilová, rozená Šíva | 1. 2. 1921 | matka Antonína; z Pošné č. 37 | [sn. 163](https://digi.ceskearchivy.cz/6624/163) | — |
+| č. 16 | Anna Kejvalová, provdaná Plášilová | 1. 2. 1921 | nevěsta ze Zahrádky č. 16, narozena 22. 5. 1890 | [sn. 163](https://digi.ceskearchivy.cz/6624/163) | — |
+| č. 16 | Jan Kejval | 1921 a 1922 | domkář v č. 16; otec Anny, Terezie a Karolíny | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 171](https://digi.ceskearchivy.cz/6624/171) | — |
+| č. 16 | Terezie Kejvalová, provdaná Rohovcová | 1. 2. 1921 | nevěsta ze Zahrádky č. 16, narozena 3. 10. 1896; téhož dne se vdávala i sestra Anna | [sn. 163](https://digi.ceskearchivy.cz/6624/163) | — |
+| č. 16 | Karolína Kejvalová, provdaná Kulhavá | 14. 2. 1922 | narozena 5. 4. 1901 v č. 16; provdána do Velkých Outěchovic č. 35. Otec udělil nezletilé souhlas | [sn. 171](https://digi.ceskearchivy.cz/6624/171) | — |
+| č. 16 | Kateřina Kejvalová, rozená Pošusta | 14. 2. 1922 | manželka Jana Kejvala, matka Karolíny; z Litohoště č. 25 | [sn. 171](https://digi.ceskearchivy.cz/6624/171) | — |
+| č. 1 | František Rohovec | 1. 2. 1921 | tesař ze Zahrádky č. 1, narozen 15. 7. 1895; ženich Terezie Kejvalové | [sn. 163](https://digi.ceskearchivy.cz/6624/163) | — |
+| č. 12 | Kateřina Kejvalová, provdaná Vitisková | 1. 2. 1921 | nevěsta ze Zahrádky č. 12, narozena 23. 10. 1892 v Loutkově č. 3; provdala se za šafáře panského dvora č. 11 | [sn. 164](https://digi.ceskearchivy.cz/6624/164) | — |
+| č. 12 | František Kejval | 1. 2. 1921 | dělník a domkář v č. 12, otec Kateřiny | tentýž zápis | — |
+| č. 12 | Jan Pudil | 1921, 1925 a 1930 | dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Sčítání 1921 čte v čp. 12 „Jan Budil“; matrika píše opakovaně Pudil a on sám se roku 1925 podepsal „Jan Pudil, otec“ | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 186](https://digi.ceskearchivy.cz/6624/186), [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 15 | Marie Pudilová, rozená Kejvalová | 1925 a 1930 | manželka Jana Pudila; matrika ji uvádí „ze Zahrádky č. 15“ | [sn. 186](https://digi.ceskearchivy.cz/6624/186), [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 19 | Anna Vaňková | 8. 1. 1921 | dcera Josefa Vaňka, narozena 14. 5. 1889 | [sn. 160](https://digi.ceskearchivy.cz/6624/160) | — |
+| č. 19 | Josef Vaněk | 1921, 1923, 1924 a 1929 | chalupník v č. 19; otec Anny, Jana, Karla, Růženy a Aloise | [sn. 160](https://digi.ceskearchivy.cz/6624/160), [sn. 164](https://digi.ceskearchivy.cz/6624/164), [sn. 179](https://digi.ceskearchivy.cz/6624/179), [sn. 185](https://digi.ceskearchivy.cz/6624/185), [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
+| č. 19 | Jan Vaněk | 3. 2. 1921 | rolnický syn narozený v č. 19; oženil se do Nesvačil č. 3 | [sn. 164](https://digi.ceskearchivy.cz/6624/164) | — |
+| č. 19 | Karel Vaněk | 20. 11. 1923; svědek 1929 a 1930 | narozen 3. 1. 1891 v č. 19, roku 1929 rolník tamtéž. Totožný s legionářem Karlem Vaňkem (Itálie, 39. pěší pluk) — datum narození souhlasí na den | [sn. 179](https://digi.ceskearchivy.cz/6624/179), [sn. 213](https://digi.ceskearchivy.cz/6624/213), [legionářská karta](https://www.csol.cz/legionar/119257/) | — |
+| č. 19 | Růžena Vaňková | 22. 11. 1924 | dcera Josefa Vaňka, narozena 6. 11. 1900; provdána za průvodčího vlaků do Ústí nad Labem | [sn. 185](https://digi.ceskearchivy.cz/6624/185) | — |
+| č. 19 | Alois Vaněk | 16. 11. 1929 | narozen 25. 6. 1894 v č. 19; zaměstnanec při polním hospodářství v Nesvačilech | [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
+| č. 5 | František Vaněk | 1921 a 1929 | rolník v č. 5; svědek roku 1921, otec Karolíny roku 1929 | [sn. 160](https://digi.ceskearchivy.cz/6624/160), [sn. 212](https://digi.ceskearchivy.cz/6624/212) | — |
+| č. 5 | Karolína Vaňková | 26. 9. 1929 | dcera Františka Vaňka, narozena 18. 4. 1901 v č. 5 | [sn. 212](https://digi.ceskearchivy.cz/6624/212) | — |
+| č. 15 | Antonie Vaňková, rozená Kejvalová | 26. 9. 1929 | manželka Františka Vaňka, matka Karolíny; „ze Zahrádky č. 15“ | tentýž zápis | — |
+| č. 5 | Antonín Kříž | 1929 a 3. 2. 1934 | rolník v č. 5; svědek dvou sňatků | [sn. 212](https://digi.ceskearchivy.cz/6624/212), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) | — |
+| č. 18 | Josef Kudrna | zemřel před 18. 7. 1922 | domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti | [sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
+| č. 18 | Antonie Kudrnová, rozená Kratochvíl | 18. 7. 1922 | vdova po Josefu Kudrnovi, domkáři v č. 18 | tentýž zápis | — |
+| č. 18 | Marie Kratochvílová | 18. 7. 1922 | nevěsta ze Zahrádky č. 18, narozena v Táboře č. 238; dcera Antonie | tentýž zápis | — |
+| č. 18 | Antonín Kudrna | 24. 11. 1928 a 9. 11. 1929 | domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny | [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
+| č. 18 | Josef Vacík | 24. 11. 1928 | truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují | tentýž zápis | — |
+| č. 3 | Matěj Bartoška | 17. 4. 1923 a 5. 1. 1925 | rolník v č. 3; otec Boženy a Václava | [sn. 176](https://digi.ceskearchivy.cz/6624/176), [Pelhřimov, sn. 198](https://digi.ceskearchivy.cz/6347/198) | — |
+| č. 3 | Antonie Bartošková, rozená Svobodová | 1923 a 1925 | manželka Matěje; z Malých Outěchovic č. 30 | tytéž zápisy | — |
+| č. 3 | Božena Bartošková | 17. 4. 1923 | dcera Matěje Bartošky ze Zahrádky č. 3, nevěsta | [sn. 176](https://digi.ceskearchivy.cz/6624/176) | — |
+| č. 3 | Václav Bartoška | 5. 1. 1925 | rolník v Zahrádce u Pošné č. 3, narozen 17. 9. 1894; roku 1925 už hospodář. Ohlášky sňatku vyšly i v tisku | [Pelhřimov, sn. 198](https://digi.ceskearchivy.cz/6347/198), [Týdeník z Českomoravské vysočiny, 3. 1. 1925, s. 4](https://kramerius.kkvysociny.cz/uuid/uuid:0ea75ebf-2e66-4747-a28f-e13833b161f0) | — |
+| č. 20 | Václav Zelenka | 14. 2. 1925 | domkář v č. 20, otec Karla | [sn. 186](https://digi.ceskearchivy.cz/6624/186) | — |
+| č. 20 | Karel Zelenka | 14. 2. 1925 | tesařský pomocník v č. 20, narozen tamtéž; ženich Marie Pudilové z č. 12 | tentýž zápis | — |
+| č. 20 | Jan Zelenka | 14. 2. 1925 | domkář v č. 20, svědek; v domě tak žijí současně Václav i Jan Zelenka | tentýž zápis | — |
+| č. 12 | Marie Pudilová, provdaná Zelenková | 14. 2. 1925 | dcera Jana Pudila ze Zahrádky č. 12 | tentýž zápis | — |
+| č. 9 | Josef Plášil | 22. 11. 1925 | hostinský v č. 9, otec Boženy. V témže domě je roku 1921 i 1943 doložen Karel Plášil — šlo o širší rodinu | [sn. 190](https://digi.ceskearchivy.cz/6624/190) | — |
+| č. 9 | Marie Plášilová, rozená Vorlová | 22. 11. 1925 | manželka Josefa Plášila; z Hadovek č. 28 | tentýž zápis | — |
+| č. 9 | Božena Plášilová | 22. 11. 1925 | dcera hostinského, bytem v č. 9, narozena v č. 6; provdána do Moravče | tentýž zápis | — |
+| č. 9 | Alois Plášil | 22. 11. 1925 | rolník v č. 9, svědek. Roku 1927/28 a 1928/29 je Alois Plášil, rodák ze Zahrádky, žákem Zemské střední školy hospodářské v Táboře | tentýž zápis, [výroční zpráva školy](https://kramerius.cbvk.cz/uuid/uuid:a42130a1-befd-11e5-b7c3-001b63bd97ba) | — |
+| č. 15 | Jan Kejval | 22. 11. 1925 a 13. 7. 1929 | rolník v č. 15, narozen 1. 2. 1902 tamtéž; svědek a později ženich | [sn. 190](https://digi.ceskearchivy.cz/6624/190), [sn. 211](https://digi.ceskearchivy.cz/6624/211) | — |
+| č. 15 | František Kejval | 1929 a 1930 | rolník v č. 15; otec Jana a Marie. Navazuje na starostu obce z let 1915 a 1928 a na zápis z roku 1923 | [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 219](https://digi.ceskearchivy.cz/6624/219) | ZAH-O008 |
+| č. 15 | Františka Kejvalová, rozená Kudrnová | 1929 a 1930 | manželka Františka Kejvala; z Roučkovic č. 4 | tytéž zápisy | — |
+| č. 15 | Marie Kejvalová | 4. 10. 1930 | dcera Františka Kejvala, narozena 17. 6. 1907 v č. 15; provdána do Pošné č. 26 | [sn. 219](https://digi.ceskearchivy.cz/6624/219) | — |
+| č. 15 | Josef Pudil | 25. 2. 1930 | bytem v č. 15, narozen 28. 12. 1906 v č. 22; syn Jana Pudila z č. 12 | [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 6 | Marie Svobodová | 24. 4. 1926 | bytem v č. 6, narozena v č. 3; nevěsta | [sn. 193](https://digi.ceskearchivy.cz/6624/193) | — |
+| č. 3 | Jan Svoboda | 24. 4. 1926 | dělník v č. 3, otec Marie. Příjmení Svoboda není ve sčítání 1921 ani u č. 3, ani u č. 6 — šlo o novou rodinu nebo podnájemníky | tentýž zápis | — |
+| č. 6 | Josef Svoboda | 24. 4. 1926 | tesař v č. 6, svědek | tentýž zápis | — |
+| č. 25 | Jan Kadlec | 16. 6. 1928 | dělník v č. 25; matrika čte Kadlec, sčítání 1921 vede u čp. 25 Josefa Kudlce — pravopis se bez zvětšeniny nesjednocuje | [sn. 206](https://digi.ceskearchivy.cz/6624/206) | — |
+| č. 25 | Marie Kadlecová | 16. 6. 1928 | manželka Jana Kadlece | tentýž zápis | — |
+| č. 25 | Terezie Habarthová | 16. 6. 1928 | schovanka Jana a Marie Kadlecových v č. 25, narozená ve Vídni | tentýž zápis | — |
+| č. 24 | Antonie Plášilová | 14. 7. 1928 | narozena v č. 24, nemanželská dcera Anny provdané Škodové, vnučka Václava Plášila | [sn. 206](https://digi.ceskearchivy.cz/6624/206) | — |
+| č. 17 | Václav Plášil | 14. 7. 1928 | krejčí v č. 17, svědek; jiná osoba než stejnojmenný domkář v č. 24 | tentýž zápis | — |
+| č. 2 | Jan Kudrna | 15. 7. 1928 | dělník, narozen 10. 4. 1905 v č. 2; oddán v evangelickém chrámu v Moravči. Ohlášky vyšly i v tisku | [Moraveč ČCE, sn. 175](https://digi.ceskearchivy.cz/13243/175) | — |
+| č. 1 | Otilie Kudrnová, rozená Fraňková | 15. 7. 1928 | matka Jana Kudrny; pocházela z Fraňkovy usedlosti „Zahrádka č. 1“ | tentýž zápis | — |
+| č. 2 | Karel Kudrna | 15. 7. 1928 a 3. 2. 1934 | rolník v č. 2; po smrti otce Františka převzal usedlost | [Moraveč, sn. 175](https://digi.ceskearchivy.cz/13243/175), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) | — |
+| č. 1 | Marie Rohovcová, provdaná Kudrnová | 24. 11. 1928 | bytem v č. 1, narozena 24. 5. 1898 v č. 22; dcera tesaře Jana Rohovce | [sn. 208](https://digi.ceskearchivy.cz/6624/208) | — |
+| č. 21 | Anežka Rohovcová | 9. 11. 1929 | u rodičů v č. 21, narozena 11. 10. 1903; dcera tesaře Jana Rohovce. Táž rodina je roku 1921 a 1928 u č. 1 — posun čísla domu zůstává nevysvětlen | [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
+| č. 4 | Josef Markvart | 1921, 1929 a 1930 | rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. **Rozpor:** sčítání 1921 vede u čp. 4 rodinu Josefa Matějky a příjmení Markvart nezná — otevřená otázka, viz místní paměť MJS‑001 (Novák → Markvart) | [sn. 166](https://digi.ceskearchivy.cz/6624/166), [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 4 | Antonie Markvartová, rozená Bečková | 1921–1930 | manželka Josefa Markvarta; ze Zlátenky č. 5 | tytéž zápisy | — |
+| č. 4 | Antonie Markvartová | 31. 5. 1921 | dcera Josefa Markvarta z č. 4, nevěsta | [sn. 166](https://digi.ceskearchivy.cz/6624/166) | — |
+| č. 4 | Anežka Markvartová, provdaná Kejvalová | 13. 7. 1929 | narozena 4. 10. 1907 v č. 4; provdána za Jana Kejvala z č. 15 | [sn. 211](https://digi.ceskearchivy.cz/6624/211) | — |
+| č. 4 | Václav Markvart | 25. 2. 1930 | rolník‑chalupník v č. 4, narozen 13. 9. 1900 | [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
 
 Starší osoby doložené přímo u N11 jsou nyní dostupné také v generovaném
 [domovním indexu N11](obyvatele_zahradky_domy/n11.md). Obsahuje všechny přesně
@@ -2360,6 +2439,34 @@ vedeny odděleně, aby nebyly ztraceny ani omylem přiřazeny jen podle příjme
 | František Kříž | adresář 1915 | člen obecního výboru | tentýž pramen | ZAH-O013 |
 | Karel Plášil | adresář 1915 | člen obecního výboru; hostinský a trafikant | tentýž pramen | ZAH-O014 |
 | Josef Kudrna | adresář 1915 | člen obecního výboru | tentýž pramen | ZAH-O016 |
+| Václav Kejval | 1884 | fundátor žulového kříže u kaple; nápis: „Tento kříž založil ke cti a chvále Boží Václav a Marie Kejval ze Zahrádky 1884“ | [Památkový katalog NPÚ, element 13227938](https://pamatkovykatalog.cz/api/element/13227938) | — |
+| Marie Kejvalová | 1884 | fundátorka žulového kříže u kaple; týž nápis | tentýž pramen | — |
+| Jan Košilka | 1884 | fundátor kříže „ke cti a chvále Boží“, který stojí před domem čp. 9; pramen jmenuje dům jen jako místo kříže, nikoli jako bydliště | [Z mého kraje, 2023](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-4f3c-a817-fa93347f9f49) | — |
+| Anna Košilková | 1884 | fundátorka téhož kříže před čp. 9 | tentýž pramen | — |
+| Antonín Franěk | leden–listopad 1918; zemřel v říjnu 1919 | ukryl zvonek z návesní kapličky před válečnou rekvizicí v místě zvaném Hejdův lom a 10. 11. 1918 jej vrátil obci; zemřel na španělskou chřipku. Podle pamětníků dal postavit kříž za vsí, jemuž se říká „U Fraňku“ | [Z mého kraje](https://kramerius.cbvk.cz/view/uuid:df7634c5-b705-11ef-bbdf-005056841fbb), [Z mého kraje, 2023](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-4f3c-a817-fa93347f9f49) | — |
+| Františka Kudrnová | 2. 10. 1932 | manželka rolníka ze Zahrádky; o pouti v Pacově ji v průvodu srazil nákladní automobil, když šla s manželem a tříletým synkem | [Týdeník z Českomoravské vysočiny](https://kramerius.kkvysociny.cz/view/uuid:5c25e37e-6910-4f8b-8624-b14f1e316fcb) | — |
+| Jan Plášil | 8. 7. 1938 | **deputátník** (deputátní dělník velkostatku); neznámý pachatel se mu vloupal oknem do bytu | [Český jih, 16. 7. 1938, s. 3](https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb), [Týdeník, 21. 7. 1938](https://kramerius.kkvysociny.cz/view/uuid:d74c3d9e-a28d-4aab-a252-6ddb2a144f7d) | — |
+| Karel Adam | červenec 1943 | manžel zesnulé ženy; poděkování za účast na pohřbu 22. 7. 1943 na hřbitově v Pošné je datováno „V Zahrádce u Pošné“ | [Týdeník, 29. 7. 1943, s. 4](https://kramerius.kkvysociny.cz/view/uuid:6d8ddd50-d3d7-4aca-bf87-2588771cca96) | — |
+| Josef Pachta | červenec 1943 | otec zesnulé; podepsán pod týmž poděkováním spolu s manželkou Antonií a synem Josefem | tentýž pramen | — |
+| Antonie Pachtová | červenec 1943 | matka zesnulé | tentýž pramen | — |
+| Václav Plášil | narozen 10. 9. 1876, pohřben 12. 1. 1956 | rodák ze Zahrádky; podle vzpomínkového dopisu bydlela rodina v **obecní pastoušce** a patřila k nejchudším ve vsi, na stáří se manželé odstěhovali do Samšína k dceři | [Z mého kraje](https://kramerius.kkvysociny.cz/view/uuid:a44e6ae1-7561-11e8-819e-001b63bd97ba), [týž ročník](https://kramerius.kkvysociny.cz/view/uuid:287ff24d-90c1-4e25-807c-24b80cec1c5f) | — |
+| Marie Plášilová | pohřbena 26. 12. 1957 | „občanka ze Zahrádky u Pošné“, manželka Václava Plášila | tytéž prameny | — |
+| Coufal | prosinec 1952 | rolník hospodařící na 8 ha, jehož podpis podle dobového tisku rozhodl o založení JZD Zahrádka 19. 12. 1952 | [Vesnické noviny, 1955](https://kramerius.kkvysociny.cz/view/uuid:d4b25eed-d6e2-44e8-bcc1-26c152e44f7a) | — |
+| Rohovec | 1955 a 1956 | **předseda JZD Zahrádka** (výroční členská schůze 12. 3. 1955); roku 1956 uveden mezi třemi družstevníky Pacovska, kteří již mají osobní automobil | [Vesnické noviny, 12. 3. 1955](https://kramerius.kkvysociny.cz/view/uuid:e6c4e8d7-48cb-49c4-9a94-a47a262d5bff), [11. 8. 1956](https://kramerius.kkvysociny.cz/view/uuid:2036b79f-9e04-42ec-b810-0ecc95bd8765) | — |
+| Rohovcová | leden–duben 1956 | družstevnice JZD Zahrádka; ošetřovala 100 slepic a dosáhla snůšky 6 051 vajec | [Vesnické noviny](https://kramerius.kkvysociny.cz/view/uuid:d4af1173-4636-4225-952e-4a7779433af7) | — |
+| Zdeněk (Zd.) Svoboda | 1956 a 8. 5. 1957 | družstevník živočišné výroby JZD Zahrádka, roku 1957 předseda místní základní organizace Svazarmu | [Vesnické noviny](https://kramerius.kkvysociny.cz/view/uuid:d5dc2b53-c2a0-4b75-9a79-9622078121ca) | — |
+| Václav Bulant | 8. 5. 1957 | hospodář základní organizace Svazarmu v Zahrádce u Pošné | tentýž pramen | — |
+| Josef Pachta | 1954 a 1957 | **tajemník MNV Zahrádka** (1954), výcvikář ZO Svazarmu (1957). Shoda jména s otcem zesnulé z roku 1943; totožnost není doložena | [Vesnické noviny, 1954](https://kramerius.kkvysociny.cz/view/uuid:17c9942a-d7cc-4e4b-ab3c-60393424d154), [8. 5. 1957](https://kramerius.kkvysociny.cz/view/uuid:d5dc2b53-c2a0-4b75-9a79-9622078121ca) | — |
+| Jaroslav (Jar.) Plášil | srpen 1957 | vedoucí prodejny Jednoty v Zahrádce u Pošné | [Vesnické noviny, 23. 8. 1957](https://kramerius.kkvysociny.cz/view/uuid:311f0c98-03d7-4f6d-96e8-57cf23979e36) | — |
+| Kejval; Kejvalová; Kříž (František Kříž) | 1953–1957 | jmenovitě doložení družstevníci JZD Zahrádka v soutěžích živočišné výroby; roku 1956 Svobodovi a Kejvalovi 6 litrů mléka na ustájenou krávu, Kejvalové 114,1 vejce I. třídy | [Vesnické noviny](https://kramerius.kkvysociny.cz/view/uuid:3bbea36f-e43d-4fd7-87dd-161d2eb5a66b) | — |
+| Marie Plášilová | zemřela 30. 11. 1968 | pozůstalé rodiny se v parte podepsaly jako Chloupkova, Peštova a Plášilová | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:e8080873-7564-11e8-819e-001b63bd97ba) | — |
+| Jan Zelenka | zemřel v červenci 1972 | po léčení v humpolecké nemocnici a pobytu v Domově důchodců v Humpolci; pohřbu se účastnili zástupci JZD a MO KSČ v Útěchovičkách | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:58efa5e3-751a-11e8-8898-001b63bd97ba) | — |
+| Marie Bartošková | narozena 22. 6. 1901 | oznámení v okresním týdeníku Nástup | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba) | — |
+| František Kříž | narozen 2. 10. 1920, pohřben 28. 5. 1982 | parte v okresním týdeníku | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:b7bcda4c-6f1a-11e8-a309-001b63bd97ba) | — |
+| Jan Kejval | zemřel 29. 4. 1983 | v parte podepsány děti Věra, Marie a Pavel | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:2614ff5e-6a78-11e8-a78e-001b63bd97ba) | — |
+| Anežka Kejvalová | zemřela 3. 2. 1984 | manželka Jana Kejvala | tentýž pramen | — |
+| Karel Kejval | zemřel 10. 10. 1985 | rodák ze Zahrádky u Pošné, pracovník Agrozetu Pelhřimov; sestra Věra | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:2a468049-6b02-11e8-9502-001b63bd97ba) | — |
+| František Rohovec | narozen 29. 8. 1919 | jubilea 1984, 1986 a 1989 oznámena v okresním týdeníku Nástup | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:29205317-6a42-11e8-a16e-001b63bd97ba) | — |
 
 Řádky jednotlivých období se nesčítají na unikátní obyvatele: tatáž osoba se může
 později objevit ve sčítání 1921 nebo u jiného domu.

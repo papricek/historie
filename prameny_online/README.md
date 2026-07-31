@@ -18,6 +18,8 @@ Veřejná metadata fondů Archivu obce Pošná, MNV Pošná, JZD Pošná a ZD Ve
 
 Tentýž katalog nově eviduje také fotoarchiv Muzea Vysočiny Pelhřimov a jeho fondy lidové architektury a družstevního zemědělství. Jednotlivé položky nejsou veřejně prohledatelné, proto je pro muzeum připraven cílený badatelský dotaz.
 
+Úplné výstupy systematických rešerší z 31. 7. 2026 jsou uchovány ve složce `reserse/` — vždy čitelný Markdown i surová strojová data: [novější historie 1921–současnost](reserse/2026-07-31_novejsi_historie/README.md) (136 zjištění, 18 nezávisle ověřených tvrzení), [současný stav domů 2026](reserse/2026-07-31_soucasny_stav/README.md) (62 zjištění, 113 domovních záznamů) [částečná obrazová rešerše matrik](reserse/2026-07-31_matriky_castecne/README.md) (verdikty 10 legionářů, 47 úmrtních zápisů 1888–1911) a [obyvatelé domů 1921–2026](reserse/2026-07-31_obyvatele_1921_2026/README.md) (209 zjištění, 98 ověřovacích verdiktů, 79 nových domovních řádků z oddacích matrik a regionálního tisku). Interpretované spisy jsou [vyzkum_1921_soucasnost.md](../vyzkum_1921_soucasnost.md) a [soucasny_stav_domu.md](../soucasny_stav_domu.md); metodika v [metodika_vyzkumu.md](../metodika_vyzkumu.md).
+
 ## Desky zemské
 
 Staré odkazy z `josef.md` na zemské desky byly převedeny do dnešního VadeMeCum Národního archivu. [Dva plné snímky a čitelné výřezy z roku 1664](desky_zemske/1664/README.md) nově přímo ověřují zápis o **dvoru zahrádeckém** i Josefem zmiňovaný osevní výkaz březinského poplužního dvora. Klíčový snímek dokládá existenci dvora a pole Aulehle, ale bez mapy nebo čísla domu ještě neztotožňuje tento dvůr s dnešní st. 1 / čp. 11.

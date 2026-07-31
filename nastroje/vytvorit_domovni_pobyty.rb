@@ -26,7 +26,7 @@ def normalize_house(raw)
   return "1a" if text.match?(/(?:\A|\s)1a(?:\z|\s)/i)
   return text if text.match?(/\A\d+\z/)
 
-  match = text.match(/N\s*(\d+)/i) || text.match(/č(?:p\.)?\s*(\d+)/i)
+  match = text.match(/N\s*(\d+)/i) || text.match(/čp?\.?\s*(\d+)/i)
   match && match[1]
 end
 

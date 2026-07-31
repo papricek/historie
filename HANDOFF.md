@@ -66,6 +66,54 @@ v dalším zpracování obrátit.
   dostupných v `obyvatele_zahradky_domy/n11.md`; tři členové Lenzovy rodiny se
   spornou adresou N11/N14 jsou odděleni. Soubor se reprodukuje skriptem
   `nastroje/vytvorit_index_n11.rb`, takže se nemá ručně upravovat.
+- Dne 31. 7. 2026 proběhla systematická rešerše veřejných pramenů k novější
+  historii vsi 1921–současnost; argumentovaný spis je `vyzkum_1921_soucasnost.md`.
+  Hlavní zjištění: Zahrádka byla 1910–1964 samostatnou obcí (1949–1960 okres
+  Pacov, ne Pelhřimov; 1964–1979 část obce Útěchovičky, od 1. 1. 1980 část
+  Pošné); v SOkA Pelhřimov existuje fond Archiv obce Zahrádka NAD 1334
+  s pamětní knihou obce 1937–1962 (retrospektiva od 1919) a knihami evidence
+  obyvatel 1874–1948, dále fondy MNV Zahrádka, MNV Útěchovičky, ZŠ Pošná
+  (školní kroniky 1873–1984) a FÚ Pošná (farní kronika); na Zahrádce působilo
+  vlastní JZD Zahrádka 1952–1963; lexikon 1934 jmenuje samotu Rohovcová
+  Chalupa; sčítání 2021 dává 24 obyvatel; matriky Pošné 1912–1949 jsou na
+  matrice v Pacově a oddací i úmrtní kniha jsou už podle § 25b přístupné
+  komukoli. Sčítání 1930 drží Národní archiv (fond NAD 752/2, jen na žádost).
+- Večer 31. 7. 2026 proběhla obrazová rešerše matrik, měkce ukončená před
+  dokončením; výsledky jsou zachovány v
+  `prameny_online/reserse/2026-07-31_matriky_castecne/` a do registru zatím
+  promítnuty nejsou. Hotové: všech deset legionářů-kandidátů rozhodnuto —
+  **Karel Vaněk (*3. 1. 1891, č. 19), Karel Lhota (*26. 10. 1895, č. 22,
+  syn lesního hajného) a Josef Zika (*21. 1. 1892, č. 9) jsou rodáci ze
+  Zahrádky**, sedm zbývajících patří patrně Hrobské Zahrádce. Z úmrtní knihy
+  11214 přepsáno 80 z 272 snímků (léta ~1888–1895 a 1904–1911; 47 zahrádeckých
+  zápisů s čp.) — mj. hostinský Plášil v č. 6, kovář Dušánek v č. 17,
+  hajní v č. 17/22/29, tesař Rohovec v č. 18, Bartoškovi u č. 3 a šafář
+  Jaroš u č. 27 (1891). Zbylé úseky lze dokončit obnovením běhu
+  (návod v README rešerše).
+- Pozdě večer 31. 7. 2026 proběhla druhá rešerše, tentokrát výslovně na
+  **obyvatele domů 1921–2026** (7 směrů, 209 zjištění, 98 nezávislých
+  ověřovacích verdiktů; úplný záznam v
+  `prameny_online/reserse/2026-07-31_obyvatele_1921_2026/`). Přinesla:
+  **79 nových domovních řádků z let 1920–1934** z oddací knihy 6624 a
+  z evangelických matrik Moraveč a Červená Řečice; jmenné doklady k čp. 8, 10,
+  13, 16 a 25, které dosud neměly nic mezi rokem 1921 a dneškem; **jméno
+  opatrovance z čp. 9 (Marie Plášilová, 1943)**; první přímý doklad osudu
+  velkostatku po válce — **8. 12. 1948 konfiskovala rada ONV v Pelhřimově
+  majetek Ing. Jiřího Homolky v Březině a na Zahrádce**; přesné datum založení
+  JZD Zahrádka (19. 12. 1952) i jména jeho funkcionářů; a poprvé **vazbu
+  žijících obyvatel na konkrétní čp. (6, 15, 27, 28)** z registru smluv.
+  Metodicky rozhodl objev, že regionální tisk Pacovska je v Krameriích
+  Jihočeské vědecké knihovny a Krajské knihovny Vysočiny a jejich API vrací
+  úryvky i u stránek v režimu DNNT — tím padl dřívější slepý konec
+  „okresní tisk nelze prohledávat automatizovaně“.
+- **Dvě opravy proti dřívějšímu stavu spisu**, obě potvrzené obrazovou
+  kontrolou: svědkem sňatku v č. 11 roku 1924 nebyl `František Vopálka`, nýbrž
+  **František Vytiska** (týž šafář, který je v čp. 11 doložen 1921–1928;
+  zápis i vlastnoruční podpis jsou čitelné), a sňatek se konal **24. 5. 1924**,
+  ne 24. 4. Opraveno v `obyvatele_zahradky.md`, `vyzkum_statku.md` i na webu.
+  Adversariální kontrola rešerše navíc vyvrátila dvě vlastní tvrzení: nevěsta
+  šafáře Vitisky byla ze Zahrádky **č. 12** (ne č. 11) a Karolína Kejvalová se
+  roku 1922 vdávala z **č. 16** (ne č. 14); do registru šlo opravené znění.
 - Poslední uzavřený dílčí audit se týká nemanželského Josefa Dominika Emericha,
   pokřtěného 28. 5. 1808 v N11. V jeho zápisu není otec; celý otcovský údaj je
   přeškrtnut. Přípis s datem 15. 8. 1841 označuje manželskou záležitost a křestní
@@ -88,6 +136,7 @@ handoff je navigační souhrn, nikoli náhrada pramenného aparátu.
 | Sčítání lidu 1921 | Stažena a prohlédnuta celá sada MZA `PE0584`, všech 53 snímků. Líc a rub každého domovního archu byly spárovány a osoby spočítány. Kontrolně stažena i pošenská čp. 8–11 ze sady `PE0502`. | Zahrádka: všech 174 osob na 25 arších je jmenně zachyceno a přiřazeno k domu a domácnosti v `obyvatele_zahradky_domy.md`. Samostatný arch čp. 13 chybí. Pošenské čp. 11 je rodina Olivových v jiné obci a nesmí se použít. |
 | Zemské desky a starší soupisy | Staré odkazy Badatelny převedeny do VadeMeCum Národního archivu; obrazově prověřeny relevantní knihy a folia pro roky 1574, 1627, 1628, 1653–1654, 1657, 1661 a 1664. Dále ověřena veřejná edice zápisu 1543, Berní rula 1654 a Soupis poddaných podle víry 1651. | Rok 1664 přímo jmenuje zahrádecký dvůr; starší výčty jej nejmenují. Berní rula eviduje osm zdanitelných hospodářů vsi, nikoli obyvatele panského dvora. Soupis 1651 je pro naši lokalitu neúplný. |
 | NDK / Kramerius a digitální knihovny | Přesné i variantní dotazy na Zahrádku, Březinu–Zahrádku, vlastníky, správce, požár, stavby a provozy; plné veřejné strany uloženy po letech, omezené DNNT tituly jen popsány. Samostatně auditováno 36 přesných výskytů `Březina–Zahrádka` z let 1878–1949. | Získány schematismy, adresáře, statistiky, pozemková reforma, zaměstnanci, majitelé a hospodářský kontext. Přímá zpráva o přestavbě, demolici nebo požáru čp. 11 nalezena nebyla. Dvě přesné stopy z let 1931 a 1943 zůstávají kvůli DNNT pro ruční kontrolu v knihovně. |
+| Regionální tisk Pacovska | Prohledány Kramerius Jihočeské vědecké knihovny (Tábor, Český jih, Palcát, Jihočeská Pravda) a Krajské knihovny Vysočiny (Týdeník z Českomoravské vysočiny, Vesnické noviny 1952–1959, Nástup 1960–1990, Z mého kraje, Vlastivědný sborník českého jihovýchodu, Zpravodaj JZD Velká Chyška) přes klientské API v7 (`/search/api/client/v7.0/search`, `hl.fl=text_ocr`), ve všech pádových tvarech a s vylučováním Hrobské Zahrádky. | Obecní volby 1923/1927, starosta 1928, elektrifikace 1930–1937, škola a knihovna, parte a jubilea 1932–1989, JZD 1952–1980, konfiskace 1948. Úryvky se vracejí i u stránek v režimu DNNT (jistota pak nejvýše střední); plný OCR text jen u veřejných stran. |
 | Archivní katalogy | Prohledán digitální inventář Velkostatku Březina–Zahrádka a ARchiv Online pro Archiv obce Pošná, MNV Pošná, JZD Pošná a ZD Velká Chyška. | Jednotky velkostatku 20–23 a 40 mají nejvyšší prioritu, ale nemají online obrazy. MNV obsahuje kroniky a stavební či zemědělskou agendu. Fondy JZD/ZD jsou mimo archiv, nezpracované a nepřístupné; je nutné zjistit držitele. |
 | Letecké snímky a historické mapy | Prostorový dotaz ČÚZK přes st. 1 vrátil 29 rámů z let 1949, 1953, 1961, 1967 a 1968. Uložena a výzkumně zarovnána řada 1949, 1953, 1961, 1967, 1975, 1978, 1990, 1992 a 2022; doplněna ortofota 2001–2022, vojenská mapování 1783/1852/1877–1880 a SMO-5. | Nejstarší veřejný letecký obraz nad statkem je z roku 1949. Zarovnání je badatelské, nikoli úřední georeference. Snímky jsou uloženy podle roku a typu v `prameny_online/letecke_snimky/` a mapových podsložkách. |
 | Veřejné fotografie a obrazové portály | Prověřeny web obce Pošná, jeho historická galerie, Wikimedia Commons včetně geohledání 2 km, Drobné památky, Europeana, eSbírky, Paměť národa, aukční pohlednice, web Pouti na Zahrádce a YouTube. Pro místní fotografie 2015–2018 byla rozhodující EXIF data. | Nalezeny obecní fotografie, veřejně licencované snímky z let 2018/2021, dvě starší pohlednice Pošné a současné obrazové doklady areálu. Bez popisku se vzdálené budovy nepřiřazují k čp. 11. Audit portálů je v `prameny_online/fotografie/verejne_portaly_audit.md`. |
@@ -103,13 +152,17 @@ lokalita** a její osoby ani statistiky sem nepatří.
 | Co | Hlavní soubor nebo složka |
 |---|---|
 | Argumentovaný výzkumný spis | `vyzkum_statku.md` |
+| Rešerše novější historie vsi 1921–současnost (správa, archivy, sčítání, matriky, JZD, dnešní stav) | `vyzkum_1921_soucasnost.md` |
 | Osoby spojené s N11, události a jistota čtení | `obyvatele_zahradky.md` |
 | Jmenný registr celé obce podle domů: sčítání 1921, narození 1788–1796 a další přesně adresované osoby | `obyvatele_zahradky_domy.md` |
 | Jmenný domovní přehled s datem nebo mezními daty každého doloženého pobytu | `obyvatele_zahradky_domy/dolozene_pobyty.md` |
 | Generovaný domovní index 225 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
 | Podrobný rozbor sčítání 1921, zejména čp. 11 | `obyvatele_zahradky_1921.md` |
 | Katalog všech stažených veřejných pramenů | `prameny_online/README.md` |
+| Úplné výstupy rešerší 31. 7. 2026 (zjištění, přepisy, slepé konce, stopy — Markdown i JSON) | `prameny_online/reserse/` |
 | Obrazy podle roku a typu | příslušné podsložky `prameny_online/` |
+| Souhrn metodiky a mapy pramenné základny | `metodika_vyzkumu.md` |
+| Dnešní stav domů (zdroj oddílu „Dnešní stav (2026)“ na mapě; generátor čte tabulku) | `soucasny_stav_domu.md` |
 | Reprodukovatelné skripty a jejich návod | `nastroje/README.md` a soubory v `nastroje/` |
 | Připravené, dosud neodeslané žádosti | `zadost_o_archivni_prameny.md` |
 | Původní poznámky a odkazy | `josef.md` |
@@ -186,9 +239,13 @@ mimo č. 11 a oddíl `dům nezjištěn` šestnáct osob. Tyto vrstvy se nesčít
 unikátní osoby, protože některý člověk může být zachycen vícekrát.
 Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 225 bezpečných
 osobních řádků N11 / čp. 11 z podrobného staršího spisu a tři sporné řádky N11/N14.
-Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 1890
+Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 1898
 dokladových osobních řádků v 26 domech a u každého ukazuje datum nebo mezní data;
-obsahuje všech 174 osob sčítání 1921.
+obsahuje všech 174 osob sčítání 1921. Oprava 31. 7. 2026: `normalize_house`
+v generátoru dříve nerozpoznávala tvar `č. 15` (jen `čp. 15` / `č 15`), takže pět
+řádků z adresáře 1915 a sňatku 1901 (č. 10, 15, 20, 22) do výstupu tiše
+nepadalo; po opravě regexu jsou v přehledu i na mapě, spolu se třemi novými
+tiskovými nálezy 1923 (Kejval a Dvořák, čp. 15) a 1943 (Plášil, čp. 9).
 Obrazy knihy 6619 jsou uloženy jako celé stránky a další práce nemá trávit čas
 výrobou množství mapových nebo matričních výřezů. U následující knihy narozených
 6620 (1797–1843) byl ověřen zahrádecký rozsah 80–117 a uloženy všechny tyto snímky.
@@ -329,6 +386,17 @@ zápisových snímcích 309–362 personálně inventarizován; snímek 363 je r
 5. Teprve při potřebě rozlišit nebo sledovat domovní čísla řešit pozdější knihovní
    vložku, parcelní návaznost a další mapy. Jeden bezpečný mapový kontext pro N1 a
    N11 už existuje; nové složité výřezy nejsou prioritou.
+6. Dořešit dvě otevřené otázky z rešerše obyvatel 1921–2026: **rozpor u čp. 4**
+   (matrika 1921–1930 vede Josefa Markvarta, sčítání 1921 Josefa Matějku —
+   rozhodne obrazová kontrola sčítacího archu) a **posun rodiny Jana Rohovce**
+   č. 22 → č. 1 → č. 21 v letech 1920–1929. Dále ověřit ve zvětšeninách zápisy
+   čtené zatím ze zmenšenin (Vacíkovi v č. 11, Kadlecovi v č. 25, Svobodovi
+   v č. 3/6).
+7. Pro období 1921–současnost se priority vedou v `vyzkum_1921_soucasnost.md`
+   → „Další postup“. Nejvýš stojí pamětní kniha obce Zahrádka 1937–1962 a
+   evidence obyvatel 1874–1948 (SOkA Pelhřimov, fond AO Zahrádka NAD 1334),
+   žádost o sčítání 1930 do Národního archivu a nahlédnutí do matrik 1931–1949
+   na matrice v Pacově; koncepty jsou připraveny v `zadost_o_archivni_prameny.md`.
 
 Žádná žádost, e-mail ani jiná zpráva třetí straně nebyla odeslána. V souboru
 `zadost_o_archivni_prameny.md` jsou pouze připravené koncepty.
@@ -547,11 +615,31 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
    do těsného shluku návsi. Mobilní list si pamatuje roztaženou výšku a vrstvy
    se přednačítají postupně od sousedních (respektuje Save-Data).
 
+## Co bylo uděláno na webu 31. 7. 2026 (noc, rešerše obyvatel 1921–2026)
+
+1. Mapa: domovní panely dostaly vrstvu 20. století — 79 nových jmenných řádků
+   z let 1920–1934 (nově mají doklad i čp. 8, 10, 13, 16 a 25) a 26 osob z let
+   1884–1989 v dlaždici „Dům nezjištěn“. Celkem 2 021 osobních řádků.
+2. „Dnešní stav (2026)“ narostl ze 44 na 61 údajů: dnešní obyvatelé čp. 6, 9,
+   15, 27 a 28 doložení registrem smluv a obchodním rejstříkem, vlastní vodovod
+   a hasičská zbrojnice vsi, plochy územního plánu, poddolované území, péče
+   o kapli a kříž. U žijících osob se uvádí jen to, co zveřejnila úřední listina.
+3. `index.html`: opraveno čtení `Vopálka` → **Vytiska** a datum sňatku 24. 4. →
+   24. 5. 1924 (MARRIAGES, ROLES i časová osa); přibyly dva matriční zápisy
+   čp. 11 (1921 a 1929, stat 110 → **112**), role „zemědělský dělník“, devět
+   nových položek časové osy (1921, 1923, 1925, 1928, 1929, 1930, 1948, 1952,
+   1978, 1994, 2026) a tři nové položky přílohy pramenů (Kramerius JVK a KK
+   Vysočiny, ztrátové seznamy 1914–1918, registr smluv). Q5 posunuta na sňatek
+   1929, poznámka ke knize 6624 doplněna o 79 domovních řádků.
+4. Ověřeno `node --check`, headless renderem obou stránek a vizuální kontrolou
+   panelu čp. 28; nasazeno rsyncem.
+
 ## Nabízející se další kroky
 
-- Odeslat připravené žádosti z `zadost_o_archivni_prameny.md` (5 konceptů, stačí doplnit
-  jméno/kontakt) — hlavně inv. č. 23 (budovy/pojištění 1928–1948, klíč k demolicím)
-  a inv. č. 40 (kniha služného 1940–44).
+- Odeslat připravené žádosti z `zadost_o_archivni_prameny.md` (nyní 10 konceptů, stačí doplnit
+  jméno/kontakt) — hlavně inv. č. 23 (budovy/pojištění 1928–1948, klíč k demolicím),
+  inv. č. 40 (kniha služného 1940–44), nově pamětní kniha obce Zahrádka (SOkA
+  Pelhřimov) a sčítání 1930 (Národní archiv).
 - Po každé aktualizaci spisů promítnout novinky do JS polí webu a redeploy.
 - Otevřené výzkumné otázky jsou v oddílu IX webu (Q1–Q6) a v `vyzkum_statku.md`
   → „Další postup“.

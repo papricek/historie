@@ -341,6 +341,14 @@
     #panelObsah h3 { padding-right: 40px; }
   }
   .panel h3 { margin: 0 0 2px; font-size: 1.12rem; font-weight: 600; }
+  .dnes {
+    margin: 10px 0 4px; padding: 9px 11px; border: 1px solid var(--border);
+    border-left: 3px solid var(--accent); border-radius: 8px; background: var(--surface);
+  }
+  .dnes h4 { margin: 0 0 5px; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
+  .dnes ul { margin: 0; padding-left: 16px; }
+  .dnes li { font-size: .84rem; line-height: 1.45; margin: 2px 0; }
+  .dnes-zdroj { color: var(--muted); font-size: .76rem; }
   .kopirovat {
     width: 26px; height: 26px; border-radius: 50%; padding: 0;
     border: 1px solid var(--border); background: var(--surface-2);
@@ -560,7 +568,10 @@
       (<a href="https://ags.cuzk.gov.cz/archiv/">Archiv ČÚZK</a>, snímky VGHMÚř Dobruška),
       historické ortofoto 1953 (CENIA), ortofoto 2022 a adresní body RÚIAN (ČÚZK) — badatelské reprodukce s&nbsp;citací.
       Osobní údaje pocházejí z&nbsp;matrik SOA Třeboň, josefínského katastru a sčítání lidu 1921 (MZA Brno, sada PE0584);
-      přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.</p>
+      přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.
+      Oddíl „Dnešní stav (2026)“ čerpá výhradně z&nbsp;veřejných registrů (RÚIAN, ARES, veřejný rejstřík,
+      volby.cz, NPÚ, územní plán) a z&nbsp;výslovně označené místní paměti; sídlo podnikání není doklad bydliště
+      a u žijících osob se uvádějí jen údaje z&nbsp;těchto veřejných zdrojů.</p>
     <p>Stav přepisu matrik: kniha narozených 6620 (1797–1843) je pro Zahrádku přepsána celá
       (snímky 80–117); kniha 6621 (1844–1880) se přepisuje průběžně — aktuální rozsah dokladů
       je vidět přímo ve výpisech domů.</p>
@@ -589,8 +600,8 @@ const POZICE = {
 };
 const NOVA_CISLA = ["26", "27", "28", "29", "30", "31", "32"];
 
-const ROKY = ["1829", "1878", "pk", "1949", "1953", "1961", "1967", "1975", "1978", "1990", "1992", "2022"];
-const ROKY_POPISKY = { "pk": "PK" };
+const ROKY = ["1829", "1878", "pk", "1949", "1953", "1961", "1967", "1975", "1978", "1990", "1992", "2022", "akt"];
+const ROKY_POPISKY = { "pk": "PK", "akt": "dnes" };
 const ATTRIB = {
   "1829": "Císařský otisk stabilního katastru, 1829 — Archiv ČÚZK; badatelské zarovnání do dnešního souřadnicového rámu.",
   "1878": "Originální mapa stabilního katastru s reambulací 1878 (inv. č. 8865, list II) — Archiv ČÚZK; badatelské zarovnání. Rumělkové přípisy zachycují stav z reambulace.",
@@ -604,6 +615,7 @@ const ATTRIB = {
   "1990": "Letecký měřický snímek 1990 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
   "1992": "Letecký měřický snímek 1992 — Archiv ČÚZK / VGHMÚř Dobruška; badatelské zarovnání.",
   "2022": "Ortofoto 2022 — ČÚZK; referenční výřez 600 × 600 m.",
+  "akt": "Aktuální Ortofoto ČR — ČÚZK, služba ORTOFOTO (staženo 31. 7. 2026); rok snímkování mozaiky služba neuvádí (dvouletá perioda obnovy).",
 };
 
 const DOMY = {};
@@ -886,7 +898,9 @@ function uvodPanelu() {
     (DOMY["11"] ? DOMY["11"].osoby.length : "?") + " řádků) — " +
     "jeho podrobný spis je na <a href=\"index.html\">hlavní stránce</a>.</p>" +
     '<p class="sub">Každý dům má trvalý odkaz — například <a href="#11/1829">#11/1829</a> ' +
-    "otevře dvůr čp. 11 na mapě roku 1829.</p>";
+    "otevře dvůr čp. 11 na mapě roku 1829. Vrstva <b>dnes</b> ukazuje aktuální " +
+    "ortofoto a u domů je v panelu oddíl <b>Dnešní stav (2026)</b> z veřejných registrů.</p>" +
+    dnesHtml("obec");
 }
 
 function tfPoznamkaHtml(dum) {
@@ -898,6 +912,16 @@ function tfPoznamkaHtml(dum) {
       ? ' · <a id="tfVse" href="#">zobrazit jen okno filtru</a>'
       : (dum.osoby.length > n ? ' · <a id="tfVse" href="#">zobrazit všech ' + dum.osoby.length + "</a>" : "")) +
     "</p>";
+}
+
+/* Dnešní stav (2026) — generovaná data window.MAPA_DNES ze soucasny_stav_domu.md. */
+function dnesHtml(klic) {
+  const zaznamy = (window.MAPA_DNES || {})[klic];
+  if (!zaznamy || !zaznamy.length) return "";
+  let html = '<div class="dnes"><h4>Dnešní stav (2026)</h4><ul>';
+  for (const z of zaznamy)
+    html += "<li>" + z.u + (z.z ? ' <span class="dnes-zdroj">' + z.z + "</span>" : "") + "</li>";
+  return html + "</ul></div>";
 }
 
 const IKONA_ODKAZ = '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" ' +
@@ -920,7 +944,8 @@ function vyberDum(klic) {
     panel.innerHTML =
       "<h3>čp. " + klic + "</h3>" +
       '<p class="sub">Novější domovní číslo — v domovním registru spisu zatím nemá žádný doklad.' +
-      (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>";
+      (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>" +
+      dnesHtml(klic);
     return;
   }
   let pozn = "";
@@ -947,6 +972,7 @@ function vyberDum(klic) {
     ' aria-label="Kopírovat odkaz na dům">' + IKONA_ODKAZ + "</button></h3>" +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
+    dnesHtml(klic) +
     sparklineHtml(dum) +
     tfPoznamkaHtml(dum) +
     '<div class="osoby">' + seznamHtml(dum) + "</div>";

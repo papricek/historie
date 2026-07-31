@@ -117,6 +117,60 @@ Předmět: Prosba o identifikaci projektu „RD Zahrádka u Pošné“
 
 Veřejný kontakt: [Projekty–pasporty](https://projekty-pasporty.cz/kontakt/), `projekty-pasporty@seznam.cz`. Tento návrh **nebyl odeslán**.
 
+## SOkA Pelhřimov – nové fondy k obci Zahrádka (doplněk, 31. 7. 2026)
+
+Předmět: Badatelský dotaz – obec Zahrádka (část obce Pošná), fondy AO Zahrádka, MNV Zahrádka, MNV Útěchovičky, ZŠ Pošná a FÚ Pošná
+
+> Dobrý den,
+>
+> zkoumám dějiny vsi Zahrádka u Pošné (dnes část obce Pošná; v letech 1910–1964 samostatná obec, 1964–1979 část obce Útěchovičky, od 1980 část obce Pošná). Ve veřejném katalogu ARON jsem nalezl tyto fondy Vašeho archivu a prosím o informaci o možnosti studia nebo objednání reprodukcí:
+>
+> - **Archiv obce Zahrádka, NAD 1334** (prozatímní inventární seznam č. 405): především **pamětní kniha obce Zahrádka 1937–1962 s retrospektivou od roku 1919**, dále knihy evidence obyvatel 1874–1948, zápisy zastupitelstva 1911–1944 a parcelní protokol 1911;
+> - **MNV Zahrádka, NAD 1335** (pomůcka č. 573): zápisy 1955–1960, evidence obyvatel 1945–1951, prodej obecních pozemků 1947;
+> - **MNV Útěchovičky, NAD 1262** (pomůcka č. 559): zápisy občanských výborů obcí Zahrádka a Litohošť 1964–1967, domovní seznamy a sčítání 1951–1978, stavební agenda včetně staveb JZD;
+> - **MNV Pošná, NAD 1544** (inventář č. 1034): pamětní knihy 1940–2007, zejména léta 1980–1990, kdy Zahrádka patřila k Pošné — prosím také o sken či PDF elektronické pomůcky č. 1034, případně č. 948 (ONV Pacov);
+> - **Základní škola Pošná, NAD 1079** (nový inventář č. 1122 z roku 2025): školní kroniky 1873–1984;
+> - **Farní úřad Pošná, NAD 1080** (inventář č. 187): farní pamětní kniha.
+>
+> Úvody inventářů AO/MNV Zahrádka a MNV Pošná mě zajímají i kvůli přesným datům připojení obce k Útěchovičkám (1964) a k Pošné (1. 1. 1980). Dále prosím o informaci, zda se ve Vašich fondech (např. ONV Pelhřimov, MNV Pošná) dochovaly jmenné archy soupisu obyvatelstva z 22. 5. 1947 nebo soupisu domů a bytů z 31. 1. 1946 pro Zahrádku, a kdo je současným držitelem písemností JZD Zahrádka u Pošné (1952–1963; ve Vaší evidenci archiválie uložené mimo archiv, 1 balík „převzetí inventáře od členů 1960“).
+>
+> Děkuji.
+
+Veřejný kontakt: [SOkA Pelhřimov](https://www.mza.cz/pelhrimov/kontakty-statni-okresni-archiv-pelhrimov/), `soka_pelhrimov@mza.cz`. Tento návrh **nebyl odeslán**.
+
+## Národní archiv – sčítání lidu 1930 a 1950 pro obec Zahrádka
+
+Předmět: Žádost o údaje ze sčítacích operátů 1930 (a 1950) – obec Zahrádka, okres Pelhřimov
+
+> Dobrý den,
+>
+> zkoumám dějiny obce **Zahrádka** (tehdy samostatná obec, politický okres Pelhřimov, soudní okres Pacov, pošta Pacov, fara Pošná; dnes část obce Pošná, okres Pelhřimov). Prosím o zjištění údajů ze sčítacích operátů ze sčítání lidu k 1. 12. 1930, fond Státní úřad statistický I – Sčítání obyvatelstva ČSR v roce 1930 (NAD 752/2, pomůcka č. 498).
+>
+> [Doplnit: konkrétní osoby s čp., daty narození a doloženým datem úmrtí z matrik — nahrazuje plnou moc; podklady jsou v registru obyvatel projektu.]
+>
+> Současně prosím o sdělení:
+>
+> - zda je možné operáty celé obce Zahrádka (přibližně 26 domů, 142 obyvatel) předložit v badatelně ke studiu, případně s anonymizací podle § 37 odst. 6 zákona č. 499/2004 Sb. (statistické soubory dat), a pod jakým číslem kartonu je okres Pelhřimov ve fondu uložen;
+> - zda lze obdobně žádat i o sčítací archy, domovní archy a soupisové archy zemědělských závodů ze sčítání k 1. 3. 1950 (fond Národní sčítání lidu 1950, NAD 984) pro tutéž obec.
+>
+> Pro vyloučení záměny: nejde o Hrobskou Zahrádku (pošta Cetoraz) v témže soudním okrese.
+>
+> Děkuji.
+
+Oficiální cesta: [online formulář NA](https://www.nacr.cz/verejnost/badatelna/formulare/ze-scitacich-operatu-na-uzemi-byvaleho-ceskoslovenska); písemně: Národní archiv, Archivní 2257/4, 149 01 Praha 4 – Chodovec, `posta@nacr.cz`, datová schránka `fe3aixh`. Výpis 50 Kč/stránka. Tento návrh **nebyl odeslán**.
+
+## SOA Třeboň – druhopisy matrik farnosti Pošná
+
+Předmět: Dotaz – Sbírka druhopisů matrik Jihočeského kraje, farnost Pošná
+
+> Dobrý den,
+>
+> zkoumám obyvatele vsi Zahrádka u Pošné. Prosím o informaci, zda fond **Sbírka druhopisů matrik Jihočeského kraje (1720) 1799–1949** obsahuje druhopisy matrik farnosti Pošná, a pokud ano, do kterého roku sahají u narozených, oddaných a zemřelých. Prvopisy N 1912–1949, O 1931–1949 a Z 1938–1949 jsou dosud na matričním úřadě v Pacově; druhopisy by výzkum zpřístupnily dříve. Zajímá mě také, zda Sbírka listin k matrikám Jihočeského kraje 1727–1989 obsahuje podklady k zápisům farnosti Pošná, a podmínky studia či reprodukcí.
+>
+> Děkuji.
+
+Veřejný kontakt: `posta@ceskearchivy.cz`. Tento návrh **nebyl odeslán**.
+
 ## ÚAZK – mapa bývalého pozemkového katastru a písemný operát stabilního katastru
 
 Předmět: Prosba o dataci mapy PK a písemný operát stabilního katastru – Zahrádka u Pošné, k. ú. 775606
