@@ -116,7 +116,10 @@ ruby nastroje/vytvorit_mapova_data.rb          # data website/mapa_data.js
 nepotřebuje). Císařský otisk 1829 registruje řetězením kontrolních bodů z
 `diagnostika_1829_lokalni.py` a korelačně doloženého umístění výřezu
 `cisarsky_otisk_statek_st1.jpg` v listu II (měřítko přesně 2/3, posun 1250, 700;
-NCC 0,979). Jde o badatelské zarovnání, nikoli úřední georeferenci.
+NCC 0,979). Stejným řetězením přes otisk se registrují i originální mapa
+s reambulací 1878 (list II) a rastr bývalého pozemkového katastru; parametry
+a míry jistoty jsou komentovány přímo ve skriptu. Jde o badatelské zarovnání,
+nikoli úřední georeferenci.
 
 `vytvorit_mapova_data.rb` čte generovaný přehled
 `obyvatele_zahradky_domy/dolozene_pobyty.md`, takže po každé změně registru je

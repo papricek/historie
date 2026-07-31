@@ -476,6 +476,29 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
    bez čísla domu (mj. osm hospodářů berní ruly 1654) a hlavička domu ukazuje,
    kolik řádků pochází ze sčítání 1921.
 
+## Co bylo uděláno na webu 31. 7. 2026 (odpoledne)
+
+1. Data mapy znovu vygenerována z aktuálního registru (1427 domovních řádků
+   + 16 dům nezjištěn). Generátor `vytvorit_mapova_data.rb` nově odvozuje
+   řadicí klíč data a značí rodičovské řádky narození; výpisy domů jsou
+   chronologické (dřív se řadilo podle textu data — „29. 8." před „9. 4.").
+2. Panel domu: události (dítě + vnoření jednoznační rodiče), lepivé oddělovače
+   desetiletí, klikací sloupkový přehled hustoty dokladů po desetiletích,
+   tlačítko „kopírovat odkaz na dům".
+3. Časový filtr „kdo tu žil kolem roku…" (posuvník 1770–1930, okno ±5 let):
+   body domů se zvětšují podle počtu dokladů v okně, domy bez dokladu blednou;
+   otevřený dům filtruje výpis s odkazem „zobrazit všech N".
+4. Hledání seskupené podle domů s počty shod (strop 200), prochází i prameny.
+5. Mobilní list má úchyt (tažením plná výška / sbalení), hluboké odkazy
+   otevírají bez animace; přidána OG/description metadata; patička uvádí stav
+   přepisu matrik.
+6. Nové mapové podklady: originální mapa s reambulací 1878 (list II) a rastr
+   bývalého PK (datum neurčeno). Registrace řetězena přes otisk 1829
+   (NCC 1,08/0,41 resp. 2,45 s vizuálním ověřením); vyrábí je rozšířený
+   `nastroje/vytvorit_mapove_podklady.py`. Rumělkové přípisy reambulace jsou na
+   vrstvě 1878 přímo viditelné; rastr PK zachycuje již vícekřídlý areál dvora
+   (pozorování, k dataci PK viz katalog pramenů).
+
 ## Nabízející se další kroky
 
 - Odeslat připravené žádosti z `zadost_o_archivni_prameny.md` (5 konceptů, stačí doplnit

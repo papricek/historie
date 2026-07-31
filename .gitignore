@@ -9,3 +9,4 @@ website/img/
 *.png
 *.PNG
 node_modules/
+__pycache__/
