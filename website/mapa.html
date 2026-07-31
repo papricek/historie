@@ -4,6 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Zahrádka u Pošné — mapa vsi a jejích obyvatel</title>
+<meta name="description" content="Interaktivní mapa vsi Zahrádka u Pošné: každý dům s doloženými obyvateli z matrik od roku 1772, berní ruly 1654 a sčítání lidu 1921; podklady od císařského otisku 1829 po ortofoto 2022.">
+<meta property="og:title" content="Zahrádka u Pošné — mapa vsi a jejích obyvatel">
+<meta property="og:description" content="Každý dům s doloženými obyvateli z matrik, berní ruly 1654 a sčítání 1921. Podklady 1829–2022.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://historie.poutnazahradce.cz/mapa.html">
+<meta property="og:image" content="https://historie.poutnazahradce.cz/img/mapa/podklad_1829.jpg">
 </head>
 <body>
 <style>
@@ -208,6 +214,7 @@
 
   /* ---------- boční panel; na úzkých displejích spodní list ---------- */
   .panel { padding: 16px 18px; position: sticky; top: 14px; }
+  .uchyt { display: none; }
   .zavrit {
     display: none; position: absolute; top: 10px; right: 10px; z-index: 2;
     width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border);
@@ -225,10 +232,27 @@
     }
     .panel.otevreny { transform: translateY(0); }
     .zavrit { display: block; }
+    .uchyt {
+      display: block; position: absolute; top: 0; left: 0; right: 44px; height: 24px;
+      background: none; border: 0; padding: 0; cursor: grab; touch-action: none; z-index: 2;
+    }
+    .uchyt::before {
+      content: ""; display: block; width: 44px; height: 4px; border-radius: 2px;
+      background: var(--baseline); margin: 8px auto 0;
+    }
+    .panel.plny { max-height: 92vh; }
+    /* hluboky odkaz otevira list okamzite; animace az po nacteni stranky */
+    body:not(.nacteno) .panel { transition: none; }
     #panelObsah { display: flex; flex-direction: column; min-height: 0; }
     #panelObsah h3 { padding-right: 40px; }
   }
-  .panel h3 { margin: 0; font-size: 1.12rem; font-weight: 600; }
+  .panel h3 { margin: 0 0 2px; font-size: 1.12rem; font-weight: 600; }
+  .kopirovat {
+    font: 600 11px/1 system-ui, sans-serif; color: var(--accent-ink);
+    background: none; border: 1px solid var(--border); border-radius: 999px;
+    padding: 4px 10px; cursor: pointer; margin: 2px 0 6px;
+  }
+  .kopirovat:hover { border-color: var(--accent-ink); }
   .panel .sub {
     font-family: system-ui, sans-serif; font-size: 12.5px; color: var(--ink-2);
     margin: 4px 0 10px; line-height: 1.5;
@@ -282,7 +306,8 @@
   .vysledky { margin: 0 0 10px; }
   .vysledky .osoba { cursor: pointer; }
   .vysledky .osoba:hover { background: var(--surface-2); }
-  .vysledky .dumref { font-family: system-ui, sans-serif; font-size: 11px; font-weight: 700; color: var(--accent-ink); }
+  .vysledky .dumref-h { cursor: pointer; }
+  .vysledky .dumref-h:hover { background: var(--surface-2); }
 
   /* ---------- výklad ---------- */
   section.cist { padding: 34px 0 10px; }
@@ -339,6 +364,7 @@
     </div>
 
     <aside class="card panel">
+      <button class="uchyt" id="uchyt" aria-label="Roztáhnout či sbalit panel"></button>
       <button class="zavrit" id="zavritPanel" aria-label="Zavřít panel">×</button>
       <div id="panelObsah"></div>
     </aside>
@@ -377,6 +403,8 @@
       historické ortofoto 1953 (CENIA), ortofoto 2022 a adresní body RÚIAN (ČÚZK) — badatelské reprodukce s&nbsp;citací.
       Osobní údaje pocházejí z&nbsp;matrik SOA Třeboň, josefínského katastru a sčítání lidu 1921 (MZA Brno, sada PE0584);
       přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.</p>
+    <p>Stav přepisu matrik k 31. 7. 2026: kniha narozených 6620 (1797–1843) je pro Zahrádku
+      přepsána celá (snímky 80–117), kniha 6621 (1844–1880) po snímek 318 — přepis pokračuje.</p>
   </footer>
 </main>
 
@@ -470,6 +498,7 @@ function prepniRok(novy) {
 }
 /* přednačtení ostatních vrstev na pozadí */
 window.addEventListener("load", () => {
+  document.body.classList.add("nacteno");
   for (const r of ROKY) if (r !== rok) (new Image()).src = "img/mapa/podklad_" + r + ".jpg";
 });
 
@@ -512,8 +541,31 @@ for (const klic of BEZ_POZICE) {
 const panel = document.getElementById("panelObsah");
 const panelEl = document.querySelector(".panel");
 function otevriPanel() { panelEl.classList.add("otevreny"); }
-document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny"));
-window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny"); });
+document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny", "plny"));
+window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny", "plny"); });
+const uchyt = document.getElementById("uchyt");
+let tazeniListu = null;
+uchyt.addEventListener("pointerdown", (e) => {
+  tazeniListu = { y: e.clientY, presunuto: false };
+  uchyt.setPointerCapture(e.pointerId);
+});
+uchyt.addEventListener("pointermove", (e) => {
+  if (!tazeniListu) return;
+  const dy = e.clientY - tazeniListu.y;
+  if (Math.abs(dy) > 12) tazeniListu.presunuto = true;
+  if (dy < -40) {
+    panelEl.classList.add("plny");
+    tazeniListu.y = e.clientY;
+  } else if (dy > 40) {
+    if (panelEl.classList.contains("plny")) panelEl.classList.remove("plny");
+    else panelEl.classList.remove("otevreny");
+    tazeniListu.y = e.clientY;
+  }
+});
+uchyt.addEventListener("pointerup", () => {
+  if (tazeniListu && !tazeniListu.presunuto) panelEl.classList.toggle("plny");
+  tazeniListu = null;
+});
 
 function seskupUdalosti(osoby) {
   const udalosti = [];
@@ -638,10 +690,20 @@ function vyberDum(klic) {
   const poc1921 = dum.osoby.filter((o) => o.d.indexOf("(sčítací arch)") >= 0).length;
   panel.innerHTML =
     "<h3>" + dum.nazev + "</h3>" +
+    '<button class="kopirovat" type="button">kopírovat odkaz na dům</button>' +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
     sparklineHtml(dum) +
     '<div class="osoby">' + seznamHtml(dum) + "</div>";
+  const kop = panel.querySelector(".kopirovat");
+  if (kop) kop.addEventListener("click", () => {
+    const url = location.origin + location.pathname + "#" + klic +
+      (rok !== "2022" ? "/" + rok : "");
+    navigator.clipboard.writeText(url).then(() => {
+      kop.textContent = "odkaz zkopírován";
+      setTimeout(() => { kop.textContent = "kopírovat odkaz na dům"; }, 1600);
+    }, () => { kop.textContent = url; });
+  });
   const spark = panel.querySelector(".sparky");
   if (spark) spark.addEventListener("click", (e) => {
     const cil = e.target.closest("button");
@@ -687,31 +749,47 @@ function zvyrazni(html, dotaz) {
 hledat.addEventListener("input", () => {
   const dotaz = bezDiakritiky(hledat.value.trim());
   if (dotaz.length < 2) { vybrany ? vyberDum(vybrany) : uvodPanelu(); return; }
-  const shody = [];
+  const STROP = 200;
+  const skupiny = [];
+  let celkem = 0;
+  let oriznuto = false;
   for (const dum of window.MAPA_DATA.domy) {
+    const radky = [];
     for (const o of dum.osoby) {
       if (bezDiakritiky(o.j + " " + o.p + " " + (o.z || "")).includes(dotaz)) {
-        shody.push({ dum, o });
-        if (shody.length >= 80) break;
+        if (celkem >= STROP) { oriznuto = true; break; }
+        radky.push(o);
+        celkem++;
       }
     }
-    if (shody.length >= 80) break;
+    if (radky.length) skupiny.push({ dum, radky });
+    if (oriznuto) break;
   }
   let html = "<h3>Hledání: „" + hledat.value.trim() + "“</h3>" +
-    '<p class="sub">' + (shody.length >= 80 ? "Prvních 80 shod" : shody.length + " shod") +
-    " — klepnutím otevřete dům.</p>" + '<div class="osoby vysledky">';
-  for (const s of shody) {
-    html += '<div class="osoba" role="button" tabindex="0" data-klic="' + s.dum.klic + '">' +
-      '<div class="dumref">' + s.dum.nazev + "</div>" +
-      '<div class="kdy">' + s.o.d + "</div>" +
-      '<div class="kdo">' + zvyrazni(s.o.j, dotaz) + "</div>" +
-      '<div class="co">' + zvyrazni(s.o.p, dotaz) + "</div>" +
-      (s.o.z ? '<div class="zdroj">' + zvyrazni(s.o.z, dotaz) + "</div>" : "") + "</div>";
+    '<p class="sub">' + (oriznuto ? "Prvních " + celkem + " shod" : celkem + " shod") +
+    (skupiny.length > 1 ? " v " + skupiny.length + " domech" : "") +
+    " — klepnutím na dům nebo řádek otevřete výpis.</p>";
+  if (celkem) {
+    html += '<div class="osoby vysledky">';
+    for (const g of skupiny) {
+      html += '<div class="dekada dumref-h" role="button" tabindex="0" data-klic="' + g.dum.klic + '">' +
+        g.dum.nazev + " — " + g.radky.length + " " +
+        (g.radky.length === 1 ? "shoda" : g.radky.length < 5 ? "shody" : "shod") + "</div>";
+      for (const o of g.radky) {
+        html += '<div class="osoba" role="button" tabindex="0" data-klic="' + g.dum.klic + '">' +
+          '<div class="kdy">' + o.d + "</div>" +
+          '<div class="kdo">' + zvyrazni(o.j, dotaz) + "</div>" +
+          '<div class="co">' + zvyrazni(o.p, dotaz) + "</div>" +
+          (o.z ? '<div class="zdroj">' + zvyrazni(o.z, dotaz) + "</div>" : "") + "</div>";
+      }
+    }
+    html += "</div>";
+  } else {
+    html += '<p class="sub">Nic nenalezeno.</p>';
   }
-  html += shody.length ? "</div>" : '<p class="sub">Nic nenalezeno.</p></div>';
   panel.innerHTML = html;
   otevriPanel();
-  for (const el of panel.querySelectorAll(".vysledky .osoba")) {
+  for (const el of panel.querySelectorAll(".vysledky [data-klic]")) {
     const otevri = () => { hledat.value = ""; vyberDum(el.dataset.klic); };
     el.addEventListener("click", otevri);
     el.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); otevri(); } });
@@ -824,7 +902,7 @@ function aplikujHash() {
   return dum;
 }
 window.addEventListener("hashchange", aplikujHash);
-if (aplikujHash()) mapbox.scrollIntoView({ block: "center" });
+if (aplikujHash()) mapbox.scrollIntoView({ block: "center", behavior: "instant" });
 </script>
 </body>
 </html>
