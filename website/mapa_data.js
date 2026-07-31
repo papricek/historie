@@ -2310,64 +2310,64 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Antonín Matějka",
-          "p": "syn; svobodný",
+          "j": "Anežka Markvartová",
+          "p": "dcera; svobodná; narozena 4. 10. 1907",
           "h": 1,
-          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
+          "c": "Zahrádka · žákyně obecné školy v Pošné; roku 1929 se provdala za Jana Kejvala z č. 15",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Františka Matějková",
-          "p": "dcera; svobodná",
+          "j": "Antonie Markvartová",
+          "p": "dcera; svobodná; narozena 3. 1. 1898",
           "h": 1,
-          "c": "Zahrádka · žákyně obecné školy v Pošné",
+          "c": "Zahrádka · zemědělská pomocnice v hospodářství majitele bytu; provdala se 31. 5. 1921",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Jindřiška Matějková",
-          "p": "manželka",
+          "j": "Antonie Markvartová, rozená Bečková",
+          "p": "manželka; narozena 30. 6. 1869",
           "h": 1,
-          "c": "Vlásenice · práce v domácnosti",
+          "c": "Zlátenka · vede domácnost",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Matějka",
-          "p": "syn; svobodný",
+          "j": "Josef Markvart",
+          "p": "syn; svobodný; narozen 19. (?) 2. 1910",
           "h": 1,
           "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Matějka",
-          "p": "majitel bytu; přednosta domácnosti",
+          "j": "Josef Markvart",
+          "p": "majitel bytu; přednosta domácnosti; narozen 31. 3. 1866",
           "h": 1,
           "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Karel Matějka",
-          "p": "syn; svobodný",
+          "j": "Karel Markvart",
+          "p": "syn; svobodný; narozen 6. (?) 10. 1904",
           "h": 1,
           "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Václav Matějka",
-          "p": "syn; svobodný",
+          "j": "Václav Markvart",
+          "p": "syn; svobodný; narozen 13. 9. 1900",
           "h": 1,
-          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu; roku 1930 rolník‑chalupník v č. 4",
           "r": 1921
         },
         {
           "d": "1921, 1929 a 1930",
           "j": "Josef Markvart",
-          "p": "rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. <b>Rozpor:</b> sčítání 1921 vede u čp. 4 rodinu Josefa Matějky a příjmení Markvart nezná — otevřená otázka, viz místní paměť MJS‑001 (Novák → Markvart)",
+          "p": "rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. Dřívější rozpor se sčítáním 1921 je vyřešen: arch čp. 4 byl mylně přepsán jako rodina <span class=\"nej\">Matějkova</span>, obrazová kontrola čte <b>Markvart</b>",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/166\" target=\"_blank\" rel=\"noopener\">sn. 166</a>, <a href=\"https://digi.ceskearchivy.cz/6624/211\" target=\"_blank\" rel=\"noopener\">sn. 211</a>, <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
           "r": 1921,
           "rr": 1930
@@ -3737,73 +3737,73 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Anežka Perníčková",
-          "p": "dítě v domácnosti; svobodná",
+          "p": "dítě v domácnosti; svobodná; narozena 18. 2. 1912",
           "h": 1,
-          "c": "rodiště nejisté · žákyně obecné školy v Pošné",
+          "c": "Morava (soudní okres Prostějov ?) · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Anna Beldánová (?)",
-          "p": "matka přednosty; ovdovělá",
+          "j": "Anna Bílková",
+          "p": "matka přednostky; ovdovělá; narozena 2. 6. 1840",
           "h": 2,
-          "c": "Zahrádka · pomocnice v zemědělství",
+          "c": "Zahrádka · pomocnice v zemědělství; domovská příslušnost Velká Lhota (?)",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Antonie Pánková",
-          "p": "služka; svobodná",
+          "j": "Antonie Plášilová",
+          "p": "služka; svobodná; narozena 1. 5. 1858",
           "h": 1,
           "c": "Zahrádka · zemědělská pomocnice v hospodářství majitelky bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Beldán (?)",
-          "p": "přednosta druhé domácnosti",
+          "j": "Josef Svoboda",
+          "p": "syn; svobodný; narozen 6. 5. 1901",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitelky bytu; roku 1926 <b>tesař v č. 6</b>",
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Marie Kolářová",
+          "p": "přednostka druhé domácnosti; ovdovělá; narozena 12. (?) 9. 1879",
           "h": 2,
-          "c": "Zahrádka · povolání nejasné",
+          "c": "Zahrádka · podnájem; povolání nejasné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Šrolha",
-          "p": "syn; svobodný",
+          "j": "Marie Svobodová",
+          "p": "dcera; svobodná; narozena 16. (?) 5. 1903",
           "h": 1,
-          "c": "Zahrádka · zemědělský pomocník v hospodářství majitelky bytu",
+          "c": "Zahrádka · zemědělská pomocnice v hospodářství majitelky bytu; roku 1926 nevěsta bytem v č. 6",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Ladislav Perníček",
-          "p": "dítě v domácnosti; svobodný",
-          "h": 1,
-          "c": "rodiště nejisté · žák obecné školy v Pošné",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Marie Šrolhová",
-          "p": "dcera; svobodná",
-          "h": 1,
-          "c": "Zahrádka · zemědělská pomocnice v hospodářství majitelky bytu",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Pavla Šrolhová",
-          "p": "majitelka bytu; přednostka; ovdovělá",
+          "j": "Pavlína (Pavla ?) Svobodová",
+          "p": "majitelka bytu; přednostka; ovdovělá; narozena 12. 7. 1869",
           "h": 1,
           "c": "Zahrádka · samostatně hospodařící zemědělkyně",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Žofie Beldánová (?)",
-          "p": "manželka",
+          "j": "Svatopluk Perníček",
+          "p": "dítě v domácnosti; svobodný; narozen 1917 (?)",
+          "h": 1,
+          "c": "Morava (totéž rodiště) · žák obecné školy v Pošné",
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Žofie Kolářová",
+          "p": "dcera; svobodná; narozena 2. 4. 1907",
           "h": 2,
-          "c": "rodiště nejisté · práce v domácnosti",
+          "c": "mimo Zahrádku (čtení obce nejisté) · —",
           "r": 1921
         },
         {
@@ -11385,39 +11385,44 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "1921 a 18. 7. 1922",
+          "j": "Antonie Kudrnová",
+          "p": "roku 1921 manželka domkáře, roku 1922 už vdova po Josefu Kudrnovi; matka Marie Kratochvílové z dřívějšího manželství. Příjmení Kratochvíl patří jejímu prvnímu muži, její rodné příjmení pramen neuvádí",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 174</a>",
+          "r": 1921,
+          "rr": 1922
+        },
+        {
+          "d": "1921 a 18. 7. 1922",
+          "j": "Marie Kratochvílová",
+          "p": "dcera v domácnosti Kudrnových, narozena 30. 3. 1895 v Táboře č. 238; roku 1922 nevěsta. Ve sčítacím archu byla dříve mylně čtena jako <span class=\"nej\">Marie Matějková, služka</span>",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 174</a>",
+          "r": 1921,
+          "rr": 1922
+        },
+        {
           "d": "1921 (sčítací arch)",
-          "j": "Apolonie Kudrnová",
-          "p": "manželka",
+          "j": "Antonie Kudrnová",
+          "p": "manželka; narozena 13. 1. 1866",
           "h": 1,
+          "c": "Rejškov / Rejčkov (?), okres Pelhřimov",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Kudrna",
-          "p": "majitel bytu; přednosta domácnosti",
+          "p": "majitel bytu; přednosta domácnosti; narozen 19. 5. 1876",
           "h": 1,
+          "c": "Zahrádka",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Marie Matějková (?)",
-          "p": "služka; svobodná",
-          "h": 1,
-          "r": 1921
-        },
-        {
-          "d": "18. 7. 1922",
-          "j": "Antonie Kudrnová, rozená Kratochvíl",
-          "p": "vdova po Josefu Kudrnovi, domkáři v č. 18",
-          "z": "tentýž zápis",
-          "r": 1922
-        },
-        {
-          "d": "18. 7. 1922",
           "j": "Marie Kratochvílová",
-          "p": "nevěsta ze Zahrádky č. 18, narozena v Táboře č. 238; dcera Antonie",
-          "z": "tentýž zápis",
-          "r": 1922
+          "p": "dcera; svobodná; narozena 30. 3. 1895",
+          "h": 1,
+          "c": "Tábor",
+          "r": 1921
         },
         {
           "d": "zemřel před 18. 7. 1922",

@@ -151,17 +151,28 @@ počeštěno na Šmíd.
 
 Pramen: `PE0584`, snímky 12–13; [uložený líc](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim012_cp4_lic.jpg)
 a [uložený rub](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim013_cp4_rub.jpg).
-Josef Matějka je v hlavičce majitelem domu a současně první osobou domácnosti.
+Josef Markvart je v hlavičce majitelem domu a současně první osobou domácnosti.
+
+**Oprava 31. 7. 2026.** Celý arch byl dříve přepsán jako rodina `Matějkova`;
+obrazová kontrola líce v plném rozlišení čte ve všech sedmi řádcích
+**Markvart**. Opravena jsou i tři křestní jména (manželka Antonie, ne
+`Jindřiška`; třetí osoba je dcera Antonie, ne syn `Antonín`; šestá je Anežka,
+ne `Františka`) a rodiště manželky (**Zlátenka**, ne `Vlásenice`). Čtení
+potvrzují tři nezávislé oddací zápisy knihy 6624, které u č. 4 uvádějí Josefa
+Markvarta s manželkou Antonií rozenou Bečkovou ze Zlátenky č. 5 a s dětmi
+Antonií, Anežkou (*4. 10. 1907) a Václavem (*13. 9. 1900) — data narození
+souhlasí s archem na den. Oprava zároveň potvrzuje místní paměť MJS‑001
+(u čp. 4 posloupnost rodin Novák → Markvart).
 
 | Domácnost | Osoba | Vztah / postavení | Rodiště | Povolání nebo další údaj |
 |---:|---|---|---|---|
-| 1 | Josef Matějka | majitel bytu; přednosta domácnosti | Zahrádka | samostatný rolník; vlastní hospodářství |
-| 1 | Jindřiška Matějková | manželka | Vlásenice | práce v domácnosti |
-| 1 | Antonín Matějka | syn; svobodný | Zahrádka | zemědělský pomocník v hospodářství majitele bytu |
-| 1 | Václav Matějka | syn; svobodný | Zahrádka | zemědělský pomocník v hospodářství majitele bytu |
-| 1 | Karel Matějka | syn; svobodný | Zahrádka | zemědělský pomocník v hospodářství majitele bytu |
-| 1 | Františka Matějková | dcera; svobodná | Zahrádka | žákyně obecné školy v Pošné |
-| 1 | Josef Matějka | syn; svobodný | Zahrádka | žák obecné školy v Pošné |
+| 1 | Josef Markvart | majitel bytu; přednosta domácnosti; narozen 31. 3. 1866 | Zahrádka | samostatný rolník; vlastní hospodářství |
+| 1 | Antonie Markvartová, rozená Bečková | manželka; narozena 30. 6. 1869 | Zlátenka | vede domácnost |
+| 1 | Antonie Markvartová | dcera; svobodná; narozena 3. 1. 1898 | Zahrádka | zemědělská pomocnice v hospodářství majitele bytu; provdala se 31. 5. 1921 |
+| 1 | Václav Markvart | syn; svobodný; narozen 13. 9. 1900 | Zahrádka | zemědělský pomocník v hospodářství majitele bytu; roku 1930 rolník‑chalupník v č. 4 |
+| 1 | Karel Markvart | syn; svobodný; narozen 6. (?) 10. 1904 | Zahrádka | zemědělský pomocník v hospodářství majitele bytu |
+| 1 | Anežka Markvartová | dcera; svobodná; narozena 4. 10. 1907 | Zahrádka | žákyně obecné školy v Pošné; roku 1929 se provdala za Jana Kejvala z č. 15 |
+| 1 | Josef Markvart | syn; svobodný; narozen 19. (?) 2. 1910 | Zahrádka | žák obecné školy v Pošné |
 
 ### Čp. 5 — jedenáct osob, jedna domácnost
 
@@ -193,25 +204,31 @@ domácnosti, nikoli jako samostatná druhá domácnost.
 
 Pramen: `PE0584`, snímky 16–17; [uložený líc](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim016_cp6_lic.jpg)
 a [uložený rub](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim017_cp6_rub.jpg).
-Prvních šest osob patří do domácnosti majitelky Pavly Šrolhové. Josef, Žofie a Anna
-Beldánovi tvoří domácnost č. 2; Anna pokračuje jako jediná osoba na rubu.
+Prvních šest osob patří do domácnosti majitelky **Svobodové**. Domácnost č. 2
+tvoří **Kolářovy** s matkou přednostky; ta pokračuje jako jediná osoba na rubu.
 
 | Domácnost | Osoba | Vztah / postavení | Rodiště | Povolání nebo další údaj |
 |---:|---|---|---|---|
-| 1 | Pavla Šrolhová | majitelka bytu; přednostka; ovdovělá | Zahrádka | samostatně hospodařící zemědělkyně |
-| 1 | Josef Šrolha | syn; svobodný | Zahrádka | zemědělský pomocník v hospodářství majitelky bytu |
-| 1 | Marie Šrolhová | dcera; svobodná | Zahrádka | zemědělská pomocnice v hospodářství majitelky bytu |
-| 1 | Antonie Pánková | služka; svobodná | Zahrádka | zemědělská pomocnice v hospodářství majitelky bytu |
-| 1 | Anežka Perníčková | dítě v domácnosti; svobodná | rodiště nejisté | žákyně obecné školy v Pošné |
-| 1 | Ladislav Perníček | dítě v domácnosti; svobodný | rodiště nejisté | žák obecné školy v Pošné |
-| 2 | Josef Beldán (?) | přednosta druhé domácnosti | Zahrádka | povolání nejasné |
-| 2 | Žofie Beldánová (?) | manželka | rodiště nejisté | práce v domácnosti |
-| 2 | Anna Beldánová (?) | matka přednosty; ovdovělá | Zahrádka | pomocnice v zemědělství |
+| 1 | Pavlína (Pavla ?) Svobodová | majitelka bytu; přednostka; ovdovělá; narozena 12. 7. 1869 | Zahrádka | samostatně hospodařící zemědělkyně |
+| 1 | Josef Svoboda | syn; svobodný; narozen 6. 5. 1901 | Zahrádka | zemědělský pomocník v hospodářství majitelky bytu; roku 1926 **tesař v č. 6** |
+| 1 | Marie Svobodová | dcera; svobodná; narozena 16. (?) 5. 1903 | Zahrádka | zemědělská pomocnice v hospodářství majitelky bytu; roku 1926 nevěsta bytem v č. 6 |
+| 1 | Antonie Plášilová | služka; svobodná; narozena 1. 5. 1858 | Zahrádka | zemědělská pomocnice v hospodářství majitelky bytu |
+| 1 | Anežka Perníčková | dítě v domácnosti; svobodná; narozena 18. 2. 1912 | Morava (soudní okres Prostějov ?) | žákyně obecné školy v Pošné |
+| 1 | Svatopluk Perníček | dítě v domácnosti; svobodný; narozen 1917 (?) | Morava (totéž rodiště) | žák obecné školy v Pošné |
+| 2 | Marie Kolářová | přednostka druhé domácnosti; ovdovělá; narozena 12. (?) 9. 1879 | Zahrádka | podnájem; povolání nejasné |
+| 2 | Žofie Kolářová | dcera; svobodná; narozena 2. 4. 1907 | mimo Zahrádku (čtení obce nejisté) | — |
+| 2 | Anna Bílková | matka přednostky; ovdovělá; narozena 2. 6. 1840 | Zahrádka | pomocnice v zemědělství; domovská příslušnost Velká Lhota (?) |
 
-Příjmení druhé domácnosti se pracovně čte `Beldán`; neobvyklý tvar je označen
-otazníkem do kontroly jiným jmenným pramenem. Červené revizní značky překrývají
-rodinný poměr Anežky a Ladislava Perníčkových, proto se zatím neoznačují jako děti
-konkrétního rodiče.
+**Oprava 31. 7. 2026.** Obrazová kontrola líce i rubu v plném rozlišení opravila
+u tohoto archu **sedm z devíti jmen**: první domácnost není `Šrolhova`, nýbrž
+**Svobodova**; služka je **Plášilová**, ne `Pánková`; chlapec je **Svatopluk**,
+ne `Ladislav`; a druhá domácnost není `Beldánova` — tvoří ji **Marie a Žofie
+Kolářovy** s matkou **Annou Bílkovou** (žádný Josef v ní není). Čtení nezávisle
+potvrzuje oddací zápis z 24. 4. 1926: „Marie Svobodová, bytem v Zahrádce č. 6,
+narozena v Zahrádce č. 3“ se svědkem „Josefem Svobodou, tesařem v Zahrádce
+č. 6“ — obě osoby jsou v archu s odpovídajícími daty narození. Příjmení Kolář
+i Bílek jsou ve vsi doložena i jinde (čp. 8, 22, 25). Rodinný poměr Anežky a
+Svatopluka Perníčkových k přednostce zůstává překryt revizními značkami.
 
 ### Čp. 7 — čtyři osoby, jedna domácnost
 
@@ -407,14 +424,21 @@ a [uložený rub](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_sni
 Josef Kudrna je první osobou i přednostou jediné domácnosti. Všichni tři obyvatelé
 jsou zapsáni na líci.
 
-| Domácnost | Osoba | Vztah / postavení |
-|---:|---|---|
-| 1 | Josef Kudrna | majitel bytu; přednosta domácnosti |
-| 1 | Apolonie Kudrnová | manželka |
-| 1 | Marie Matějková (?) | služka; svobodná |
+| Domácnost | Osoba | Vztah / postavení | Rodiště |
+|---:|---|---|---|
+| 1 | Josef Kudrna | majitel bytu; přednosta domácnosti; narozen 19. 5. 1876 | Zahrádka |
+| 1 | Antonie Kudrnová | manželka; narozena 13. 1. 1866 | Rejškov / Rejčkov (?), okres Pelhřimov |
+| 1 | Marie Kratochvílová | dcera; svobodná; narozena 30. 3. 1895 | Tábor |
 
-Příjmení třetí osoby se pracovně čte `Matějková`; kvůli světlému a místy
-setřenému zápisu zůstává označeno jako nejisté.
+**Oprava 31. 7. 2026.** Obrazová kontrola líce opravila dvě dřívější čtení:
+manželka je **Antonie**, nikoli `Apolonie`, a třetí osoba je **Marie
+Kratochvílová, dcera**, nikoli `Marie Matějková (?), služka`. Obojí nezávisle
+potvrzuje oddací zápis z 18. 7. 1922: „Marie Kratochvílová ze Zahrádky č. 18,
+narozena v Táboře č. 238, dcera **Antonie Kudrnové, vdovy po Josefu Kudrnovi,
+domkáři v Zahrádce č. 18**“ — datum narození 30. 3. 1895 i rodiště Tábor
+souhlasí s archem. Josef Kudrna tedy zemřel mezi sčítáním 1921 a červencem
+1922 ve věku 46 let. Marie byla dcerou z dřívějšího manželství Antonie;
+příjmení Kratochvíl patří jejímu prvnímu muži, nikoli nutně Antonii za svobodna.
 
 ### Čp. 19 — šest osob, jedna domácnost
 
@@ -2365,8 +2389,8 @@ staršího ID pocházejí z této vrstvy.
 | č. 15 | Antonie Vaňková, rozená Kejvalová | 26. 9. 1929 | manželka Františka Vaňka, matka Karolíny; „ze Zahrádky č. 15“ | tentýž zápis | — |
 | č. 5 | Antonín Kříž | 1929 a 3. 2. 1934 | rolník v č. 5; svědek dvou sňatků | [sn. 212](https://digi.ceskearchivy.cz/6624/212), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) | — |
 | č. 18 | Josef Kudrna | zemřel před 18. 7. 1922 | domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti | [sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
-| č. 18 | Antonie Kudrnová, rozená Kratochvíl | 18. 7. 1922 | vdova po Josefu Kudrnovi, domkáři v č. 18 | tentýž zápis | — |
-| č. 18 | Marie Kratochvílová | 18. 7. 1922 | nevěsta ze Zahrádky č. 18, narozena v Táboře č. 238; dcera Antonie | tentýž zápis | — |
+| č. 18 | Antonie Kudrnová | 1921 a 18. 7. 1922 | roku 1921 manželka domkáře, roku 1922 už vdova po Josefu Kudrnovi; matka Marie Kratochvílové z dřívějšího manželství. Příjmení Kratochvíl patří jejímu prvnímu muži, její rodné příjmení pramen neuvádí | [sčítací arch, sn. 38](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
+| č. 18 | Marie Kratochvílová | 1921 a 18. 7. 1922 | dcera v domácnosti Kudrnových, narozena 30. 3. 1895 v Táboře č. 238; roku 1922 nevěsta. Ve sčítacím archu byla dříve mylně čtena jako `Marie Matějková, služka` | [sčítací arch, sn. 38](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
 | č. 18 | Antonín Kudrna | 24. 11. 1928 a 9. 11. 1929 | domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny | [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
 | č. 18 | Josef Vacík | 24. 11. 1928 | truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují | tentýž zápis | — |
 | č. 3 | Matěj Bartoška | 17. 4. 1923 a 5. 1. 1925 | rolník v č. 3; otec Boženy a Václava | [sn. 176](https://digi.ceskearchivy.cz/6624/176), [Pelhřimov, sn. 198](https://digi.ceskearchivy.cz/6347/198) | — |
@@ -2399,7 +2423,7 @@ staršího ID pocházejí z této vrstvy.
 | č. 2 | Karel Kudrna | 15. 7. 1928 a 3. 2. 1934 | rolník v č. 2; po smrti otce Františka převzal usedlost | [Moraveč, sn. 175](https://digi.ceskearchivy.cz/13243/175), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) | — |
 | č. 1 | Marie Rohovcová, provdaná Kudrnová | 24. 11. 1928 | bytem v č. 1, narozena 24. 5. 1898 v č. 22; dcera tesaře Jana Rohovce | [sn. 208](https://digi.ceskearchivy.cz/6624/208) | — |
 | č. 21 | Anežka Rohovcová | 9. 11. 1929 | u rodičů v č. 21, narozena 11. 10. 1903; dcera tesaře Jana Rohovce. Táž rodina je roku 1921 a 1928 u č. 1 — posun čísla domu zůstává nevysvětlen | [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
-| č. 4 | Josef Markvart | 1921, 1929 a 1930 | rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. **Rozpor:** sčítání 1921 vede u čp. 4 rodinu Josefa Matějky a příjmení Markvart nezná — otevřená otázka, viz místní paměť MJS‑001 (Novák → Markvart) | [sn. 166](https://digi.ceskearchivy.cz/6624/166), [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 4 | Josef Markvart | 1921, 1929 a 1930 | rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. Dřívější rozpor se sčítáním 1921 je vyřešen: arch čp. 4 byl mylně přepsán jako rodina `Matějkova`, obrazová kontrola čte **Markvart** | [sn. 166](https://digi.ceskearchivy.cz/6624/166), [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
 | č. 4 | Antonie Markvartová, rozená Bečková | 1921–1930 | manželka Josefa Markvarta; ze Zlátenky č. 5 | tytéž zápisy | — |
 | č. 4 | Antonie Markvartová | 31. 5. 1921 | dcera Josefa Markvarta z č. 4, nevěsta | [sn. 166](https://digi.ceskearchivy.cz/6624/166) | — |
 | č. 4 | Anežka Markvartová, provdaná Kejvalová | 13. 7. 1929 | narozena 4. 10. 1907 v č. 4; provdána za Jana Kejvala z č. 15 | [sn. 211](https://digi.ceskearchivy.cz/6624/211) | — |

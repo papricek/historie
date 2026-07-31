@@ -106,6 +106,18 @@ v dalším zpracování obrátit.
   Jihočeské vědecké knihovny a Krajské knihovny Vysočiny a jejich API vrací
   úryvky i u stránek v režimu DNNT — tím padl dřívější slepý konec
   „okresní tisk nelze prohledávat automatizovaně“.
+- **Přepis sčítání 1921 není spolehlivý a reviduje se.** Namátková obrazová
+  kontrola tří archů 31. 7. 2026 našla chyby ve všech třech, u dvou hrubé:
+  **čp. 4** není rodina `Matějkova`, nýbrž **Markvartova** (a tři křestní jména
+  i rodiště manželky byly chybné); **čp. 6** má sedm z devíti jmen špatně —
+  `Šrolhovi` jsou ve skutečnosti **Svobodovi**, `Pánková` je **Plášilová**,
+  `Ladislav` je **Svatopluk** a domácnost `Beldánova` neexistuje, jsou to
+  **Marie a Žofie Kolářovy** s matkou **Annou Bílkovou**; **čp. 18** vede jako
+  `Marie Matějková, služka` ve skutečnosti **Marii Kratochvílovou, dceru**,
+  a manželka je **Antonie**, ne `Apolonie`. Všechny tři opravy nezávisle
+  potvrzují oddací zápisy z let 1922, 1926 a 1929–1930, které souhlasí i v datech
+  narození. Zbývajících 22 archů prochází dvojím nezávislým obrazovým čtením;
+  do jeho dokončení je nutné brát jména ze sčítání 1921 jako **pracovní**.
 - **Dvě opravy proti dřívějšímu stavu spisu**, obě potvrzené obrazovou
   kontrolou: svědkem sňatku v č. 11 roku 1924 nebyl `František Vopálka`, nýbrž
   **František Vytiska** (týž šafář, který je v čp. 11 doložen 1921–1928;
@@ -386,9 +398,7 @@ zápisových snímcích 309–362 personálně inventarizován; snímek 363 je r
 5. Teprve při potřebě rozlišit nebo sledovat domovní čísla řešit pozdější knihovní
    vložku, parcelní návaznost a další mapy. Jeden bezpečný mapový kontext pro N1 a
    N11 už existuje; nové složité výřezy nejsou prioritou.
-6. Dořešit dvě otevřené otázky z rešerše obyvatel 1921–2026: **rozpor u čp. 4**
-   (matrika 1921–1930 vede Josefa Markvarta, sčítání 1921 Josefa Matějku —
-   rozhodne obrazová kontrola sčítacího archu) a **posun rodiny Jana Rohovce**
+6. Dořešit otevřenou otázku z rešerše obyvatel 1921–2026: **posun rodiny Jana Rohovce**
    č. 22 → č. 1 → č. 21 v letech 1920–1929. Dále ověřit ve zvětšeninách zápisy
    čtené zatím ze zmenšenin (Vacíkovi v č. 11, Kadlecovi v č. 25, Svobodovi
    v č. 3/6).

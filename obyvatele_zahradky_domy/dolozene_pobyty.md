@@ -399,14 +399,14 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 27. / 28. 7. 1879 | Kateřina | matka při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. / 28. 7. 1879 | Marie Mrázková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 27. / 28. 7. 1879 | Matěj Mrázek (?) | otec při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonín Matějka | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Františka Matějková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Jindřiška Matějková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Matějka | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Matějka | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Karel Matějka | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Václav Matějka | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921, 1929 a 1930 | Josef Markvart | rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. **Rozpor:** sčítání 1921 vede u čp. 4 rodinu Josefa Matějky a příjmení Markvart nezná — otevřená otázka, viz místní paměť MJS‑001 (Novák → Markvart) | [sn. 166](https://digi.ceskearchivy.cz/6624/166), [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 215](https://digi.ceskearchivy.cz/6624/215) |
+| 1921 (sčítací arch) | Anežka Markvartová | dcera; svobodná; narozena 4. 10. 1907 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonie Markvartová | dcera; svobodná; narozena 3. 1. 1898 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonie Markvartová, rozená Bečková | manželka; narozena 30. 6. 1869 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Markvart | syn; svobodný; narozen 19. (?) 2. 1910 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Markvart | majitel bytu; přednosta domácnosti; narozen 31. 3. 1866 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Karel Markvart | syn; svobodný; narozen 6. (?) 10. 1904 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Václav Markvart | syn; svobodný; narozen 13. 9. 1900 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921, 1929 a 1930 | Josef Markvart | rolník v č. 4; matrika jej u tohoto domu uvádí ve třech nezávislých zápisech. Dřívější rozpor se sčítáním 1921 je vyřešen: arch čp. 4 byl mylně přepsán jako rodina `Matějkova`, obrazová kontrola čte **Markvart** | [sn. 166](https://digi.ceskearchivy.cz/6624/166), [sn. 211](https://digi.ceskearchivy.cz/6624/211), [sn. 215](https://digi.ceskearchivy.cz/6624/215) |
 | 1921–1930 | Antonie Markvartová, rozená Bečková | manželka Josefa Markvarta; ze Zlátenky č. 5 | tytéž zápisy |
 | 31. 5. 1921 | Antonie Markvartová | dcera Josefa Markvarta z č. 4, nevěsta | [sn. 166](https://digi.ceskearchivy.cz/6624/166) |
 | 13. 7. 1929 | Anežka Markvartová, provdaná Kejvalová | narozena 4. 10. 1907 v č. 4; provdána za Jana Kejvala z č. 15 | [sn. 211](https://digi.ceskearchivy.cz/6624/211) |
@@ -618,15 +618,15 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. 7. 1879; pokřtěna téhož dne | Josef Plášil | otec při narození dítěte Marie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 7. 1879; pokřtěna téhož dne | Marie | matka při narození dítěte Marie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 7. 1879; pokřtěna téhož dne | Marie Plášilová | narození / křest; dítě, rodiče, dům a den bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Anežka Perníčková | dítě v domácnosti; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Anna Beldánová (?) | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonie Pánková | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Beldán (?) | přednosta druhé domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Šrolha | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Ladislav Perníček | dítě v domácnosti; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Šrolhová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Pavla Šrolhová | majitelka bytu; přednostka; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Žofie Beldánová (?) | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Anežka Perníčková | dítě v domácnosti; svobodná; narozena 18. 2. 1912 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Anna Bílková | matka přednostky; ovdovělá; narozena 2. 6. 1840 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonie Plášilová | služka; svobodná; narozena 1. 5. 1858 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Svoboda | syn; svobodný; narozen 6. 5. 1901 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Kolářová | přednostka druhé domácnosti; ovdovělá; narozena 12. (?) 9. 1879 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Svobodová | dcera; svobodná; narozena 16. (?) 5. 1903 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Pavlína (Pavla ?) Svobodová | majitelka bytu; přednostka; ovdovělá; narozena 12. 7. 1869 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Svatopluk Perníček | dítě v domácnosti; svobodný; narozen 1917 (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Žofie Kolářová | dcera; svobodná; narozena 2. 4. 1907 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 24. 4. 1926 | Josef Svoboda | tesař v č. 6, svědek | tentýž zápis |
 | 24. 4. 1926 | Marie Svobodová | bytem v č. 6, narozena v č. 3; nevěsta | [sn. 193](https://digi.ceskearchivy.cz/6624/193) |
 
@@ -1784,11 +1784,11 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 10. / 12. 9. 1879 | Anna | matka při narození dítěte Marie Bílková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 10. / 12. 9. 1879 | Marie Bílková (?) | narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; ženský tvar je pracovní převod historického `Bílek` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 10. / 12. 9. 1879 | Tomáš Bílek (?) | otec při narození dítěte Marie Bílková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Apolonie Kudrnová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Kudrna | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Matějková (?) | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 18. 7. 1922 | Antonie Kudrnová, rozená Kratochvíl | vdova po Josefu Kudrnovi, domkáři v č. 18 | tentýž zápis |
-| 18. 7. 1922 | Marie Kratochvílová | nevěsta ze Zahrádky č. 18, narozena v Táboře č. 238; dcera Antonie | tentýž zápis |
+| 1921 (sčítací arch) | Antonie Kudrnová | manželka; narozena 13. 1. 1866 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Kudrna | majitel bytu; přednosta domácnosti; narozen 19. 5. 1876 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Kratochvílová | dcera; svobodná; narozena 30. 3. 1895 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 a 18. 7. 1922 | Antonie Kudrnová | roku 1921 manželka domkáře, roku 1922 už vdova po Josefu Kudrnovi; matka Marie Kratochvílové z dřívějšího manželství. Příjmení Kratochvíl patří jejímu prvnímu muži, její rodné příjmení pramen neuvádí | [sčítací arch, sn. 38](../prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) |
+| 1921 a 18. 7. 1922 | Marie Kratochvílová | dcera v domácnosti Kudrnových, narozena 30. 3. 1895 v Táboře č. 238; roku 1922 nevěsta. Ve sčítacím archu byla dříve mylně čtena jako `Marie Matějková, služka` | [sčítací arch, sn. 38](../prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) |
 | zemřel před 18. 7. 1922 | Josef Kudrna | domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti | [sn. 174](https://digi.ceskearchivy.cz/6624/174) |
 | 24. 11. 1928 | Josef Vacík | truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují | tentýž zápis |
 | 24. 11. 1928 a 9. 11. 1929 | Antonín Kudrna | domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny | [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) |

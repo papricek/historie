@@ -419,7 +419,7 @@ Hlavní jmenné výsledky:
 | č. 1 | rodina tesaře **Jana Rohovce** (1921, 1928; 1920 ještě v č. 22, 1929 v č. 21); **Fraňkova/Franíkova usedlost** — matrika ji píše „č. 1“, sčítání 1921 jako čp. 1a | oddací kniha 6624 |
 | č. 2 | **František Kudrna**, rolník († před 1928), po něm syn **Karel Kudrna** (1928, 1934); syn Jan (*1905) | 6624; ČCE Moraveč a Červená Řečice |
 | č. 3 | **Matěj Bartoška** a Antonie roz. Svobodová, od roku 1925 hospodaří syn **Václav** (*17. 9. 1894) | 6624; matrika Pelhřimov |
-| č. 4 | **Josef Markvart**, rolník, s Antonií roz. Bečkovou a dětmi Antonií, Anežkou a Václavem (1921, 1929, 1930) — **v rozporu se sčítáním 1921**, které zde vede Josefa Matějku | 6624, tři nezávislé zápisy |
+| č. 4 | **Josef Markvart**, rolník, s Antonií roz. Bečkovou ze Zlátenky a dětmi Antonií, Václavem, Karlem, Anežkou a Josefem (1921, 1929, 1930); obrazová kontrola sčítacího archu 31. 7. 2026 opravila dřívější přepis `Matějka` na **Markvart** | 6624, tři nezávislé zápisy; sčítací arch PE0584, sn. 12 |
 | č. 5 | **František Vaněk**, rolník, s Antonií roz. Kejvalovou z č. 15; **Antonín Kříž**, rolník (1929, 1934) | 6624; ČCE Červená Řečice |
 | č. 6 | rodina **Svobodova** (1926) — ve sčítání 1921 zde není | 6624 |
 | č. 8 | **František Kříž**, rolník (1930) — roku 1921 zde František Růž | Český jih 5. 4. 1930 |
@@ -662,9 +662,10 @@ jsou v tabulkách a v [úplném výstupu rešerše](prameny_online/reserse/2026-
    možnost nahlédnout do písemností JZD (NAD 10 mimo archiv).
 8. Navazující kroky po druhé rešerši: (a) dočíst *Nástup* 1960–1990 a
    *Vesnické noviny* 1952–1959 systematicky po ročnících — parte a jubilea jsou
-   zatím jediný jmenný pramen poválečné vsi; (b) vyřešit **rozpor u čp. 4**
-   (matrika 1921–1930 Josef Markvart × sčítání 1921 Josef Matějka) obrazovou
-   kontrolou sčítacího archu; (c) dohledat posun rodiny **Jana Rohovce**
+   zatím jediný jmenný pramen poválečné vsi; (b) ~~rozpor u čp. 4~~ — **vyřešen
+   31. 7. 2026**: obrazová kontrola sčítacího archu ukázala, že rodina se jmenuje
+   **Markvart**, nikoli `Matějka`, takže matrika i sčítání souhlasí;
+   (c) dohledat posun rodiny **Jana Rohovce**
    č. 22 → č. 1 → č. 21 v letech 1920–1929; (d) ověřit ve zvětšeninách zápisy
    čtené zatím ze zmenšenin (Vacíkovi v č. 11, Kadlecovi v č. 25, Svobodovi
    v č. 3/6); (e) prověřit ostatní evangelické matriky okolí, protože sňatky
