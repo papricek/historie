@@ -151,6 +151,19 @@
   }
   .years .sep { align-self: center; color: var(--muted); font-size: 12px; padding: 0 2px; }
 
+  /* ---------- časový filtr ---------- */
+  .timefilter {
+    display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center;
+    font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2);
+    margin: 0 0 12px;
+  }
+  .timefilter label { display: flex; gap: 6px; align-items: center; cursor: pointer; white-space: nowrap; }
+  .timefilter input[type="checkbox"] { accent-color: var(--accent); width: 15px; height: 15px; }
+  .timefilter input[type="range"] { flex: 1 1 180px; min-width: 140px; accent-color: var(--accent); }
+  .timefilter input[type="range"]:disabled { opacity: .4; }
+  .timefilter .tf-val { font-variant-numeric: tabular-nums; min-width: 15ch; }
+  .timefilter .tf-val b { color: var(--accent-ink); }
+
   /* ---------- mapa ---------- */
   .maplayout { display: grid; grid-template-columns: minmax(0, 1fr) 370px; gap: 18px; align-items: start; }
   @media (max-width: 940px) { .maplayout { grid-template-columns: 1fr; } }
@@ -171,7 +184,7 @@
 
   .mappane { --mz: 1; }
   .marker {
-    position: absolute; transform: translate(-50%, -50%) scale(var(--mz));
+    position: absolute; transform: translate(-50%, -50%) scale(calc(var(--mz) * var(--tf, 1)));
     width: 21px; height: 21px; border-radius: 50%;
     background: var(--accent); color: #fff;
     border: 1.5px solid rgba(255,255,255,.9);
@@ -192,6 +205,7 @@
     outline-offset: 1px;
   }
   .marker.statek { width: 25px; height: 25px; line-height: 22px; font-size: 10.5px; }
+  .marker.tfmimo { opacity: .3; filter: grayscale(.6); }
   .marker.novy {
     background: color-mix(in srgb, var(--surface) 80%, #888 20%);
     color: var(--ink-2); border-color: color-mix(in srgb, var(--ink-2) 55%, transparent);
@@ -258,6 +272,8 @@
     margin: 4px 0 10px; line-height: 1.5;
   }
   .panel .sub b { color: var(--accent-ink); }
+  .tf-pozn { font-family: system-ui, sans-serif; font-size: 12px; color: var(--accent-ink); margin: 0 0 8px; }
+  .tf-pozn a { cursor: pointer; }
   .osoby { max-height: 480px; overflow-y: auto; border-top: 1px solid var(--border); }
   @media (max-width: 940px) { .osoby { max-height: none; flex: 1 1 auto; min-height: 0; } }
   .osoba { padding: 8px 2px; border-bottom: 1px solid var(--border); }
@@ -342,6 +358,13 @@
     <div class="years" id="years" role="group" aria-label="Rok mapového podkladu"></div>
     <input type="search" id="hledat" placeholder="Hledat osobu (např. Hýbl, Franík…)"
            aria-label="Hledat osobu ve všech domech">
+  </div>
+
+  <div class="timefilter">
+    <label><input type="checkbox" id="tfZap"> kdo tu žil kolem roku…</label>
+    <input type="range" id="tfRok" min="1770" max="1930" step="1" value="1829" disabled
+           aria-label="Rok časového filtru">
+    <span class="tf-val" id="tfVal">filtr vypnut</span>
   </div>
 
   <div class="maplayout">
@@ -567,6 +590,13 @@ uchyt.addEventListener("pointerup", () => {
   tazeniListu = null;
 });
 
+/* ---------- časový filtr „kdo tu žil kolem roku…" ---------- */
+const tf = { on: false, rok: 1829, ukazVse: false };
+function radekVOkne(o) {
+  if (!o.r) return false;
+  return (o.rr || o.r) >= tf.rok - 5 && o.r <= tf.rok + 5;
+}
+
 function seskupUdalosti(osoby) {
   const udalosti = [];
   for (const o of osoby) {
@@ -597,7 +627,8 @@ function kartaHtml(u) {
 }
 
 function seznamHtml(dum) {
-  const udalosti = seskupUdalosti(dum.osoby);
+  let udalosti = seskupUdalosti(dum.osoby);
+  if (tf.on && !tf.ukazVse) udalosti = udalosti.filter((u) => u.radky.some(radekVOkne));
   const separatory = dum.osoby.length > 20;
   let html = "";
   let dekada = null;
@@ -656,7 +687,19 @@ function uvodPanelu() {
     "otevře dvůr čp. 11 na mapě roku 1829.</p>";
 }
 
+function tfPoznamkaHtml(dum) {
+  if (!tf.on) return "";
+  const n = dum.osoby.filter(radekVOkne).length;
+  return '<p class="tf-pozn">Filtr kolem roku ' + tf.rok + " (±5 let): " + n +
+    (n === 1 ? " řádek" : n < 5 && n > 0 ? " řádky" : " řádků") +
+    (tf.ukazVse
+      ? ' · <a id="tfVse" href="#">zobrazit jen okno filtru</a>'
+      : (dum.osoby.length > n ? ' · <a id="tfVse" href="#">zobrazit všech ' + dum.osoby.length + "</a>" : "")) +
+    "</p>";
+}
+
 function vyberDum(klic) {
+  if (klic !== vybrany) tf.ukazVse = false;
   vybrany = klic;
   for (const m of markersBox.querySelectorAll(".marker"))
     m.classList.toggle("vybrany", m.dataset.klic === klic);
@@ -694,7 +737,14 @@ function vyberDum(klic) {
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
     sparklineHtml(dum) +
+    tfPoznamkaHtml(dum) +
     '<div class="osoby">' + seznamHtml(dum) + "</div>";
+  const tfVse = panel.querySelector("#tfVse");
+  if (tfVse) tfVse.addEventListener("click", (e) => {
+    e.preventDefault();
+    tf.ukazVse = !tf.ukazVse;
+    vyberDum(klic);
+  });
   const kop = panel.querySelector(".kopirovat");
   if (kop) kop.addEventListener("click", () => {
     const url = location.origin + location.pathname + "#" + klic +
@@ -878,6 +928,46 @@ const konecDrag = (e) => {
 };
 mapbox.addEventListener("pointerup", konecDrag);
 mapbox.addEventListener("pointercancel", konecDrag);
+
+/* ---------- ovládání časového filtru ---------- */
+const tfZap = document.getElementById("tfZap");
+const tfRok = document.getElementById("tfRok");
+const tfVal = document.getElementById("tfVal");
+
+function aplikujTf() {
+  let domuSDokladem = 0;
+  for (const m of markersBox.querySelectorAll(".marker")) {
+    const dum = DOMY[m.dataset.klic];
+    if (!tf.on) {
+      m.classList.remove("tfmimo");
+      m.style.removeProperty("--tf");
+      continue;
+    }
+    const n = dum ? dum.osoby.filter(radekVOkne).length : 0;
+    if (n) domuSDokladem++;
+    m.classList.toggle("tfmimo", !n);
+    m.style.setProperty("--tf", n ? (0.95 + 0.45 * Math.min(1, Math.sqrt(n) / 4)).toFixed(2) : "0.8");
+  }
+  tfVal.innerHTML = tf.on
+    ? "<b>" + tf.rok + "</b> ±5 let · doklad má " + domuSDokladem + " domů"
+    : "filtr vypnut";
+}
+
+tfZap.addEventListener("change", () => {
+  tf.on = tfZap.checked;
+  tf.ukazVse = false;
+  tfRok.disabled = !tf.on;
+  aplikujTf();
+  if (vybrany && DOMY[vybrany]) vyberDum(vybrany);
+});
+tfRok.addEventListener("input", () => {
+  tf.rok = +tfRok.value;
+  tf.ukazVse = false;
+  aplikujTf();
+});
+tfRok.addEventListener("change", () => {
+  if (vybrany && DOMY[vybrany]) vyberDum(vybrany);
+});
 
 /* ---------- trvalé odkazy: #dum nebo #dum/rok ---------- */
 let hashCasovac = null;
