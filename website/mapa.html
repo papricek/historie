@@ -125,51 +125,58 @@
   }
 
   /* ---------- přepínač let ---------- */
-  .controls { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; margin: 18px 0 12px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 14px 26px; align-items: flex-end; margin: 16px 0 12px; }
+  .ctl-lbl {
+    font: 700 10px/1 system-ui, sans-serif; letter-spacing: .13em; text-transform: uppercase;
+    color: var(--muted); margin: 0 0 7px 2px;
+  }
+  .ctl-radek { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .vr { width: 1px; align-self: stretch; background: var(--border); margin: 2px 5px; }
+  .ctl-hledat { margin-left: auto; }
+  .ctl-cas { flex: 1 1 100%; }
+  .ctl-cas .ctl-radek { gap: 10px; }
   .years {
     display: flex; flex-wrap: wrap; gap: 6px;
     font-family: system-ui, sans-serif;
   }
   .controls input[type="search"] {
-    font: 14px system-ui, sans-serif; color: var(--ink);
+    font: 13px system-ui, sans-serif; color: var(--ink);
     background: var(--surface); border: 1px solid var(--border); border-radius: 999px;
-    padding: 8px 14px; flex: 0 1 300px; min-width: 190px; margin-left: auto;
+    padding: 7px 13px; width: 230px;
   }
   .controls input[type="search"]::placeholder { color: var(--muted); }
   @media (max-width: 720px) {
-    .controls input[type="search"] { flex: 1 1 100%; margin-left: 0; }
+    .vr { display: none; }
+    .ctl-hledat { margin-left: 0; flex: 1 1 100%; }
+    .ctl-hledat input[type="search"] { width: 100%; }
   }
-  .years button {
-    font: 600 13px/1 system-ui, sans-serif; letter-spacing: .03em;
+  .years button, .ikona {
+    font: 600 12px/1 system-ui, sans-serif; letter-spacing: .03em;
     color: var(--ink-2); background: var(--surface); border: 1px solid var(--border);
-    border-radius: 999px; padding: 8px 13px; cursor: pointer;
+    border-radius: 999px; padding: 7px 10px; cursor: pointer;
     font-variant-numeric: tabular-nums;
   }
-  .years button:hover { color: var(--ink); border-color: var(--baseline); }
-  .years button[aria-pressed="true"] {
+  .ikona { width: 30px; padding: 7px 0; text-align: center; }
+  .years button:hover, .ikona:hover { color: var(--ink); border-color: var(--baseline); }
+  .years button[aria-pressed="true"], .ikona[aria-pressed="true"] {
     background: var(--accent); border-color: var(--accent); color: #fff;
   }
   .years .sep { align-self: center; color: var(--muted); font-size: 12px; padding: 0 2px; }
 
   /* ---------- časový filtr ---------- */
-  .timefilter {
-    display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center;
-    font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2);
-    margin: 0 0 12px;
-  }
-  .timefilter label { display: flex; gap: 6px; align-items: center; cursor: pointer; white-space: nowrap; }
-  .timefilter input[type="checkbox"] { accent-color: var(--accent); width: 15px; height: 15px; }
-  .timefilter input[type="range"] { flex: 1 1 180px; min-width: 140px; accent-color: var(--accent); }
-  .timefilter input[type="range"]:disabled { opacity: .4; }
-  .timefilter .tf-val { font-variant-numeric: tabular-nums; min-width: 15ch; }
-  .timefilter #tfSync {
+  .ctl-cas { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); }
+  .ctl-cas input[type="checkbox"] { accent-color: var(--accent); width: 15px; height: 15px; cursor: pointer; }
+  .ctl-cas input[type="range"] { flex: 1 1 200px; min-width: 150px; max-width: 620px; accent-color: var(--accent); }
+  .ctl-cas input[type="range"]:disabled { opacity: .4; }
+  .ctl-cas .tf-val { font-variant-numeric: tabular-nums; }
+  .ctl-cas #tfSync {
     font: 600 12px/1 system-ui, sans-serif; color: var(--accent-ink);
     background: none; border: 1px dashed color-mix(in srgb, var(--accent-ink) 55%, transparent);
     border-radius: 999px; padding: 5px 10px; cursor: pointer;
   }
-  .timefilter #tfSync:hover { border-style: solid; }
+  .ctl-cas #tfSync:hover { border-style: solid; }
   .chips button.shoda { border-style: solid; background: color-mix(in srgb, var(--accent) 14%, var(--surface)); }
-  .timefilter .tf-val b { color: var(--accent-ink); }
+  .ctl-cas .tf-val b { color: var(--accent-ink); }
 
   /* ---------- mapa ---------- */
   .maplayout { display: grid; grid-template-columns: minmax(0, 1fr) 370px; gap: 18px; align-items: start; }
@@ -438,25 +445,35 @@
 
 <main class="wrap">
   <div class="controls">
-    <div class="years" id="years" role="group" aria-label="Rok mapového podkladu"></div>
-    <div class="years">
-      <button id="porovnat" aria-pressed="false" title="Porovnat dvě vrstvy oponou">⇆ porovnat</button>
-      <button id="prehrat" aria-pressed="false" title="Přehrát vrstvy po sobě (šipky ← → přepínají)">▶</button>
+    <div class="ctl">
+      <div class="ctl-lbl">Podklad mapy</div>
+      <div class="ctl-radek">
+        <div class="years" id="years" role="group" aria-label="Rok mapového podkladu"></div>
+        <span class="vr" aria-hidden="true"></span>
+        <button id="porovnat" class="ikona" aria-pressed="false" title="Porovnat dvě vrstvy oponou" aria-label="Porovnat dvě vrstvy oponou">⇆</button>
+        <button id="prehrat" class="ikona" aria-pressed="false" title="Přehrát vrstvy po sobě (šipky ← → přepínají)" aria-label="Přehrát vrstvy po sobě">▶</button>
+      </div>
     </div>
-    <input type="search" id="hledat" placeholder="Hledat osobu (např. Hýbl, Franík…)"
-           aria-label="Hledat osobu ve všech domech">
+    <div class="ctl ctl-hledat">
+      <div class="ctl-lbl"><label for="hledat">Hledat osobu</label></div>
+      <input type="search" id="hledat" placeholder="např. Hýbl, Franík…"
+             aria-label="Hledat osobu ve všech domech">
+    </div>
+    <div class="ctl ctl-cas">
+      <div class="ctl-lbl"><label for="tfRok">Kdo tu žil kolem roku…</label></div>
+      <div class="ctl-radek">
+        <input type="checkbox" id="tfZap" aria-label="Zapnout časový filtr">
+        <input type="range" id="tfRok" min="1770" max="1930" step="1" value="1829" disabled
+               list="tfRoky" aria-label="Rok časového filtru">
+        <datalist id="tfRoky">
+          <option value="1829"></option><option value="1878"></option>
+        </datalist>
+        <button id="tfSync" type="button" hidden>filtr kolem 1829</button>
+        <span class="tf-val" id="tfVal">vypnuto</span>
+      </div>
+    </div>
   </div>
 
-  <div class="timefilter">
-    <label><input type="checkbox" id="tfZap"> kdo tu žil kolem roku…</label>
-    <input type="range" id="tfRok" min="1770" max="1930" step="1" value="1829" disabled
-           list="tfRoky" aria-label="Rok časového filtru">
-    <datalist id="tfRoky">
-      <option value="1829"></option><option value="1878"></option>
-    </datalist>
-    <button id="tfSync" type="button" hidden>filtr kolem 1829</button>
-    <span class="tf-val" id="tfVal">filtr vypnut</span>
-  </div>
 
   <div class="maplayout">
     <div class="card mapcard">
@@ -1287,7 +1304,7 @@ function aplikujTf() {
   }
   tfVal.innerHTML = tf.on
     ? "<b>" + tf.rok + "</b> ±5 let · doklad má " + domuSDokladem + " domů"
-    : "filtr vypnut";
+    : "vypnuto";
 }
 
 tfZap.addEventListener("change", () => {
