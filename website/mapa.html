@@ -182,14 +182,41 @@
     touch-action: pan-y; cursor: grab;
   }
   .mapbox.dragging { cursor: grabbing; }
-  .mappane { position: absolute; inset: 0; transform-origin: 0 0; }
-  .mappane img.layer {
+  .pane { position: absolute; inset: 0; transform-origin: 0 0; --mz: 1; }
+  .pane img.layer {
     position: absolute; inset: 0; width: 100%; height: 100%; display: block;
     user-select: none; -webkit-user-drag: none; pointer-events: none;
   }
   #layerB { opacity: 0; transition: opacity .35s ease; }
 
-  .mappane { --mz: 1; }
+  /* ---------- opona pro porovnání dvou vrstev ---------- */
+  .curtain { position: absolute; inset: 0; z-index: 3; pointer-events: none; }
+  #markpane { z-index: 4; }
+  .curtainhandle {
+    position: absolute; top: 0; bottom: 0; width: 4px; margin-left: -2px; z-index: 7;
+    background: var(--surface); box-shadow: 0 0 6px rgba(0,0,0,.45);
+    cursor: ew-resize; touch-action: none;
+  }
+  .curtainhandle::after {
+    content: "⇆"; position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 34px; height: 34px; border-radius: 50%;
+    background: var(--surface); border: 1px solid var(--border);
+    color: var(--ink); font: 700 15px/32px system-ui, sans-serif; text-align: center;
+    box-shadow: var(--shadow);
+  }
+  .curtainbar {
+    position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 8;
+    display: flex; gap: 7px; align-items: center;
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    border: 1px solid var(--border); border-radius: 999px; padding: 5px 12px;
+    font: 600 12px/1 system-ui, sans-serif; color: var(--ink-2); backdrop-filter: blur(4px);
+  }
+  .curtainbar select {
+    font: 600 12px system-ui, sans-serif; color: var(--accent-ink);
+    background: none; border: 0; cursor: pointer;
+  }
+  .curtainbar .prava { color: var(--accent-ink); }
   .marker {
     position: absolute; transform: translate(-50%, -50%) scale(calc(var(--mz) * var(--tf, 1)));
     width: 21px; height: 21px; border-radius: 50%;
@@ -415,6 +442,10 @@
 <main class="wrap">
   <div class="controls">
     <div class="years" id="years" role="group" aria-label="Rok mapového podkladu"></div>
+    <div class="years">
+      <button id="porovnat" aria-pressed="false" title="Porovnat dvě vrstvy oponou">⇆ porovnat</button>
+      <button id="prehrat" aria-pressed="false" title="Přehrát vrstvy po sobě (šipky ← → přepínají)">▶</button>
+    </div>
     <input type="search" id="hledat" placeholder="Hledat osobu (např. Hýbl, Franík…)"
            aria-label="Hledat osobu ve všech domech">
   </div>
@@ -433,10 +464,19 @@
   <div class="maplayout">
     <div class="card mapcard">
       <div class="mapbox" id="mapbox">
-        <div class="mappane" id="mappane">
+        <div class="pane" id="mappane">
           <img class="layer" id="layerA" src="img/mapa/podklad_2022.jpg" alt="Mapový podklad vsi Zahrádka">
           <img class="layer" id="layerB" alt="">
-          <div id="markers"></div>
+        </div>
+        <div class="curtain" id="curtain" hidden>
+          <div class="pane"><img class="layer" id="layerC" alt="Levá strana porovnání"></div>
+        </div>
+        <div class="pane" id="markpane"><div id="markers"></div></div>
+        <div class="curtainhandle" id="curtainhandle" hidden></div>
+        <div class="curtainbar" id="curtainbar" hidden>
+          <select id="levaVrstva" aria-label="Levá vrstva porovnání"></select>
+          <span>⇆</span>
+          <span class="prava" id="pravaVrstva"></span>
         </div>
         <div class="mapzoom">
           <button id="zin" title="Přiblížit" aria-label="Přiblížit">+</button>
@@ -497,8 +537,9 @@
       historické ortofoto 1953 (CENIA), ortofoto 2022 a adresní body RÚIAN (ČÚZK) — badatelské reprodukce s&nbsp;citací.
       Osobní údaje pocházejí z&nbsp;matrik SOA Třeboň, josefínského katastru a sčítání lidu 1921 (MZA Brno, sada PE0584);
       přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.</p>
-    <p>Stav přepisu matrik k 31. 7. 2026: kniha narozených 6620 (1797–1843) je pro Zahrádku
-      přepsána celá (snímky 80–117), kniha 6621 (1844–1880) po snímek 318 — přepis pokračuje.</p>
+    <p>Stav přepisu matrik: kniha narozených 6620 (1797–1843) je pro Zahrádku přepsána celá
+      (snímky 80–117); kniha 6621 (1844–1880) se přepisuje průběžně — aktuální rozsah dokladů
+      je vidět přímo ve výpisech domů.</p>
   </footer>
 </main>
 
@@ -555,7 +596,7 @@ for (const r of ROKY) {
   b.textContent = ROKY_POPISKY[r] || r;
   b.dataset.rok = r;
   b.setAttribute("aria-pressed", r === rok ? "true" : "false");
-  b.addEventListener("click", () => prepniRok(r));
+  b.addEventListener("click", () => { if (typeof zastavPrehravani === "function") zastavPrehravani(); prepniRok(r); });
   yearsBox.appendChild(b);
   if (r === "pk") {
     const s = document.createElement("span");
@@ -578,6 +619,7 @@ function prepniRok(novy) {
     b.setAttribute("aria-pressed", b.dataset.rok === rok ? "true" : "false");
   attrib.textContent = ATTRIB[rok];
   obnovTfSync();
+  if (typeof obnovOponu === "function" && opona.on) obnovOponu();
   zapisHash();
   const src = "img/mapa/podklad_" + rok + ".jpg";
   if (prepinani) { layerB.removeEventListener("load", prepinani); prepinani = null; }
@@ -598,7 +640,20 @@ function prepniRok(novy) {
 /* přednačtení ostatních vrstev na pozadí */
 window.addEventListener("load", () => {
   document.body.classList.add("nacteno");
-  for (const r of ROKY) if (r !== rok) (new Image()).src = "img/mapa/podklad_" + r + ".jpg";
+  if (navigator.connection && navigator.connection.saveData) return;
+  const start = ROKY.indexOf(rok);
+  const poradi = [...ROKY.keys()]
+    .sort((a, b) => Math.abs(a - start) - Math.abs(b - start))
+    .map((i) => ROKY[i])
+    .filter((r) => r !== rok);
+  let i = 0;
+  const dalsi = () => {
+    if (i >= poradi.length) return;
+    const im = new Image();
+    im.onload = im.onerror = () => setTimeout(dalsi, 150);
+    im.src = "img/mapa/podklad_" + poradi[i++] + ".jpg";
+  };
+  dalsi();
 });
 
 /* ---------- body domů ---------- */
@@ -668,8 +723,8 @@ for (const klic of BEZ_POZICE) {
 const panel = document.getElementById("panelObsah");
 const panelEl = document.querySelector(".panel");
 function otevriPanel() { panelEl.classList.add("otevreny"); }
-document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny", "plny"));
-window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny", "plny"); });
+document.getElementById("zavritPanel").addEventListener("click", () => panelEl.classList.remove("otevreny"));
+window.addEventListener("keydown", (e) => { if (e.key === "Escape") panelEl.classList.remove("otevreny"); });
 const uchyt = document.getElementById("uchyt");
 let tazeniListu = null;
 uchyt.addEventListener("pointerdown", (e) => {
@@ -1039,9 +1094,11 @@ function aplikuj() {
   const max = mapbox.clientWidth * (zoom - 1);
   px = Math.min(0, Math.max(-max, px));
   py = Math.min(0, Math.max(-max, py));
-  mappane.style.transform = "translate(" + px + "px," + py + "px) scale(" + zoom + ")";
-  /* body domů si drží stálou velikost nezávisle na přiblížení */
-  mappane.style.setProperty("--mz", (1 / Math.sqrt(zoom)).toFixed(3));
+  for (const pane of mapbox.querySelectorAll(".pane")) {
+    pane.style.transform = "translate(" + px + "px," + py + "px) scale(" + zoom + ")";
+    /* body domů si drží stálou velikost nezávisle na přiblížení */
+    pane.style.setProperty("--mz", (1 / Math.sqrt(zoom)).toFixed(3));
+  }
   /* v základním měřítku nechává mapa svislé gesto stránce (žádná past na rolování) */
   mapbox.style.touchAction = zoom > 1 ? "none" : "pan-y";
   obnovMeritko();
@@ -1074,7 +1131,8 @@ const prsty = new Map();
 let drag = null;
 let pinch = null;
 mapbox.addEventListener("pointerdown", (e) => {
-  if (e.target.closest(".marker") || e.target.closest(".mapzoom")) return;
+  if (e.target.closest(".marker") || e.target.closest(".mapzoom") ||
+      e.target.closest(".curtainhandle") || e.target.closest(".curtainbar")) return;
   prsty.set(e.pointerId, { x: e.clientX, y: e.clientY });
   mapbox.setPointerCapture(e.pointerId);
   if (prsty.size === 1) {
@@ -1117,6 +1175,91 @@ mapbox.addEventListener("pointerup", konecDrag);
 mapbox.addEventListener("pointercancel", konecDrag);
 window.addEventListener("resize", obnovMeritko);
 aplikuj();
+
+/* ---------- opona: porovnání dvou vrstev ---------- */
+const curtain = document.getElementById("curtain");
+const curtainhandle = document.getElementById("curtainhandle");
+const curtainbar = document.getElementById("curtainbar");
+const layerC = document.getElementById("layerC");
+const levaVrstva = document.getElementById("levaVrstva");
+const pravaVrstva = document.getElementById("pravaVrstva");
+const porovnatBtn = document.getElementById("porovnat");
+let opona = { on: false, leva: "1829", pos: 50 };
+
+for (const r of ROKY) {
+  const o = document.createElement("option");
+  o.value = r;
+  o.textContent = ROKY_POPISKY[r] || r;
+  levaVrstva.appendChild(o);
+}
+
+function obnovOponu() {
+  curtain.hidden = curtainhandle.hidden = curtainbar.hidden = !opona.on;
+  porovnatBtn.setAttribute("aria-pressed", opona.on ? "true" : "false");
+  if (!opona.on) return;
+  curtain.style.clipPath = "inset(0 " + (100 - opona.pos) + "% 0 0)";
+  curtainhandle.style.left = opona.pos + "%";
+  pravaVrstva.textContent = ROKY_POPISKY[rok] || rok;
+}
+
+porovnatBtn.addEventListener("click", () => {
+  opona.on = !opona.on;
+  if (opona.on) {
+    opona.leva = rok === "1829" ? "2022" : "1829";
+    levaVrstva.value = opona.leva;
+    layerC.src = "img/mapa/podklad_" + opona.leva + ".jpg";
+    opona.pos = 50;
+  }
+  obnovOponu();
+});
+levaVrstva.addEventListener("change", () => {
+  opona.leva = levaVrstva.value;
+  layerC.src = "img/mapa/podklad_" + opona.leva + ".jpg";
+});
+
+let oponaTah = null;
+curtainhandle.addEventListener("pointerdown", (e) => {
+  oponaTah = e.pointerId;
+  curtainhandle.setPointerCapture(e.pointerId);
+});
+curtainhandle.addEventListener("pointermove", (e) => {
+  if (oponaTah !== e.pointerId) return;
+  const r = mapbox.getBoundingClientRect();
+  opona.pos = Math.min(95, Math.max(5, (e.clientX - r.left) / r.width * 100));
+  obnovOponu();
+});
+curtainhandle.addEventListener("pointerup", () => { oponaTah = null; });
+curtainhandle.addEventListener("pointercancel", () => { oponaTah = null; });
+
+/* ---------- přehrávání vrstev a šipky ---------- */
+const prehratBtn = document.getElementById("prehrat");
+let prehravani = null;
+
+function krokVrstvy(smer) {
+  const i = ROKY.indexOf(rok);
+  prepniRok(ROKY[(i + smer + ROKY.length) % ROKY.length]);
+}
+function zastavPrehravani() {
+  if (!prehravani) return;
+  clearInterval(prehravani);
+  prehravani = null;
+  prehratBtn.textContent = "▶";
+  prehratBtn.setAttribute("aria-pressed", "false");
+}
+prehratBtn.addEventListener("click", () => {
+  if (prehravani) { zastavPrehravani(); return; }
+  prehratBtn.textContent = "⏸";
+  prehratBtn.setAttribute("aria-pressed", "true");
+  krokVrstvy(1);
+  prehravani = setInterval(() => krokVrstvy(1), 1400);
+});
+window.addEventListener("keydown", (e) => {
+  if (e.key !== "ArrowLeft" && e.key !== "ArrowRight") return;
+  const el = document.activeElement;
+  if (el && (el.tagName === "INPUT" || el.tagName === "SELECT" || el.tagName === "TEXTAREA")) return;
+  zastavPrehravani();
+  krokVrstvy(e.key === "ArrowRight" ? 1 : -1);
+});
 
 /* ---------- ovládání časového filtru ---------- */
 const tfZap = document.getElementById("tfZap");

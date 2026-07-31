@@ -376,7 +376,14 @@ Snímky 319–322 přidávají 32 událostí z let 1852–1856 se všemi čiteln
 domů. V N11 zpřesňují Marii Zimlerovou (?), tři známé události roku 1854 a
 Antonína, Františka Jindřicha a Josefa Líčku (?) roku 1856. Vojtěch Jindřich
 je v zápisu šafářem a František Líčka (?) čeledínem v panském dvoře N11.
-Pokračuje se snímkem 323.
+Snímky 323–326 přidávají 27 nových událostí z let 1856–1859. V N11 zachycují
+Jana Gremuše (?) s rodiči, doplňují matku Kateřiny Junkové / Jůnkové a
+zpřesňují Marii Čmuchovou (?) s rodiči. Odkazové opakování Jakuba z N6 na
+snímku 326 se nepočítá podruhé. Snímky 327–330 přidávají 26 událostí z let
+1859–1862. Tři zápisy N11 zachycují Františka Milka, Antonii Čmuchovou (?) a
+Jana Plášila. Rodiče Antonie jsou shodní s rodinou Marie Čmuchové z roku 1859,
+takže datovaný pobyt Matěje a Marie Čmuchových v N11 je nyní doložen v letech
+1859–1862. Pokračuje se snímkem 331.
 
 | Rok | Místní výřez | Obsah | Veřejný originál |
 |---|---|---|---|
@@ -426,7 +433,7 @@ V letech 1837–1843 nebyl v tomto oddílu nalezen žádný další bezpečný z
 | 1857 | [Marie Forelová](matriky/narozeni/1857/zaznam_marie_forelova_n11_snim324.png) | dcera Františka Forela, N11 | [snímek 324](https://digi.ceskearchivy.cz/6621/323) |
 | 1858 | [Kateřina](matriky/narozeni/1858/zaznam_katerina_n11_snim326.png) | dcera Václava Junka/Jůnka, čeledína ve panském dvoře N11 | [snímek 326](https://digi.ceskearchivy.cz/6621/325) |
 | 1861 | [František Milk](matriky/narozeni/1861/zaznam_frantisek_milk_n11_snim330.png) | syn Matěje Milka, čeledína v panském dvoře N11 | [snímek 330](https://digi.ceskearchivy.cz/6621/329) |
-| 1862 | [Antonie, příjmení nejisté](matriky/narozeni/1862/zaznam_antonie_n11_snim330.png) | pracovní výřez události u N11 | [snímek 330](https://digi.ceskearchivy.cz/6621/329) |
+| 1862 | [Antonie Čmuchová (?)](matriky/narozeni/1862/zaznam_antonie_n11_snim330.png) | 6./7. 1.; dcera Matěje Čmuchy (?) a Marie, jejichž rodina je v N11 doložena už roku 1859 | [snímek 330](https://digi.ceskearchivy.cz/6621/329) |
 | 1863 | [Barbora Fraňková / Franíková](matriky/narozeni/1863/zaznam_barbora_franikova_n11_snim332.png) | dcera Josefa Fraňka, čeledína v N11, a Rosalie; zemřela po sedmi dnech | [snímek 332](https://digi.ceskearchivy.cz/6621/331) |
 | 1864 | [Anna, příjmení nejisté](matriky/narozeni/1864/zaznam_anna_n11_snim333.png) | pracovní výřez události u N11 | [snímek 333](https://digi.ceskearchivy.cz/6621/332) |
 | 1865 | [Václav Franěk](matriky/narozeni/1865/zaznam_vaclav_franek_n11_snim334.png) | syn Josefa Fraňka, pastýře ve dvoře N11; čtení potvrzuje navazující úmrtní zápis | [snímek 334](https://digi.ceskearchivy.cz/6621/333) |
