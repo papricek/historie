@@ -348,6 +348,8 @@
   .dnes h4 { margin: 0 0 5px; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
   .dnes ul { margin: 0; padding-left: 16px; }
   .dnes li { font-size: .84rem; line-height: 1.45; margin: 2px 0; }
+  .dnes li[data-klic] { cursor: pointer; }
+  .dnes li[data-klic]:hover b, .dnes li[data-klic]:focus-visible b { color: var(--accent-ink); text-decoration: underline; }
   .dnes-zdroj { color: var(--muted); font-size: .76rem; }
   .kopirovat {
     width: 26px; height: 26px; border-radius: 50%; padding: 0;
@@ -1088,10 +1090,34 @@ hledat.addEventListener("input", () => {
     if (radky.length) skupiny.push({ dum, radky });
     if (oriznuto) break;
   }
+  /* hledá se i v oddílu „Dnešní stav (2026)“, jinak by dnešní obyvatelé
+     a údaje o vsi zůstali mimo výsledky */
+  const dnesSkupiny = [];
+  let dnesCelkem = 0;
+  for (const klic of Object.keys(window.MAPA_DNES || {})) {
+    const shody = (window.MAPA_DNES[klic] || []).filter((z) =>
+      bezDiakritiky(z.u + " " + (z.z || "")).includes(dotaz));
+    if (shody.length) { dnesSkupiny.push({ klic, shody }); dnesCelkem += shody.length; }
+  }
+  const vse = celkem + dnesCelkem;
   let html = "<h3>Hledání: „" + hledat.value.trim() + "“</h3>" +
-    '<p class="sub">' + (oriznuto ? "Prvních " + celkem + " shod" : celkem + " shod") +
+    '<p class="sub">' + (oriznuto ? "Prvních " + vse + " shod" : vse + " shod") +
     (skupiny.length > 1 ? " v " + skupiny.length + " domech" : "") +
+    (dnesCelkem ? " · z toho " + dnesCelkem + " v dnešním stavu" : "") +
     " — klepnutím na dům nebo řádek otevřete výpis.</p>";
+  if (dnesCelkem) {
+    html += '<div class="dnes"><h4>Dnešní stav (2026)</h4><ul>';
+    for (const g of dnesSkupiny) {
+      const dum = window.MAPA_DATA.domy.find((d) => d.klic === g.klic);
+      const nazev = g.klic === "obec" ? "Celá ves" : dum ? dum.nazev : "čp. " + g.klic;
+      for (const z of g.shody) {
+        const klik = dum ? ' role="button" tabindex="0" data-klic="' + g.klic + '"' : "";
+        html += "<li" + klik + "><b>" + nazev + "</b> — " + zvyrazni(z.u, dotaz) +
+          (z.z ? ' <span class="dnes-zdroj">' + zvyrazni(z.z, dotaz) + "</span>" : "") + "</li>";
+      }
+    }
+    html += "</ul></div>";
+  }
   if (celkem) {
     html += '<div class="osoby vysledky">';
     for (const g of skupiny) {
@@ -1107,13 +1133,15 @@ hledat.addEventListener("input", () => {
       }
     }
     html += "</div>";
-  } else {
+  } else if (!dnesCelkem) {
     html += '<p class="sub">Nic nenalezeno.</p>';
   }
   panel.innerHTML = html;
   otevriPanel();
   /* shody promítnout do mapy: domy bez shody blednou, se shodou rostou */
   const pocty = new Map(skupiny.map((g) => [g.dum.klic, g.radky.length]));
+  for (const g of dnesSkupiny)
+    if (g.klic !== "obec") pocty.set(g.klic, (pocty.get(g.klic) || 0) + g.shody.length);
   for (const m of markersBox.querySelectorAll(".marker")) {
     const n = pocty.get(m.dataset.klic) || 0;
     m.classList.toggle("tfmimo", !n);
@@ -1121,7 +1149,7 @@ hledat.addEventListener("input", () => {
   }
   for (const ch of chipsBox.querySelectorAll("button"))
     ch.classList.toggle("shoda", (pocty.get(ch.dataset.klic) || 0) > 0);
-  for (const el of panel.querySelectorAll(".vysledky [data-klic]")) {
+  for (const el of panel.querySelectorAll(".vysledky [data-klic], .dnes li[data-klic]")) {
     const otevri = () => {
       hledat.value = "";
       aplikujTf();
