@@ -2389,7 +2389,7 @@ staršího ID pocházejí z této vrstvy.
 | č. 15 | Antonie Vaňková, rozená Kejvalová | 26. 9. 1929 | manželka Františka Vaňka, matka Karolíny; „ze Zahrádky č. 15“ | tentýž zápis | — |
 | č. 5 | Antonín Kříž | 1929 a 3. 2. 1934 | rolník v č. 5; svědek dvou sňatků | [sn. 212](https://digi.ceskearchivy.cz/6624/212), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) | — |
 | č. 18 | Josef Kudrna | zemřel před 18. 7. 1922 | domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti | [sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
-| č. 18 | Antonie Kudrnová | 1921 a 18. 7. 1922 | roku 1921 manželka domkáře, roku 1922 už vdova po Josefu Kudrnovi; matka Marie Kratochvílové z dřívějšího manželství. Příjmení Kratochvíl patří jejímu prvnímu muži, její rodné příjmení pramen neuvádí | [sčítací arch, sn. 38](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
+| č. 18 | Antonie Kudrnová, rozená Kratochvílová | 1921, 18. 7. 1922; zemřela 6. 12. 1936 | roku 1921 manželka domkáře Josefa Kudrny, roku 1922 už vdova; matka Marie Kratochvílové. Úmrtní zápis z roku 1936 doplňuje rodné příjmení **Kratochvílová z Pejškova č. 4** a udává jako poslední dům **čp. 13** — rodina se tedy mezi lety 1922 a 1936 přestěhovala z č. 18 | [sčítací arch, sn. 38](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
 | č. 18 | Marie Kratochvílová | 1921 a 18. 7. 1922 | dcera v domácnosti Kudrnových, narozena 30. 3. 1895 v Táboře č. 238; roku 1922 nevěsta. Ve sčítacím archu byla dříve mylně čtena jako `Marie Matějková, služka` | [sčítací arch, sn. 38](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) | — |
 | č. 18 | Antonín Kudrna | 24. 11. 1928 a 9. 11. 1929 | domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny | [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) | — |
 | č. 18 | Josef Vacík | 24. 11. 1928 | truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují | tentýž zápis | — |
@@ -2428,6 +2428,31 @@ staršího ID pocházejí z této vrstvy.
 | č. 4 | Antonie Markvartová | 31. 5. 1921 | dcera Josefa Markvarta z č. 4, nevěsta | [sn. 166](https://digi.ceskearchivy.cz/6624/166) | — |
 | č. 4 | Anežka Markvartová, provdaná Kejvalová | 13. 7. 1929 | narozena 4. 10. 1907 v č. 4; provdána za Jana Kejvala z č. 15 | [sn. 211](https://digi.ceskearchivy.cz/6624/211) | — |
 | č. 4 | Václav Markvart | 25. 2. 1930 | rolník‑chalupník v č. 4, narozen 13. 9. 1900 | [sn. 215](https://digi.ceskearchivy.cz/6624/215) | — |
+| č. 23 | Jiřina Jirků | 27. 9. 1935 | narozena 9. 12. 1916, bytem Zahrádka čp. 23; provdala se civilně v Pelhřimově za Ladislava Rudolfa Kubelku, správce školy v Bezděčíně. **Nejmladší dosud nalezený matriční doklad se zahrádeckým číslem domu** | [civilní matrika Pelhřimov, sn. 85](https://digi.ceskearchivy.cz/12260/85) | — |
+| č. 23 | Jan Jirků | 27. 9. 1935 | **lesní hajný na Zahrádce**, otec Jiřiny — čp. 23 je tedy patrně hájovna, kterou statistický lexikon uvádí u obce už roku 1921 | tentýž zápis | — |
+| č. 23 | Marie Jirků, rozená Fárová | 27. 9. 1935 | manželka hajného Jana Jirků, matka Jiřiny | tentýž zápis | — |
+| č. 22 | František Vacek | 11. 6. 1935 | **kočí** v čp. 22; jeho čtyřměsíční syn František téhož dne zemřel | [úmrtní matrika, sn. 265](https://digi.ceskearchivy.cz/11214/265) | — |
+| č. 22 | Marie Vacková, rozená Drexlerová | 11. 6. 1935 | manželka kočího Františka Vacka; z Chvojnice č. 5 | tentýž zápis | — |
+| č. 3 | Antonie Bartošková, rozená Svobodová | zemřela 4. 5. 1936 | **rolnice‑výměnkářka v čp. 3**, vdova po Matěji Bartoškovi; z Útěchoviček č. 20, zemřela v 69 letech na cukrovku. Doplňuje rodinu z let 1921–1925 | [úmrtní matrika, sn. 268](https://digi.ceskearchivy.cz/11214/268) | — |
+| č. 3 | Matěj Bartoška | zemřel před 4. 5. 1936 | rolník v čp. 3; úmrtní zápis manželky jej označuje za zemřelého | tentýž zápis | — |
+| č. 13 | Antonie Kudrnová, rozená Kratochvílová | zemřela 6. 12. 1936 | vdova po Josefu Kudrnovi, domkáři; z Pejškova č. 4, zemřela v 77 letech sešlostí věkem. Zápis ji vede u **čp. 13**, kdežto roku 1921 a 1922 byla rodina v čp. 18 | [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) | — |
+| č. 22 | Anna Horáčková, rozená Jandová | zemřela 4. 2. 1937 | **zemědělská dělnice v čp. 22**, vdova po Aloisi Horáčkovi; z Útěchoviček č. 15, 69 let. Sčítání 1921 vede Horáčkovy v čp. 21 — rodina se přestěhovala, nebo je čtení archu nepřesné | [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) | — |
+| č. 22 | Alois Horáček | zemřel před 4. 2. 1937 | **dělník‑deputátník v čp. 22** | tentýž zápis | — |
+| č. 22 | Jan Plášil | duben 1937; okraden 8. 7. 1938 | **dělník‑deputátník v čp. 22** — tím je konečně určen dům deputátníka, kterému se roku 1938 vloupali do bytu; jeho syn Josef, narozený v Hrobech, zemřel v dubnu 1937 na vrozenou slabost | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271), [Český jih 16. 7. 1938](https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb) | — |
+| č. 22 | Marie Plášilová, rozená Norková | duben 1937 | manželka deputátníka Jana Plášila; z Čakova u Českých Budějovic | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271) | — |
+| č. 10 | Kateřina Kejvalová, rozená Vrdická | zemřela 12. 5. 1937 | manželka Josefa Kejvala, **rolníka‑výměnkáře v čp. 10**; z Útěchovic, 78 let | [úmrtní matrika, sn. 272](https://digi.ceskearchivy.cz/11214/272) | — |
+| č. 10 | Josef Kejval | 12. 5. 1937 | rolník‑výměnkář v čp. 10; jiná osoba než stejnojmenní Kejvalové z čp. 15 a 16 | tentýž zápis | — |
+| č. 14 | Josef Pudil | 16. 10. 1937 | **malorolník v čp. 14**; roku 1930 se ženil jako „bytem v č. 15, narozen v č. 22“ — po svatbě tedy hospodařil ve 14. Jeho třídenní syn Josef zemřel 16. 10. 1937 | [úmrtní matrika, sn. 273](https://digi.ceskearchivy.cz/11214/273) | — |
+| č. 14 | Aloisie Pudilová, rozená Kremličková | 16. 10. 1937 | manželka malorolníka Josefa Pudila; z Pošné č. 55 (mlýn) | tentýž zápis | — |
+| č. 24 | Kateřina Kadlecová, provdaná Bartů | doložena 1936 | pocházela ze Zahrádky čp. 24; matka Kateřiny Bartů z Pošné čp. 9 — doklad rodiny Kadlecových v čp. 24 | [úmrtní matrika, sn. 268](https://digi.ceskearchivy.cz/11214/268) | — |
+| č. 11 | Josef Vacík | zemřel 7. 2. 1930 | **deputátník v čp. 11**; týž muž, kterého oddací zápis z 23. 11. 1929 uvádí jako zemědělského dělníka ve dvoře | [rejstřík úmrtní knihy, sn. 296](https://digi.ceskearchivy.cz/11214/296) | — |
+| č. 16 | Marie Kejvalová | zemřela 30. 4. 1932 | dítě z čp. 16 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) | — |
+| č. 16 | Marie Kejvalová | zemřela 16. 2. 1934 | další dítě z čp. 16 (jiná osoba než předchozí) | tentýž rejstřík | — |
+| č. 20 | Marie Zelenková | zemřela 3. 6. 1932 | školačka z čp. 20 | [rejstřík úmrtní knihy, sn. 296](https://digi.ceskearchivy.cz/11214/296) | — |
+| č. 8 | Marie Křížová | zemřela 22. 12. 1932 | žena z čp. 8 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) | — |
+| č. 8 | Marie Křížová | zemřela 19. 6. 1933 | **výměnkářka** z čp. 8; potvrzuje rodinu Křížových v tomto domě vedle rolníka Františka Kříže z roku 1930 | tentýž rejstřík | — |
+| č. 17 | Marie Říčanová | zemřela 26. 3. 1933 | dítě z čp. 17; příjmení Říčan je jinak doloženo v Březině u Hořepníka | [rejstřík úmrtní knihy, sn. 291](https://digi.ceskearchivy.cz/11214/291) | — |
+| č. 10 | Herminie Kejvalová | zemřela 31. 7. 1934 | žena rolníka z čp. 10 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) | — |
 
 Starší osoby doložené přímo u N11 jsou nyní dostupné také v generovaném
 [domovním indexu N11](obyvatele_zahradky_domy/n11.md). Obsahuje všechny přesně
@@ -2490,7 +2515,23 @@ vedeny odděleně, aby nebyly ztraceny ani omylem přiřazeny jen podle příjme
 | Jan Kejval | zemřel 29. 4. 1983 | v parte podepsány děti Věra, Marie a Pavel | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:2614ff5e-6a78-11e8-a78e-001b63bd97ba) | — |
 | Anežka Kejvalová | zemřela 3. 2. 1984 | manželka Jana Kejvala | tentýž pramen | — |
 | Karel Kejval | zemřel 10. 10. 1985 | rodák ze Zahrádky u Pošné, pracovník Agrozetu Pelhřimov; sestra Věra | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:2a468049-6b02-11e8-9502-001b63bd97ba) | — |
-| František Rohovec | narozen 29. 8. 1919 | jubilea 1984, 1986 a 1989 oznámena v okresním týdeníku Nástup | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:29205317-6a42-11e8-a16e-001b63bd97ba) | — |
+| František Rohovec | narozen 29. 8. 1919 | jubilea 1984, 1986 a 1989 oznámena v okresním týdeníku Nástup; roku 1989 členem Českého zahrádkářského svazu Pacov 1 | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:29205317-6a42-11e8-a16e-001b63bd97ba) | — |
+| Josef Dvořák | zemřel 21. 2. 1932 | dělník ze Zahrádky; rejstřík u něj číslo domu neuvádí | [rejstřík úmrtní knihy, sn. 279](https://digi.ceskearchivy.cz/11214/279) | — |
+| Františka Kudrnová | zemřela 9. 10. 1932 | manželka rolníka; patrně táž, kterou 2. 10. 1932 srazil o pacovské pouti nákladní automobil, když šla s manželem a tříletým synkem | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285), [Týdeník z Českomoravské vysočiny](https://kramerius.kkvysociny.cz/view/uuid:5c25e37e-6910-4f8b-8624-b14f1e316fcb) | — |
+| Kateřina Kejvalová | zemřela 3. 11. 1934 | žena rolníka; rejstřík u ní číslo domu neuvádí. Jiná osoba než Kateřina Kejvalová z čp. 10, která zemřela roku 1937 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) | — |
+| Václav Pařízek | zemřel 26. 5. 1939 | **šafář ze Zahrádky**, 55 let — nástupce Františka Vytisky ve správě dvora; rubrika „Zemřelí“ pelhřimovského týdeníku | [Týdeník z Českomoravské vysočiny](https://kramerius.kkvysociny.cz/) | — |
+| Zdeňka Plášilová | 1. 4. 1943 | provdala se za Josefa Peštu, četnického štábního strážmistra v Pelhřimově; rubrika „Sňatky“. Vysvětluje rodinu Peštovu mezi pozůstalými Marie Plášilové roku 1968 | tentýž pramen | — |
+| Václav Machotka | zemřel 22. 10. 1943 | dělník ze Zahrádky, 51 let | tentýž pramen | — |
+| Barbora Pásková | zemřela 11. 5. 1945 | 76 let; týden po osvobození | tentýž pramen | — |
+| Zdeňka Homolková | po 10. 11. 1918 | manželka správce velkostatku Antonína Homolky z Březiny; kmotra a dárkyně druhého zvonku do zahrádecké kapličky, který v ní visí dodnes a za druhé války nebyl zabaven | [Z mého kraje](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-4f3c-a817-fa93347f9f49) | — |
+| Antonín Kudrna | 50. léta 20. století | **poslední zvoník** v kapličce na návsi; od té doby se ve vsi nezvoní | tentýž pramen | — |
+| Emil Svoboda | červenec 1957 | člen ZO Svazarmu Zahrádka; přeborník okresu jednotlivců ve střelbě sportovní malorážkou (212 kruhů, III. výkonnostní třída) | [Vesnické noviny](https://kramerius.kkvysociny.cz/) | — |
+| Kejval | únor 1956 | **účetní JZD Zahrádka**; na výroční členské schůzi kritizován za nekolektivně zpracovanou zprávu | tentýž pramen | — |
+| Křížová | únor 1956 | družstevnice JZD Zahrádka; vystoupila na výroční členské schůzi | tentýž pramen | — |
+| Pachta, Franěk, Svoboda, Kříž | duben 1957 | čtyři členové Svazarmu chodili po vsi jako volební agitátoři; osobní agitace přivedla na veřejnou schůzi polovinu voličů | tentýž pramen | — |
+| Jan Plášil (Jenda) | zemřel 13. 5. 1967 | rodák ze Zahrádky, pohřben v Lubech u Chebu; syn Václava a Marie Plášilových z obecní pastoušky, bratr Barušky, Anny a Josefa | [Nástup](https://kramerius.kkvysociny.cz/) | — |
+| Ladislav Zelenka | červenec 1972 | syn Jana Zelenky, bytem Důl u Pošné; podepsal poděkování po otcově pohřbu | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:58efa5e3-751a-11e8-8898-001b63bd97ba) | — |
+| Jaroslav Kříž | 2. 10. 1990 | syn Františka Kříže (*2. 10. 1920, † 1982); podepsán pod vzpomínkou k nedožitým sedmdesátinám | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:b7bcda4c-6f1a-11e8-a309-001b63bd97ba) | — |
 
 Řádky jednotlivých období se nesčítají na unikátní obyvatele: tatáž osoba se může
 později objevit ve sčítání 1921 nebo u jiného domu.

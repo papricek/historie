@@ -220,6 +220,18 @@ Uložené rešerše:
 | Současný stav domů 2026 (4 směry, 62 zjištění, 113 domovních záznamů) | [zjisteni.md](prameny_online/reserse/2026-07-31_soucasny_stav/zjisteni.md) | [README](prameny_online/reserse/2026-07-31_soucasny_stav/README.md) |
 | Matriky — legionáři a úmrtí 1881–1937 (částečná; 10 verdiktů, 47 zápisů z 80 snímků) | [prepisy.md](prameny_online/reserse/2026-07-31_matriky_castecne/prepisy.md) | [README](prameny_online/reserse/2026-07-31_matriky_castecne/README.md) |
 | Obyvatelé domů 1921–2026 (7 směrů, 209 zjištění, 98 verdiktů, 79 nových domovních řádků) | [zjisteni.md](prameny_online/reserse/2026-07-31_obyvatele_1921_2026/zjisteni.md) | [README](prameny_online/reserse/2026-07-31_obyvatele_1921_2026/README.md) |
+| Mezery 1935–2026 (7 směrů, 192 zjištění, 69 s číslem domu, 47 verdiktů) | [zjisteni.md](prameny_online/reserse/2026-08-01_mezery_1935_2026/zjisteni.md) | [README](prameny_online/reserse/2026-08-01_mezery_1935_2026/README.md) |
+
+Dvě cesty, které se osvědčily 1. 8. 2026: **abecední rejstříky matričních knih**
+se čtou samostatně — u zemřelých je elektronický rejstřík DigiArchivu vůbec
+nezná, takže rejstřík knihy 11214 na snímcích 275–297 zůstával nečtený a
+přitom dává jméno, ves, číslo popisné a datum až do roku 1937. A **úřední
+seznam nedostatečně identifikovaných vlastníků (ÚZSVM/ČÚZK)** je jediný
+veřejný strojově čitelný zdroj, který u vlastníků parcel uvádí poslední
+známou adresu; jde o dávno zemřelé osoby, seznam se zveřejňuje kvůli dědicům.
+Pozor u živnostenského rejstříku: **datum vzniku živnosti není datem vzniku
+adresy** — platnost adresy je až v detailním výpisu `/ekonomicke-subjekty-rzp/{ico}`
+v poli `platnostOd`.
 
 Osvědčené pravidlo pro **jména s číslem domu ve 20. století**: nejvydatnější je
 oddací matrika (uvádí dům ženicha, nevěsty, obou rodičovských párů i svědků),

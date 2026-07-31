@@ -44,7 +44,7 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | 5 | RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960 | RÚIAN, SO 8831220 |
 | 6 | RÚIAN: rodinný dům na st. 27/1, 113 m², dokončení evidováno k roku 1960; sousední st. 27/2 (404 m²) je zbořeniště | RÚIAN, SO 8831238 |
 | 7 | RÚIAN: rodinný dům na st. 8, 145 m², dokončení evidováno k roku 1945 | RÚIAN, SO 8831246 |
-| 8 | RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Sídlo podnikání: Anna Vlčková (od 2006; technické návrhy a grafika, chov a výcvik zvířat, výroba upomínkových předmětů) | RÚIAN, SO 8831254; ARES/RŽP |
+| 8 | RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Sídlo podnikání: Anna Vlčková (živnost od 20. 11. 2006, ale **místo podnikání na čp. 8 je v rejstříku vedeno teprve od 26. 3. 2024**; technické návrhy a grafika, chov zvířat, výroba upomínkových předmětů) | RÚIAN, SO 8831254; ARES/RŽP |
 | 9 | RÚIAN: rodinný dům na st. 24, 397 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1980 | RÚIAN, SO 8831262 |
 | 10 | RÚIAN: rodinný dům na st. 26, 234 m², dokončení evidováno k roku 1980 | RÚIAN, SO 8831271 |
 | 11 | RÚIAN: rodinný dům (bývalý panský dvůr) na st. 1 — s 3 543 m² zdaleka největší stavební parcele katastru; zastavěná plocha 304 m², způsob využití „rodinný dům“ od 2. 6. 2022 | RÚIAN, SO 8831289 |
@@ -59,7 +59,7 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | 24 | RÚIAN: rodinný dům na st. 31, 111 m² | RÚIAN, SO 8831351 |
 | 25 | RÚIAN: stavba pro rodinnou rekreaci na st. 34/2, 39 m²; tvoří dvojici s čp. 29 na st. 34/1 | RÚIAN, SO 8831360 |
 | 26 | RÚIAN: rodinný dům na st. 32, 206 m² | RÚIAN, SO 8831378 |
-| 27 | RÚIAN: rodinný dům na st. 43, 223 m², 2 podlaží, dokončení evidováno k roku 1960. Sídlo podnikání: Stanislav Janda (zednictví od 1999, přerušeno od 13. 1. 2025). Místní paměť MJS‑004: „Standa Janda byl původně Rohovec“ (sdělení bez čísla domu; nespojovat automaticky) | RÚIAN, SO 8831386; ARES/RŽP; místní paměť |
+| 27 | RÚIAN: rodinný dům na st. 43, 223 m², 2 podlaží, dokončení evidováno k roku 1960. Sídlo podnikání: Stanislav Janda (živnost zednictví od 1. 3. 1999, **místo podnikání na čp. 27 od 27. 6. 2005**, živnost přerušena od 13. 1. 2025). Místní paměť MJS‑004: „Standa Janda byl původně Rohovec“ (sdělení bez čísla domu; nespojovat automaticky) | RÚIAN, SO 8831386; ARES/RŽP; místní paměť |
 | 28 | RÚIAN: rodinný dům na st. 47, 142 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1990 — číslo nad historickou řadou, dosud bez historických dokladů ve spisu | RÚIAN, SO 8831394 |
 | 29 | RÚIAN: drobný objekt na st. 34/1 (40 m², bez bytu), vedle rekreačního čp. 25 | RÚIAN, SO 8831408 |
 | 30 | RÚIAN: stavba pro rodinnou rekreaci na st. 10/4, 193 m², vedle čp. 15 | RÚIAN, SO 30401500 |
@@ -82,6 +82,12 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | 28 | Luděk Bulant, zastupitel obce Pošná, měl v letech 2017–2018 na čp. 28 trvalý pobyt: smlouva o kotlíkové dotaci (PR02270.2421, 100 000 Kč, 27. 3. 2018) uvádí adresu „Zahrádka 28, Pošná“ a žádost místo realizace v k. ú. 775606 | registr smluv, KUJIP018KDEU |
 | 28 | Zvolen zastupitelem v šesti po sobě jdoucích komunálních volbách (2002, 2006, 2010, 2014, 2018, 2022; roku 2002 s nejvyšším počtem hlasů v obci) a opakovaně předsedou kontrolního výboru (2014, 2018, 2022) | volby.cz, otevřená data; usnesení ZO Pošná |
 | 28 | Starší vazba téhož domu: Václav Bulant (nar. 1939) byl členem představenstva ZD Velká Chyška 1993–2001, před ním Růžena Bulantová (1993); obchodní rejstřík u obou uvádí adresu „č. p. 28, Zahrádka“ (ARES ji chybně standardizoval na Zahrádku u Třebíče) | obchodní rejstřík (ARES) |
+| obec | **Nedostatečně identifikovaní vlastníci** (úřední seznam ÚZSVM a ČÚZK) drží v katastru dodnes podíly na několika parcelách a uvádějí u nich poslední známou adresu — jediná veřejná strojově čitelná cesta ke jménům vlastníků. Bez adresy jsou vedeni František a Anežka Zelenkovi (parc. 306 a 307/1, LV 129), Matěj a Marie Dvořákovi (307/2, LV 111), František a Josefa Pikalovi (304/3, LV 119), Felix a Johana Pečenkovi (369/1, LV 116) a Stanislav Pečený s Marií Pečenou (342/17 a 342/32, LV 117). Polovinu podílů na společné parcele 305/3 (LV 21) drží sedm těchto osob | ÚZSVM, seznam NIV k 10. 8. 2020 |
+| 9 | Antonín Plášil a Anna Plášilová, oba s poslední známou adresou Zahrádka čp. 9, jsou v seznamu nedostatečně identifikovaných vlastníků vedeni jako spoluvlastníci parcel 483/4 a 484/2 na LV 187 v sousedním k. ú. Pošná | ÚZSVM, seznam NIV |
+| 18 | Antonín Kudrna a Marie Kudrnová, oba s adresou Zahrádka čp. 18, jsou vedeni jako spoluvlastníci (každý 1/2) parcel 297/1 (6 296 m²), 242/11 (3 525 m²) a 242/15 (10 250 m²) na LV 148 — dům sice zanikl, ale pozemky jsou v katastru dosud na jeho adresu | ÚZSVM, seznam NIV |
+| 20 | Jan Zelenka s adresou Zahrádka čp. 20 je veden jako vlastník šesti parcel v katastru o výměře 23 470 m² (LV 149) — navazuje na rodinu Zelenkových doloženou v tomto domě od roku 1912 | ÚZSVM, seznam NIV |
+| 5 | Vazba konkrétního jména na tento dům je doložena od roku 1992 (matriční rubrika Městského úřadu Pacov v měsíčníku Z mého kraje). Jde o žijící osobu mimo veřejné registry, proto se jméno uvádí jen v úplném záznamu rešerše | Z mého kraje 3/1992 |
+| obec | Program rozvoje obce Pošná 2020–2024 uvádí pro Zahrádku 23 obyvatel, tj. 8,2 % obce (Pošná 147, Proseč 93, Nesvačily 18) | Program rozvoje obce Pošná |
 | 12 | Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách | RÚIAN, 31. 7. 2026 |
 | 17 | Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách | RÚIAN, 31. 7. 2026 |
 | 18 | Číslo dnes v RÚIAN neexistuje (bez adresního místa i objektu); polohu a zánik domu je nutné dohledat ve starších mapách a knihách | RÚIAN, 31. 7. 2026 |

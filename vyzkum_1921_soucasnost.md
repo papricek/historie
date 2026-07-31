@@ -590,6 +590,147 @@ vedeny v oddílu „dům nezjištěn“.
 Všechny odkazy na konkrétní strany jsou v
 [úplném výstupu rešerše](prameny_online/reserse/2026-07-31_obyvatele_1921_2026/README.md).
 
+## Třetí rešerše 1. 8. 2026 — cílený útok na mezeru 1935–1990
+
+Třetí kolo mířilo výhradně na dvě mezery: jména mezi lety 1935 a 1990 a vazbu
+jména na číslo domu po roce 1990. Přineslo 192 zjištění, z toho 69 s číslem
+domu, a dva prameny, které dosud nikdo neotevřel.
+
+### Rejstřík úmrtní knihy — matriční doklady až do roku 1937
+
+Kniha zemřelých Pošná 12A (id 11214, Z 1881–1937) má na **snímcích 275–297
+abecední rejstřík**, který elektronický rejstřík DigiArchivu vůbec nezná —
+zemřelí v něm nejsou. Rejstřík uvádí jméno, ves, **číslo popisné** a datum, a
+posouvá tím matriční řadu se jmény a domy z roku 1930 až do roku 1937:
+
+| Datum | Osoba | Dům |
+|---|---|---|
+| 7. 2. 1930 | Josef Vacík, deputátník | čp. 11 |
+| 9. 10. 1930 | Václav Hák, dítě | čp. 11 |
+| 21. 2. 1932 | Josef Dvořák, dělník | bez čp. |
+| 30. 4. 1932 | Marie Kejvalová, dítě | čp. 16 |
+| 3. 6. 1932 | Marie Zelenková, školačka | čp. 20 |
+| 9. 10. 1932 | Františka Kudrnová | bez čp. |
+| 22. 12. 1932 | Marie Křížová | čp. 8 |
+| 26. 3. 1933 | Marie Říčanová, dítě | čp. 17 |
+| 19. 6. 1933 | Marie Křížová, výměnkářka | čp. 8 |
+| 16. 2. 1934 | Marie Kejvalová, dítě | čp. 16 |
+| 31. 7. 1934 | Herminie Kejvalová, žena rolníka | čp. 10 |
+| 3. 11. 1934 | Kateřina Kejvalová, žena rolníka | bez čp. |
+| 11. 6. 1935 | František Vacek, dítě | čp. 22 |
+| 4. 5. 1936 | Antonie Bartošková, výměnkářka | čp. 3 |
+| 6. 12. 1936 | Antonie Kudrnová, vdova | čp. 13 |
+| 4. 2. 1937 | Anna Horáčková, dělnice | čp. 22 |
+| duben 1937 | Josef Plášil, dítě | čp. 22 |
+| 12. 5. 1937 | Kateřina Kejvalová | čp. 10 |
+| 16. 10. 1937 | Josef Pudil, dítě | čp. 14 |
+
+U sedmi nejmladších byly dohledány i plné zápisy, a ty přidaly povolání a
+rodinné vazby: kočí **František Vacek** s Marií rozenou Drexlerovou v čp. 22,
+**Antonie Bartošková**, vdova po rolníku Matěji Bartoškovi, jako výměnkářka
+v čp. 3, **Antonie Kudrnová rozená Kratochvílová z Pejškova** v čp. 13 (roku
+1921 byla rodina ještě v čp. 18 — opravuje to i naši domněnku, že Kratochvíl
+je jméno prvního muže: je to její rodné příjmení), **Anna Horáčková rozená
+Jandová**, vdova po deputátníku Aloisi Horáčkovi, v čp. 22, rolník‑výměnkář
+**Josef Kejval** s Kateřinou rozenou Vrdickou v čp. 10 a malorolník **Josef
+Pudil** s Aloisií rozenou Kremličkovou z pošenského mlýna v čp. 14.
+
+Dva nálezy uzavírají starší otevřené otázky. **Deputátník Jan Plášil**, dosud
+vedený bez domu (roku 1938 mu vykradli byt), bydlel s manželkou Marií rozenou
+Norkovou v **čp. 22**. A **Josef Vacík**, roku 1929 zemědělský dělník ve dvoře,
+je roku 1930 v témže domě pohřben jako deputátník — jeho pobyt v čp. 11 je tím
+potvrzen z druhé strany.
+
+### Čp. 23 byla hájovna
+
+Civilní oddací zápis z 27. 9. 1935 (Pelhřimov) uvádí **Jiřinu Jirků**,
+narozenou 9. 12. 1916, „bytem Zahrádka čp. 23“, jako dceru **Jana Jirků,
+lesního hajného na Zahrádce**, a Marie rozené Fárové. Statistický lexikon
+u obce jmenuje hájovnu už roku 1921 a znovu 1930; nyní má číslo i jméno.
+Je to zároveň **nejmladší dosud nalezený online matriční doklad se zahrádeckým
+číslem domu**. — [civilní matrika Pelhřimov, sn. 85](https://digi.ceskearchivy.cz/12260/85); vysoká.
+
+### Šafáři dvora pokračují
+
+Rubrika „Zemřelí“ pelhřimovského týdeníku eviduje k **26. 5. 1939 Václava
+Pařízka, šafáře ze Zahrádky, 55 let** — nástupce Františka Vytisky ve správě
+dvora a poslední jménem známý šafář. Táž rubrika přidává **Václava Machotku,
+dělníka († 22. 10. 1943, 51 let)** a **Barboru Páskovou († 11. 5. 1945,
+76 let)**, tedy jména z doby, z níž matriky online nejsou.
+
+### Obec, MNV a JZD 1945–1980 podrobněji
+
+- **Josef Pachta** byl tajemníkem MNV Zahrádka nejméně od září 1954 do
+  **1. února 1962**, kdy jménem obce veřejně poděkoval požárním sborům za zásah
+  u velkého požáru.
+- Založení JZD 19. 12. 1952 má dobovou scénu: manželka osmihektarového
+  zemědělce **Coufala** mu na podzim 1952 hrozila, že od něj odejde, podepíše‑li
+  přihlášku; po dvouhodinovém přesvědčování podepsal a po něm většina ostatních.
+  Za rok 1954 odpracovala rodina Coufalova ve třech (družstevník, manželka a
+  čtyřiašedesátiletý otec) 1 497 pracovních jednotek.
+- **Rohovec** byl předsedou JZD už v lednu 1955 (dosud doloženo až k březnu),
+  **Kejval** účetním v únoru 1956, **Křížová** a **František Kříž** patřili
+  k aktivním družstevníkům; Kříž poslal roku 1955 hodnocení Družstevní školy
+  práce a roku 1956 jel na exkurzi do státního semenářského podniku.
+- Roku **1958** přistoupilo devět zemědělských závodů s 69,55 ha — třetí
+  největší přírůstek okresu Pacov. V prosinci **1962** měla ves „jen dvacet
+  usedlostí, v každé družstevní chlév, protože v Zahrádce víc čísel není“ a
+  družstevníci si do novin napsali přání dostat pod stromeček vodovod.
+- Rozklad družstva roku 1961: „Předseda tu není. Loni ze družstva utekl a jeho
+  funkci převzal místopředseda, který je současně tajemníkem národního výboru a
+  skupinářem.“
+- Při přechodu k JZD ČSP Velká Chyška v lednu **1978** přešlo **34 družstevníků**
+  bydlících na Zahrádce (ne 33 pracovníků, jak jsme uváděli): 17 v důchodu,
+  2 ženy na mateřské a 15 zapojených do práce.
+- Spolkový život: **19. 12. 1957** založena vesnická organizace ČSM, roku 1958
+  přijal místní **Výbor žen** výzvu ke sběru papíru; ZO **Svazarmu** měla roku
+  1957 přeborníka okresu ve střelbě **Emila Svobody** (212 kruhů) a její členové
+  Pachta, Franěk, Svoboda a Kříž chodili téhož roku po vsi jako volební
+  agitátoři. Lidová knihovna dostala roku **1962** čestné uznání ONV v soutěži
+  „Budujeme vzornou lidovou knihovnu“ — o dvacet sedm let později ji reportérka
+  popsala jako místnost s plesnivým fondem povalujícím se na zemi.
+
+### Kaple, zvonky a kříže — místní paměť
+
+Kaplička na návsi byla postavena **roku 1800** a od roku 1963 je na seznamu
+památek; lidový barokní oltář se sochou sv. Jana Nepomuckého vyřezal podle
+pamětníků „pan Franěk z chalupy, kde se říkalo u Lučanů“. Zvonek ukryl za první
+světové války před rekvizicí **Antonín Franěk** v pastvině zvané Hejdův lom a
+10. 11. 1918 jej odevzdal obci; sám počátkem října 1919 podlehl španělské
+chřipce. Po válce byl zvonek znovu posvěcen a spolu s ním druhý, jehož kmotrou
+a dárkyní byla **Zdeňka Homolková z Březiny**, manželka správce velkostatku —
+ten v kapličce visí dodnes a za druhé války nebyl zabaven. Posledním zvoníkem
+byl v padesátých letech **Antonín Kudrna**. Kříž z roku 1884 před čp. 9 dali
+postavit **Jan a Anna Košilkovi**, kříž před kaplí **Václav a Marie Kejvalovi**
+a kříž za vsí **Antonín Franěk**.
+
+### Dnešní vlastníci legální cestou
+
+Katastr vlastníky strojově nevydává, ale **úřední seznam nedostatečně
+identifikovaných vlastníků (ÚZSVM/ČÚZK)** ano — a uvádí u nich poslední známou
+adresu. V katastru Zahrádky tak dodnes drží podíly **Jan Zelenka, Zahrádka
+čp. 20** (šest parcel, 23 470 m²), **Antonín Kudrna a Marie Kudrnová,
+Zahrádka čp. 18** (LV 148, tři parcely přes 20 000 m²) a v sousední Pošné
+**Antonín Plášil a Anna Plášilová, Zahrádka čp. 9**. Bez adresy jsou vedeni
+Zelenkovi, Dvořákovi, Pikalovi, Pečenkovi a Pečení. Jde o osoby dávno zemřelé,
+jejichž jména seznam zveřejňuje právě proto, aby se přihlásili dědicové.
+
+### Opravy, které přinesla kontrola
+
+Nezávislé ověření vyvrátilo tři tvrzení o dnešních živnostech: **datum vzniku
+živnosti není datem vzniku adresy**. Stanislav Janda má živnost od 1. 3. 1999,
+ale místo podnikání na čp. 27 je v rejstříku vedeno teprve **od 27. 6. 2005**
+(a živnost je od 13. 1. 2025 přerušena); Anna Vlčková má živnost od 20. 11.
+2006, ale adresu čp. 8 **až od 26. 3. 2024**. Do spisů šla opravená znění.
+
+### Dobrá zpráva pro další práci
+
+DigiArchiv nyní vede knihy **Pošná 10A (O 1931–1949)** a **12B (Z 1938–1949)**
+jako uložené v archivu se statusem **„připravováno k digitalizaci“** — nejsou
+už tedy na matrice v Pacově a dříve či později budou online. Tím se otevře
+souvislá jmenná řada s čísly domů až do roku 1949. Naopak evangelická Moraveč
+končí rokem 1933 a její pokračování je u matričního úřadu Nová Cerekev.
+
 ## Stopy blokované v režimu DNNT (k ručnímu dočtení v knihovně)
 
 Vedle stop v tabulkách výše: Statistický lexikon obcí ČSSR **1965** (s. 108 —

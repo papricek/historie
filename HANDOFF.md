@@ -106,6 +106,23 @@ v dalším zpracování obrátit.
   Jihočeské vědecké knihovny a Krajské knihovny Vysočiny a jejich API vrací
   úryvky i u stránek v režimu DNNT — tím padl dřívější slepý konec
   „okresní tisk nelze prohledávat automatizovaně“.
+- Dne 1. 8. 2026 proběhla **třetí rešerše, cílená na mezeru 1935–1990 a na
+  vazbu jméno–čp. po roce 1990** (7 směrů, 192 zjištění, z toho 69 s číslem
+  domu; úplný záznam v `prameny_online/reserse/2026-08-01_mezery_1935_2026/`).
+  Otevřela dva prameny, které dosud nikdo nečetl: **abecední rejstřík úmrtní
+  knihy Pošná 12A** (id 11214, snímky 275–297), který elektronický rejstřík
+  DigiArchivu vůbec nezná, a který dává jméno, ves, **číslo popisné** a datum
+  až do roku **1937** (19 zahrádeckých úmrtí, u sedmi dohledány plné zápisy),
+  a **úřední seznam nedostatečně identifikovaných vlastníků ÚZSVM/ČÚZK**,
+  jediný veřejný strojový zdroj, který u vlastníků parcel uvádí poslední
+  známou adresu (Zahrádka čp. 9, 18 a 20). Hlavní rozhodnutí: **čp. 23 byla
+  hájovna** (Jan Jirků, lesní hajný, 1935); **deputátník Jan Plášil bydlel
+  v čp. 22**; posledním jménem známým šafářem dvora je **Václav Pařízek
+  († 26. 5. 1939)**. Knihy **10A (O 1931–1949) a 12B (Z 1938–1949) už nejsou
+  v Pacově** — DigiArchiv je vede jako uložené v archivu se statusem
+  „připravováno k digitalizaci“. Kontrola vyvrátila tři tvrzení o dnešních
+  živnostech se stejnou příčinou: datum vzniku živnosti není datem vzniku
+  adresy (Janda čp. 27 od 2005, ne 1999; Vlčková čp. 8 od 2024, ne 2006).
 - **Přepis sčítání 1921 není spolehlivý a reviduje se.** Namátková obrazová
   kontrola tří archů 31. 7. 2026 našla chyby ve všech třech, u dvou hrubé:
   **čp. 4** není rodina `Matějkova`, nýbrž **Markvartova** (a tři křestní jména
