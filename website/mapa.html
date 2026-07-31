@@ -475,10 +475,13 @@
       <div class="ctl-lbl"><label for="tfRok">Kdo tu žil kolem roku…</label></div>
       <div class="ctl-radek">
         <input type="checkbox" id="tfZap" aria-label="Zapnout časový filtr">
-        <input type="range" id="tfRok" min="1770" max="1930" step="1" value="1829" disabled
+        <input type="range" id="tfRok" min="1770" max="1992" step="1" value="1829" disabled
                list="tfRoky" aria-label="Rok časového filtru">
         <datalist id="tfRoky">
           <option value="1829"></option><option value="1878"></option>
+          <option value="1921"></option><option value="1949"></option><option value="1953"></option>
+          <option value="1961"></option><option value="1967"></option><option value="1975"></option>
+          <option value="1978"></option><option value="1990"></option><option value="1992"></option>
         </datalist>
         <button id="tfSync" type="button" hidden>filtr kolem 1829</button>
         <span class="tf-val" id="tfVal">vypnuto</span>
@@ -889,11 +892,19 @@ function cenzusKarta(u) {
   return html + "</div>";
 }
 
+/* nejmladší doložený rok se dopočítává z dat, aby text nezastarával */
+const ROKY_DOKLADU = (() => {
+  const r = [];
+  for (const d of window.MAPA_DATA.domy)
+    for (const m of String(d.rozsah || "").matchAll(/\b(1[5-9]\d\d|20\d\d)\b/g)) r.push(+m[1]);
+  return r.length ? { od: Math.min(...r), do: Math.max(...r) } : { od: 1772, do: 1930 };
+})();
+
 function uvodPanelu() {
   panel.innerHTML =
     "<h3>Zahrádka po domech</h3>" +
     '<p class="sub"><b>' + window.MAPA_DATA.domy.length + " domovních oddílů</b> · " +
-    CELKEM_RADKU + " osobních dokladových řádků · doklady 1654 a 1772–1930.<br>" +
+    CELKEM_RADKU + " osobních dokladových řádků · doklady " + ROKY_DOKLADU.od + "–" + ROKY_DOKLADU.do + ".<br>" +
     "Klepněte na kolečko domu, nebo hledejte osobu. " +
     "Podklad mapy přepnete roky nad mapou.</p>" +
     '<p class="sub">Největší oddíl má panský dvůr <b>N11 / čp. 11</b> (' +
@@ -1393,7 +1404,7 @@ tfRok.addEventListener("change", () => {
 const tfSync = document.getElementById("tfSync");
 function obnovTfSync() {
   const r = parseInt(rok, 10);
-  const vhodny = Number.isFinite(r) && r >= 1770 && r <= 1930;
+  const vhodny = Number.isFinite(r) && r >= 1770 && r <= 1992;
   tfSync.hidden = !vhodny || (tf.on && tf.rok === r);
   if (vhodny) tfSync.textContent = "filtr kolem " + r;
 }
