@@ -162,6 +162,13 @@
   .timefilter input[type="range"] { flex: 1 1 180px; min-width: 140px; accent-color: var(--accent); }
   .timefilter input[type="range"]:disabled { opacity: .4; }
   .timefilter .tf-val { font-variant-numeric: tabular-nums; min-width: 15ch; }
+  .timefilter #tfSync {
+    font: 600 12px/1 system-ui, sans-serif; color: var(--accent-ink);
+    background: none; border: 1px dashed color-mix(in srgb, var(--accent-ink) 55%, transparent);
+    border-radius: 999px; padding: 5px 10px; cursor: pointer;
+  }
+  .timefilter #tfSync:hover { border-style: solid; }
+  .chips button.shoda { border-style: solid; background: color-mix(in srgb, var(--accent) 14%, var(--surface)); }
   .timefilter .tf-val b { color: var(--accent-ink); }
 
   /* ---------- mapa ---------- */
@@ -221,6 +228,44 @@
     font: 600 17px/1 system-ui, sans-serif; cursor: pointer; backdrop-filter: blur(4px);
   }
   .mapzoom button:hover { border-color: var(--baseline); }
+  .maptip {
+    position: absolute; z-index: 9; pointer-events: none; display: none;
+    background: color-mix(in srgb, var(--surface) 94%, transparent);
+    border: 1px solid var(--border); border-radius: 6px; box-shadow: var(--shadow);
+    padding: 6px 9px; font-family: system-ui, sans-serif; font-size: 12px;
+    color: var(--ink); line-height: 1.45; max-width: 220px;
+  }
+  .maptip b { display: block; }
+  .maptip span { color: var(--ink-2); font-size: 11px; }
+  .mapscale {
+    position: absolute; left: 12px; bottom: 10px; z-index: 8;
+    font: 600 10.5px/1 system-ui, sans-serif; color: var(--ink);
+    text-shadow: 0 0 3px var(--surface);
+  }
+  .mapscale .bar {
+    height: 4px; border: 1.5px solid var(--ink); border-top: 0;
+    margin-bottom: 3px; box-sizing: border-box;
+  }
+  .mapnorth {
+    position: absolute; left: 17px; top: 132px; z-index: 8;
+    font: 700 12px/1.15 system-ui, sans-serif; color: var(--ink); text-align: center;
+    text-shadow: 0 0 3px var(--surface); cursor: help;
+  }
+  .maplegend {
+    position: absolute; right: 10px; bottom: 10px; z-index: 8;
+    display: flex; gap: 10px; align-items: center;
+    background: color-mix(in srgb, var(--surface) 82%, transparent);
+    border: 1px solid var(--border); border-radius: 999px; padding: 4px 11px;
+    font: 500 10.5px/1 system-ui, sans-serif; color: var(--ink-2); backdrop-filter: blur(4px);
+  }
+  .maplegend i {
+    display: inline-block; width: 9px; height: 9px; border-radius: 50%;
+    margin-right: 4px; vertical-align: -1px;
+  }
+  .maplegend .doku i { background: var(--accent); }
+  .maplegend .novy i { background: color-mix(in srgb, var(--surface) 70%, #888 30%); border: 1px solid var(--muted); }
+  @media (max-width: 520px) { .maplegend { display: none; } }
+  #zdomu { display: none; }
   .mapattrib {
     font-family: system-ui, sans-serif; font-size: 11.5px; color: var(--muted);
     margin: 8px 4px 2px; line-height: 1.5;
@@ -267,6 +312,13 @@
     padding: 4px 10px; cursor: pointer; margin: 2px 0 6px;
   }
   .kopirovat:hover { border-color: var(--accent-ink); }
+  .listovani { float: right; display: flex; gap: 5px; margin: -2px 0 0 10px; }
+  .listovani button {
+    width: 28px; height: 28px; border-radius: 50%; border: 1px solid var(--border);
+    background: var(--surface-2); color: var(--ink); font: 600 14px/1 system-ui, sans-serif;
+    cursor: pointer;
+  }
+  .listovani button:hover { border-color: var(--baseline); }
   .panel .sub {
     font-family: system-ui, sans-serif; font-size: 12.5px; color: var(--ink-2);
     margin: 4px 0 10px; line-height: 1.5;
@@ -284,6 +336,13 @@
   .osoba .zdroj { font-family: system-ui, sans-serif; font-size: 10.5px; color: var(--muted); line-height: 1.5; margin-top: 1px; }
   .osoba .rodice { font-family: system-ui, sans-serif; font-size: 12px; color: var(--ink-2); line-height: 1.5; margin-top: 2px; }
   .osoba .rodice b { font-weight: 600; color: var(--muted); }
+  .domacnost {
+    font: 700 10.5px/1 system-ui, sans-serif; letter-spacing: .09em; text-transform: uppercase;
+    color: var(--muted); margin: 10px 0 3px;
+  }
+  .osoba .cenzus { font-family: system-ui, sans-serif; font-size: 11px; color: var(--muted); line-height: 1.5; margin-top: 1px; }
+  .jmeno { cursor: pointer; }
+  .jmeno:hover { text-decoration: underline dotted; text-underline-offset: 3px; color: var(--accent-ink); }
   .dekada {
     position: sticky; top: 0; z-index: 1; background: var(--surface);
     font: 700 11px/1 system-ui, sans-serif; letter-spacing: .1em; color: var(--accent-ink);
@@ -363,7 +422,11 @@
   <div class="timefilter">
     <label><input type="checkbox" id="tfZap"> kdo tu žil kolem roku…</label>
     <input type="range" id="tfRok" min="1770" max="1930" step="1" value="1829" disabled
-           aria-label="Rok časového filtru">
+           list="tfRoky" aria-label="Rok časového filtru">
+    <datalist id="tfRoky">
+      <option value="1829"></option><option value="1878"></option>
+    </datalist>
+    <button id="tfSync" type="button" hidden>filtr kolem 1829</button>
     <span class="tf-val" id="tfVal">filtr vypnut</span>
   </div>
 
@@ -378,6 +441,14 @@
         <div class="mapzoom">
           <button id="zin" title="Přiblížit" aria-label="Přiblížit">+</button>
           <button id="zout" title="Oddálit" aria-label="Oddálit">−</button>
+          <button id="zdomu" title="Výchozí pohled" aria-label="Výchozí pohled">⌂</button>
+        </div>
+        <div class="maptip" id="maptip"></div>
+        <div class="mapscale" id="mapscale"><div class="bar"></div><span></span></div>
+        <div class="mapnorth" title="Sever přibližně nahoře (souřadnicová síť S-JTSK)">↑<br>S</div>
+        <div class="maplegend">
+          <span class="doku"><i></i>doložený dům</span>
+          <span class="novy"><i></i>novější čp.</span>
         </div>
       </div>
       <p class="mapattrib" id="attrib"></p>
@@ -506,6 +577,7 @@ function prepniRok(novy) {
   for (const b of yearsBox.querySelectorAll("button"))
     b.setAttribute("aria-pressed", b.dataset.rok === rok ? "true" : "false");
   attrib.textContent = ATTRIB[rok];
+  obnovTfSync();
   zapisHash();
   const src = "img/mapa/podklad_" + rok + ".jpg";
   if (prepinani) { layerB.removeEventListener("load", prepinani); prepinani = null; }
@@ -544,9 +616,37 @@ for (const [cp, [x, y]] of Object.entries(POZICE)) {
   const dum = DOMY[cp];
   const jmeno = dum ? dum.nazev : "čp. " + cp + " (novější dům)";
   b.setAttribute("aria-label", jmeno);
-  b.title = jmeno;
-  b.addEventListener("click", (e) => { e.stopPropagation(); vyberDum(cp); });
+  b.addEventListener("click", (e) => {
+    e.stopPropagation();
+    vyberDum(cp);
+    /* tesny shluk pri zakladnim meritku: vybrat a rovnou priblizit */
+    if (zoom < 1.5) {
+      const [mx, my] = POZICE[cp];
+      const shluk = Object.entries(POZICE).some(([k, [x2, y2]]) =>
+        k !== cp && Math.hypot(x2 - mx, y2 - my) < 0.022);
+      if (shluk) {
+        const r = mapbox.getBoundingClientRect();
+        const br = b.getBoundingClientRect();
+        nastavZoom(2.3, br.left + br.width / 2 - r.left, br.top + br.height / 2 - r.top);
+      }
+    }
+  });
   b.addEventListener("focus", () => vyberDum(cp));
+  b.addEventListener("pointerenter", (e) => {
+    if (e.pointerType !== "mouse") return;
+    const rozsah = dum ? "doloženo " + dum.rozsah + " · " + dum.osoby.length + " řádků"
+      : "bez dokladů ve spisu";
+    maptip.innerHTML = "<b>" + jmeno + "</b><span>" + rozsah + "</span>";
+    const r = mapbox.getBoundingClientRect();
+    const br = b.getBoundingClientRect();
+    maptip.style.display = "block";
+    const x = Math.min(Math.max(br.left + br.width / 2 - r.left - 70, 4), r.width - 180);
+    const nahore = br.top - r.top > 64;
+    maptip.style.left = x + "px";
+    maptip.style.top = nahore ? (br.top - r.top - maptip.offsetHeight - 10) + "px"
+                              : (br.bottom - r.top + 10) + "px";
+  });
+  b.addEventListener("pointerleave", () => { maptip.style.display = "none"; });
   markersBox.appendChild(b);
 }
 
@@ -613,6 +713,7 @@ function seskupUdalosti(osoby) {
 
 /* Jedna událost: dítě/děti + vnoření rodiče, pokud jsou jednoznační. */
 function kartaHtml(u) {
+  if (u.radky.some((o) => o.h)) return cenzusKarta(u);
   const rodice = u.radky.filter((o) => o.rod);
   const otcove = [...new Set(rodice.filter((o) => o.rod === "o").map((o) => o.j))];
   const matky = [...new Set(rodice.filter((o) => o.rod === "m").map((o) => o.j))];
@@ -620,13 +721,13 @@ function kartaHtml(u) {
     return u.radky.map(radekHtml).join("");
   let html = '<div class="osoba"><div class="kdy">' + u.d + "</div>";
   for (const o of u.radky.filter((x) => !x.rod)) {
-    html += '<div class="kdo">' + o.j + "</div>" +
+    html += '<div class="kdo"><span class="jmeno">' + o.j + "</span></div>" +
       '<div class="co">' + o.p + "</div>" +
       (o.z ? '<div class="zdroj">' + o.z + "</div>" : "");
   }
   const casti = [];
-  if (otcove.length) casti.push("<b>otec:</b> " + otcove[0]);
-  if (matky.length) casti.push("<b>matka:</b> " + matky[0]);
+  if (otcove.length) casti.push('<b>otec:</b> <span class="jmeno">' + otcove[0] + "</span>");
+  if (matky.length) casti.push('<b>matka:</b> <span class="jmeno">' + matky[0] + "</span>");
   return html + '<div class="rodice">' + casti.join(" · ") + "</div></div>";
 }
 
@@ -673,9 +774,26 @@ function sparklineHtml(dum) {
 function radekHtml(o) {
   return '<div class="osoba">' +
     '<div class="kdy">' + o.d + "</div>" +
-    '<div class="kdo">' + o.j + "</div>" +
+    '<div class="kdo"><span class="jmeno">' + o.j + "</span></div>" +
     '<div class="co">' + o.p + "</div>" +
+    (o.c ? '<div class="cenzus">' + o.c + "</div>" : "") +
     (o.z ? '<div class="zdroj">' + o.z + "</div>" : "") + "</div>";
+}
+
+/* Sčítání 1921: jedna karta s oddíly po domácnostech. */
+function cenzusKarta(u) {
+  let html = '<div class="osoba"><div class="kdy">' + u.d + "</div>";
+  const cisla = [...new Set(u.radky.map((o) => o.h || 0))].sort((a, b) => a - b);
+  const vice = cisla.length > 1;
+  for (const c of cisla) {
+    if (vice) html += '<div class="domacnost">' + (c || "?") + ". domácnost</div>";
+    for (const o of u.radky.filter((x) => (x.h || 0) === c)) {
+      html += '<div class="kdo"><span class="jmeno">' + o.j + "</span></div>" +
+        '<div class="co">' + o.p + "</div>" +
+        (o.c ? '<div class="cenzus">' + o.c + "</div>" : "");
+    }
+  }
+  return html + "</div>";
 }
 
 function uvodPanelu() {
@@ -736,6 +854,9 @@ function vyberDum(klic) {
     pozn = "<br>Historické N1 je bezpečně doloženo na st. 29 — jiný dům než panský dvůr čp. 11.";
   const poc1921 = dum.osoby.filter((o) => o.d.indexOf("(sčítací arch)") >= 0).length;
   panel.innerHTML =
+    '<div class="listovani">' +
+    '<button type="button" data-krok="-1" aria-label="Předchozí dům" title="Předchozí dům">‹</button>' +
+    '<button type="button" data-krok="1" aria-label="Další dům" title="Další dům">›</button></div>' +
     "<h3>" + dum.nazev + "</h3>" +
     '<button class="kopirovat" type="button">kopírovat odkaz na dům</button>' +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
@@ -749,6 +870,12 @@ function vyberDum(klic) {
     tf.ukazVse = !tf.ukazVse;
     vyberDum(klic);
   });
+  for (const b of panel.querySelectorAll(".listovani button"))
+    b.addEventListener("click", () => {
+      const poradi = window.MAPA_DATA.domy.map((d) => d.klic);
+      const i = poradi.indexOf(klic);
+      vyberDum(poradi[(i + +b.dataset.krok + poradi.length) % poradi.length]);
+    });
   const kop = panel.querySelector(".kopirovat");
   if (kop) kop.addEventListener("click", () => {
     const url = location.origin + location.pathname + "#" + klic +
@@ -772,6 +899,27 @@ uvodPanelu();
 
 /* ---------- hledání ---------- */
 const hledat = document.getElementById("hledat");
+
+/* Z plného jména odvodí hledatelný kmen: poslední velké slovo, u ženských
+   tvarů bez koncovky -ová. Pole zůstává editovatelné pro doladění. */
+function prijmeniDotaz(text) {
+  const slova = text.replace(/[\[\]()?,;]/g, " ").split(/\s+/).filter(Boolean);
+  let kandidat = "";
+  for (const w of slova) {
+    if (/^[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]{2,}$/.test(w)) kandidat = w;
+  }
+  if (!kandidat) kandidat = slova[slova.length - 1] || text.trim();
+  if (kandidat.length > 6 && kandidat.endsWith("ová")) kandidat = kandidat.slice(0, -3);
+  return kandidat;
+}
+
+panel.addEventListener("click", (e) => {
+  const jm = e.target.closest(".jmeno");
+  if (!jm) return;
+  hledat.value = prijmeniDotaz(jm.textContent);
+  hledat.dispatchEvent(new Event("input"));
+  hledat.focus();
+});
 function bezDiakritiky(s) {
   return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 }
@@ -802,7 +950,12 @@ function zvyrazni(html, dotaz) {
 
 hledat.addEventListener("input", () => {
   const dotaz = bezDiakritiky(hledat.value.trim());
-  if (dotaz.length < 2) { vybrany ? vyberDum(vybrany) : uvodPanelu(); return; }
+  if (dotaz.length < 2) {
+    aplikujTf();
+    for (const ch of chipsBox.querySelectorAll("button")) ch.classList.remove("shoda");
+    vybrany ? vyberDum(vybrany) : uvodPanelu();
+    return;
+  }
   const STROP = 200;
   const skupiny = [];
   let celkem = 0;
@@ -843,8 +996,22 @@ hledat.addEventListener("input", () => {
   }
   panel.innerHTML = html;
   otevriPanel();
+  /* shody promítnout do mapy: domy bez shody blednou, se shodou rostou */
+  const pocty = new Map(skupiny.map((g) => [g.dum.klic, g.radky.length]));
+  for (const m of markersBox.querySelectorAll(".marker")) {
+    const n = pocty.get(m.dataset.klic) || 0;
+    m.classList.toggle("tfmimo", !n);
+    m.style.setProperty("--tf", n ? (0.95 + 0.45 * Math.min(1, Math.sqrt(n) / 4)).toFixed(2) : "0.8");
+  }
+  for (const ch of chipsBox.querySelectorAll("button"))
+    ch.classList.toggle("shoda", (pocty.get(ch.dataset.klic) || 0) > 0);
   for (const el of panel.querySelectorAll(".vysledky [data-klic]")) {
-    const otevri = () => { hledat.value = ""; vyberDum(el.dataset.klic); };
+    const otevri = () => {
+      hledat.value = "";
+      aplikujTf();
+      for (const ch of chipsBox.querySelectorAll("button")) ch.classList.remove("shoda");
+      vyberDum(el.dataset.klic);
+    };
     el.addEventListener("click", otevri);
     el.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); otevri(); } });
   }
@@ -855,7 +1022,20 @@ const mapbox = document.getElementById("mapbox");
 const mappane = document.getElementById("mappane");
 let zoom = 1, px = 0, py = 0;
 
+const maptip = document.getElementById("maptip");
+const mapscale = document.getElementById("mapscale");
+const zdomu = document.getElementById("zdomu");
+
+function obnovMeritko() {
+  const w = mapbox.clientWidth;
+  let m = 200;
+  for (const kand of [200, 100, 50, 25]) if (kand * zoom <= 210) { m = kand; break; }
+  mapscale.querySelector(".bar").style.width = (w * m / 600 * zoom).toFixed(0) + "px";
+  mapscale.querySelector("span").textContent = m + " m";
+}
+
 function aplikuj() {
+  maptip.style.display = "none";
   const max = mapbox.clientWidth * (zoom - 1);
   px = Math.min(0, Math.max(-max, px));
   py = Math.min(0, Math.max(-max, py));
@@ -864,6 +1044,8 @@ function aplikuj() {
   mappane.style.setProperty("--mz", (1 / Math.sqrt(zoom)).toFixed(3));
   /* v základním měřítku nechává mapa svislé gesto stránce (žádná past na rolování) */
   mapbox.style.touchAction = zoom > 1 ? "none" : "pan-y";
+  obnovMeritko();
+  zdomu.style.display = (zoom > 1.001 || px || py) ? "block" : "none";
 }
 function nastavZoom(novy, cx, cy) {
   const stary = zoom;
@@ -874,6 +1056,7 @@ function nastavZoom(novy, cx, cy) {
   py = y - (zoom / stary) * (y - py);
   aplikuj();
 }
+zdomu.addEventListener("click", () => { zoom = 1; px = 0; py = 0; aplikuj(); });
 document.getElementById("zin").addEventListener("click", () => nastavZoom(zoom * 1.6));
 document.getElementById("zout").addEventListener("click", () => nastavZoom(zoom / 1.6));
 mapbox.addEventListener("dblclick", (e) => {
@@ -932,6 +1115,8 @@ const konecDrag = (e) => {
 };
 mapbox.addEventListener("pointerup", konecDrag);
 mapbox.addEventListener("pointercancel", konecDrag);
+window.addEventListener("resize", obnovMeritko);
+aplikuj();
 
 /* ---------- ovládání časového filtru ---------- */
 const tfZap = document.getElementById("tfZap");
@@ -972,6 +1157,27 @@ tfRok.addEventListener("input", () => {
 tfRok.addEventListener("change", () => {
   if (vybrany && DOMY[vybrany]) vyberDum(vybrany);
 });
+const tfSync = document.getElementById("tfSync");
+function obnovTfSync() {
+  const r = parseInt(rok, 10);
+  const vhodny = Number.isFinite(r) && r >= 1770 && r <= 1930;
+  tfSync.hidden = !vhodny || (tf.on && tf.rok === r);
+  if (vhodny) tfSync.textContent = "filtr kolem " + r;
+}
+tfSync.addEventListener("click", () => {
+  const r = parseInt(rok, 10);
+  if (!Number.isFinite(r)) return;
+  tfZap.checked = true;
+  tf.on = true;
+  tfRok.disabled = false;
+  tf.rok = r;
+  tfRok.value = String(r);
+  tf.ukazVse = false;
+  aplikujTf();
+  obnovTfSync();
+  if (vybrany && DOMY[vybrany]) vyberDum(vybrany);
+});
+obnovTfSync();
 
 /* ---------- trvalé odkazy: #dum nebo #dum/rok ---------- */
 let hashCasovac = null;

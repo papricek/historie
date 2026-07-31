@@ -253,6 +253,131 @@ N11 jsou nově přesně datované a rozepsané v osobní evidenci.
 | N11 | František Jindřich | 27. 1. 1856; den křtu neuveden | Vojtěch Jindřich | Anna (?) | dítě, otec, dům a den narození bezpečné; otec je šafářem v panském dvoře N11 |
 | N11 | Josef Líčka (?) | 10. / 20. 3. 1856 | František Líčka (?) | Marie | dům a oba dny bezpečné; otec je čeledínem v panském dvoře N11, příjmení je pracovní |
 
+## Snímek 323 — roky 1856–1857
+
+Sedm událostí má adresní řadu **N11, N8, N18, N11, N6, N5 a N20**. Jan
+Gremuš (?) je nový nález N11; mrtvě narozená dcera Forelových je napojena na
+starší osobní evidenci a úmrtní knihu bez duplicity. Elektronický jmenný
+rejstřík SOA nepřinesl pro pracovní tvar `Gremuš` místní srovnávací zápis.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N11 | Jan Gremuš (?) | 15. / 16. 5. 1856 | Josef Gremuš (?) | Marie | dům, oba dny a křestní jména rodičů bezpečné; příjmení je pracovní, otec je spojen s dvorem N11 |
+| N8 | František Gremuš (?) | 1. / 2. 7. 1856 | Matěj Gremuš (?) | Anna | dům, oba dny a křestní jména rodičů bezpečné; příjmení je pracovní |
+| N18 | Anna `[příjmení nejasné]` | 8. / 9. 7. 1856 | jméno otce nejasné | jméno matky nejasné | první jméno dítěte, dům a oba dny bezpečné |
+| N11 | nepojmenovaná mrtvě narozená dcera Forelová | 22. 10. 1856; bez křtu | František Forel | Regina Červená | již evidovaná událost; druhá datová číslice `23` v rodné knize se kvůli výslovnému `mortua nata` nepřebírá jako křest |
+| N6 | Jan `[příjmení nejasné]` | 14. / 15. 11. 1856 | Josef `[příjmení nejasné]` | Anna | první jména dítěte a rodičů, dům a oba dny čitelné |
+| N5 | Jan Nuník (?) | 7. / 8. 1. 1857 | Josef Nuník (?) | Marie | dům a oba dny bezpečné; příjmení je pracovní čtení známé z N5 |
+| N20 | Marie Novotná | 14. / 15. 1. 1857 | Alois Novotný | Anna | dítě, rodiče, dům a oba dny bezpečné |
+
+## Snímek 324 — roky 1857–1858
+
+Sedm událostí má adresní řadu **N3, N14, N18, N16, N21, N11 a N6**. Marie
+Forelová je napojena na starší osobní ID. Poslední Jakub z N6 se na snímku 326
+opakuje pouze odkazovým řádkem na rukopisnou stranu 330 a počítá se jen zde.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N3 | Antonie Plášilová | 1. / 2. 5. 1857 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N14 | Jakub Junek / Jůnek | 1. 7. 1857; pokřtěn téhož dne | Vojtěch Junek / Jůnek | Marie | dítě, rodiče, dům a den bezpečné |
+| N18 | Jan Dvořáček | 5. / 6. 7. 1857 | Matěj Dvořáček | Josefa | dítě, rodiče, dům a oba dny bezpečné |
+| N16 | Vojtěch Díčka (?) | 7. / 8. 8. 1857 | Vojtěch Díčka (?) | Anna | dům a oba dny bezpečné; příjmení je pracovní čtení |
+| N21 | Václav Dušánek | 19. / 20. 9. 1857 | František Dušánek | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Marie Forelová | 21. / 22. 9. 1857 | František Forel | Regina Červená | již evidovaná rodina posla na panském dvoře; bez duplicity |
+| N6 | Jakub `[příjmení neuvedeno]` | 28. 3. 1858; pokřtěn téhož dne | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, den, první jméno a matčino křestní jméno bezpečné |
+
+## Snímek 325 — roky 1857–1858
+
+Šest událostí má adresní řadu **N10, N20, N1, N6, N15 a N23**. Žádná nepatří
+N11; bezpečně se opakují zejména rodiny Kejvalů, Žáků, Dvořáčků a Langrů.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N10 | František Kejval | 28. / 29. 11. 1857 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N20 | Josef Žák | 29. / 30. 11. 1857 | Josef Žák | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N1 | František Dvořáček | 6. / 7. 1. 1858 | Jan Dvořáček | jméno matky nejasné | dítě, otec, dům a oba dny bezpečné |
+| N6 | Marie `[příjmení nejasné]` | 17. / 18. 1. 1858 | Josef `[příjmení nejasné]` | Anna (?) | dům a oba dny bezpečné; rodové čtení zůstává otevřené |
+| N15 | Eleonora Langrová (?) | 19. / 20. 2. 1858 | Václav Langr (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní normalizace |
+| N23 | Josefa `[příjmení nejasné]` | 16. / 17. 3. 1858 | Jan `[příjmení nejasné]` | Marie | první jména dítěte a rodičů, dům a oba dny čitelné |
+
+## Snímek 326 — roky 1858–1859
+
+Osm fyzických řádků představuje jen **sedm nových událostí**. Jakub z N6 z
+28. 3. 1858 je odkazovým opakováním posledního zápisu snímku 324. Nová adresní
+řada je **N17, N11, N20, N6, N17, N3 a N11**. Veřejný jmenný rejstřík dokládá
+dobový tvar `Čmucha` i jméno Matěj, ale jeho indexované osoby se s rodinou N11
+bez dalšího důkazu neztotožňují.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N17 | Františka Řemínková (?) | 31. 3. 1858; pokřtěna téhož dne | Václav Řemínek (?) | Anna | dům, den a křestní jména rodičů bezpečné; příjmení je pracovní čtení |
+| N11 | Kateřina Junková / Jůnková | 20. / 21. 7. 1858 | Václav Junek / Jůnek | Anna | již evidované dítě a otec; celý zápis doplňuje matku Annu |
+| N20 | Antonín Novotný | 7. / 8. 8. 1858 | Antonín Novotný | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N6 | František Reník (?) | 14. / 15. 9. 1858 | Martin Reník (?) | Kateřina (?) | dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní |
+| N17 | Anna `[příjmení nejasné]` | 24. / 25. 1. 1859 | jméno otce nejasné | jméno matky nejasné | první jméno dítěte, dům a oba dny bezpečné |
+| N3 | Josefa Plášilová | 14. / 15. 2. 1859 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N11 | Marie Čmuchová (?) | 26. / 27. 3. 1859 | Matěj Čmucha (?) | Marie | dům, oba dny a křestní jména rodičů bezpečné; příjmení je pracovní čtení podpořené dobovým rejstříkem |
+
+## Snímek 327 — rok 1859
+
+Šest událostí má adresní řadu **N15, N5, N17, N18, N16 a N20**. Žádná
+nepatří N11; opakují se rodiny Langrů, Nuníků a Olivových.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N15 | Marie Langrová (?) | 21. / 22. 5. 1859 | Václav Langr (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Anna Nuníková (?) | 25. / 26. 5. 1859 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N17 | Marie Marta `[příjmení nejasné]` | 29. / 30. 6. 1859 | Jan `[příjmení nejasné]` | Petronila (?) | obě křestní jména, dům a oba dny bezpečné |
+| N18 | Antonie `[příjmení nejasné]` | 10. / 11. 10. 1859 | Jan `[příjmení nejasné]` | Josefa | první jméno dítěte a rodičů, dům a oba dny čitelné |
+| N16 | Kateřina Olivová | 25. / 26. 11. 1859 | Karel Oliva | Marie | dítě, rodiče, dům a oba dny bezpečné; příjmení dítěte odvozeno z otce |
+| N20 | Barbora `[příjmení nejasné]` | 3. / 4. 12. 1859 | Jan `[příjmení nejasné]` | Veronika | první jméno dítěte a rodičů, dům a oba dny čitelné |
+
+## Snímek 328 — rok 1860
+
+Sedm událostí má adresní řadu **N23, N17, N10, N22, N21, N15 a N1**. Žádná
+nepatří N11. Marie z N17 a Jan z N22 jsou nemanželské děti bez uvedeného otce.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N23 | Josefa `[příjmení nejasné]` | 31. 1. / 1. 2. 1860 | Jan `[příjmení nejasné]` | Kateřina | první jméno dítěte a rodičů, dům a oba dny čitelné |
+| N17 | Marie `[příjmení v dětském sloupci neuvedeno]` | 2. / 3. 2. 1860 | otec neuveden | Antonie Zručková (?) | nemanželské dítě; dům, oba dny a matčino první jméno bezpečné |
+| N10 | Josefa Kejvalová | 15. / 16. 2. 1860 | Josef Kejval | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
+| N22 | Jan `[příjmení v dětském sloupci neuvedeno]` | 18. / 19. 4. 1860 | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, oba dny a matčino první jméno bezpečné |
+| N21 | Marie Dušánková | 19. / 20. 5. 1860 | František Dušánek | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N15 | Antonie Langrová (?) | 13. / 14. 6. 1860 | Václav Langr (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N1 | Kateřina Dvořáčková | 23. 9. 1860; pokřtěna téhož dne | Jan Dvořáček | Marie | dítě, rodiče, dům a den bezpečné |
+
+## Snímek 329 — roky 1860–1861
+
+Sedm událostí má adresní řadu **N6, N16, N5, N6, N3, N17 a N14**. Žádná
+nepatří N11; u šesti řádků lze rodinu pracovně nebo bezpečně pojmenovat.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N6 | Jan Reník (?) | 29. / 30. 12. 1860 | Martin Reník (?) | Ludmila | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N16 | Josefa Díčková (?) | 23. / 24. 1. 1861 | Vojtěch Díčka (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Marie Nuníková (?) | 6. / 7. 3. 1861 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N6 | Josef Albert `[příjmení nejasné]` | 4. / 6. 4. 1861 | Jan `[příjmení nejasné]` | Petronila | obě křestní jména, dům, oba dny a první jména rodičů bezpečné |
+| N3 | Františka Plášilová | 15. / 16. 4. 1861 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N17 | Vojtěch Zručák (?) | 18. 5. 1861; pokřtěn téhož dne | Josef Zručák (?) | Petronila | dům, den a rodiče bezpečné; příjmení pracovní |
+| N14 | Jan Junek / Jůnek | 19. 5. 1861; pokřtěn téhož dne | Vojtěch Junek / Jůnek | Marie | dítě, rodiče, dům a den bezpečné; pravopis příjmení normalizovaný |
+
+## Snímek 330 — roky 1861–1862
+
+Šest událostí má adresní řadu **N11, N6, N19, N11, N17 a N11**. František
+Milk je napojen na starší osobní ID. Antonie Čmuchová prodlužuje bezpečně
+datovanou řadu stejného rodičovského páru v N11 z roku 1859 do roku 1862; Jan
+Plášil je synem samostatně evidovaných rodičů Jana a Kateřiny.
+
+| Dům | Dítě | Narození / křest | Otec | Matka | Stav |
+|---|---|---|---|---|---|
+| N11 | František Milk | 18. / 19. 7. 1861 | Matěj Milk | Rosalie Moravcová | již evidované dítě a rodiče; otec je čeledínem v panském dvoře N11 |
+| N6 | Vojtěch Gremuš (?) | 22. 10. 1861; pokřtěn téhož dne | Matěj Gremuš (?) | Anna | dítě, rodiče, dům a den bezpečné; tentýž pár je roku 1856 doložen v N8 |
+| N19 | Václav `[příjmení nejasné]` | 19. / 20. 12. 1861 | Matěj `[příjmení nejasné]` | Kateřina | první jméno dítěte a rodičů, dům a oba dny čitelné |
+| N11 | Antonie Čmuchová (?) | 6. / 7. 1. 1862 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N11 doložen roku 1859 |
+| N17 | Michal Nuník (?) | 15. / 16. 3. 1862 | Václav Nuník (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N11 | Jan Plášil | 2. / 3. 4. 1862 | Jan Plášil | Kateřina | dítě, rodiče, dům a oba dny bezpečné; bez automatického sloučení s jinými Plášilovými |
+
 | Snímek | Uložený celý obraz | Veřejný originál | Stav |
 |---|---|---|---|
 | 309 | [kniha6621_snim309.jpg](kniha6621_snim309.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/308) | inventarizováno |
@@ -269,5 +394,13 @@ N11 jsou nově přesně datované a rozepsané v osobní evidenci.
 | 320 | [kniha6621_snim320.jpg](kniha6621_snim320.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/319) | inventarizováno |
 | 321 | [kniha6621_snim321.jpg](kniha6621_snim321.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/320) | inventarizováno |
 | 322 | [kniha6621_snim322.jpg](kniha6621_snim322.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/321) | inventarizováno |
+| 323 | [kniha6621_snim323.jpg](kniha6621_snim323.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/322) | inventarizováno |
+| 324 | [kniha6621_snim324.jpg](kniha6621_snim324.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/323) | inventarizováno |
+| 325 | [kniha6621_snim325.jpg](kniha6621_snim325.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/324) | inventarizováno |
+| 326 | [kniha6621_snim326.jpg](kniha6621_snim326.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/325) | inventarizováno; jeden odkazový řádek opakuje snímek 324 |
+| 327 | [kniha6621_snim327.jpg](kniha6621_snim327.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/326) | inventarizováno |
+| 328 | [kniha6621_snim328.jpg](kniha6621_snim328.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/327) | inventarizováno |
+| 329 | [kniha6621_snim329.jpg](kniha6621_snim329.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/328) | inventarizováno |
+| 330 | [kniha6621_snim330.jpg](kniha6621_snim330.jpg) | [SOA Třeboň](https://digi.ceskearchivy.cz/6621/329) | inventarizováno |
 
-Další souvislé zpracování pokračuje snímkem **323**.
+Další souvislé zpracování pokračuje snímkem **331**.

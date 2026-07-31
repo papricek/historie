@@ -10,30 +10,40 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "František Franík",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka; přesné datum překryto revizní vrstvou · rolník; vlastní hospodářství na Zahrádce",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Pícha",
           "p": "dělník; svobodný",
+          "h": 1,
+          "c": "21. 5. 1898, Pacov · zemědělský dělník u majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Franík",
           "p": "otec přednosty; ovdovělý",
+          "h": 1,
+          "c": "10. 11. 1842, Zahrádka · soukromník; bývalý hospodář č. 1a na Zahrádce",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Vávra",
           "p": "čeledín; svobodný",
+          "h": 1,
+          "c": "Bratřice; přesné datum nejisté · čeledín v zemědělství u majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Růžena Franíková",
           "p": "sestra přednosty; svobodná",
+          "h": 1,
+          "c": "Zahrádka; přesné datum nejisté · pomáhala majiteli bytu v hospodářství; bez samostatného povolání",
           "r": 1921
         }
       ],
@@ -444,15 +454,15 @@ window.MAPA_DATA = {
         {
           "d": "3. / 4. 11. 1847",
           "j": "František Franěk",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1847
+          "p": "otec při narození dítěte František Franěk",
+          "r": 1847,
+          "rod": "o"
         },
         {
           "d": "3. / 4. 11. 1847",
           "j": "František Franěk",
-          "p": "otec při narození dítěte František Franěk",
-          "r": 1847,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1847
         },
         {
           "d": "6. / 7. 11. 1848",
@@ -517,45 +527,92 @@ window.MAPA_DATA = {
           "r": 1855
         },
         {
+          "d": "6. / 7. 1. 1858",
+          "j": "František Dvořáček",
+          "p": "narození / křest; dítě, otec, dům a oba dny bezpečné",
+          "r": 1858
+        },
+        {
+          "d": "6. / 7. 1. 1858",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte František Dvořáček",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "23. 9. 1860; pokřtěna téhož dne",
+          "j": "Jan Dvořáček",
+          "p": "otec při narození dítěte Kateřina Dvořáčková",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
+          "d": "23. 9. 1860; pokřtěna téhož dne",
+          "j": "Kateřina Dvořáčková",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
+          "r": 1860
+        },
+        {
+          "d": "23. 9. 1860; pokřtěna téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Kateřina Dvořáčková",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anežka Rohovcová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Božena Rohovcová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · švadlena",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Františka Rohovcová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Rohovec",
           "p": "přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · přesné povolání překryto revizní vrstvou",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Rohovec",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Rohovcová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v zemědělství; pracovištěm velkostatek na Zahrádce",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Rohovec",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · pomocník v zemědělství; pracovištěm velkostatek na Zahrádce",
           "r": 1921
         }
       ],
@@ -895,42 +952,56 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Kudrnová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Kudrna",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Kudrna",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Juliana Kudrnová",
           "p": "švagrová přednosty",
+          "h": 1,
+          "c": "Zahrádka · pracovala v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Kudrnová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Pavel Kudrna",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Kudrna",
           "p": "bratr přednosty; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         }
       ],
@@ -1327,45 +1398,119 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "1. / 2. 5. 1857",
+          "j": "Anna",
+          "p": "matka při narození dítěte Antonie Plášilová",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "1. / 2. 5. 1857",
+          "j": "Antonie Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1857
+        },
+        {
+          "d": "1. / 2. 5. 1857",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Antonie Plášilová",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "14. / 15. 2. 1859",
+          "j": "Anna",
+          "p": "matka při narození dítěte Josefa Plášilová",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 2. 1859",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Josefa Plášilová",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "14. / 15. 2. 1859",
+          "j": "Josefa Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování rodiny doložené v N3 roku 1857",
+          "r": 1859
+        },
+        {
+          "d": "15. / 16. 4. 1861",
+          "j": "Anna",
+          "p": "matka při narození dítěte Františka Plášilová",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 4. 1861",
+          "j": "František Plášil",
+          "p": "otec při narození dítěte Františka Plášilová",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 4. 1861",
+          "j": "Františka Plášilová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1861
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Bartoška",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Malá Chyška · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Božena Bartošková",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Pošná · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Schmied",
           "p": "sloužící; svobodný",
+          "h": 1,
+          "c": "Praha · přesný druh práce čeká na kontrolu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Juliana Bartošková",
           "p": "manželka",
+          "h": 1,
+          "c": "Malá Chyška · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Matěj Bartoška",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Rychnov u … (?) · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Růžena Bartošková",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Pošná · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Bartoška",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Buřenice · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         }
       ],
@@ -1559,42 +1704,56 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Matějka",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Františka Matějková",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jindřiška Matějková",
           "p": "manželka",
+          "h": 1,
+          "c": "Vlásenice · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Matějka",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Matějka",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Matějka",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Matějka",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
         }
       ],
@@ -1937,69 +2096,151 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "7. / 8. 1. 1857",
+          "j": "Jan Nuník (?)",
+          "p": "narození / křest; dům, oba dny a křestní jména rodičů bezpečné; příjmení je pracovní čtení známé z předchozích zápisů N5",
+          "r": 1857
+        },
+        {
+          "d": "7. / 8. 1. 1857",
+          "j": "Josef Nuník (?)",
+          "p": "otec při narození dítěte Jan Nuník (?)",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "7. / 8. 1. 1857",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Nuník (?)",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "25. / 26. 5. 1859",
+          "j": "Anna Nuníková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení známé z N5",
+          "r": 1859
+        },
+        {
+          "d": "25. / 26. 5. 1859",
+          "j": "Josef Nuník (?)",
+          "p": "otec při narození dítěte Anna Nuníková (?)",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "25. / 26. 5. 1859",
+          "j": "Marie",
+          "p": "matka při narození dítěte Anna Nuníková (?)",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
+          "d": "6. / 7. 3. 1861",
+          "j": "Josef Nuník (?)",
+          "p": "otec při narození dítěte Marie Nuníková (?)",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "6. / 7. 3. 1861",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Nuníková (?)",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "6. / 7. 3. 1861",
+          "j": "Marie Nuníková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N5",
+          "r": 1861
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Růžová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Vaňková",
           "p": "tchyně přednosty",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Antonín Růž",
-          "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Růž",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Antonín Růž",
+          "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Růž",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Vaněk",
           "p": "tchán přednosty",
+          "h": 1,
+          "c": "Zahrádka · soukromník; pomáhal v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Plískal",
           "p": "sloužící; svobodný",
+          "h": 1,
+          "c": "Pelhřimov · zemědělský sluha v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Procházka",
           "p": "pracovník domácnosti; svobodný",
+          "h": 1,
+          "c": "Malá Chyška (?) · zemědělský pracovník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Ludmila Vaňková",
           "p": "švagrová přednosty; svobodná",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Růžena Růžová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Malá Chyška (?) · žákyně",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Růž",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         }
       ],
@@ -2302,14 +2543,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Anna",
-          "p": "matka při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "matka při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "m"
         },
@@ -2328,14 +2569,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
@@ -2420,57 +2661,208 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "14. / 15. 11. 1856",
+          "j": "Anna",
+          "p": "matka při narození dítěte Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1856,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 11. 1856",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny čitelné; rodové údaje zůstávají otevřené",
+          "r": 1856
+        },
+        {
+          "d": "14. / 15. 11. 1856",
+          "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1856,
+          "rod": "o"
+        },
+        {
+          "d": "17. / 18. 1. 1858",
+          "j": "Anna (?)",
+          "p": "matka při narození dítěte Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "17. / 18. 1. 1858",
+          "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "17. / 18. 1. 1858",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; dům a oba dny bezpečné; otcovo příjmení se v zápisu opakuje, ale zatím se nepřepisuje odhadem",
+          "r": 1858
+        },
+        {
+          "d": "28. 3. 1858; pokřtěn téhož dne",
+          "j": "Jakub <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, den, první jméno a matčino křestní jméno bezpečné; odkazový opis na snímku 326 se nepočítá podruhé",
+          "r": 1858
+        },
+        {
+          "d": "28. 3. 1858; pokřtěn téhož dne",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Jakub <span class=\"nej\">[příjmení neuvedeno]</span>",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 9. 1858",
+          "j": "František Reník (?)",
+          "p": "narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení",
+          "r": 1858
+        },
+        {
+          "d": "14. / 15. 9. 1858",
+          "j": "Kateřina (?)",
+          "p": "matka při narození dítěte František Reník (?)",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 9. 1858",
+          "j": "Martin Reník (?)",
+          "p": "otec při narození dítěte František Reník (?)",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "29. / 30. 12. 1860",
+          "j": "Jan Reník (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N6",
+          "r": 1860
+        },
+        {
+          "d": "29. / 30. 12. 1860",
+          "j": "Ludmila",
+          "p": "matka při narození dítěte Jan Reník (?)",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
+          "d": "29. / 30. 12. 1860",
+          "j": "Martin Reník (?)",
+          "p": "otec při narození dítěte Jan Reník (?)",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
+          "d": "4. / 6. 4. 1861",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Josef Albert <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "4. / 6. 4. 1861",
+          "j": "Josef Albert <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; obě křestní jména, dům, oba dny a první jména rodičů bezpečné",
+          "r": 1861
+        },
+        {
+          "d": "4. / 6. 4. 1861",
+          "j": "Petronila",
+          "p": "matka při narození dítěte Josef Albert <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "22. 10. 1861; pokřtěn téhož dne",
+          "j": "Anna",
+          "p": "matka při narození dítěte Vojtěch Gremuš (?)",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "22. 10. 1861; pokřtěn téhož dne",
+          "j": "Matěj Gremuš (?)",
+          "p": "otec při narození dítěte Vojtěch Gremuš (?)",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "22. 10. 1861; pokřtěn téhož dne",
+          "j": "Vojtěch Gremuš (?)",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; stejný rodičovský pár je roku 1856 doložen v N8",
+          "r": 1861
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anežka Perníčková",
           "p": "dítě v domácnosti; svobodná",
+          "h": 1,
+          "c": "rodiště nejisté · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Beldánová (?)",
           "p": "matka přednosty; ovdovělá",
+          "h": 2,
+          "c": "Zahrádka · pomocnice v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Pánková",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Zahrádka · zemědělská pomocnice v hospodářství majitelky bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Beldán (?)",
           "p": "přednosta druhé domácnosti",
+          "h": 2,
+          "c": "Zahrádka · povolání nejasné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Šrolha",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pomocník v hospodářství majitelky bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Ladislav Perníček",
           "p": "dítě v domácnosti; svobodný",
+          "h": 1,
+          "c": "rodiště nejisté · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Šrolhová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · zemědělská pomocnice v hospodářství majitelky bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Pavla Šrolhová",
           "p": "majitelka bytu; přednostka; ovdovělá",
+          "h": 1,
+          "c": "Zahrádka · samostatně hospodařící zemědělkyně",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Žofie Beldánová (?)",
           "p": "manželka",
+          "h": 2,
+          "c": "rodiště nejisté · práce v domácnosti",
           "r": 1921
         }
       ],
@@ -2756,24 +3148,32 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Moravcová (?)",
           "p": "členka domácnosti; vztah nejasný",
+          "h": 1,
+          "c": "Samšín · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Pachtová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Pachta",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Pachtová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · bez povolání; dítě",
           "r": 1921
         }
       ],
@@ -3208,51 +3608,87 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "1. / 2. 7. 1856",
+          "j": "Anna",
+          "p": "matka při narození dítěte František Gremuš (?)",
+          "r": 1856,
+          "rod": "m"
+        },
+        {
+          "d": "1. / 2. 7. 1856",
+          "j": "František Gremuš (?)",
+          "p": "narození / křest; dům, oba dny a křestní jména rodičů bezpečné; stejné pracovní příjmení se opakuje u dítěte i otce",
+          "r": 1856
+        },
+        {
+          "d": "1. / 2. 7. 1856",
+          "j": "Matěj Gremuš (?)",
+          "p": "otec při narození dítěte František Gremuš (?)",
+          "r": 1856,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Kolářová",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Lípa (?) · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Růžová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Růž",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Šimek",
           "p": "pracovník domácnosti; svobodný",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Marie Růžová",
-          "p": "členka domácnosti; vztah nejasný",
+          "h": 1,
+          "c": "Vršce (?) · zemědělský dělník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Růžová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Marie Růžová",
+          "p": "členka domácnosti; vztah nejasný",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v domácnosti a hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Růžová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Růž",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · dítě bez povolání",
           "r": 1921
         }
       ],
@@ -3691,42 +4127,56 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Plášil",
           "p": "bratr přednosty; svobodný",
+          "h": 1,
+          "c": "Zahrádka · pomocník v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Barbora Kudrnová",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Samšín · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Plášil",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Plášil",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
           "p": "matka přednosty; ovdovělá",
+          "h": 1,
+          "c": "Kladruby (?) · bez bezpečně čitelného povolání",
           "r": 1921
         }
       ],
@@ -4287,6 +4737,46 @@ window.MAPA_DATA = {
           "r": 1855
         },
         {
+          "d": "28. / 29. 11. 1857",
+          "j": "František Kejval",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; první přímý rodný doklad této rodiny v N10 v souvislém průchodu",
+          "r": 1857
+        },
+        {
+          "d": "28. / 29. 11. 1857",
+          "j": "Josef Kejval",
+          "p": "otec při narození dítěte František Kejval",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "28. / 29. 11. 1857",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte František Kejval",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 2. 1860",
+          "j": "Josef Kejval",
+          "p": "otec při narození dítěte Josefa Kejvalová",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
+          "d": "15. / 16. 2. 1860",
+          "j": "Josefa Kejvalová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1860
+        },
+        {
+          "d": "15. / 16. 2. 1860",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josefa Kejvalová",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
           "d": "sňatek 2. 7. 1860",
           "j": "Rosalie Moravcová",
           "p": "nevěsta ze Zahrádky N10; později rodina v N11",
@@ -4297,42 +4787,56 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Bohuslava Kejvalová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · dítě bez povolání",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Božena Plášilová",
           "p": "schovanka; svobodná",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Kejval",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Hermína Kejvalová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Kateřina Kejvalová",
           "p": "manželka",
+          "h": 2,
+          "c": "Velká Chyška (?) · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Pavel Kejval (?)",
           "p": "přednosta druhé domácnosti",
+          "h": 2,
+          "c": "Zahrádka · výměnkář; dříve pracoval v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Vlasta Kejvalová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně obecné školy v Pošné",
           "r": 1921
         }
       ],
@@ -5205,6 +5709,27 @@ window.MAPA_DATA = {
           "r": 1856
         },
         {
+          "d": "doložen 15./16. 5. 1856",
+          "j": "Josef Gremuš <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "otec Jana; spojen s dvorem N11; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0214; tentýž zápis jako ZAH-0213",
+          "r": 1856
+        },
+        {
+          "d": "doložena 15./16. 5. 1856",
+          "j": "Marie, manželka Josefa Gremuše",
+          "p": "matka Jana; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0215; tentýž zápis jako ZAH-0213",
+          "r": 1856
+        },
+        {
+          "d": "narozen 15. 5., pokřtěn 16. 5. 1856",
+          "j": "Jan Gremuš <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0213; <a href=\"https://digi.ceskearchivy.cz/6621/322\" target=\"_blank\" rel=\"noopener\">originál, snímek 323</a>",
+          "r": 1856
+        },
+        {
           "d": "narozena mrtvá a zemřela 22. 10., pohřbena 24. 10. 1856",
           "j": "nepojmenovaná mrtvě narozená dcera Forelová",
           "p": "mrtvé narození a pohřeb; adresní posloupnost: Zahrádka N11",
@@ -5226,18 +5751,48 @@ window.MAPA_DATA = {
           "r": 1857
         },
         {
-          "d": "doložen 20. 7. 1858",
+          "d": "doložen 20./21. 7. 1858",
           "j": "Václav Junek / Jůnek",
           "p": "<b>čeledín ve panském dvoře</b>; otec Kateřiny; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0021; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">originál, snímek 326</a>",
           "r": 1858
         },
         {
+          "d": "doložena 20./21. 7. 1858",
+          "j": "Anna, manželka Václava Junka / Jůnka",
+          "p": "matka Kateřiny Junkové / Jůnkové; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0216; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">originál, snímek 326</a>",
+          "r": 1858
+        },
+        {
           "d": "narozena 20. 7. 1858, pokřtěna 21. 7. 1858",
-          "j": "Kateřina, dcera Václava Junka",
+          "j": "Kateřina Junková / Jůnková",
           "p": "narození a křest; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0020; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">originál, snímek 326</a>",
           "r": 1858
+        },
+        {
+          "d": "doložen 26./27. 3. 1859 a 6./7. 1. 1862",
+          "j": "Matěj Čmucha <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "otec Marie a Antonie; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0218; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">narození Marie, snímek 326</a>, <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">narození Antonie, snímek 330</a>, celé místní snímky v souvislém katalogu",
+          "r": 1859,
+          "rr": 1862
+        },
+        {
+          "d": "doložena 26./27. 3. 1859 a 6./7. 1. 1862",
+          "j": "Marie, manželka Matěje Čmuchy",
+          "p": "matka Marie a Antonie Čmuchových; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0219; tytéž dva zápisy jako ZAH-0218",
+          "r": 1859,
+          "rr": 1862
+        },
+        {
+          "d": "narozena 26. 3., pokřtěna 27. 3. 1859",
+          "j": "Marie Čmuchová <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0217; <a href=\"https://digi.ceskearchivy.cz/6621/325\" target=\"_blank\" rel=\"noopener\">originál, snímek 326</a>",
+          "r": 1859
         },
         {
           "d": "oddán 10. 1. 1860",
@@ -5255,7 +5810,7 @@ window.MAPA_DATA = {
           "rr": 1922
         },
         {
-          "d": "oddán 2. 7. 1860; doložen znovu 18. 7. 1861",
+          "d": "oddán 2. 7. 1860; doložen znovu 18./19. 7. 1861",
           "j": "Matěj Milk",
           "p": "čeledín; roku 1861 výslovně <b>čeledín v panském dvoře</b>; otec Františka; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0023; <a href=\"https://digi.ceskearchivy.cz/6623/116\" target=\"_blank\" rel=\"noopener\">sňatek, snímek 117</a>, <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">narození, snímek 330</a>",
@@ -5263,7 +5818,7 @@ window.MAPA_DATA = {
           "rr": 1861
         },
         {
-          "d": "oddána 2. 7. 1860; doložena znovu 18. 7. 1861",
+          "d": "oddána 2. 7. 1860; doložena znovu 18./19. 7. 1861",
           "j": "Rosalie Moravcová, manželka Matěje Milka",
           "p": "manželka Matěje, matka Františka; adresní posloupnost: roku 1860 Zahrádka N10; roku 1861 rodina v N11",
           "z": "ZAH-0024; <a href=\"https://digi.ceskearchivy.cz/6623/116\" target=\"_blank\" rel=\"noopener\">sňatek, snímek 117</a>, <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">narození, snímek 330</a>",
@@ -5276,6 +5831,34 @@ window.MAPA_DATA = {
           "p": "narození a křest; adresní posloupnost: Zahrádka N11",
           "z": "ZAH-0022; <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">originál, snímek 330</a>",
           "r": 1861
+        },
+        {
+          "d": "narozena 6. 1., pokřtěna 7. 1. 1862",
+          "j": "Antonie Čmuchová <span class=\"nej\">[příjmení pracovní]</span>",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0220; <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">originál, snímek 330</a>",
+          "r": 1862
+        },
+        {
+          "d": "doložen 2./3. 4. 1862",
+          "j": "Jan Plášil, otec",
+          "p": "otec Jana; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0222; tentýž zápis jako ZAH-0221",
+          "r": 1862
+        },
+        {
+          "d": "doložena 2./3. 4. 1862",
+          "j": "Kateřina, manželka Jana Plášila",
+          "p": "matka Jana Plášila; adresní posloupnost: rodina v Zahrádce N11",
+          "z": "ZAH-0223; tentýž zápis jako ZAH-0221",
+          "r": 1862
+        },
+        {
+          "d": "narozen 2. 4., pokřtěn 3. 4. 1862",
+          "j": "Jan Plášil",
+          "p": "narození a křest; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0221; <a href=\"https://digi.ceskearchivy.cz/6621/329\" target=\"_blank\" rel=\"noopener\">originál, snímek 330</a>",
+          "r": 1862
         },
         {
           "d": "oddána roku 1862, záznam 756",
@@ -6077,30 +6660,40 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Jan Budil",
           "p": "přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pracovník",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Budil",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josefa Kejvalová",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Zahrádka · zemědělská pomocnice",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Budilová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Kejvalová",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Zahrádka · zemědělská pomocnice",
           "r": 1921
         }
       ],
@@ -6629,14 +7222,14 @@ window.MAPA_DATA = {
         {
           "d": "7. / 8. 8. 1802",
           "j": "Jakub Lenz",
-          "p": "otec při narození dítěte František Lenz, dvojče",
+          "p": "otec při narození dítěte Václav Lenz, dvojče",
           "r": 1802,
           "rod": "o"
         },
         {
           "d": "7. / 8. 8. 1802",
           "j": "Jakub Lenz",
-          "p": "otec při narození dítěte Václav Lenz, dvojče",
+          "p": "otec při narození dítěte František Lenz, dvojče",
           "r": 1802,
           "rod": "o"
         },
@@ -6690,15 +7283,15 @@ window.MAPA_DATA = {
         {
           "d": "17. 11. 1808; křest téhož dne",
           "j": "Václav (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Václav (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1808,
-          "rod": "o"
+          "p": "narození / křest; dům a datum čitelné; jména pracovní",
+          "r": 1808
         },
         {
           "d": "17. 11. 1808; křest téhož dne",
           "j": "Václav (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; dům a datum čitelné; jména pracovní",
-          "r": 1808
+          "p": "otec při narození dítěte Václav (?) <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1808,
+          "rod": "o"
         },
         {
           "d": "9. 6. 1809; křest téhož dne",
@@ -7045,15 +7638,59 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "1. 7. 1857; pokřtěn téhož dne",
+          "j": "Jakub Junek / Jůnek",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; pravopis příjmení je normalizovaný",
+          "r": 1857
+        },
+        {
+          "d": "1. 7. 1857; pokřtěn téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jakub Junek / Jůnek",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "1. 7. 1857; pokřtěn téhož dne",
+          "j": "Vojtěch Junek / Jůnek",
+          "p": "otec při narození dítěte Jakub Junek / Jůnek",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "19. 5. 1861; pokřtěn téhož dne",
+          "j": "Jan Junek / Jůnek",
+          "p": "narození / křest; dítě, rodiče, dům a den bezpečné; pravopis příjmení je normalizovaný",
+          "r": 1861
+        },
+        {
+          "d": "19. 5. 1861; pokřtěn téhož dne",
+          "j": "Marie",
+          "p": "matka při narození dítěte Jan Junek / Jůnek",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "19. 5. 1861; pokřtěn téhož dne",
+          "j": "Vojtěch Junek / Jůnek",
+          "p": "otec při narození dítěte Jan Junek / Jůnek",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Kejvalová",
           "p": "manželka",
+          "h": 1,
+          "c": "Buková (?) · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Matěj Kejval",
           "p": "přednosta domácnosti",
+          "h": 1,
+          "c": "Pechova Lhota (?) · kočí velkostatku Březina–Zahrádka",
           "r": 1921
         }
       ],
@@ -7364,45 +8001,119 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "19. / 20. 2. 1858",
+          "j": "Eleonora Langrová (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní normalizace opakované rodiny N15",
+          "r": 1858
+        },
+        {
+          "d": "19. / 20. 2. 1858",
+          "j": "Marie",
+          "p": "matka při narození dítěte Eleonora Langrová (?)",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 2. 1858",
+          "j": "Václav Langr (?)",
+          "p": "otec při narození dítěte Eleonora Langrová (?)",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "21. / 22. 5. 1859",
+          "j": "Marie",
+          "p": "matka při narození dítěte Marie Langrová (?)",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
+          "d": "21. / 22. 5. 1859",
+          "j": "Marie Langrová (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní normalizace opakované rodiny N15",
+          "r": 1859
+        },
+        {
+          "d": "21. / 22. 5. 1859",
+          "j": "Václav Langr (?)",
+          "p": "otec při narození dítěte Marie Langrová (?)",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "13. / 14. 6. 1860",
+          "j": "Antonie Langrová (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní normalizace opakované rodiny N15",
+          "r": 1860
+        },
+        {
+          "d": "13. / 14. 6. 1860",
+          "j": "Marie",
+          "p": "matka při narození dítěte Antonie Langrová (?)",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
+          "d": "13. / 14. 6. 1860",
+          "j": "Václav Langr (?)",
+          "p": "otec při narození dítěte Antonie Langrová (?)",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Kulhavá",
           "p": "služka; svobodná",
+          "h": 1,
+          "c": "Velká Chyška (?) · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Kejval",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Kudlec",
           "p": "čeledín; svobodný",
+          "h": 1,
+          "c": "Polná (?) · zemědělský pracovník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Františka Kejvalová",
           "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Kejval",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · pomocník v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Kejval",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Kejvalová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · ženské práce; přesný zápis povolání nejasný",
           "r": 1921
         }
       ],
@@ -7705,69 +8416,151 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "7. / 8. 8. 1857",
+          "j": "Anna",
+          "p": "matka při narození dítěte Vojtěch Díčka (?)",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "7. / 8. 8. 1857",
+          "j": "Vojtěch Díčka (?)",
+          "p": "narození / křest; dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení opakované v N16",
+          "r": 1857
+        },
+        {
+          "d": "7. / 8. 8. 1857",
+          "j": "Vojtěch Díčka (?)",
+          "p": "otec při narození dítěte Vojtěch Díčka (?)",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "25. / 26. 11. 1859",
+          "j": "Karel Oliva",
+          "p": "otec při narození dítěte Kateřina Olivová",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "25. / 26. 11. 1859",
+          "j": "Kateřina Olivová",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; ženské příjmení je odvozeno z otce",
+          "r": 1859
+        },
+        {
+          "d": "25. / 26. 11. 1859",
+          "j": "Marie",
+          "p": "matka při narození dítěte Kateřina Olivová",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
+          "d": "23. / 24. 1. 1861",
+          "j": "Anna",
+          "p": "matka při narození dítěte Josefa Díčková (?)",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "23. / 24. 1. 1861",
+          "j": "Josefa Díčková (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N16",
+          "r": 1861
+        },
+        {
+          "d": "23. / 24. 1. 1861",
+          "j": "Vojtěch Díčka (?)",
+          "p": "otec při narození dítěte Josefa Díčková (?)",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Emil Kejval",
           "p": "vnuk; svobodný",
+          "h": 1,
+          "c": "rodiště nejisté · dítě bez povolání",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Kejval",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · řemeslník; přesný obor vyžaduje kontrolu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Rohovec",
           "p": "vnuk; svobodný",
+          "h": 1,
+          "c": "Zahrádka · dítě bez povolání",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Rohovec",
           "p": "zeť; ženatý",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pracovník",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Františka Švárová",
           "p": "dcera; ovdovělá",
+          "h": 1,
+          "c": "Zahrádka · domácí práce",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Kejval",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Juliana Kejvalová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v zemědělství",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Kateřina Kejvalová",
           "p": "manželka",
+          "h": 1,
+          "c": "Křeč (?) · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Terezie Rohovcová",
           "p": "dcera; vdaná",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Švára",
           "p": "vnuk; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Žofie Švárová",
           "p": "vnučka; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně",
           "r": 1921
         }
       ],
@@ -8048,69 +8841,190 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "31. 3. 1858; pokřtěna téhož dne",
+          "j": "Anna",
+          "p": "matka při narození dítěte Františka Řemínková (?)",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "31. 3. 1858; pokřtěna téhož dne",
+          "j": "Františka Řemínková (?)",
+          "p": "narození / křest; dům, den a křestní jména rodičů bezpečné; příjmení je pracovní čtení",
+          "r": 1858
+        },
+        {
+          "d": "31. 3. 1858; pokřtěna téhož dne",
+          "j": "Václav Řemínek (?)",
+          "p": "otec při narození dítěte Františka Řemínková (?)",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "24. / 25. 1. 1859",
+          "j": "Anna <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte, dům a oba dny bezpečné; rozsáhlý pozdější oddací přípis patří témuž dítěti",
+          "r": 1859
+        },
+        {
+          "d": "29. / 30. 6. 1859",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Marie Marta <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "29. / 30. 6. 1859",
+          "j": "Marie Marta <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; obě křestní jména, dům a oba dny bezpečné; matčino jméno je pracovní čtení",
+          "r": 1859
+        },
+        {
+          "d": "29. / 30. 6. 1859",
+          "j": "Petronila (?)",
+          "p": "matka při narození dítěte Marie Marta <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
+          "d": "2. / 3. 2. 1860",
+          "j": "Antonie Zručková (?)",
+          "p": "matka při narození dítěte Marie <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
+          "d": "2. / 3. 2. 1860",
+          "j": "Marie <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, oba dny a matčino první jméno bezpečné, příjmení matky pracovní",
+          "r": 1860
+        },
+        {
+          "d": "18. 5. 1861; pokřtěn téhož dne",
+          "j": "Josef Zručák (?)",
+          "p": "otec při narození dítěte Vojtěch Zručák (?)",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "18. 5. 1861; pokřtěn téhož dne",
+          "j": "Petronila",
+          "p": "matka při narození dítěte Vojtěch Zručák (?)",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "18. 5. 1861; pokřtěn téhož dne",
+          "j": "Vojtěch Zručák (?)",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní čtení opakované u dítěte a otce",
+          "r": 1861
+        },
+        {
+          "d": "15. / 16. 3. 1862",
+          "j": "Anna",
+          "p": "matka při narození dítěte Michal Nuník (?)",
+          "r": 1862,
+          "rod": "m"
+        },
+        {
+          "d": "15. / 16. 3. 1862",
+          "j": "Michal Nuník (?)",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení",
+          "r": 1862
+        },
+        {
+          "d": "15. / 16. 3. 1862",
+          "j": "Václav Nuník (?)",
+          "p": "otec při narození dítěte Michal Nuník (?)",
+          "r": 1862,
+          "rod": "o"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Nováková",
           "p": "manželka",
+          "h": 3,
+          "c": "Káplín / Kaplín (?) · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Plášilová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Barbora Franíková (?)",
           "p": "přednostka domácnosti; ovdovělá",
+          "h": 4,
+          "c": "Příchonice · ruční práce; přesný druh nejasný",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Barbora Plášilová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · pomocnice v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Dvořák — křestní jméno nečitelné",
           "p": "přednosta domácnosti; ženatý",
+          "h": 2,
+          "c": "Zahrádka · zápis povolání překryt revizní číslicí",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Plášil",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · žák",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Novák (?)",
           "p": "přednosta domácnosti; ženatý",
+          "h": 3,
+          "c": "Zahrádka · povolání překryto revizní vrstvou",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Plášil",
           "p": "syn; svobodný",
+          "h": 1,
+          "c": "Zahrádka · dítě bez povolání",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
           "p": "manželka",
+          "h": 1,
+          "c": "Pacov · práce v domácnosti",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Růžena Plášilová",
           "p": "dcera; svobodná",
+          "h": 1,
+          "c": "Zahrádka · žákyně",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Vojtěch Plášil",
           "p": "přednosta domácnosti",
+          "h": 1,
+          "c": "Zahrádka · zemědělský pracovník",
           "r": 1921
         }
       ],
@@ -8324,21 +9238,70 @@ window.MAPA_DATA = {
           "r": 1853
         },
         {
+          "d": "8. / 9. 7. 1856",
+          "j": "Anna <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte, dům a oba dny bezpečné; pozdější úmrtní přípis patří témuž dítěti",
+          "r": 1856
+        },
+        {
+          "d": "5. / 6. 7. 1857",
+          "j": "Jan Dvořáček",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1857
+        },
+        {
+          "d": "5. / 6. 7. 1857",
+          "j": "Josefa",
+          "p": "matka při narození dítěte Jan Dvořáček",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "5. / 6. 7. 1857",
+          "j": "Matěj Dvořáček",
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "10. / 11. 10. 1859",
+          "j": "Antonie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte a rodičů, dům a oba dny čitelné",
+          "r": 1859
+        },
+        {
+          "d": "10. / 11. 10. 1859",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Antonie <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "10. / 11. 10. 1859",
+          "j": "Josefa",
+          "p": "matka při narození dítěte Antonie <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Apolonie Kudrnová",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Kudrna",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Matějková (?)",
           "p": "služka; svobodná",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -8619,39 +9582,65 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "19. / 20. 12. 1861",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Václav <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1861,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 12. 1861",
+          "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Václav <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1861,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 20. 12. 1861",
+          "j": "Václav <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte a rodičů, dům a oba dny čitelné",
+          "r": 1861
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Františka Vaňková",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Vaněk",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Vaňková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Vaněk",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -8980,6 +9969,86 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "14. / 15. 1. 1857",
+          "j": "Alois Novotný",
+          "p": "otec při narození dítěte Marie Novotná",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "14. / 15. 1. 1857",
+          "j": "Anna",
+          "p": "matka při narození dítěte Marie Novotná",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "14. / 15. 1. 1857",
+          "j": "Marie Novotná",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1857
+        },
+        {
+          "d": "29. / 30. 11. 1857",
+          "j": "Anna",
+          "p": "matka při narození dítěte Josef Žák",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "29. / 30. 11. 1857",
+          "j": "Josef Žák",
+          "p": "otec při narození dítěte Josef Žák",
+          "r": 1857,
+          "rod": "o"
+        },
+        {
+          "d": "29. / 30. 11. 1857",
+          "j": "Josef Žák",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování známé rodiny N20",
+          "r": 1857
+        },
+        {
+          "d": "7. / 8. 8. 1858",
+          "j": "Anna",
+          "p": "matka při narození dítěte Antonín Novotný",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "7. / 8. 8. 1858",
+          "j": "Antonín Novotný",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1858
+        },
+        {
+          "d": "7. / 8. 8. 1858",
+          "j": "Antonín Novotný",
+          "p": "otec při narození dítěte Antonín Novotný",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "3. / 4. 12. 1859",
+          "j": "Barbora <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte a rodičů, dům a oba dny čitelné",
+          "r": 1859
+        },
+        {
+          "d": "3. / 4. 12. 1859",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Barbora <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "o"
+        },
+        {
+          "d": "3. / 4. 12. 1859",
+          "j": "Veronika",
+          "p": "matka při narození dítěte Barbora <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1859,
+          "rod": "m"
+        },
+        {
           "d": "15./16. 2. 1868",
           "j": "Jan Svaček / Sváček",
           "p": "podruh; otec Josefa",
@@ -8997,24 +10066,28 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Anna Zelenková",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Zelenka",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Zelenka",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Zelenková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -9247,15 +10320,55 @@ window.MAPA_DATA = {
         {
           "d": "6. / 8. 4. 1855",
           "j": "František Dušánek",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1855
+          "p": "otec při narození dítěte František Dušánek",
+          "r": 1855,
+          "rod": "o"
         },
         {
           "d": "6. / 8. 4. 1855",
           "j": "František Dušánek",
-          "p": "otec při narození dítěte František Dušánek",
-          "r": 1855,
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1855
+        },
+        {
+          "d": "19. / 20. 9. 1857",
+          "j": "Anna",
+          "p": "matka při narození dítěte Václav Dušánek",
+          "r": 1857,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 9. 1857",
+          "j": "František Dušánek",
+          "p": "otec při narození dítěte Václav Dušánek",
+          "r": 1857,
           "rod": "o"
+        },
+        {
+          "d": "19. / 20. 9. 1857",
+          "j": "Václav Dušánek",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1857
+        },
+        {
+          "d": "19. / 20. 5. 1860",
+          "j": "Anna",
+          "p": "matka při narození dítěte Marie Dušánková",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
+          "d": "19. / 20. 5. 1860",
+          "j": "František Dušánek",
+          "p": "otec při narození dítěte Marie Dušánková",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
+          "d": "19. / 20. 5. 1860",
+          "j": "Marie Dušánková",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1860
         },
         {
           "d": "narozena 6. 6. 1868; oddána 21. 4. 1896",
@@ -9285,96 +10398,112 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Alois Horáček",
           "p": "přednosta třetí domácnosti",
+          "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Horáčková",
           "p": "manželka",
+          "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Anna Horáčková",
           "p": "dcera; svobodná",
+          "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Horáčková",
           "p": "dcera; svobodná",
+          "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Božena Horáčková",
           "p": "dcera; svobodná",
+          "h": 3,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Motl (?)",
           "p": "přednosta čtvrté domácnosti",
+          "h": 4,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Františka Vaňková",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jaroslav Vaněk",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Matoušek",
           "p": "přednosta druhé domácnosti",
+          "h": 2,
+          "r": 1921
+        },
+        {
+          "d": "1921 (sčítací arch)",
+          "j": "Josef Vaněk",
+          "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vaněk",
           "p": "přednosta domácnosti",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
-          "j": "Josef Vaněk",
-          "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josefa Matoušková",
           "p": "manželka",
+          "h": 2,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Karel Matoušek",
           "p": "syn; svobodný",
+          "h": 2,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Matoušková",
           "p": "dcera; svobodná",
+          "h": 2,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Motlová (?)",
           "p": "manželka",
+          "h": 4,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Vaňková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -9405,57 +10534,79 @@ window.MAPA_DATA = {
           "rod": "m"
         },
         {
+          "d": "18. / 19. 4. 1860",
+          "j": "Jan <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "p": "narození / křest; nemanželské dítě; dům, oba dny a matčino první jméno bezpečné",
+          "r": 1860
+        },
+        {
+          "d": "18. / 19. 4. 1860",
+          "j": "Marie <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "matka při narození dítěte Jan <span class=\"nej\">[příjmení v dětském sloupci neuvedeno]</span>",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Božena Bílková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Florián Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Bílek",
           "p": "přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "František Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Julie Bílková",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Ladislav Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Ludvík Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Václav Bílek",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -9525,27 +10676,71 @@ window.MAPA_DATA = {
           "r": 1854
         },
         {
+          "d": "16. / 17. 3. 1858",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1858,
+          "rod": "o"
+        },
+        {
+          "d": "16. / 17. 3. 1858",
+          "j": "Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jména dítěte a rodičů, dům a oba dny čitelné",
+          "r": 1858
+        },
+        {
+          "d": "16. / 17. 3. 1858",
+          "j": "Marie",
+          "p": "matka při narození dítěte Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1858,
+          "rod": "m"
+        },
+        {
+          "d": "31. 1. / 1. 2. 1860",
+          "j": "Jan <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "otec při narození dítěte Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1860,
+          "rod": "o"
+        },
+        {
+          "d": "31. 1. / 1. 2. 1860",
+          "j": "Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "p": "narození / křest; první jméno dítěte a rodičů, dům a oba dny čitelné",
+          "r": 1860
+        },
+        {
+          "d": "31. 1. / 1. 2. 1860",
+          "j": "Kateřina",
+          "p": "matka při narození dítěte Josefa <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1860,
+          "rod": "m"
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Jiřina Vytisková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Vytiska",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Vytisková",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Vytisková",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -9611,24 +10806,28 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Plášil",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Juliana Plášilová",
           "p": "matka přednosty; ovdovělá",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Kateřina Plášilová",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
           "p": "dcera; svobodná",
+          "h": 1,
           "r": 1921
         }
       ],
@@ -9642,30 +10841,35 @@ window.MAPA_DATA = {
           "d": "1921 (sčítací arch)",
           "j": "Anna Kolářová",
           "p": "pomocnice; svobodná",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Jan Kudlec",
           "p": "syn; svobodný",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Kudlec",
           "p": "majitel bytu; přednosta domácnosti",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Kudlecová",
           "p": "manželka",
+          "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Peřová (?)",
           "p": "služka; svobodná",
+          "h": 1,
           "r": 1921
         }
       ],

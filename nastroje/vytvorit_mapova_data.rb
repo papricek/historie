@@ -119,6 +119,62 @@ lines.each do |line|
   current["osoby"] << radek
 end
 
+# Domácnosti, rodiště a povolání ze sčítacích tabulek hlavního registru
+# (sloupce: Domácnost | Osoba | Vztah | Rodiště | Povolání). Řádky sčítání
+# v domovním přehledu nesou jen vztah; zbytek se dohledá podle jména a vztahu.
+def plain(html)
+  html.gsub(/<[^>]+>/, "").strip
+end
+
+cenzus = Hash.new { |h, k| h[k] = Hash.new { |h2, k2| h2[k2] = [] } }
+census_house = nil
+in_census = false
+File.readlines(SRC_REGISTR, chomp: true).each do |line|
+  if line.start_with?("## ")
+    in_census = line[3..].strip == "Sčítání lidu 1921"
+    census_house = nil
+    next
+  end
+  next unless in_census
+
+  if line.start_with?("### ")
+    heading = line[4..].strip
+    census_house =
+      case heading
+      when /\AČ\. 1a\b/i then "1a"
+      when /\AČp\. (\d+)\b/ then Regexp.last_match(1)
+      end
+    next
+  end
+  next unless census_house && line.start_with?("|")
+
+  cells = line.split("|").map(&:strip)
+  next if cells.length < 4 || cells[1].start_with?("---") || cells[1] == "Domácnost"
+
+  key = [plain(cell_to_html(cells[2])), plain(cell_to_html(cells[3]))]
+  detail = [cells[4], cells[5]].compact.map { |c| cell_to_html(c) }.reject(&:empty?)
+  cenzus[census_house][key] << { "h" => cells[1].to_i, "c" => detail.join(" · ") }
+end
+
+nesparovano = 0
+houses.each do |house|
+  fronta = cenzus[house["klic"]]
+  next if fronta.empty?
+
+  house["osoby"].each do |o|
+    next unless o["d"].include?("1921 (sčítací arch)")
+
+    zaznam = fronta[[plain(o["j"]), plain(o["p"])]].shift
+    if zaznam
+      o["h"] = zaznam["h"]
+      o["c"] = zaznam["c"] unless zaznam["c"].empty?
+    else
+      nesparovano += 1
+    end
+  end
+end
+warn "Nespárovaných řádků sčítání 1921: #{nesparovano}" if nesparovano.positive?
+
 # Osoby bez zjištěného domu z hlavního registru (sloupce: Osoba | Datum |
 # Role | Pramen | Starší ID) — na mapě jako samostatná dlaždice.
 nezjisteni = { "klic" => "x", "nazev" => "Dům nezjištěn", "osoby" => [] }
