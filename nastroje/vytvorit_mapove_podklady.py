@@ -159,6 +159,43 @@ def otisk_1829():
     save_web(out, "podklad_1829.jpg")
 
 
+# --- Originalni mapa s reambulaci 1878 a rastr byvaleho PK ------------------
+#
+# Oba rastry sdileji kresebny zaklad stabilniho katastru, takze se registruji
+# podobnostni transformaci vuci jiz registrovanemu cisarskemu otisku listu II:
+# vicemeritkove NCC gradientu vyrezu vsi otisku (1150,750)-(2050,1550).
+# om1878: meritko 1.08, posun sablony na (1762, 812), NCC 0.41
+# pk:     meritko 2.45, posun sablony na (713, 573), NCC 0.15 (rastr car versus
+#         malovana mapa; spravnost polohy overena vizualnim prusvitem)
+# Zbytkovy posun v radu ~5 m odpovida presnosti letecke rady.
+
+OM1878 = ROOT / "prameny_online" / "mapy_katastralni" / "1829_reambulace_1878" / "originalni_mapa_list_II_B2_a_4C_8865_2.jpg"
+PK = ROOT / "prameny_online" / "mapy_katastralni" / "datum_neurceno_pozemkovy_katastr" / "pozemkovy_katastr_zahradka.png"
+DALSI_KATASTRALNI = {
+    "1878": (OM1878, 1.08, 1762.0 - 1.08 * 1150, 812.0 - 1.08 * 750, (243, 238, 225)),
+    "pk": (PK, 2.45, 713.0 - 2.45 * 1150, 573.0 - 2.45 * 750, (252, 250, 246)),
+}
+
+
+def dalsi_katastralni_vrstvy():
+    h = sjtsk_do_listu()
+    px_to_sjtsk = np.array([
+        [FRAME_M / SIZE, 0, FRAME_X0],
+        [0, -FRAME_M / SIZE, FRAME_Y0],
+        [0, 0, 1],
+    ])
+    frame_to_otisk = h @ px_to_sjtsk
+    for name, (path, f, ox, oy, fill) in DALSI_KATASTRALNI.items():
+        to_target = np.array([[f, 0, ox], [0, f, oy], [0, 0, 1]], float)
+        frame_to_target = to_target @ frame_to_otisk
+        im = Image.open(path).convert("RGB")
+        data = tuple(frame_to_target[:2].ravel())
+        out = im.transform((SIZE, SIZE), Image.Transform.AFFINE, data,
+                           resample=Image.Resampling.BICUBIC, fillcolor=fill)
+        save_web(out, f"podklad_{name}.jpg")
+
+
 if __name__ == "__main__":
     letecke_vrstvy()
     otisk_1829()
+    dalsi_katastralni_vrstvy()
