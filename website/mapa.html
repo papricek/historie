@@ -401,12 +401,30 @@
     font: 700 11px/1 system-ui, sans-serif; letter-spacing: .1em; color: var(--accent-ink);
     padding: 7px 2px 5px; border-bottom: 1px solid var(--border);
   }
-  .sparky { display: flex; align-items: flex-end; gap: 2px; height: 22px; margin: 2px 0 10px; }
+  .sparky-box { margin: 4px 0 10px; }
+  .sparky { display: flex; align-items: flex-end; gap: 2px; height: 34px; }
   .sparky button {
-    flex: 0 0 8px; border: 0; border-radius: 2px 2px 0 0; padding: 0; cursor: pointer;
+    flex: 1 1 0; min-width: 0; border: 0; border-radius: 2px 2px 0 0; padding: 0; cursor: pointer;
     background: color-mix(in srgb, var(--accent) 45%, var(--surface));
   }
-  .sparky button:hover { background: var(--accent); }
+  .sparky button:hover, .sparky button:focus-visible { background: var(--accent); }
+  .sparky-popis {
+    font-family: system-ui, sans-serif; font-size: 11.5px; color: var(--muted);
+    margin-top: 5px; min-height: 1.3em; line-height: 1.3;
+  }
+  .sparky-popis b { color: var(--accent-ink); font-weight: 600; }
+  .radek-nastroju {
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    margin: 10px 0 0; border-top: 1px solid var(--border); padding-top: 8px;
+  }
+  .radek-nastroju .pocet { font-family: system-ui, sans-serif; font-size: 11.5px; color: var(--muted); }
+  .razeni {
+    font-family: system-ui, sans-serif; font: 500 12px/1 system-ui, sans-serif;
+    border: 1px solid var(--border); background: var(--surface-2); color: var(--accent-ink);
+    border-radius: 999px; padding: 6px 11px; cursor: pointer; white-space: nowrap;
+  }
+  .razeni:hover { border-color: var(--accent); }
+  .osoby { border-top: 0; }
   .nej { color: var(--muted); font-style: italic; }
   mark {
     background: color-mix(in srgb, var(--accent) 22%, transparent);
@@ -833,11 +851,19 @@ function kartaHtml(u) {
   return html + '<div class="rodice">' + casti.join(" · ") + "</div></div>";
 }
 
+/* Pořadí výpisu: vzestupně od nejstaršího dokladu, nebo sestupně od dneška.
+   Volba platí pro všechny domy a drží se po dobu návštěvy. */
+let sestupne = false;
+try { sestupne = localStorage.getItem("zahradka-poradi") === "sestupne"; } catch (e) {}
+
 function seznamHtml(dum) {
   let udalosti = seskupUdalosti(dum.osoby);
   if (tf.on && !tf.ukazVse) udalosti = udalosti.filter((u) => u.radky.some(radekVOkne));
   const separatory = dum.osoby.length > 20;
-  let html = "";
+  if (sestupne) udalosti = udalosti.slice().reverse();
+  /* Dnešní stav je nejnovější položkou řady, ne samostatným blokem nad ní. */
+  const dnes = dnesHtml(dum.klic);
+  let html = sestupne ? dnes : "";
   let dekada = null;
   for (const u of udalosti) {
     if (separatory && u.r) {
@@ -849,7 +875,7 @@ function seznamHtml(dum) {
     }
     html += kartaHtml(u);
   }
-  return html;
+  return html + (sestupne ? "" : dnes);
 }
 
 /* Hustota dokladů po desetiletích; sloupky skáčou na oddělovač v seznamu. */
@@ -863,14 +889,20 @@ function sparklineHtml(dum) {
   if (pocty.size < 2) return "";
   const dekady = [...pocty.keys()].sort((a, b) => a - b);
   const max = Math.max(...pocty.values());
-  let html = '<div class="sparky">';
-  for (let d = dekady[0]; d <= dekady[dekady.length - 1]; d += 10) {
+  const celkem = [...pocty.values()].reduce((a, b) => a + b, 0);
+  const konec = dekady[dekady.length - 1];
+  let html = '<div class="sparky-box"><div class="sparky">';
+  for (let d = dekady[0]; d <= konec; d += 10) {
     const n = pocty.get(d) || 0;
-    html += '<button style="height:' + (n ? Math.round(4 + 16 * n / max) : 2) +
-      'px" title="' + d + "–" + (d + 9) + ": " + n + '" data-dek="' + d +
-      '" aria-label="' + d + ": " + n + '"></button>';
+    html += '<button style="height:' + (n ? Math.round(5 + 27 * n / max) : 2) +
+      'px" data-dek="' + d + '" data-pocet="' + n + '"' +
+      ' title="' + d + "–" + (d + 9) + ": " + n + ' dokladů" aria-label="' +
+      d + "–" + (d + 9) + ": " + n + '"></button>';
   }
-  return html + "</div>";
+  return html + '</div><div class="sparky-popis" data-vychozi="' +
+    dekady[0] + "–" + (konec + 9) + " · " + celkem +
+    ' datovaných dokladů"><b>' + dekady[0] + "–" + (konec + 9) + "</b> · " +
+    celkem + ' datovaných dokladů — klepnutím na sloupec skočíte do seznamu</div></div>';
 }
 
 function radekHtml(o) {
@@ -992,9 +1024,12 @@ function vyberDum(klic) {
     ' aria-label="Kopírovat odkaz na dům">' + IKONA_ODKAZ + "</button></h3>" +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
-    dnesHtml(klic) +
     sparklineHtml(dum) +
     tfPoznamkaHtml(dum) +
+    '<div class="radek-nastroju"><span class="pocet">Výpis podle času</span>' +
+    '<button class="razeni" type="button" aria-live="polite"' +
+    ' title="Přepnout pořadí výpisu">' +
+    (sestupne ? "↓ od nejnovějšího" : "↑ od nejstaršího") + "</button></div>" +
     '<div class="osoby">' + seznamHtml(dum) + "</div>";
   const tfVse = panel.querySelector("#tfVse");
   if (tfVse) tfVse.addEventListener("click", (e) => {
@@ -1021,14 +1056,36 @@ function vyberDum(klic) {
       }, 1600);
     }, () => { window.prompt("Zkopírujte odkaz ručně:", url); });
   });
-  const spark = panel.querySelector(".sparky");
-  if (spark) spark.addEventListener("click", (e) => {
-    const cil = e.target.closest("button");
-    if (!cil) return;
-    const sep = document.getElementById("dek-" + klic + "-" + cil.dataset.dek);
-    const box = panel.querySelector(".osoby");
-    if (sep && box) box.scrollTop = sep.offsetTop - box.offsetTop;
+  const razeni = panel.querySelector(".razeni");
+  if (razeni) razeni.addEventListener("click", () => {
+    sestupne = !sestupne;
+    try { localStorage.setItem("zahradka-poradi", sestupne ? "sestupne" : "vzestupne"); } catch (e) {}
+    vyberDum(klic);
   });
+  const spark = panel.querySelector(".sparky");
+  const popis = panel.querySelector(".sparky-popis");
+  if (spark) {
+    spark.addEventListener("click", (e) => {
+      const cil = e.target.closest("button");
+      if (!cil) return;
+      const sep = document.getElementById("dek-" + klic + "-" + cil.dataset.dek);
+      /* od opravy pro mobil roluje celý obsah panelu, ne jen seznam */
+      const box = getComputedStyle(panel).overflowY === "auto" ? panel : panel.querySelector(".osoby");
+      if (sep && box) box.scrollTop += sep.getBoundingClientRect().top - box.getBoundingClientRect().top;
+    });
+    const ukaz = (e) => {
+      const cil = e.target.closest && e.target.closest("button");
+      if (!cil || !popis) return;
+      const d = +cil.dataset.dek, p = +cil.dataset.pocet;
+      popis.innerHTML = "<b>" + d + "–" + (d + 9) + "</b> · " +
+        (p ? p + (p === 1 ? " doklad" : p < 5 ? " doklady" : " dokladů") : "žádný doklad");
+    };
+    const zpet = () => { if (popis) popis.innerHTML = popis.dataset.vychozi.replace(/^([\d–]+)/, "<b>$1</b>"); };
+    spark.addEventListener("pointerover", ukaz);
+    spark.addEventListener("focusin", ukaz);
+    spark.addEventListener("pointerleave", zpet);
+    spark.addEventListener("focusout", zpet);
+  }
 }
 
 uvodPanelu();
