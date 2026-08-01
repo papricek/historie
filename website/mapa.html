@@ -319,7 +319,7 @@
     .panel {
       position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 60; margin: 0;
       border-radius: 14px 14px 0 0;
-      max-height: 52vh; display: flex; flex-direction: column;
+      max-height: 62vh; display: flex; flex-direction: column;
       transform: translateY(105%); transition: transform .28s ease;
       box-shadow: 0 -6px 30px rgba(0,0,0,.25);
       padding-top: 14px;
@@ -337,7 +337,13 @@
     .panel.plny { max-height: 92vh; }
     /* hluboky odkaz otevira list okamzite; animace az po nacteni stranky */
     body:not(.nacteno) .panel { transition: none; }
-    #panelObsah { display: flex; flex-direction: column; min-height: 0; }
+    /* na mobilu roluje celý obsah listu, ne jen seznam osob — vnořený
+       scroll dělal oddíl „Dnešní stav“ nedosažitelným */
+    #panelObsah {
+      display: block; flex: 1 1 auto; min-height: 0;
+      overflow-y: auto; -webkit-overflow-scrolling: touch;
+      overscroll-behavior: contain; scrollbar-width: thin;
+    }
     #panelObsah h3 { padding-right: 40px; }
   }
   .panel h3 { margin: 0 0 2px; font-size: 1.12rem; font-weight: 600; }
@@ -374,7 +380,7 @@
   .tf-pozn { font-family: system-ui, sans-serif; font-size: 12px; color: var(--accent-ink); margin: 0 0 8px; }
   .tf-pozn a { cursor: pointer; }
   .osoby { max-height: 480px; overflow-y: auto; border-top: 1px solid var(--border); }
-  @media (max-width: 940px) { .osoby { max-height: none; flex: 1 1 auto; min-height: 0; } }
+  @media (max-width: 940px) { .osoby { max-height: none; overflow: visible; flex: none; } }
   .osoba { padding: 8px 2px; border-bottom: 1px solid var(--border); }
   .osoba .kdy { font-family: system-ui, sans-serif; font-size: 11px; color: var(--muted); line-height: 1.45; }
   .osoba .kdo { font-size: 15px; line-height: 1.35; margin: 1px 0; }
