@@ -259,4 +259,17 @@ File.open(OUT, "w") do |f|
   f.puts "window.MAPA_DNES = #{JSON.pretty_generate(dnes)};"
 end
 
+# Otisk dat se propíše do <script src="mapa_data.js?v=…"> v mapa.html, aby
+# prohlížeč po nasazení nedržel starou verzi dat z mezipaměti.
+require "digest"
+verze = Digest::SHA256.file(OUT).hexdigest[0, 10]
+stranka = File.join(ROOT, "website", "mapa.html")
+html = File.read(stranka)
+nove = html.sub(/<script src="mapa_data\.js(?:\?v=[0-9a-f]+)?"><\/script>/,
+                "<script src=\"mapa_data.js?v=#{verze}\"></script>")
+if nove != html
+  File.write(stranka, nove)
+  puts "mapa.html: verze dat nastavena na #{verze}"
+end
+
 puts "#{OUT}: #{houses.length} domů, #{total} osobních řádků, dnešní stav: #{dnes.values.sum(&:length)} údajů u #{dnes.length} klíčů"

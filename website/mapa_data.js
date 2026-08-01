@@ -14455,10 +14455,6 @@ window.MAPA_DNES = {
       "z": "RÚIAN, SO 8831289"
     },
     {
-      "u": "Sídlo spolku iZahrádka z. s. (od 31. 1. 2018; předseda výboru Patrik Jíra, místopředsedkyně Pavla Švantnerová); účelem mj. zachování lokálních tradic a historických reálií a rozvoj kulturně‑historického dědictví",
-      "z": "veřejný rejstřík, L 7471"
-    },
-    {
       "u": "Areál bývalého dvora je cílem obnovené pouti („ruiny hospodářské usedlosti“); pozor — elektronická dražba 8/2026 se týká Pošné čp. 11 (jiný dům v k. ú. Pošná), nikoli tohoto areálu",
       "z": "poutnazahradce.cz; portaldrazeb.cz"
     }

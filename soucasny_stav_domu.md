@@ -48,7 +48,6 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | 9 | RÚIAN: rodinný dům na st. 24, 397 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1980 | RÚIAN, SO 8831262 |
 | 10 | RÚIAN: rodinný dům na st. 26, 234 m², dokončení evidováno k roku 1980 | RÚIAN, SO 8831271 |
 | 11 | RÚIAN: rodinný dům (bývalý panský dvůr) na st. 1 — s 3 543 m² zdaleka největší stavební parcele katastru; zastavěná plocha 304 m², způsob využití „rodinný dům“ od 2. 6. 2022 | RÚIAN, SO 8831289 |
-| 11 | Sídlo spolku iZahrádka z. s. (od 31. 1. 2018; předseda výboru Patrik Jíra, místopředsedkyně Pavla Švantnerová); účelem mj. zachování lokálních tradic a historických reálií a rozvoj kulturně‑historického dědictví | veřejný rejstřík, L 7471 |
 | 11 | Areál bývalého dvora je cílem obnovené pouti („ruiny hospodářské usedlosti“); pozor — elektronická dražba 8/2026 se týká Pošné čp. 11 (jiný dům v k. ú. Pošná), nikoli tohoto areálu | poutnazahradce.cz; portaldrazeb.cz |
 | 13 | RÚIAN: „objekt k bydlení“ (ne rodinný dům) na st. 12, 99 m², bez evidovaného bytu; aktivní odběr elektřiny 2026 | RÚIAN, SO 8831297; EG.D |
 | 14 | RÚIAN: rodinný dům na st. 40, 242 m², 2 byty | RÚIAN, SO 8831301 |
