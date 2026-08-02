@@ -1,0 +1,799 @@
+{
+  "as_of": "2026-08-01",
+  "locality": "Zahrádka u Pošné",
+  "method": "Přesné celé jméno a příjmení každého osobního účastníka Českého telefonu 2000 bylo na dvou serverech Krameria spojeno s přesnou frází názvu obce. Výsledek je pouze kandidátní společný výskyt na stránce; rozhoduje ruční čtení úryvků.",
+  "people_checked": 10,
+  "queries": 42,
+  "results_with_hits": 12,
+  "results": [
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "5",
+      "person_2000": "Petr Veverka",
+      "query_kind": "full_name",
+      "query_term": "Petr Veverka",
+      "query": "text_ocr:\"Petr Veverka\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Petr+Veverka%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "5",
+      "person_2000": "Petr Veverka",
+      "query_kind": "surname",
+      "query_term": "Veverka",
+      "query": "text_ocr:\"Veverka\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Veverka%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 2,
+      "documents": [
+        {
+          "pid": "uuid:212b0712-6b25-11e8-80ce-001b63bd97ba",
+          "date": "20.12.1962",
+          "page": "[1]",
+          "title": "Nástup: ORGÁN OKRESNÍHO VÝBORU KSČ A RADY ONV V PELHŘIMOVĚ",
+          "root_pid": "uuid:24b63ce4-5492-4a55-a8fb-2b4c9cd40b1d",
+          "snippets": [
+            "JZD Rovná u Hořepníka, Vojslavice, Zahrádka u Pošné jsou malá družstva. Každý družstevník má do místa konání schůze Jen pár kroků a přitom se více než polovina členů nezúčastňuje členských schůzí.",
+            "Snad nejhezčí ze třech velikostí je stavebnice nejmenší. Zrzavá veverka drží v pacičkách oříšek a na opačné straně se moudře dívá modrou nocí sova."
+          ]
+        },
+        {
+          "pid": "uuid:1ea7aba8-363b-49fd-9650-a502a7e8b2b0",
+          "date": "26.02.1956",
+          "page": "[2]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "JZD Les-kovice částkou 235,— Kčs v požárním pojištění a JZD Zahrádka u Pošné částkou Před okresní konferencí CSPO. v neděU 4. března 1956 budou požárníci okresu Pacov konat svoji VI. okresní konferenci.",
+            "OV ČSPO. neštěstí. ty jako srnec a po náraznících vlaku šplhá jako veverka, neboť na obejití celé vlakové soupravy už mu nezbude čas. A my u nás v Leskovicích máme Josefa rádi pro tu jeho tichou a skromnou povahu; i pro svou nevšední ochotu je všude oblíben."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "6",
+      "person_2000": "Zdeněk Svoboda",
+      "query_kind": "full_name",
+      "query_term": "Zdeněk Svoboda",
+      "query": "text_ocr:\"Zdeněk Svoboda\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Zden%C4%9Bk+Svoboda%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "6",
+      "person_2000": "Zdeněk Svoboda",
+      "query_kind": "surname",
+      "query_term": "Svoboda",
+      "query": "text_ocr:\"Svoboda\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Svoboda%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 8,
+      "documents": [
+        {
+          "pid": "uuid:5650f93b-dbca-468b-9546-39535c74e2e4",
+          "date": "03.03.1956",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "JZD Brná — ječmen, dosaženo 27,48 q. JZD Zahrádka u Pošné — ječmen, dosaženo 24,78 q. JZD Arneštovice — oves, dosaženo 24,43 metrického centu po hektaru.",
+            "JZD Bmá — brambory, dosaženo 189 metrických centů. JZD Zahrádka u Pošné — dosaženo od 1 krávy mléka za rok 2.560 litrů. 7. Zhodnoceni diskuse náměstkem předsedy ONV soudr.",
+            "Smetana 200 kg vepřového masa, Jan Kalina a Antonín Kubík po 350 kg vepřového masa, Jindřich Svoboda 200 kg vepřového masa a 100 litrů mléka, Stanislav Prokop 120 kg vepřového masa a 100 litrů mléka."
+          ]
+        },
+        {
+          "pid": "uuid:0b5fb90e-1e8b-4446-8ebd-be3fb2efc40c",
+          "date": "1997",
+          "page": "23",
+          "title": "Pacov: od historie k současnosti",
+          "root_pid": "uuid:04e19d54-5642-4b76-bfcd-11a475e89dbf",
+          "snippets": [
+            "Ředitelem dívčí školy se stal Jindřich Stejskal a ředitelem chlapecké školy František Svoboda. Rozšíření školy o dívčí \"měšťanku\" se projevilo nedostatkem prostoru ve stávající budově na náměstí.",
+            "Ke škole byly při-školeny obce: Roučkovice, Samšín, Důl u Pošné, Pošná, Proseč u Pošné, Zahrádka u Pošné, Bedřichov, Cetoraz, Jetřichovec, Simpach, Nová Ves, Zhořcc."
+          ]
+        },
+        {
+          "pid": "uuid:3bbea36f-e43d-4fd7-87dd-161d2eb5a66b",
+          "date": "16.06.1956",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Daleko lépe se takové seno také sklízí. Zahrádka u Pošné: Tam začali se senosečí již dne 4. června 1956. Maji toho k posečení asi 25 hektarů luk a asi 18 hektarů jetelovin.",
+            "Na úseku živočišné výroby dosáhli v měsíci květnu 1956 nejlepších výsledků tito pracovníci JZD; Družstevník Stejskal z JZD Roučkovice: průměrnou dojivost na 1 ustájenou krávu S litrů; družstevníci Svoboda a Kejval z JZD Zahrádka u Pošné: 6 litrů na jednu ustájenou krávu; družstevník Posekaný z JZD Kámen: průměrný přírůstek ve výkrmu prasat na kus a den 0,97 kg; družstevník Cihlář z JZD Pořín: průměrný přírůstek ve výkrmu prasat na kus a den 0,87 kg; družstevník Zajíc z JZD Velká Rovná; průměrný přírůstek ve výkrmu prasat na kus a den 0,85 kg; družstevnice Multererová z JZD Roučkovice: nejvyšší dodávka vepřového masa na jeden hektar 24,44 kg; družstevnice Kremličková z JZD Pošná: dodávka vepřového masa na 1 hektar 14,08 kg; družstevník Sůva z JZD Zhorec: dosáhl v odchovu selat od začátku toku na jednu prasnici 5,44 selete; družstevnice Multererová z JZD Roučkovice: dosáhla v odchovu selat od začátku roku na jednu prasnici 3,75 selete; družstevník Markvart z JZD Brná: dosáhl v odchovu selat od začátku roku na jednu prasnici 3,25 selete; družstevnice Kejvalová z JZD Zahrádka u Pošné dosáhla průměrná snůšky u užitkového chovu 114,1 ks v I. třídě; družstevník Mach z JZD Moraveč: průměrná snůška u užitkového chovu 102,8 ks ve III. třídě; družstevnice Hrubešová z JZD Bmá; průměrná snůška u užitkového chovu 100 ks ve III. třídě."
+          ]
+        },
+        {
+          "pid": "uuid:3a2602f5-0bc3-4901-a65e-dcfa0f201b58",
+          "date": "05.05.1956",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Při závěrečných zkouškách sedm návštěvníků obdrželo vysvědčení s vyznamenáním a pět dalších prospělo. V JZD Zahrádka u Pošné probíhal I. ročník, t. j. základní kurs DŠP. Podle plánu měli to to školení navštěvovat i ditiž-stevníci a soukromě hospodařící rolníci z Litohoště a z Pošné, avšak and na jednu lekci se nikdo nedostavil.",
+            "„Jen aby nám to počasí vydrželo” — dodává k tomu družstevnUi Svoboda. — Družstvo v Útěchovičkách bylo založeno na jaře letošního roku a družstevníci mají snahu, aby společná práce jim přinesla užitek. V tomto duchu hovořil také družstevník Svoboda. A závěrem ještě říká, že nemá obavu, že by se práce nezvládly „na družstevním”, neboť počtem pracovních sil stačí výměru obdělat."
+          ]
+        },
+        {
+          "pid": "uuid:73e94440-669a-440d-89c5-ad5ed2c293b1",
+          "date": "23.08.1957",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Prasetín, Pošná, Otěchovičky, Zahrádka u Pošné, Šimpach a Rovná u Hořepní-ka. K uvedenému dni nezačala plnit JZD Eš, Františkov, Kámen, Onšov.",
+            "A když nám předseda JZD ze Zláten-ky soudruh Svoboda ty „účinky“ charakterisoval tak nějak od plic větou: „Jde to prima, to musí sa-movazy na hrnec...“ — tak už na tom přece jenom něco musí být."
+          ]
+        },
+        {
+          "pid": "uuid:49aedf11-b754-4116-a74d-08e66c7a1f38",
+          "date": "31.01.1957",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Ke dni 21. ledna 1957 totiž polovina družstev na našem okrese dokončila celoroční bilanční uzávěrku a mají JZD: Skutečně dosažená výše PJ v penězích: r. 1954 r. 1955 r. 1956 Roučkovice 20,— Kčs 27,— Kčs 40,— Kčs Velká Rovná 15,— Kčs 15,— Kčs 26,— Kčs Zahrádka u Pošné 22,— Kčs 22,— Kčs 25,— Kčs Jedlina 17,— Kčs 27,— Kčs 25,— Kčs Pořín 15,— Kčs 28,— Kčs 24,— Kčs Ameštovice 17,— Kčs 21,— Kčs 23,— Kčs Pošná 15,— Kčs 14,— Kčs 23,— Kčs Onšov 15,— Kčs 13,— Kčs 21,— Kčs Moraveč 15,— Kčs 15,— Kčs 21,— Kčs Litohošť 10,— Kčs 13,— Kčs 21,— Kčs Důl u Pošné hospodaří prvním rokem 20,— Kčs Prasetín hospodaří prvním rokem 19,50 Kčs Velká Chyška 11,— Kčs 15,— Kčs 18,— Kčs Š^moach 4,67 Kčs 9,— Kčs 15,— Kčs Bazděčín hospodaří prvním rokem 15,— Kčs Křeč hospodaří prvním rokem 13,50 Kčs Cetoraz 8,— Kčs 7,50 Kčs 10,50 Kčs Vás však zajímá, proč družstevníci v Poříně a v Jedlině dosáhli za rok 1956 nižší pracovní jednotky, než v roce 1955.",
+            "Jmenujeme: Fr, Musil, A, Dráhová, A, Hemrová, Fr, Svoboda a B, Adamová, Prostě družstevníci z Pacovska chyběli. Zlobí se jmenovaní, že jsou za to v novinách?"
+          ]
+        },
+        {
+          "pid": "uuid:dbcd9c15-d130-11e7-b56b-001b63bd97ba",
+          "date": "17.5.1957",
+          "page": "[3]",
+          "title": "Jiskra: týdeník komunistické strany třebíčského kraje",
+          "root_pid": "uuid:c1e71e3a-4c9f-4178-91c7-68973c4a7357",
+          "snippets": [
+            "S. nikdy nemohli rozhodovat o životě a smrti milionů lidí, proto volím 19. května kandidáty Národní fronty. JAN SVOBODA, železničář, Oslavice. Odpovídáme na výzvu novoměstské Chirany za manifestačni zvolení kandidátů.",
+            "P/\"-OV: Čs požár, ochrana Samšín, Svazarm Zahrádka u Pošné, Svazarm Vyklantíce. TZD Moravec, coarmace ČSTV. PFLHŘIMOV: Ve 13 obcích okresu chtějí docílit názvu „Vlastenecká obec\", t. j všechny hlasy pro kandidáty NF."
+          ]
+        },
+        {
+          "pid": "uuid:e2f278f7-3727-41e9-96eb-e50e58326d01",
+          "date": "19.07.1957",
+          "page": "[2]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Přeborníkem okresu jednotlivců SSD ve střelbě sportovní malorážkou se stal Emil Svoboda zeZO Svazarmu Zahrádka u Pošné nástře-lem 212 kruhů, Tímto výsledkem získal také III, výkonnostní střeleckou třídu."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "7",
+      "person_2000": "Karel Adam",
+      "query_kind": "full_name",
+      "query_term": "Karel Adam",
+      "query": "text_ocr:\"Karel Adam\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Karel+Adam%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 1,
+      "documents": [
+        {
+          "pid": "uuid:49aedf11-b754-4116-a74d-08e66c7a1f38",
+          "date": "31.01.1957",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Ke dni 21. ledna 1957 totiž polovina družstev na našem okrese dokončila celoroční bilanční uzávěrku a mají JZD: Skutečně dosažená výše PJ v penězích: r. 1954 r. 1955 r. 1956 Roučkovice 20,— Kčs 27,— Kčs 40,— Kčs Velká Rovná 15,— Kčs 15,— Kčs 26,— Kčs Zahrádka u Pošné 22,— Kčs 22,— Kčs 25,— Kčs Jedlina 17,— Kčs 27,— Kčs 25,— Kčs Pořín 15,— Kčs 28,— Kčs 24,— Kčs Ameštovice 17,— Kčs 21,— Kčs 23,— Kčs Pošná 15,— Kčs 14,— Kčs 23,— Kčs Onšov 15,— Kčs 13,— Kčs 21,— Kčs Moraveč 15,— Kčs 15,— Kčs 21,— Kčs Litohošť 10,— Kčs 13,— Kčs 21,— Kčs Důl u Pošné hospodaří prvním rokem 20,— Kčs Prasetín hospodaří prvním rokem 19,50 Kčs Velká Chyška 11,— Kčs 15,— Kčs 18,— Kčs Š^moach 4,67 Kčs 9,— Kčs 15,— Kčs Bazděčín hospodaří prvním rokem 15,— Kčs Křeč hospodaří prvním rokem 13,50 Kčs Cetoraz 8,— Kčs 7,50 Kčs 10,50 Kčs Vás však zajímá, proč družstevníci v Poříně a v Jedlině dosáhli za rok 1956 nižší pracovní jednotky, než v roce 1955.",
+            "Anežka Chaloupková, zástupce ředitele jedenáctiletky v Pacově a Členka okr. komise Výboru žen; s. Karel Adam, dělník Strojíren potrav, průmyslu, za ROH; s. Vratislav Š ar man, zástupce armády."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "7",
+      "person_2000": "Karel Adam",
+      "query_kind": "surname",
+      "query_term": "Adam",
+      "query": "text_ocr:\"Adam\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Adam%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 3,
+      "documents": [
+        {
+          "pid": "uuid:45dd0eff-5a27-410b-a586-11ef7d5afcb8",
+          "date": "2014",
+          "page": "94",
+          "title": "Pacov, město pro život",
+          "root_pid": "uuid:4598a4f0-16d3-4f42-84ca-f80eb1e914d9",
+          "snippets": [
+            "Náš spolek působí v obcích Bedřichov, Bratříce, Brná, Cetule, Cetoraz, Dobrá Voda, Eš, Hrobská Zahrádka, Jetřichovec, Kámen, Leskovícc, Malá Černá, Obrataň, Pacov, Pošná, Roučkovice, Samšín, Sudkův Důl, Tčehobuz, Útčchovíce, Velká Černá, Velká Ohyška, Velká Rovná, Vintířov, Vězná, Vysoká Lhota, Zahrádka u Pošné, Zhoř, Zhořee, Zhořec-Hladov. Momentálně bez včelstev jsou obce Důl u Pošné, Nesvačily, Nízká Lhota, Nová Ves, Proseč, Salačova Lhota, Simpach a Zlátenka.",
+            "Alžběta Kolářová, předseda revizní komise František Simon a člen výboru Miloš Adam. Kromě praktického včelaření se věnujeme i spolkové činnosti, propagaci včelích produktů a organizaci vzdělávacích akcí pro naše členy i pro nevčelařskou veřejnost."
+          ]
+        },
+        {
+          "pid": "uuid:2129a37b-8fd6-473a-9f36-f3701f6ececc",
+          "date": "15.05.1959",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Na snímku jsou soudružky: Zadražilová, Škodová, Dudová a Panešová a soudruzi Zadražil a Adam. Výsledky přesvědčují samy Družstevníci v Čáslavsku dosáhli za poslední měsíc u prasat na hluboké podestýlce průměrného přírůstku 71 dkg na kus a den.",
+            "Ježov, Velký Ježov, Samšín^ Nové Dvory, Bořetice, Cetoraz, Čáslavsko, Těžkovice, Mohelnice, Lesná, Nízká Lhota, Onšov, Prasetín a Přáslavice. investiční výstavbě OTĚCHOVIČKY: Plánovanou investiční výstavbu na rok 1959 zkrátí o 20 dnů. ZAHRADKA U POŠNÉ: Výstavbu vepřína dokončí do konce června 1959. SAMŠiN: Družstevníci vyzývají všechna družstva v okrese k soutěži o nejlepší splnění investiční výstavby svépomocí."
+          ]
+        },
+        {
+          "pid": "uuid:49aedf11-b754-4116-a74d-08e66c7a1f38",
+          "date": "31.01.1957",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Ke dni 21. ledna 1957 totiž polovina družstev na našem okrese dokončila celoroční bilanční uzávěrku a mají JZD: Skutečně dosažená výše PJ v penězích: r. 1954 r. 1955 r. 1956 Roučkovice 20,— Kčs 27,— Kčs 40,— Kčs Velká Rovná 15,— Kčs 15,— Kčs 26,— Kčs Zahrádka u Pošné 22,— Kčs 22,— Kčs 25,— Kčs Jedlina 17,— Kčs 27,— Kčs 25,— Kčs Pořín 15,— Kčs 28,— Kčs 24,— Kčs Ameštovice 17,— Kčs 21,— Kčs 23,— Kčs Pošná 15,— Kčs 14,— Kčs 23,— Kčs Onšov 15,— Kčs 13,— Kčs 21,— Kčs Moraveč 15,— Kčs 15,— Kčs 21,— Kčs Litohošť 10,— Kčs 13,— Kčs 21,— Kčs Důl u Pošné hospodaří prvním rokem 20,— Kčs Prasetín hospodaří prvním rokem 19,50 Kčs Velká Chyška 11,— Kčs 15,— Kčs 18,— Kčs Š^moach 4,67 Kčs 9,— Kčs 15,— Kčs Bazděčín hospodaří prvním rokem 15,— Kčs Křeč hospodaří prvním rokem 13,50 Kčs Cetoraz 8,— Kčs 7,50 Kčs 10,50 Kčs Vás však zajímá, proč družstevníci v Poříně a v Jedlině dosáhli za rok 1956 nižší pracovní jednotky, než v roce 1955.",
+            "Anežka Chaloupková, zástupce ředitele jedenáctiletky v Pacově a Členka okr. komise Výboru žen; s. Karel Adam, dělník Strojíren potrav, průmyslu, za ROH; s. Vratislav Š ar man, zástupce armády."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "8",
+      "person_2000": "Marie Křížová",
+      "query_kind": "full_name",
+      "query_term": "Marie Křížová",
+      "query": "text_ocr:\"Marie Křížová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Marie+K%C5%99%C3%AD%C5%BEov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "8",
+      "person_2000": "Marie Křížová",
+      "query_kind": "surname",
+      "query_term": "Křížová",
+      "query": "text_ocr:\"Křížová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22K%C5%99%C3%AD%C5%BEov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 2,
+      "documents": [
+        {
+          "pid": "uuid:de89ab63-f140-4e17-bdad-63b14232c6fd",
+          "date": "03.04.1953",
+          "page": "[4]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Kazdová odpracuje 20 hodin na adaptaci kravína A. Křížová vyčistí a upraví bezvadně poradnu pro matky a děti. M. Zhomá zvýší dodávku vajec o 20 kusů; nebude po dva měsíce žehlit elektrickým proudem.",
+            "Zadní Střítež: Ženy odpracují na adaptaci kravína 142 hodin. Zahrádka u Pošné: Ženy v Zahrádce u Pošné pomohou při adaptaci kravína a při výkopu vodovodu."
+          ]
+        },
+        {
+          "pid": "uuid:2e4e240a-0e92-4d1e-ac81-2a23b668414a",
+          "date": "26.02.1956",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Přiznám se vám bez mučení, že již delší dobu jsem osiobné nebyl v JZD Zahrádka u Pošné, což byla chyba. Vždyť jinak by se nemohlo stát, abych nevěděl, co v tamnějším družstvu se událo nového.",
+            "Družstevník Rohovec při výměně názorů vycházel ze stanov družstva a z u-stanovení o dodržování domácího pracovního řádu, které si družstevnice Křížová nesprávně vykládala. Ano, právě v tom se dělají chyby, které potom často působí mezi družstevníky rozladění."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "16",
+      "person_2000": "Miroslav Kubiska",
+      "query_kind": "full_name",
+      "query_term": "Miroslav Kubiska",
+      "query": "text_ocr:\"Miroslav Kubiska\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Miroslav+Kubiska%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "16",
+      "person_2000": "Miroslav Kubiska",
+      "query_kind": "surname",
+      "query_term": "Kubiska",
+      "query": "text_ocr:\"Kubiska\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Kubiska%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 1,
+      "documents": [
+        {
+          "pid": "uuid:7b90c1cd-c265-435f-9d8e-882286a3b6c0",
+          "date": "2005",
+          "page": "66",
+          "title": "Almanach k 40. výročí založení SPŠS Pelhřimov: 1965-2005",
+          "root_pid": "uuid:26bcab15-276f-4398-a7c2-afe6d9f66c1e",
+          "snippets": [
+            "Josef Hájek Obor: strojírenství Bačák Miroslav - Studená Brož Radek - Humpolec Bublá Petr - Humpolec Coufal Zdeněk - Pelhřimov Doubek Miroslav - Humpolec Duba Ladislav - Staré Hobzí Fanta Radek - Pelhřimov Fix Jiří - Lovětín Flekal Miroslav - Humpolec Jelínek Jan - Komorovice Jonáš Roman - Humpolec Kasal Miroslav - Žirovnice Kebrle Luděk - Kamenice nad Lipou Kubiska Petr - Kamenice nad Lip. Kudrna Libor - Humpolec Lojda Vladimír - Dačice Mach Jaroslav - Metánov Nekola Zdeněk - Humpolec Patera Michal -J.",
+            "Jan Janáček Obor: strojírenství Bradáč Jiří - Veselí nad Luž. Bulant Václav - Zahrádka u Pošné Dvořák Karel - Horní Cerekev Dvořák Zdeněk — Nová Včelnice Havlová Ludmila - Červená Řečice Hložková Marie - Útěchovice Hupka M ilan - Hořepník Jelínek Miloš - Dačice Jonáš Jaroslav - Nová Včelnice Karásek Petr-J."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "full_name",
+      "query_term": "Václav Dörrschmidt",
+      "query": "text_ocr:\"Václav Dörrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22V%C3%A1clav+D%C3%B6rrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "surname",
+      "query_term": "Dörrschmidt",
+      "query": "text_ocr:\"Dörrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22D%C3%B6rrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "surname",
+      "query_term": "Dorrschmidt",
+      "query": "text_ocr:\"Dorrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Dorrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "24",
+      "person_2000": "Ing. Jan Velich",
+      "query_kind": "full_name",
+      "query_term": "Jan Velich",
+      "query": "text_ocr:\"Jan Velich\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Jan+Velich%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "24",
+      "person_2000": "Ing. Jan Velich",
+      "query_kind": "surname",
+      "query_term": "Velich",
+      "query": "text_ocr:\"Velich\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Velich%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "27",
+      "person_2000": "Ludmila Rohovcová",
+      "query_kind": "full_name",
+      "query_term": "Ludmila Rohovcová",
+      "query": "text_ocr:\"Ludmila Rohovcová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Ludmila+Rohovcov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "27",
+      "person_2000": "Ludmila Rohovcová",
+      "query_kind": "surname",
+      "query_term": "Rohovcová",
+      "query": "text_ocr:\"Rohovcová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Rohovcov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 3,
+      "documents": [
+        {
+          "pid": "uuid:d4af1173-4636-4225-952e-4a7779433af7",
+          "date": "12.05.1956",
+          "page": "[1]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Svědomitá práce přinesla ovoce. Družstevnice Rohovcová z JZD Zahrádka u Pošné má na starosti ošetřování 100 slepic."
+          ]
+        },
+        {
+          "pid": "uuid:d08bce60-30f2-4d78-ac86-b86b19323541",
+          "date": "23.06.1956",
+          "page": "[2]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Na dosaženém výsledku ve snůš-ce vajec v JZD Zahrádka u Pošné. která činila v květnu 114.1% v I. třídě, podílí se také družstevnice Rohovcová."
+          ]
+        },
+        {
+          "pid": "uuid:b3016524-d0f4-11e7-9b7b-001b63bd97ba",
+          "date": "18.5.1956",
+          "page": "3",
+          "title": "Jiskra: týdeník komunistické strany třebíčského kraje",
+          "root_pid": "uuid:c1e71e3a-4c9f-4178-91c7-68973c4a7357",
+          "snippets": [
+            ". • Svědomitou ošetřovatelkou drůbeže je družstevnice Rohovcová z JZQ Zahrádka u Pošné. I přesto, že letošní kruté mrazy značně ovlivnily snůšku vajec, sesbírala za čtyři měsíce letošního roku od 100 slepic celkem 6051 vajec."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "28",
+      "person_2000": "Václav Bulant",
+      "query_kind": "full_name",
+      "query_term": "Václav Bulant",
+      "query": "text_ocr:\"Václav Bulant\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22V%C3%A1clav+Bulant%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "28",
+      "person_2000": "Václav Bulant",
+      "query_kind": "surname",
+      "query_term": "Bulant",
+      "query": "text_ocr:\"Bulant\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Bulant%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 2,
+      "documents": [
+        {
+          "pid": "uuid:7b90c1cd-c265-435f-9d8e-882286a3b6c0",
+          "date": "2005",
+          "page": "66",
+          "title": "Almanach k 40. výročí založení SPŠS Pelhřimov: 1965-2005",
+          "root_pid": "uuid:26bcab15-276f-4398-a7c2-afe6d9f66c1e",
+          "snippets": [
+            "Jan Janáček Obor: strojírenství Bradáč Jiří - Veselí nad Luž. Bulant Václav - Zahrádka u Pošné Dvořák Karel - Horní Cerekev Dvořák Zdeněk — Nová Včelnice Havlová Ludmila - Červená Řečice Hložková Marie - Útěchovice Hupka M ilan - Hořepník Jelínek Miloš - Dačice Jonáš Jaroslav - Nová Včelnice Karásek Petr-J."
+          ]
+        },
+        {
+          "pid": "uuid:e2e0daf0-509c-482b-9764-0e6cef2dacef",
+          "date": "11.1991",
+          "page": "[3]",
+          "title": "Z mého kraje: týdeník pro kulturní, hospodářský a sociální rozkvět Pacovska",
+          "root_pid": "uuid:293118bd-ebd9-4480-8cbb-fa2fdf132582",
+          "snippets": [
+            "Vondráčka 731 a Dana Jenšíková, Pacov, Nádražní 765 Vlastimil Papež, Pacov, Jetřichovská 752 a Monika Tomšů, Pacov, Jetřichovská 752 15. června 1991 - stárni hrad Kámen Josef Kaššay, Brno, Ečerova 18 a Vendula Vlčková, Pelhřimov, Janáčkova 1262 22. června 1991 - Městský úřad Pacov Pavel Štolba, Pacov, Rudé armády 807 a Dana Šohajová, Pacov, Spálená 120 Libor Stupka, Pacov, Na parcelách 736 a Eva Loužecká, Praha 10-Ma-lešice, Limuzská 528 29. června 1991 Luděk Bulant, Pošná část Zahrádka u Pošné 28 a Dana Smetanová, Ratibořské Hory 79 29. června 1991 - státní hrad Kámen Ing."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "29",
+      "person_2000": "Bohuslav Nacházel",
+      "query_kind": "full_name",
+      "query_term": "Bohuslav Nacházel",
+      "query": "text_ocr:\"Bohuslav Nacházel\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Bohuslav+Nach%C3%A1zel%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "KK Vysočiny",
+      "cp_2000": "29",
+      "person_2000": "Bohuslav Nacházel",
+      "query_kind": "surname",
+      "query_term": "Nacházel",
+      "query": "text_ocr:\"Nacházel\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.kkvysociny.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Nach%C3%A1zel%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 1,
+      "documents": [
+        {
+          "pid": "uuid:8d81822c-e87a-4a76-b75a-d0e9eafa9599",
+          "date": "21.06.1957",
+          "page": "[2]",
+          "title": "Vesnické noviny",
+          "root_pid": "uuid:40ab41e5-25fe-42cd-9db3-b805febeb262",
+          "snippets": [
+            "Ke dni 16. června 1957 pokosili již více než 50% luk. Od zpravodaje. Zahrádka u Pošné. v Zahrádce u Pošné začala senoseč 14. června 1957 a Zahrádečti budou seno sušit také na sušácích, aby takto usušené seno si zachovalo co nejvíce živin.",
+            "Pak se mu přece jen sželelo bratra nebohého a nacházel si jiné o-běti. Praktikoval to tak, že lákal peněžité částky u známých lidí."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "5",
+      "person_2000": "Petr Veverka",
+      "query_kind": "full_name",
+      "query_term": "Petr Veverka",
+      "query": "text_ocr:\"Petr Veverka\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Petr+Veverka%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "5",
+      "person_2000": "Petr Veverka",
+      "query_kind": "surname",
+      "query_term": "Veverka",
+      "query": "text_ocr:\"Veverka\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Veverka%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "6",
+      "person_2000": "Zdeněk Svoboda",
+      "query_kind": "full_name",
+      "query_term": "Zdeněk Svoboda",
+      "query": "text_ocr:\"Zdeněk Svoboda\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Zden%C4%9Bk+Svoboda%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "6",
+      "person_2000": "Zdeněk Svoboda",
+      "query_kind": "surname",
+      "query_term": "Svoboda",
+      "query": "text_ocr:\"Svoboda\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Svoboda%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 4,
+      "documents": [
+        {
+          "pid": "uuid:864162e4-b6e6-11ef-8fa9-005056841fbb",
+          "date": "5.1.1898",
+          "page": "[7]",
+          "title": "Tábor",
+          "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+          "snippets": [
+            "Bíba Matěj, rolník a okres, stár., Leskovice. Svoboda František, obecní starosta, Lukavec. Kubiska Josef, mlynář, Moravec. Franěk František, rolník, Zahrádka u Pošné. Dr. cech Jan, advokát, Pacov. Lešanovský Josef, sou¬ kromník, Pacov.",
+            "Frankenstein Rudolf, nájemce dvora, Šimpach. Svoboda Franti¬ šek, rolník, Zhoří. Soudní okres Pelhřimov. Pavlí¬ ček Matěj, rolník, Chvojnov."
+          ]
+        },
+        {
+          "pid": "uuid:3c2ef4c3-435e-11dd-b505-00145e5790ea",
+          "date": "20.10.1927",
+          "page": "2",
+          "title": "Národní listy",
+          "root_pid": "uuid:ae876087-435d-11dd-b505-00145e5790ea",
+          "snippets": [
+            "Katovice (Strakonice) 54 hl., 2 mand Čachrov (Klatovy) 34 hl. Zahrádka u Pošné 37 hl. Potěšitelné výsledky voleb národní demokracie na celé Moravě.",
+            "Jen když „vítězí\", jako „vítězili\" rakouští generálové. — Pan dr. Emil Svoboda ve sloupcích Českého Slova ztratil souvislost s reálním nazíráním na veřejné otázky.",
+            "Jenže t Volné Myšlenky p. dr. E. Svoboda vystoupí lehce, za to ve strané národně socialistické zakotvuje stále pevněji a podle cti, poctivosti a pravdy té strany — slohovéji."
+          ]
+        },
+        {
+          "pid": "uuid:86f220b7-3fde-11f0-8920-005056841fbb",
+          "date": "23.07.1948",
+          "page": "6",
+          "title": "Palcát: oficielní list krajového národního výboru táborského",
+          "root_pid": "uuid:f06139cb-4f99-47f5-9fa6-7b2bbee0b125",
+          "snippets": [
+            "Opatřeny roury pro další práce. Také obec Zahrádka u Pošné pracuje na cestách ve vsi. Občané Pošné prodloužili kanalisaci o 20 bm rour.",
+            "VII.: Marie Blažková, dcera řezníka, Pacov, 16 let. 12. VII.: František Svoboda, Pelhřimov, 1 den. 13. VIL: František Kubů, lesní dělník v Lidmani, 42 let; Josef Jirků, rolník, Lidmanice, 44 let; Božena Palánová, dcera rolníka ve Stříteži u Branišova, 17 let.",
+            "VII.: Zdeněk Václav Váňa, syn správce velkostatku, v Březinově; František Svoboda, syn dělníka, Pelhřimov 745. Úmrtí: 9. VII.: Anna Zmátlová, výměnkářka, Pelhřimov, 82 let; Josef Sedmálc, rolník ve Velkých Ko-stolanech, 24 let; Františka Kroupová, důchodkyně, Pelhřimov, 79 let; Václav Mazaný, soukromník v Týmově Vsi, 79 let; Marie Skálová, Tělovýchova m sgsort AFK Marathon dorost — Sparta Košetke 2:1 (1:0)."
+          ]
+        },
+        {
+          "pid": "uuid:dde5de6d-4061-11f0-8ee3-005056841fbb",
+          "date": "10.06.1933",
+          "page": "2",
+          "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+          "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+          "snippets": [
+            "Na vědomí vzato provedení pěšiny z okresní silnice nádražní k Vejvarce, jejíž výstavby účastnily se obce Pacov, Důl u Pošné, Zahrádka u Pošné, Roučkoviíce, Německá Lhota a Samšín společným nákladem. Studentskému zdravotnímu ústavu povoluje se vyústění ikanailisace do Kejtova po teka •a zřízeni nového koupaliště.",
+            "různé otázky regionální, našeho města se specielně dotýkající, při čemž těchto hovorů účastnil se pan náměstek Svoboda a tajemník Matiášek. Pan ing. ?ajchystai slíbil vejiti ve styk s našimi' přáteli MUDrem Stejskalem a Pospíšilem, aby v brzku utvořen byl spolek rodáků pacovských v Praze, ik čemuž chtějí býti nápomocni i mladovožičtí přátelé."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "7",
+      "person_2000": "Karel Adam",
+      "query_kind": "full_name",
+      "query_term": "Karel Adam",
+      "query": "text_ocr:\"Karel Adam\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Karel+Adam%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "7",
+      "person_2000": "Karel Adam",
+      "query_kind": "surname",
+      "query_term": "Adam",
+      "query": "text_ocr:\"Adam\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Adam%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "8",
+      "person_2000": "Marie Křížová",
+      "query_kind": "full_name",
+      "query_term": "Marie Křížová",
+      "query": "text_ocr:\"Marie Křížová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Marie+K%C5%99%C3%AD%C5%BEov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "8",
+      "person_2000": "Marie Křížová",
+      "query_kind": "surname",
+      "query_term": "Křížová",
+      "query": "text_ocr:\"Křížová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22K%C5%99%C3%AD%C5%BEov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 1,
+      "documents": [
+        {
+          "pid": "uuid:441a1f6d-dc85-43f5-ba96-c85dd51cad7e",
+          "date": "21.06.1913",
+          "page": "3",
+          "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+          "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+          "snippets": [
+            "Žádostem obecních úřadů za povolení k vybírání obecních přirážek v roce 1913 a sice: Pořin 40°/0, Dol u Pošné 40°/0, Zahrádka u Pošné 43%, Lukavce 25%, Bratříce 26%, Březina 35%, Viklantice 57% vyhověno, případně doporučeny zemskému výboru ku schválení.",
+            "Všimnete si při nákupu, je-li na každé kostce jméno MAGGI a ochranná křížová známka hvězda. Poněvadž dvě třetiny svého života strávíte = v botách = Kupujte jen pohodlnou elegantní Goodyear normální americkou obuv „Exacta1 u Podporujte český velkoprůmysl!"
+          ]
+        }
+      ]
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "16",
+      "person_2000": "Miroslav Kubiska",
+      "query_kind": "full_name",
+      "query_term": "Miroslav Kubiska",
+      "query": "text_ocr:\"Miroslav Kubiska\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Miroslav+Kubiska%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "16",
+      "person_2000": "Miroslav Kubiska",
+      "query_kind": "surname",
+      "query_term": "Kubiska",
+      "query": "text_ocr:\"Kubiska\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Kubiska%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 1,
+      "documents": [
+        {
+          "pid": "uuid:864162e4-b6e6-11ef-8fa9-005056841fbb",
+          "date": "5.1.1898",
+          "page": "[7]",
+          "title": "Tábor",
+          "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+          "snippets": [
+            "Svoboda František, obecní starosta, Lukavec. Kubiska Josef, mlynář, Moravec. Franěk František, rolník, Zahrádka u Pošné."
+          ]
+        }
+      ]
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "full_name",
+      "query_term": "Václav Dörrschmidt",
+      "query": "text_ocr:\"Václav Dörrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22V%C3%A1clav+D%C3%B6rrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "surname",
+      "query_term": "Dörrschmidt",
+      "query": "text_ocr:\"Dörrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22D%C3%B6rrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "21",
+      "person_2000": "Václav Dörrschmidt",
+      "query_kind": "surname",
+      "query_term": "Dorrschmidt",
+      "query": "text_ocr:\"Dorrschmidt\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Dorrschmidt%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "24",
+      "person_2000": "Ing. Jan Velich",
+      "query_kind": "full_name",
+      "query_term": "Jan Velich",
+      "query": "text_ocr:\"Jan Velich\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Jan+Velich%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "24",
+      "person_2000": "Ing. Jan Velich",
+      "query_kind": "surname",
+      "query_term": "Velich",
+      "query": "text_ocr:\"Velich\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Velich%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "27",
+      "person_2000": "Ludmila Rohovcová",
+      "query_kind": "full_name",
+      "query_term": "Ludmila Rohovcová",
+      "query": "text_ocr:\"Ludmila Rohovcová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Ludmila+Rohovcov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "27",
+      "person_2000": "Ludmila Rohovcová",
+      "query_kind": "surname",
+      "query_term": "Rohovcová",
+      "query": "text_ocr:\"Rohovcová\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Rohovcov%C3%A1%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "28",
+      "person_2000": "Václav Bulant",
+      "query_kind": "full_name",
+      "query_term": "Václav Bulant",
+      "query": "text_ocr:\"Václav Bulant\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22V%C3%A1clav+Bulant%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "28",
+      "person_2000": "Václav Bulant",
+      "query_kind": "surname",
+      "query_term": "Bulant",
+      "query": "text_ocr:\"Bulant\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Bulant%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "29",
+      "person_2000": "Bohuslav Nacházel",
+      "query_kind": "full_name",
+      "query_term": "Bohuslav Nacházel",
+      "query": "text_ocr:\"Bohuslav Nacházel\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Bohuslav+Nach%C3%A1zel%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    },
+    {
+      "server": "JVK/CBVK",
+      "cp_2000": "29",
+      "person_2000": "Bohuslav Nacházel",
+      "query_kind": "surname",
+      "query_term": "Nacházel",
+      "query": "text_ocr:\"Nacházel\" AND text_ocr:\"Zahrádka u Pošné\"",
+      "url": "https://kramerius.cbvk.cz/search/api/client/v7.0/search?q=text_ocr%3A%22Nach%C3%A1zel%22+AND+text_ocr%3A%22Zahr%C3%A1dka+u+Po%C5%A1n%C3%A9%22&rows=100&fl=pid%2Cdate.str%2Ctitle.search%2Cpage.number%2Cmodel%2Croot.title%2Croot.pid&hl=true&hl.fl=text_ocr&hl.fragsize=100&hl.snippets=3",
+      "num_found": 0,
+      "documents": []
+    }
+  ]
+}

@@ -13,7 +13,7 @@ Sídlo podnikání ani kandidatura nejsou doklad bydliště ani vlastnictví; u
 nemovitostí vede katastr; hromadný výpis není strojově veřejný (Nahlížení do KN
 je za captchou, otevřená data ČÚZK vlastníky neobsahují — vyhláška
 č. 50/2024 Sb.), doplňuje se proto jen z veřejně publikovaných listin (registr
-smluv) nebo ručním nahlédnutím. Stav ověřen 31. 7. 2026; podrobná rešerše je
+smluv) nebo ručním nahlédnutím. Stav ověřen 1. 8. 2026; podrobná rešerše je
 v [úplném výstupu](prameny_online/reserse/2026-07-31_soucasny_stav/README.md) a
 v [rešerši obyvatel 1921–2026](prameny_online/reserse/2026-07-31_obyvatele_1921_2026/README.md).
 Vazbu žijící osoby na konkrétní čp. uvádíme jen tam, kde ji zveřejnila úřední
@@ -27,7 +27,7 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 
 | Čp. | Údaj | Zdroj |
 |---|---|---|
-| obec | Sčítání 2021: 24 obyvatel s obvyklým pobytem, 12 obydlených bytů. RÚIAN 2026: 26 adresních míst (čp. 1–11, 13–16, 20, 21, 24–32) a 37 stavebních objektů (11 bez čp.); čp. 12, 17, 18, 19, 22, 23 zanikla | ČSÚ SLDB 2021; RÚIAN |
+| obec | Sčítání 2021: 24 obyvatel s obvyklým pobytem, 12 obydlených bytů. ČÚZK k 26. 7. 2026: 26 adresních míst (čp. 1–11, 13–16, 20, 21, 24–32) a 38 budov — 26 s čp., 11 bez čp. a jedna rozestavěná; čp. 12, 17, 18, 19, 22, 23 zanikla. Katastr má 786 parcel o výměře 371,6916 ha | ČSÚ SLDB 2021; ČÚZK, podrobné informace k. ú. 775606; RÚIAN |
 | obec | Stopy zaniklých stavení v katastru: zbořeniště st. 27/2 (u čp. 6), st. 28/1 a 28/2; „objekt k bydlení“ bez čp. na st. 49 a „zemědělská usedlost“ bez čp. na st. 37; v řadě stavebních parcel chybí 18 kmenových čísel — kandidátní místa zaniklých čp. | RÚIAN, rozbor 31. 7. 2026 |
 | obec | Kaple sv. Jana Nepomuckého (st. 42) s žulovým křížem je kulturní památka od 3. 5. 1958 (ÚSKP 28918/3‑3351): zděná návesní kaple 19. století se stanovou střechou a lucernou; kříž z roku 1884 nese nápis fundátorů „Tento kříž založil ke cti a chvále Boží Václav a Marie Kejval ze Zahrádky 1884“ | Památkový katalog NPÚ |
 | obec | Jediný zastupitel obce Pošná s bydlištěm na Zahrádce: Luděk Bulant (zvolen 2018 i 2022 za Sdružení nezávislých kandidátů Pošná; 2022 třetí nejvyšší počet hlasů) — bydliště dle kandidátní listiny jen na úroveň části obce | volby.cz, otevřená data KV2018/KV2022 |
@@ -35,23 +35,23 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | obec | Pole katastru (198 ha v LPIS) obhospodařují: ZD Velká Chyška 151,4 ha, Bc. David Andrew Homolka (Březina 1) 38,2 ha, SPV Pelhřimov a.s. 5,2 ha a dva menší uživatelé; Státní pozemkový úřad propachtovává ZD Velká Chyška 0,86 ha státních pozemků | LPIS 25. 7. 2026; registr smluv 74N1648 |
 | obec | Prodeje státního lesa 5/2026: Lesy ČR prodaly parc. 155/2 (0,36 ha, 70 500 Kč) manželům Duffkovým z Pacova a parc. 288/1 (1,23 ha, 300 000 Kč) Bc. Davidu A. Homolkovi a Mileně Homolkové — potomek posledních majitelů velkostatku tak získává i les na katastru | registr smluv, kupní smlouvy Lesů ČR |
 | obec | Obec Pošná 2023–2026: oprava místních komunikací 5c a 6c na Zahrádce (SWIETELSKY, 1,11 mil. Kč, 2024), žádost o opravu mostku (2025), vodné/stočné vodovodu Zahrádka shodné s Pošnou; ČOV (plocha Z27 dle ÚP 2017) zatím bez kroků v usneseních | usnesení ZO Pošná |
-| obec | Odstávka elektřiny EG.D 7. 8. 2026 dokládá aktivní odběrná místa: čp. 1–11, 13, 14, 15, 20, 21, 24–28 a 31 + odběry na parcelách bez čp. (3/1, 12/2, 44, 420/7); mimo seznam této odstávky jsou čp. 16, 29, 30 a 32 | EG.D, úřední deska Pošné |
+| obec | Odstávka elektřiny EG.D 7. 8. 2026 uvádí vypínaná odběrná místa u 22 platných čp.: 1–11, 13, 14, 15, 20, 21, 24–28 a 31 + odběry na parcelách bez čp. (3/1, 12/2, 44, 420/7); mimo seznam této odstávky jsou čp. 16, 29, 30 a 32 | EG.D, úřední deska Pošné |
 | 1 | RÚIAN: rodinný dům na st. 29/1, zastavěná plocha 415 m², 2 podlaží, dokončení 22. 9. 2023 (novostavba/přestavba na místě historického N1 rodu Fraňků); vedle „jiná stavba“ bez čp. na st. 29/2 | RÚIAN, SO 8831181 |
 | 1a | Historické označení bytu ze sčítání 1921; dnes bez samostatné adresy v RÚIAN | RÚIAN |
 | 2 | Kulturní památka „venkovská usedlost“ od 3. 5. 1958 (ÚSKP 36052/3‑3350): zděné hospodářské budovy a roubené obytné stavení s trojdílnou dispozicí, doklad stavebního vývoje 19. století; stodola úředně zanikla (oznámení NPÚ 12. 1. 2021); chráněna st. 15/1, na st. 15/2 novostavba RD z 30. 3. 2016 (mimo ochranu) | Památkový katalog NPÚ; RÚIAN |
 | 3 | RÚIAN: rodinný dům na st. 16/6 (78 m²); vedle zemědělská stavba bez čp. na st. 16/5 | RÚIAN, SO 8831203 |
-| 4 | RÚIAN: rodinný dům na st. 17, 152 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 21). Místní paměť MJS‑001: „naše chalupa“ — posloupnost rodin Novák → Markvart | RÚIAN, SO 8831211; místní paměť |
-| 5 | RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960 | RÚIAN, SO 8831220 |
+| 4 | RÚIAN: rodinný dům na st. 17, 152 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 21). Místní paměť MJS‑001: „naše chalupa“ — posloupnost rodin Novák → Markvart. Martin Vaněk zde měl veřejně zachycenou podnikatelskou adresu ještě 13. 3. 2026; ARES od 8. 6. 2026 uvádí Prahu, takže nejde o aktuální pobytový doklad | RÚIAN, SO 8831211; místní paměť; Finance.cz; ARES |
+| 5 | RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960. Vasyl Liakh zde měl podnikatelskou adresu od 2. 6. 2025 nejpozději do 19. 3. 2026; od 20. 3. 2026 ARES uvádí Milotice, nejde tedy o aktuální pobytovou stopu | RÚIAN, SO 8831220; Finance.cz; ARES/RŽP |
 | 6 | RÚIAN: rodinný dům na st. 27/1, 113 m², dokončení evidováno k roku 1960; sousední st. 27/2 (404 m²) je zbořeniště | RÚIAN, SO 8831238 |
 | 7 | RÚIAN: rodinný dům na st. 8, 145 m², dokončení evidováno k roku 1945 | RÚIAN, SO 8831246 |
-| 8 | RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Sídlo podnikání: Anna Vlčková (živnost od 20. 11. 2006, ale **místo podnikání na čp. 8 je v rejstříku vedeno teprve od 26. 3. 2024**; technické návrhy a grafika, chov zvířat, výroba upomínkových předmětů) | RÚIAN, SO 8831254; ARES/RŽP |
+| 8 | RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Anna Vlčková: místo podnikání na čp. 8 od 26. 3. 2024 a veřejná adresa pro zasílání klubových dokladů ověřená 1. 8. 2026; ani jedna stopa sama neprokazuje bydliště | RÚIAN, SO 8831254; ARES/RŽP; Český klub rhodéských ridgebacků |
 | 9 | RÚIAN: rodinný dům na st. 24, 397 m², 2 podlaží, 2 byty, dokončení evidováno k roku 1980 | RÚIAN, SO 8831262 |
 | 10 | RÚIAN: rodinný dům na st. 26, 234 m², dokončení evidováno k roku 1980 | RÚIAN, SO 8831271 |
 | 11 | RÚIAN: rodinný dům (bývalý panský dvůr) na st. 1 — s 3 543 m² zdaleka největší stavební parcele katastru; zastavěná plocha 304 m², způsob využití „rodinný dům“ od 2. 6. 2022 | RÚIAN, SO 8831289 |
 | 11 | Areál bývalého dvora je cílem obnovené pouti („ruiny hospodářské usedlosti“); pozor — elektronická dražba 8/2026 se týká Pošné čp. 11 (jiný dům v k. ú. Pošná), nikoli tohoto areálu | poutnazahradce.cz; portaldrazeb.cz |
 | 13 | RÚIAN: „objekt k bydlení“ (ne rodinný dům) na st. 12, 99 m², bez evidovaného bytu; aktivní odběr elektřiny 2026 | RÚIAN, SO 8831297; EG.D |
 | 14 | RÚIAN: rodinný dům na st. 40, 242 m², 2 byty | RÚIAN, SO 8831301 |
-| 15 | RÚIAN: rodinný dům na st. 10/3, 235 m², dokončení evidováno k roku 2006. Sídlo podnikání: Pavla Moravcová (od 2019; jóga — vázaná živnost, obchod) | RÚIAN, SO 8831319; ARES/RŽP |
+| 15 | RÚIAN: rodinný dům na st. 10/3, 235 m², dokončení evidováno k roku 2006. Pavla Moravcová: podnikatelská adresa od 2019; Petr Moravec: starší podnikatelská stopa na čp. 15, ukončená nejpozději 18. 7. 2016 | RÚIAN, SO 8831319; ARES/RŽP; Atlasfirem |
 | 16 | RÚIAN: rodinný dům na st. 7, 159 m², dokončení evidováno k roku 1960; jediné obydlené starší čp. mimo seznam odstávky EG.D 8/2026 | RÚIAN, SO 8831327; EG.D |
 | 20 | RÚIAN: „objekt k bydlení“ na st. 18, 138 m², 1 byt. Sídlo podnikání: Michael Marousek (od 26. 6. 2025; ubytovací služby — možný nástup agroturistiky) | RÚIAN, SO 8831335; ARES/RŽP |
 | 21 | RÚIAN: rodinný dům na st. 38, 281 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 4) | RÚIAN, SO 8831343 |
@@ -75,6 +75,7 @@ Data dokončení „k 31. 12. roku“ jsou v RÚIAN zástupné roční údaje.
 | 2 | Územní plán uvádí úřední členění kulturní památky do pěti chráněných částí: obytná část, stáje, kolna, stodola a ohradní zeď s brankou (stodola úředně zanikla roku 2021) | Územní plán Pošná; NPÚ |
 | 6 | Zdeněk Svoboda: v letech 2019–2020 zde měl trvalý pobyt a byl vlastníkem rodinného domu — smlouva Kraje Vysočina o kotlíkové dotaci (PR02737.1375, 120 000 Kč, 9. 4. 2020) uvádí adresu „Zahrádka 6, 395 01 Pošná“ | registr smluv, KUJIP01F3XZV |
 | 9 | Jaroslav Plášil, bytem Zahrádka 9, byl od 26. 9. 2001 do 22. 2. 2013 členem představenstva Zemědělského družstva Velká Chyška (a dříve 1993–1998); v komunálních volbách 1998 byl za sdružení nezávislých kandidátů zvolen zastupitelem obce Pošná | obchodní rejstřík (ARES), volby.cz KV1998 |
+| 9 | Martin Plášil je s adresou „Zahrádka čp. 9, Pošná“ uveden mezi jednotlivě obesílanými účastníky vodoprávního řízení v rozhodnutí Městského úřadu Pacov z 18. 12. 2023. Listina dokládá jeho úřední kontaktní adresu k tomuto dni; sama nedokládá vlastnictví čp. 9 ani nepřetržitý pobyt | [rozhodnutí MÚ Pacov č. j. MP/15025/2023/Kp](https://www.obecdul.cz/sites/default/files/2023-12/Ve%C5%99ejn%C3%A1%20vyhl%C3%A1%C5%A1ka.pdf) |
 | 9 | Roku 2008 schválilo zastupitelstvo obce úpravu veřejného prostranství u čp. 9 spolu s dezinfekcí obecní studny a opravou kanalizace na Zahrádce | usnesení ZO Pošná č. 3/2008 |
 | 15 | Pavla Moravcová zde má nejen sídlo podnikání, ale doloženě i bydliště — smlouva o kotlíkové dotaci (PR02270.0027, 120 000 Kč, 27. 3. 2018) uvádí adresu čp. 15 a je podepsána „V Zahrádce“ | registr smluv, KUJIP018KO5Y |
 | 27 | Stanislav Janda je v kotlíkové dotaci Kraje Vysočina (PR01537.0092, smlouva 16. 5. 2016, dodatek 12. 1. 2017) veden s adresou „Zahrádka 27, 395 01 Pošná“ — čp. 27 je tedy jeho bydliště, nejen sídlo živnosti | registr smluv, KUJIP01683BH |

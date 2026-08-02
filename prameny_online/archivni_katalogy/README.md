@@ -1,6 +1,6 @@
 # Veřejné archivní katalogy k Pošné, Zahrádce a JZD
 
-Stav ověření: **23. 7. 2026**. Tato složka eviduje veřejná katalogová metadata, nikoli reprodukce archiválií. Vlastní spisy a kroniky níže uvedených správních a velkostatkových fondů nejsou volně připojeny jako obrazy.
+Stav ověření: **1. 8. 2026**. Tato složka eviduje veřejná katalogová metadata, nikoli reprodukce archiválií. Vlastní spisy a kroniky níže uvedených správních a velkostatkových fondů nejsou volně připojeny jako obrazy.
 
 Samostatnou výjimkou mimo tuto katalogovou složku jsou veřejné reprodukce Národního archivu: [zemské desky z roku 1664 s přímou zmínkou o dvoru zahrádeckém](../desky_zemske/1664/README.md) byly nalezeny, obrazově ověřeny a uloženy v plném rozlišení.
 
@@ -84,6 +84,96 @@ Fond může doplnit obyvatele celé Zahrádky a předválečné události. Samot
 - relevantní obsah podle katalogu: pamětní knihy 1940–2007, zápisy zastupitelstva, pléna, rady, komisí a občanských výborů 1934–1988, evidence obyvatelstva a agenda stavební, finanční, daňová, zemědělská a vodohospodářská
 
 Jde o nejslibnější poválečný úřední pramen pro zjištění, kdo spravoval areál st. 1 / čp. 11, jak byl využíván a zda MNV projednával stavební úpravy, demolice, požár nebo převod na JZD.
+
+### Živá kontrola jmenných pramenů pro řezy 1950 / 1980 / 2000
+
+Aktuální ARON byl 1. 8. 2026 zkontrolován až na úroveň jednotlivých položek,
+digitálních objektů a příloh. Výsledek je pro plán obyvatel důležitý:
+
+- [Národní sčítání lidu 1950, NAD 984](https://portal.nacr.cz/aron/apu/9a5ca37a-bb27-4581-ba0c-77f0ac6ca5d0)
+  zahrnuje sčítací a domovní archy, ale veřejný záznam ani dvě připojené
+  archivní pomůcky nemají digitální reprodukce cílových archů Zahrádky.
+- Knihovna Národního archivu má další exemplář téhož adresáře přímo na
+  Chodovci: [*Úřední telefonní seznam, část 2, pro kraje 9–13*](https://www.knihovny.cz/Record/nacr.c9d28943-e9fa-481c-9f7d-57779479f9ee),
+  signatura **IM489**. Živý stav katalogu 1. 8. 2026 jej označil jako
+  **dostupný**, prezenční a objednatelný. Při jedné badatelské návštěvě tak lze
+  prověřit telefonní účastníky i požádat o sčítací archy; žádná objednávka
+  dosud nebyla vytvořena.
+- Národní knihovna uchovává samostatný, přesně cílený [*Úřední telefonní seznam
+  pro kraj 9: Jihlava 1950*](https://www.knihovny.cz/Record/nkp.NKC01-001232628),
+  fyzický rozsah **16 + 82 stran**, signatura **II 038397** v Národním
+  konzervačním fondu. Katalog potvrzuje archivní exemplář s omezenou
+  dostupností a možností objednání po přihlášení. Druhý souborný exemplář pro
+  pět krajů má signaturu [**III 016575**](https://www.knihovny.cz/Record/nkp.NKC01-000503068).
+  Ani jeden záznam nenabízí veřejné obrazy.
+- Veřejný [katalog knihovny ČGHSP](https://archiv.genealogie.cz/uploads/media/Katalog_knihovny_k_15.8.2024.pdf)
+  obsahuje pod přírůstkovým číslem **1428** fyzický *Úřední telefonní seznam
+  pro kraje Jihlava, Brno, Olomouc, Gottwaldov, Ostrava 1950*. Je to přesný
+  doplňkový řez pro rok 1950, ale bez veřejných skenů. Ručně je třeba hledat
+  heslo Zahrádka nebo Pošná a opsat jen výslovnou vazbu jméno–čp.; telefonní
+  účastníci nikdy netvoří úplný soupis domácností.
+- Katalog Štátnej vedeckej knižnice v Košiciach eviduje také 77stránkový
+  [*Telefonní seznam pro kraj 9. Jihlava na rok 1959–60*](https://sclib.svkk.sk/sck01/Record/000700918),
+  záznam však výslovně uvádí **„Dokument je vyradený“**. Jde pouze o
+  bibliografickou stopu pro hledání jiného exempláře, ne o dostupný pramen ani
+  náhradu řezu 1950.
+- [MNV Útěchovičky, NAD 1262](https://portal.nacr.cz/aron/apu/16e489c1-dc65-4e14-8160-b427510d8a25)
+  výslovně uvádí domovní seznamy a sčítání v letech 1951–1978. Fond ani
+  prozatímní inventární seznam č. 559 nemají veřejné obrazy; jde proto o
+  poslední přesně určený zahrádecký pramen před rokem 1980, ne o už vytěžený
+  seznam jmen.
+- Celá čtyřpoložková sekce `Evidence obyvatelstva a sčítání lidu` fondu MNV
+  Pošná byla načtena přímo z veřejného katalogového rozhraní. Obsahuje
+  [inv. 60](https://www.mza.cz/aron/apu/34333141-ad08-4de3-a43f-b0266836cabb)
+  (obecná evidence a výsledky sčítání 1963–1990), inv. 61 (domovní seznam
+  **Pošné čp. 1–50**, 1953–1967), inv. 62 (posudky, 1958–1989) a inv. 63
+  (matriční záležitosti, 1946–1988). Žádná položka není popsána jako domovní
+  seznam Zahrádky a žádná nemá digitální objekt nebo vlastní přílohu.
+- [Inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834)
+  je pamětní kniha 1974–2007, nikoli domovní evidence. Může přidat jednotlivá
+  jména kolem roku 2000, ale sama nemůže doložit úplné domácnosti. Připojené
+  PDF nadřazeného fondu je jen pozdější příloha k úvodu inventáře, nikoli
+  obraz kroniky.
+
+Kontrola katalogů jednotlivých digitálních knihoven ani federované
+[České digitální knihovny](https://www.ceskadigitalniknihovna.cz/) nenašla
+online reprodukci cílových **tištěných** pacovských nebo pelhřimovských svazků.
+Souborný katalog Knihovny.cz však odhalil správný samostatný záznam TTO Tábor
+pro řez kolem roku 2000. JVK/CBVK tak má dva fyzické prezenční kandidáty ze
+stejného telefonního obvodu:
+
+- [Telefonní seznam 1979–1980, tranzitní telefonní obvod Tábor](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0338681-Telefonni-seznam/),
+  signatura **DT 6.504**;
+- [Zlaté stránky, Jižní Čechy, TTO Tábor](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/),
+  signatura **DT 9.279**, s exempláři 1999–2000 a 2000–2001.
+
+Fotografovaná obálka [svazku TTO Tábor 1987–1988](https://aukro.cz/telefonni-seznam-3-tto-tabor-1987-1988-7043580426)
+výslovně uvádí UTO Pacov i Pelhřimov. Potvrzuje tím vysokou územní relevanci
+této řady, ale neprokazuje shodný obsah ročníku 1979–1980 ani existenci hesla
+Zahrádka v kterémkoli cílovém svazku. Telefonní seznam navíc zachytí jen
+zveřejněné pevné linky a osobu, na niž byla stanice vedena; není náhradou
+pobytového nebo domovního seznamu. Ročník 1979–1980 proto zůstává důležitou
+doplňkovou kontrolou pro řez 1980. Svazky 1999–2001 jsou po vytěžení veřejného
+CD z roku 2000 už jen srovnávací kontrolou. Souborný katalog pro ročník
+1979–1980 nenabízí záložku Získej EDD; dostupná je pouze prezenční jednotka
+JVK, takže elektronická kopie nevznikne bez samostatného dotazu knihovně.
+
+Samostatné souborné hledání našlo veřejný obraz CD
+[Český telefon 2000](../telefonni_seznamy/2000/README.md). Osobní tabulka
+s údaji z bytových seznamů platných do dubna 2000 byla projita celá: deset
+přesných účastnických adres leží na čp. 5, 6, 7, 8, 16, 21, 24, 27, 28 a 29.
+Čp. 29 tím získalo první nalezenou poválečnou osobní stopu. Navazující veřejné
+CD [Český telefonní seznam 2004 Standard](../telefonni_seznamy/2004/README.md)
+opakuje prvních devět vazeb. Ani jedna databáze není pobytovou evidencí nebo
+úplným soupisem domácností. Ve veřejných katalozích ani Internet Archive se
+nadále nenašla přesná reprodukce tištěných svazků 1999–2001 ani ročníku
+1979–1980.
+
+Veřejný formulář [1188](https://seznam.1188.cz/vyhledavani) byl 1. 8. 2026
+zkontrolován na pěti přesných jménech už známých z jiných pramenů; žádné
+nevrátilo výsledek a telefonní čísla se neukládala. Formulář nepřijal prázdný
+jmenný dotaz omezený jen na Zahrádku u Pošné, takže tato negativní kontrola
+není úplným výpisem vsi a nic nevypovídá o skutečném bydlišti.
 
 ## Archiválie JZD uložené mimo archiv
 

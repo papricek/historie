@@ -1,0 +1,107 @@
+{
+  "source": "Český telefonní seznam 2004 Standard",
+  "source_url": "https://archive.org/details/cesky-telefon-2004-s",
+  "source_iso_sha256": "698e157a6ad2b934d3f236eee02c0267bdc892e774fc7567e02421ed14cd7033",
+  "source_database_sha256": "9a3f710ccfea0fdda848d457234b697ad8c42a19492f37cf8081c204b77fcb62",
+  "edition": "2004; databázový soubor na ISO má datum 14. 11. 2003",
+  "locality": "Zahrádka u Pošné",
+  "locality_id": 9231,
+  "evidence_class": "historická adresa účastnické stanice; sama nedokládá trvalý pobyt, vlastnictví ani všechny členy domácnosti",
+  "privacy": "Telefonní čísla nebyla exportována.",
+  "persons": [
+    {
+      "source_row_id": 984658,
+      "person": "Miroslav Kubiska",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "16",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 983730,
+      "person": "Václav Dörrschmidt",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "21",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 986075,
+      "person": "Ing. Jan Velich",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "24",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 985459,
+      "person": "Ludmila Rohovcová",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "27",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 983558,
+      "person": "Václav Bulant",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "28",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 986104,
+      "person": "Petr Veverka",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "5",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 985704,
+      "person": "Zdeněk Svoboda",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "6",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 983359,
+      "person": "Karel Adam",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "7",
+      "psc": "39501"
+    },
+    {
+      "source_row_id": 984632,
+      "person": "Marie Křížová",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": null,
+      "cp": "8",
+      "psc": "39501"
+    }
+  ],
+  "businesses": [
+    {
+      "source_row_id": 237191,
+      "organization": "VEŘEJNÁ TELEFONNÍ STANICE",
+      "obec": "Zahrádka u Pošné",
+      "cast": null,
+      "ulice": "",
+      "cp": null,
+      "psc": "39501"
+    }
+  ],
+  "person_rows": 9,
+  "business_rows": 1
+}

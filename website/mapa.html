@@ -135,7 +135,7 @@
   .ctl-hledat { margin-left: auto; }
   .ctl-cas { flex: 1 1 100%; }
   .ctl-cas .ctl-radek { gap: 10px; }
-  .years {
+  .years, .rezy {
     display: flex; flex-wrap: wrap; gap: 6px;
     font-family: system-ui, sans-serif;
   }
@@ -150,18 +150,19 @@
     .ctl-hledat { margin-left: 0; flex: 1 1 100%; }
     .ctl-hledat input[type="search"] { width: 100%; }
   }
-  .years button, .ikona {
+  .years button, .rezy button, .ikona {
     font: 600 12px/1 system-ui, sans-serif; letter-spacing: .03em;
     color: var(--ink-2); background: var(--surface); border: 1px solid var(--border);
     border-radius: 999px; padding: 7px 10px; cursor: pointer;
     font-variant-numeric: tabular-nums;
   }
   .ikona { width: 30px; padding: 7px 0; text-align: center; }
-  .years button:hover, .ikona:hover { color: var(--ink); border-color: var(--baseline); }
-  .years button[aria-pressed="true"], .ikona[aria-pressed="true"] {
+  .years button:hover, .rezy button:hover, .ikona:hover { color: var(--ink); border-color: var(--baseline); }
+  .years button[aria-pressed="true"], .rezy button[aria-pressed="true"], .ikona[aria-pressed="true"] {
     background: var(--accent); border-color: var(--accent); color: #fff;
   }
   .years .sep { align-self: center; color: var(--muted); font-size: 12px; padding: 0 2px; }
+  .rezy .vypnout { font-weight: 500; color: var(--muted); }
 
   /* ---------- časový filtr ---------- */
   .ctl-cas { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); }
@@ -253,6 +254,13 @@
     color: var(--ink-2); border-color: color-mix(in srgb, var(--ink-2) 55%, transparent);
     box-shadow: none; opacity: .82;
   }
+  .marker.rez-direct { background: #2e7652; color: #fff; opacity: 1; }
+  .marker.rez-strong { background: #9a681d; color: #fff; opacity: 1; }
+  .marker.rez-gap { background: var(--accent); color: #fff; opacity: .9; }
+  .marker.rez-none { background: color-mix(in srgb, var(--surface) 72%, #777 28%); color: var(--ink-2); opacity: .72; box-shadow: none; }
+  .marker.rez-na { background: transparent; color: var(--muted); border-color: var(--muted); opacity: .45; box-shadow: none; text-decoration: line-through; }
+  .marker.rez-building-unknown { border-style: dashed; }
+  .marker.rez-building-absent { border-style: dashed; }
   .mapzoom {
     position: absolute; left: 10px; top: 10px; z-index: 8;
     display: flex; flex-direction: column; gap: 6px;
@@ -357,6 +365,21 @@
   .dnes li[data-klic] { cursor: pointer; }
   .dnes li[data-klic]:hover b, .dnes li[data-klic]:focus-visible b { color: var(--accent-ink); text-decoration: underline; }
   .dnes-zdroj { color: var(--muted); font-size: .76rem; }
+  .povalecni {
+    margin: 10px 0 12px; padding: 9px 11px; border: 1px solid var(--border);
+    border-left: 3px solid var(--accent); border-radius: 8px; background: var(--surface);
+  }
+  .povalecni h4 {
+    margin: 0 0 5px; font: 700 .78rem/1.3 system-ui, sans-serif;
+    letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink);
+  }
+  .povalecni .stav-domu { margin: 0 0 6px; color: var(--muted); font: 11.5px/1.45 system-ui, sans-serif; }
+  .povalecni ul { margin: 0; padding-left: 17px; }
+  .povalecni li { margin: 4px 0; color: var(--ink-2); font: 11.5px/1.45 system-ui, sans-serif; }
+  .povalecni li b { color: var(--ink); }
+  .povalecni .obdobi { color: var(--accent-ink); font-weight: 650; }
+  .povalecni .typ { color: var(--muted); font-size: 10.5px; }
+  .povalecni .chybi { color: var(--muted); }
   .kopirovat {
     width: 26px; height: 26px; border-radius: 50%; padding: 0;
     border: 1px solid var(--border); background: var(--surface-2);
@@ -377,6 +400,28 @@
     margin: 4px 0 10px; line-height: 1.5;
   }
   .panel .sub b { color: var(--accent-ink); }
+  .rezy-domu { margin: 10px 0 12px; }
+  .rezy-domu > h4 {
+    margin: 0 0 6px; font: 700 .78rem/1.3 system-ui, sans-serif;
+    letter-spacing: .05em; text-transform: uppercase; color: var(--accent-ink);
+  }
+  .rez-karta {
+    margin: 6px 0; padding: 8px 10px; border: 1px solid var(--border);
+    border-left: 3px solid var(--baseline); border-radius: 7px; background: var(--surface);
+  }
+  .rez-karta.aktivni { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 5%, var(--surface)); }
+  .rez-karta h5 { margin: 0 0 4px; font: 700 13px/1.3 system-ui, sans-serif; }
+  .rez-karta h5 button {
+    border: 0; padding: 0; background: none; color: var(--accent-ink);
+    font: inherit; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;
+  }
+  .rez-karta .rez-badge {
+    margin-left: 5px; color: var(--muted); font: 600 10px/1.2 system-ui, sans-serif;
+  }
+  .rez-karta ul { margin: 0; padding-left: 17px; }
+  .rez-karta li { margin: 2px 0; color: var(--ink-2); font: 11.5px/1.45 system-ui, sans-serif; }
+  .rez-karta li b { color: var(--ink); font-weight: 650; }
+  .rez-karta .chybi { color: var(--muted); }
   .tf-pozn { font-family: system-ui, sans-serif; font-size: 12px; color: var(--accent-ink); margin: 0 0 8px; }
   .tf-pozn a { cursor: pointer; }
   .osoby { max-height: 480px; overflow-y: auto; border-top: 1px solid var(--border); }
@@ -461,7 +506,7 @@
   <div class="wrap">
     <div class="rule-top"></div>
     <div class="eyebrow">
-      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 31.&nbsp;7.&nbsp;2026</span>
+      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 1.&nbsp;8.&nbsp;2026</span>
       <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
     </div>
     <h1>Domy a lidé <span class="amp">na&nbsp;Zahrádce</span></h1>
@@ -478,6 +523,10 @@
         <button id="porovnat" class="ikona" aria-pressed="false" title="Porovnat dvě vrstvy oponou" aria-label="Porovnat dvě vrstvy oponou">⇆</button>
         <button id="prehrat" class="ikona" aria-pressed="false" title="Přehrát vrstvy po sobě (šipky ← → přepínají)" aria-label="Přehrát vrstvy po sobě">▶</button>
       </div>
+    </div>
+    <div class="ctl">
+      <div class="ctl-lbl">Obyvatelé po domech</div>
+      <div class="rezy" id="rezy" role="group" aria-label="Časový řez obyvatel po domech"></div>
     </div>
     <div class="ctl ctl-hledat">
       <div class="ctl-lbl"><label for="hledat">Hledat osobu</label></div>
@@ -528,7 +577,7 @@
         <div class="maptip" id="maptip"></div>
         <div class="mapscale" id="mapscale"><div class="bar"></div><span></span></div>
         <div class="mapnorth" title="Sever přibližně nahoře (souřadnicová síť S-JTSK)">↑<br>S</div>
-        <div class="maplegend">
+        <div class="maplegend" id="maplegend">
           <span class="doku"><i></i>doložený dům</span>
           <span class="novy"><i></i>novější čp.</span>
         </div>
@@ -555,6 +604,13 @@
       zatím dokládají — <strong><span id="statDomu">27</span> domovních oddílů</strong> a <strong><span id="statRadku">1189</span> osobních dokladových řádků</strong>
       z&nbsp;matrik farnosti Pošná (od&nbsp;1772), josefínského katastru a sčítání lidu 1921 — a nejstarší jmenný soupis vsi z berní ruly 1654.
       Podklad mapy lze přepínat mezi katastrálními mapami 1829, 1878 a pozdější, a leteckými snímky 1949–2022.</p>
+        <p>Tlačítka <b>1950, 1980 a 2000</b> zapínají obyvatelské řezy. U každého čp. panel zvlášť
+          vypíše skutečně přiřazené osoby, nejbližší časovou oporu a přesný fond či doklad pro další ověření.
+          Stejný panel obsahuje i samostatný výsledek OCR auditu veřejných smluv pro dané čp.; zásah
+          v dopravní tabulce se nikdy nevydává za obyvatele domu.
+          Stavební stav je záměrně omezen na jednu orientační větu v oddílu „Obyvatelé 1950–2026“.
+          Šedý nebo přeškrtnutý bod proto neznamená „prázdný dům“: může znamenat, že jméno není doloženo
+          nebo že dnešní číslo v daném roce ještě neexistovalo.</p>
         <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
       </div>
       <div class="card">
@@ -596,7 +652,7 @@
   </footer>
 </main>
 
-<script src="mapa_data.js?v=c03cab0f3e"></script>
+<script src="mapa_data.js?v=80931095f1"></script>
 <script>
 "use strict";
 
@@ -638,6 +694,10 @@ const ATTRIB = {
 
 const DOMY = {};
 for (const dum of window.MAPA_DATA.domy) DOMY[dum.klic] = dum;
+const REZY = window.MAPA_REZY || { snapshots: {}, houses: {} };
+const REZ_ROKY = ["1950", "1980", "2000"];
+const REZ_MAPA = { "1950": "1949", "1980": "1978", "2000": "1992" };
+let aktivniRez = null;
 const CELKEM_RADKU = window.MAPA_DATA.domy.reduce((n, d) => n + d.osoby.length, 0);
 document.getElementById("statDomu").textContent = window.MAPA_DATA.domy.length;
 document.getElementById("statRadku").textContent = CELKEM_RADKU;
@@ -650,7 +710,11 @@ for (const r of ROKY) {
   b.textContent = ROKY_POPISKY[r] || r;
   b.dataset.rok = r;
   b.setAttribute("aria-pressed", r === rok ? "true" : "false");
-  b.addEventListener("click", () => { if (typeof zastavPrehravani === "function") zastavPrehravani(); prepniRok(r); });
+  b.addEventListener("click", () => {
+    if (typeof zastavPrehravani === "function") zastavPrehravani();
+    if (aktivniRez) nastavRez(null);
+    prepniRok(r);
+  });
   yearsBox.appendChild(b);
   if (r === "pk") {
     const s = document.createElement("span");
@@ -659,6 +723,26 @@ for (const r of ROKY) {
     yearsBox.appendChild(s);
   }
 }
+
+const rezyBox = document.getElementById("rezy");
+for (const r of REZ_ROKY) {
+  const b = document.createElement("button");
+  b.type = "button";
+  b.textContent = r;
+  b.dataset.rez = r;
+  b.setAttribute("aria-pressed", "false");
+  b.title = REZY.snapshots[r] ? REZY.snapshots[r].label : "Obyvatelé " + r;
+  b.addEventListener("click", () => nastavRez(r));
+  rezyBox.appendChild(b);
+}
+const vypnoutRez = document.createElement("button");
+vypnoutRez.type = "button";
+vypnoutRez.className = "vypnout";
+vypnoutRez.textContent = "vypnout";
+vypnoutRez.dataset.rez = "";
+vypnoutRez.setAttribute("aria-pressed", "true");
+vypnoutRez.addEventListener("click", () => nastavRez(null));
+rezyBox.appendChild(vypnoutRez);
 
 const layerA = document.getElementById("layerA");
 const layerB = document.getElementById("layerB");
@@ -743,8 +827,12 @@ for (const [cp, [x, y]] of Object.entries(POZICE)) {
   b.addEventListener("focus", () => vyberDum(cp));
   b.addEventListener("pointerenter", (e) => {
     if (e.pointerType !== "mouse") return;
-    const rozsah = dum ? "doloženo " + dum.rozsah + " · " + dum.osoby.length + " řádků"
-      : "bez dokladů ve spisu";
+    const rez = aktivniRez && REZY.houses[cp]
+      ? REZY.houses[cp].snapshots[aktivniRez] : null;
+    const rozsah = rez
+      ? aktivniRez + " · " + rez.people + " · stavba: " + rez.building
+      : (dum ? "doloženo " + dum.rozsah + " · " + dum.osoby.length + " řádků"
+        : "bez dokladů ve spisu");
     maptip.innerHTML = "<b>" + jmeno + "</b><span>" + rozsah + "</span>";
     const r = mapbox.getBoundingClientRect();
     const br = b.getBoundingClientRect();
@@ -757,6 +845,57 @@ for (const [cp, [x, y]] of Object.entries(POZICE)) {
   });
   b.addEventListener("pointerleave", () => { maptip.style.display = "none"; });
   markersBox.appendChild(b);
+}
+
+const maplegend = document.getElementById("maplegend");
+const TRIDY_REZU = ["rez-direct", "rez-strong", "rez-gap", "rez-none", "rez-na",
+  "rez-building-unknown", "rez-building-absent"];
+
+function nastavRez(novy) {
+  aktivniRez = REZ_ROKY.includes(novy) ? novy : null;
+  for (const b of rezyBox.querySelectorAll("button"))
+    b.setAttribute("aria-pressed", b.dataset.rez === (aktivniRez || "") ? "true" : "false");
+
+  /* Rekonstrukční řez a filtr ±5 let vyjadřují různé druhy jistoty. Současné
+     zobrazení by bylo zavádějící, proto aktivace řezu vypne starší filtr. */
+  if (aktivniRez) {
+    tf.on = false;
+    tf.ukazVse = false;
+    tfZap.checked = false;
+    tfRok.disabled = true;
+  }
+
+  for (const m of markersBox.querySelectorAll(".marker")) {
+    m.classList.remove(...TRIDY_REZU);
+    const base = DOMY[m.dataset.klic];
+    const baseLabel = base ? base.nazev : "čp. " + m.dataset.klic;
+    if (!aktivniRez) {
+      m.setAttribute("aria-label", baseLabel);
+      continue;
+    }
+    const cut = REZY.houses[m.dataset.klic] && REZY.houses[m.dataset.klic].snapshots[aktivniRez];
+    if (!cut) continue;
+    const personClass = {
+      direct: "rez-direct", strong: "rez-strong", gap: "rez-gap",
+      none: "rez-none", not_applicable: "rez-na",
+    }[cut.people_state];
+    if (personClass) m.classList.add(personClass);
+    if (cut.building_state === "unknown") m.classList.add("rez-building-unknown");
+    if (cut.building_state === "absent") m.classList.add("rez-building-absent");
+    m.setAttribute("aria-label", baseLabel + ", řez " + aktivniRez + ": " + cut.people);
+  }
+
+  maplegend.innerHTML = aktivniRez
+    ? '<span class="doku"><i style="background:#2e7652"></i>přímé jméno</span>' +
+      '<span class="novy"><i style="background:#9a681d"></i>silná opora</span>' +
+      '<span class="novy"><i></i>mezera / bez jména</span>'
+    : '<span class="doku"><i></i>doložený dům</span><span class="novy"><i></i>novější čp.</span>';
+
+  aplikujTf();
+  if (aktivniRez && rok !== REZ_MAPA[aktivniRez]) prepniRok(REZ_MAPA[aktivniRez]);
+  if (vybrany) vyberDum(vybrany);
+  else uvodPanelu();
+  zapisHash();
 }
 
 /* ---------- neumístěné domy ---------- */
@@ -932,8 +1071,8 @@ function uvodPanelu() {
     "<h3>Zahrádka po domech</h3>" +
     '<p class="sub"><b>' + window.MAPA_DATA.domy.length + " domovních oddílů</b> · " +
     CELKEM_RADKU + " osobních dokladových řádků · doklady " + ROKY_DOKLADU.od + "–" + ROKY_DOKLADU.do + ".<br>" +
-    "Klepněte na kolečko domu, nebo hledejte osobu. " +
-    "Podklad mapy přepnete roky nad mapou.</p>" +
+    "Klepněte na kolečko domu, nebo hledejte osobu. Tlačítka <b>1950 / 1980 / 2000</b> " +
+    "zobrazí u každého domu stavbu, jména, nejbližší oporu i chybějící pramen.</p>" +
     '<p class="sub">Největší oddíl má panský dvůr <b>N11 / čp. 11</b> (' +
     (DOMY["11"] ? DOMY["11"].osoby.length : "?") + " řádků) — " +
     "jeho podrobný spis je na <a href=\"index.html\">hlavní stránce</a>.</p>" +
@@ -962,6 +1101,149 @@ function dnesHtml(klic) {
   for (const z of zaznamy)
     html += "<li>" + z.u + (z.z ? ' <span class="dnes-zdroj">' + z.z + "</span>" : "") + "</li>";
   return html + "</ul></div>";
+}
+
+/* Přísně rozlišená poválečná evidence: bydliště, úřední adresa, podnikání. */
+function obyvateleHtml(klic) {
+  const data = window.MAPA_OBYVATELE || {};
+  const house = (data.houses || {})[klic];
+  if (!house) return "";
+  const labels = data.evidence_types || {};
+  const items = (house.evidence || []).filter((item) => item.publish !== false);
+  const owner = (window.MAPA_VLASTNICI || {})[klic] || {};
+  let html = '<div class="povalecni"><h4>Obyvatelé 1950–2026</h4><ul>';
+  if (!items.length) {
+    html += '<li class="chybi"><b>Žádné doložené jméno po roce 1950.</b> ' +
+      "Chybí domovní evidence pro roky 1950, 1980, 2000 i nejnovější období.</li>";
+  } else {
+    for (const item of items) {
+      const source = item.url
+        ? '<a href="' + textHtml(item.url) + '" target="_blank" rel="noopener">' + textHtml(item.source) + "</a>"
+        : textHtml(item.source);
+      html += "<li><b>" + textHtml(item.person) + '</b> · <span class="obdobi">' +
+        textHtml(item.period) + '</span><br><span class="typ">' +
+        textHtml(labels[item.type] || item.type) + " · jistota " + textHtml(item.certainty) +
+        "</span> — " + textHtml(item.detail) + " <span class=\"dnes-zdroj\">" + source + "</span></li>";
+    }
+  }
+  const historicalOwners = (house.ownership || []).filter((item) => item.publish !== false);
+  if (!historicalOwners.length) {
+    html += '<li class="chybi"><b>Historické vlastnictví 1950–2026:</b> ' +
+      "zatím žádný přesný jmenný doklad.</li>";
+  } else {
+    for (const item of historicalOwners) {
+      const source = item.url
+        ? '<a href="' + textHtml(item.url) + '" target="_blank" rel="noopener">' +
+          textHtml(item.source) + "</a>"
+        : textHtml(item.source);
+      html += "<li><b>Historické vlastnictví — bodový stav:</b> <b>" +
+        textHtml(item.person) + '</b> · <span class="obdobi">' + textHtml(item.period) +
+        '</span><br><span class="typ">' + textHtml(item.relation) + " · jistota " +
+        textHtml(item.certainty) + "</span> — " + textHtml(item.detail) +
+        ' <span class="dnes-zdroj">' + source + "</span></li>";
+    }
+  }
+  const ownershipContext = (house.ownership_context || []).filter((item) => item.publish !== false);
+  for (const item of ownershipContext) {
+    const source = item.url
+      ? '<a href="' + textHtml(item.url) + '" target="_blank" rel="noopener">' +
+        textHtml(item.source) + "</a>"
+      : textHtml(item.source);
+    html += '<li class="chybi"><b>Nejbližší majetkový kontext — nikoli přesný vlastník domu:</b> <b>' +
+      textHtml(item.person) + '</b> · <span class="obdobi">' + textHtml(item.period) +
+      '</span> — ' + textHtml(item.detail) + ' <span class="dnes-zdroj">' + source +
+      "</span></li>";
+  }
+  if (owner.stav === "zaniklé") {
+    html += '<li class="chybi"><b>Přesná identifikace:</b> historické čp. je zaniklé; ' +
+      "dnešní stavební parcela, stavební objekt ani adresní místo neexistují.</li>";
+  } else if (owner.stavebni_parcela) {
+    html += '<li><b>Přesná identifikace:</b> stavební parcela <b>' +
+      textHtml(owner.stavebni_parcela) + "</b>; RÚIAN stavební objekt <b>" +
+      textHtml(owner.stavebni_objekt) + "</b>; adresní místo <b>" +
+      textHtml(owner.adresni_misto) + "</b>.</li>";
+  }
+  if (owner.vlastnik) {
+    html += '<li><b>Vlastník 2026:</b> ' + textHtml(owner.vlastnik) +
+      (owner.vztah_k_domu ? " — " + textHtml(owner.vztah_k_domu) : "") +
+      (owner.overeno_dne ? " (ověřeno " + textHtml(owner.overeno_dne) + ")" : "") +
+      ". Vlastnictví samo neprokazuje bydliště.</li>";
+  } else {
+    html += '<li class="chybi"><b>Vlastník 2026:</b> neověřen; přesný parcelní klíč je připraven ' +
+      "pro ruční kontrolu KN.</li>";
+  }
+  html += '<li><b>Stavební stav (jen stručně):</b> ' + textHtml(house.building) + "</li>";
+  const audit = data.public_contract_audit || {};
+  const auditItem = (audit.houses || {})[klic];
+  if (auditItem) {
+    const query = String(audit.query_pattern || '"Zahrádka {cp}" AND "Pošná"')
+      .replace("{cp}", klic);
+    const auditUrl = String(audit.url_pattern || "")
+      .replace("{query}", encodeURIComponent(query));
+    const auditSource = auditUrl
+      ? '<a href="' + textHtml(auditUrl) + '" target="_blank" rel="noopener">' +
+        textHtml(audit.source || "Kontrolní dotaz") + "</a>"
+      : textHtml(audit.source || "Kontrolní dotaz");
+    let extraSource = "";
+    if (auditItem.source) {
+      extraSource = auditItem.url
+        ? ' · <a href="' + textHtml(auditItem.url) + '" target="_blank" rel="noopener">' +
+          textHtml(auditItem.source) + "</a>"
+        : " · " + textHtml(auditItem.source);
+    }
+    html += '<li class="chybi"><b>Veřejné smlouvy a OCR přílohy (' +
+      textHtml(audit.period || "audit") + "):</b> " + textHtml(auditItem.result) +
+      ' <span class="dnes-zdroj">' + auditSource + extraSource + "</span></li>";
+  }
+  return html + "</ul></div>";
+}
+
+const STAV_OSOB = {
+  direct: "přímé přiřazení",
+  strong: "silná opora",
+  gap: "časová mezera",
+  none: "bez jména",
+  not_applicable: "číslo ještě neexistovalo",
+};
+function textHtml(text) {
+  return String(text || "").replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+function overitPresne(year, klic, cut) {
+  if (cut.people_state === "not_applicable")
+    return "Nevyhledávat obyvatele pod tímto čp.; číslo v daném roce ještě neexistovalo.";
+  if (year === "1950")
+    return "Národní archiv, Národní sčítání lidu 1950, NAD 984: domovní a bytový arch Zahrádky u Pošné, čp. " +
+      klic + ", stav k 1. 3. 1950; kontrolní součet celé vsi 26 domů / 99 obyvatel. " +
+      "Cílové archy ani archivní pomůcky nemají k 1. 8. 2026 veřejné obrazy.";
+  if (year === "1980")
+    return "SOkA Pelhřimov: MNV Útěchovičky, NAD 1262, pomůcka 559 — poslední domovní seznam čp. " +
+      klic + " do roku 1978; potom určit, kdo převzal pokračování pro roky 1979–1980. " +
+      "Úplná kontrola inv. 60–63 MNV Pošná nepotvrdila domovní seznam Zahrádky; inv. 61 je výslovně " +
+      "Pošná čp. 1–50. Doplňkově prověřit Telefonní seznam TTO Tábor 1979–1980, JVK DT 6.504; " +
+      "obálka stejné řady 1987–1988 uvádí UTO Pacov i Pelhřimov, přesný ročník ale vyžaduje ruční kontrolu.";
+  return "SOkA Pelhřimov: MNV Pošná, NAD 1544, inv. 19 / kniha 19 (1974–2007) — " +
+    "prověřit jmenné zmínky u čp. " + klic + "; pro úplnou domácnost určit u SOkA nebo " +
+    "Obce Pošná držitele pobytové evidence kolem sčítání 1991/2001. Veřejný Český telefon 2000 " +
+    "s bytovými údaji platnými do dubna 2000 je už kompletně vytěžen a případná přesná účastnická " +
+    "adresa je uvedena u domu. Nejde však o úplnou domácnost ani automatický doklad bydliště. " +
+    "Prezenční Zlaté stránky 1999–2001, JVK DT 9.279, mohou sloužit jako srovnávací kontrola.";
+}
+function rezyHtml(klic) {
+  const house = REZY.houses[klic];
+  if (!house) return "";
+  let html = '<div class="rezy-domu"><h4>Obyvatelé v řezech 1950 / 1980 / 2000</h4>';
+  for (const year of REZ_ROKY) {
+    const cut = house.snapshots[year];
+    const overit = overitPresne(year, klic, cut);
+    html += '<section class="rez-karta' + (aktivniRez === year ? " aktivni" : "") + '">' +
+      '<h5><button type="button" data-rez-prepnout="' + year + '" title="Zobrazit tento řez na mapě">' +
+      year + '</button><span class="rez-badge">' + textHtml(STAV_OSOB[cut.people_state]) + "</span></h5>" +
+      "<ul><li><b>Lidé:</b> " + textHtml(cut.people) + "</li>" +
+      "<li><b>Nejbližší opora:</b> " + textHtml(cut.anchor) + "</li>" +
+      '<li class="chybi"><b>Ověřit přesně:</b> ' + textHtml(overit) + "</li></ul></section>";
+  }
+  return html + "</div>";
 }
 
 /* šipka + tři čárky: směr šipky ukazuje pořadí, které tlačítko zapne */
@@ -996,6 +1278,8 @@ function vyberDum(klic) {
       '<p class="sub">Novější domovní číslo — v historickém registru spisu zatím nemá doklad;' +
       (((window.MAPA_DNES || {})[klic] || []).length ? " co je o něm známo dnes, je níže." : " chybí i v dnešních registrech.") +
       (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>" +
+      obyvateleHtml(klic) +
+      rezyHtml(klic) +
       dnesHtml(klic);
     return;
   }
@@ -1027,6 +1311,9 @@ function vyberDum(klic) {
     ikonaRazeni(!sestupne) + "</button></h3>" +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
+    obyvateleHtml(klic) +
+    dnesHtml(klic) +
+    rezyHtml(klic) +
     sparklineHtml(dum) +
     tfPoznamkaHtml(dum) +
     '<div class="osoby">' + seznamHtml(dum) + "</div>";
@@ -1044,8 +1331,10 @@ function vyberDum(klic) {
     });
   const kop = panel.querySelector(".kopirovat");
   if (kop) kop.addEventListener("click", () => {
-    const url = location.origin + location.pathname + "#" + klic +
-      (rok !== "2022" ? "/" + rok : "");
+    const casti = [klic];
+    if (rok !== "2022") casti.push(rok);
+    if (aktivniRez) casti.push("r" + aktivniRez);
+    const url = location.origin + location.pathname + "#" + casti.join("/");
     navigator.clipboard.writeText(url).then(() => {
       kop.textContent = "✓";
       kop.title = "Odkaz zkopírován";
@@ -1106,6 +1395,11 @@ function prijmeniDotaz(text) {
 }
 
 panel.addEventListener("click", (e) => {
+  const rezBtn = e.target.closest("[data-rez-prepnout]");
+  if (rezBtn) {
+    nastavRez(rezBtn.dataset.rezPrepnout);
+    return;
+  }
   const jm = e.target.closest(".jmeno");
   if (!jm) return;
   hledat.value = prijmeniDotaz(jm.textContent);
@@ -1449,6 +1743,7 @@ function aplikujTf() {
 }
 
 tfZap.addEventListener("change", () => {
+  if (tfZap.checked && aktivniRez) nastavRez(null);
   tf.on = tfZap.checked;
   tf.ukazVse = false;
   tfRok.disabled = !tf.on;
@@ -1493,6 +1788,7 @@ function zapisHash() {
     const casti = [];
     if (vybrany) casti.push(vybrany);
     if (rok !== "2022") casti.push(rok);
+    if (aktivniRez) casti.push("r" + aktivniRez);
     if (casti.length) history.replaceState(null, "", "#" + casti.join("/"));
     else history.replaceState(null, "", location.pathname + location.search);
   }, 350);
@@ -1502,6 +1798,7 @@ function aplikujHash() {
   let dum = null;
   for (const t of tokeny) {
     if (ROKY.includes(t)) prepniRok(t);
+    else if (/^r(1950|1980|2000)$/.test(t)) nastavRez(t.slice(1));
     else if (DOMY[t] || POZICE[t]) dum = t;
   }
   if (dum) vyberDum(dum);

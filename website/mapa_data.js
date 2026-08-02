@@ -1,5 +1,6 @@
 // Generováno skriptem nastroje/vytvorit_mapova_data.rb z
-// obyvatele_zahradky_domy/dolozene_pobyty.md a soucasny_stav_domu.md — neupravovat ručně.
+// domovního registru, soucasny_stav_domu.md, obyvatele_1950_2026_data.json
+// a rekonstrukce_20_stoleti_data.json — neupravovat ručně.
 window.MAPA_DATA = {
   "domy": [
     {
@@ -764,6 +765,13 @@ window.MAPA_DATA = {
           "j": "Marie Fraňková (?)",
           "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
           "r": 1880
+        },
+        {
+          "d": "16. / 18. 6. 1882",
+          "j": "Marie Fraňková",
+          "p": "dcera Františka Fraňka, rolníka v čp. 1, a Kateřiny rozené Kejvalové ze Zahrádky čp. 15; příčinou smrti byl záškrt",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/12\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 12</a>",
+          "r": 1882
         },
         {
           "d": "18. 5. 1920",
@@ -2003,8 +2011,8 @@ window.MAPA_DATA = {
         },
         {
           "d": "zemřela 4. 5. 1936",
-          "j": "Antonie Bartošková, rozená Svobodová",
-          "p": "<b>rolnice‑výměnkářka v čp. 3</b>, vdova po Matěji Bartoškovi; z Útěchoviček č. 20, zemřela v 69 letech na cukrovku. Doplňuje rodinu z let 1921–1925",
+          "j": "Antonie Bartoška <span class=\"nej\">[normalizovaně Bartošková]</span>, rozená Svobodová",
+          "p": "<b>výměnkářka v čp. 3</b>, vdova po Matěji Bartoškovi; z Útěchoviček č. 20, zemřela v 69 letech na cukrovku. Matrika píše přesný tvar <span class=\"nej\">Bartoška</span> a původně napsanou roli <span class=\"nej\">rolnice</span> škrtá. Doplňuje rodinu z let 1921–1925",
           "z": "<a href=\"https://digi.ceskearchivy.cz/11214/268\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 268</a>",
           "r": 1936
         }
@@ -2551,15 +2559,15 @@ window.MAPA_DATA = {
         {
           "d": "4. / 5. 1. 1820",
           "j": "Josef Kejval (?)",
-          "p": "narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce",
-          "r": 1820
+          "p": "otec při narození dítěte Josef Kejval (?)",
+          "r": 1820,
+          "rod": "o"
         },
         {
           "d": "4. / 5. 1. 1820",
           "j": "Josef Kejval (?)",
-          "p": "otec při narození dítěte Josef Kejval (?)",
-          "r": 1820,
-          "rod": "o"
+          "p": "narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce",
+          "r": 1820
         },
         {
           "d": "4. / 5. 1. 1820",
@@ -2710,15 +2718,15 @@ window.MAPA_DATA = {
         {
           "d": "12. 2. 1852; den křtu neuveden",
           "j": "Josef Nuník (?)",
-          "p": "otec při narození dítěte Josef Nuník (?)",
-          "r": 1852,
-          "rod": "o"
+          "p": "narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení",
+          "r": 1852
         },
         {
           "d": "12. 2. 1852; den křtu neuveden",
           "j": "Josef Nuník (?)",
-          "p": "narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení",
-          "r": 1852
+          "p": "otec při narození dítěte Josef Nuník (?)",
+          "r": 1852,
+          "rod": "o"
         },
         {
           "d": "12. 2. 1852; den křtu neuveden",
@@ -2886,6 +2894,13 @@ window.MAPA_DATA = {
           "p": "matka při narození dítěte Antonín Nuník (?)",
           "r": 1871,
           "rod": "m"
+        },
+        {
+          "d": "22. / 24. 3. 1882",
+          "j": "Josef Vaněk",
+          "p": "rolník v čp. 5, manžel Marie rozené Svobodové z Outěchoviček čp. 7; zemřel ve věku 56 let",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/10\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 10</a>",
+          "r": 1882
         },
         {
           "d": "1921 (sčítací arch)",
@@ -3324,14 +3339,14 @@ window.MAPA_DATA = {
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
         {
           "d": "21. / 22. 8. 1850",
           "j": "Matěj Chramosta (?)",
-          "p": "otec při narození dítěte Josef Chramosta (?) <span class=\"nej\">[dvojče]</span>",
+          "p": "otec při narození dítěte Anna Marie Chramostová (?) <span class=\"nej\">[dvojče]</span>",
           "r": 1850,
           "rod": "o"
         },
@@ -3747,6 +3762,13 @@ window.MAPA_DATA = {
           "j": "Marie Plášilová",
           "p": "narození / křest; dítě, rodiče, dům a den bezpečné",
           "r": 1879
+        },
+        {
+          "d": "16. / 19. 7. 1881",
+          "j": "František Pudil",
+          "p": "syn Františka Pudila, nádeníka v čp. 6, a Františky rozené Sváčkové z Eše čp. 37; zemřel ve věku 1 měsíce a 16 dní na psotník",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/7\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 7</a>",
+          "r": 1881
         },
         {
           "d": "1921 (sčítací arch)",
@@ -4853,9 +4875,16 @@ window.MAPA_DATA = {
           "p": "<b>výměnkářka</b> z čp. 8; potvrzuje rodinu Křížových v tomto domě vedle rolníka Františka Kříže z roku 1930",
           "z": "tentýž rejstřík",
           "r": 1933
+        },
+        {
+          "d": "26. 2. 1956",
+          "j": "Marie Křížová",
+          "p": "článek o výroční členské schůzi JZD Zahrádka u Pošné ji výslovně uvádí jako „družstevnici Marii Křížovou čp. 8“. Jde o přímou domovní vazbu; se dvěma staršími ženami stejného jména, které v tomto domě zemřely v letech 1932 a 1933, se bez dalšího pramene neztotožňuje",
+          "z": "[Vesnické noviny, č. 8, s. [1]](https://kramerius.kkvysociny.cz/view/uuid:2e4e240a-0e92-4d1e-ac81-2a23b668414a)",
+          "r": 1956
         }
       ],
-      "rozsah": "1800–1933"
+      "rozsah": "1800–1956"
     },
     {
       "klic": "9",
@@ -7815,11 +7844,12 @@ window.MAPA_DATA = {
           "r": 1924
         },
         {
-          "d": "doložen 23. 11. 1929",
+          "d": "doložen 23. 11. 1929; zemřel 1. 2. 1930, pohřben 3. 2. 1930",
           "j": "Josef Vacík",
-          "p": "<b>zemědělský dělník</b> ve dvoře; otec Marie; adresní posloupnost: Zahrádka č. 11",
-          "z": "ZAH-0239; <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 215</a>",
-          "r": 1929
+          "p": "<b>zemědělský dělník</b>, v úmrtním zápisu <b>hospodářský dělník-deputátník</b>; otec Marie; adresní posloupnost: Zahrádka č. 11",
+          "z": "ZAH-0239; <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 215</a>, <a href=\"https://digi.ceskearchivy.cz/11214/247\" target=\"_blank\" rel=\"noopener\">plný úmrtní zápis, snímek 247</a>, <a href=\"https://digi.ceskearchivy.cz/11214/296\" target=\"_blank\" rel=\"noopener\">rozporný rejstřík, snímek 296</a>",
+          "r": 1929,
+          "rr": 1930
         },
         {
           "d": "oddána 23. 11. 1929",
@@ -8039,15 +8069,15 @@ window.MAPA_DATA = {
         {
           "d": "28. 11. 1831; křest téhož dne",
           "j": "Josef Krejčí (?)",
-          "p": "otec při narození dítěte Josef Krejčí (?)",
-          "r": 1831,
-          "rod": "o"
+          "p": "narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce",
+          "r": 1831
         },
         {
           "d": "28. 11. 1831; křest téhož dne",
           "j": "Josef Krejčí (?)",
-          "p": "narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce",
-          "r": 1831
+          "p": "otec při narození dítěte Josef Krejčí (?)",
+          "r": 1831,
+          "rod": "o"
         },
         {
           "d": "28. 11. 1831; křest téhož dne",
@@ -8124,7 +8154,7 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Jan Budil",
+          "j": "Jan Pudil",
           "p": "přednosta domácnosti",
           "h": 1,
           "c": "Zahrádka · zemědělský pracovník",
@@ -8132,7 +8162,7 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Budil",
+          "j": "Josef Pudil",
           "p": "syn; svobodný",
           "h": 1,
           "c": "Zahrádka · žák",
@@ -8148,14 +8178,6 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Marie Budilová",
-          "p": "manželka",
-          "h": 1,
-          "c": "Zahrádka · práce v domácnosti",
-          "r": 1921
-        },
-        {
-          "d": "1921 (sčítací arch)",
           "j": "Marie Kejvalová",
           "p": "služka; svobodná",
           "h": 1,
@@ -8163,9 +8185,17 @@ window.MAPA_DATA = {
           "r": 1921
         },
         {
+          "d": "1921 (sčítací arch)",
+          "j": "Marie Pudilová",
+          "p": "manželka",
+          "h": 1,
+          "c": "Zahrádka · práce v domácnosti",
+          "r": 1921
+        },
+        {
           "d": "1921, 1925 a 1930",
           "j": "Jan Pudil",
-          "p": "dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Sčítání 1921 čte v čp. 12 „Jan Budil“; matrika píše opakovaně Pudil a on sám se roku 1925 podepsal „Jan Pudil, otec“",
+          "p": "dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Obrazová revize sčítacího archu 1. 8. 2026 potvrdila čtení „Pudil“; stejně jej píší matriky a on sám se roku 1925 podepsal „Jan Pudil, otec“",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/163\" target=\"_blank\" rel=\"noopener\">sn. 163</a>, <a href=\"https://digi.ceskearchivy.cz/6624/186\" target=\"_blank\" rel=\"noopener\">sn. 186</a>, <a href=\"https://digi.ceskearchivy.cz/6624/215\" target=\"_blank\" rel=\"noopener\">sn. 215</a>",
           "r": 1921,
           "rr": 1930
@@ -8587,7 +8617,7 @@ window.MAPA_DATA = {
         {
           "d": "zemřela 6. 12. 1936",
           "j": "Antonie Kudrnová, rozená Kratochvílová",
-          "p": "vdova po Josefu Kudrnovi, domkáři; z Pejškova č. 4, zemřela v 77 letech sešlostí věkem. Zápis ji vede u <b>čp. 13</b>, kdežto roku 1921 a 1922 byla rodina v čp. 18",
+          "p": "vdova po Josefu Kudrnovi, domkáři v <b>Zahrádce čp. 18</b>; z <b>Pejškova č. 11</b>, zemřela v 77 letech sešlostí věkem. Zápis ji roku 1936 vede u <b>čp. 13</b>, kdežto roku 1921 a 1922 byla rodina v čp. 18",
           "z": "<a href=\"https://digi.ceskearchivy.cz/11214/270\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 270</a>",
           "r": 1936
         }
@@ -9211,7 +9241,7 @@ window.MAPA_DATA = {
         {
           "d": "16. 10. 1937",
           "j": "Aloisie Pudilová, rozená Kremličková",
-          "p": "manželka malorolníka Josefa Pudila; z Pošné č. 55 (mlýn)",
+          "p": "manželka malorolníka Josefa Pudila; z <b>Pošné č. 35</b>",
           "z": "tentýž zápis",
           "r": 1937
         },
@@ -9745,18 +9775,18 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "František Kejval",
-          "p": "majitel bytu; přednosta domácnosti",
+          "j": "František Kadlec",
+          "p": "čeledín; svobodný",
           "h": 1,
-          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
+          "c": "Polná (?) · zemědělský pracovník v hospodářství majitele bytu",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "František Kudlec",
-          "p": "čeledín; svobodný",
+          "j": "František Kejval",
+          "p": "majitel bytu; přednosta domácnosti",
           "h": 1,
-          "c": "Polná (?) · zemědělský pracovník v hospodářství majitele bytu",
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
@@ -11486,8 +11516,8 @@ window.MAPA_DATA = {
         {
           "d": "1921, 18. 7. 1922; zemřela 6. 12. 1936",
           "j": "Antonie Kudrnová, rozená Kratochvílová",
-          "p": "roku 1921 manželka domkáře Josefa Kudrny, roku 1922 už vdova; matka Marie Kratochvílové. Úmrtní zápis z roku 1936 doplňuje rodné příjmení <b>Kratochvílová z Pejškova č. 4</b> a udává jako poslední dům <b>čp. 13</b> — rodina se tedy mezi lety 1922 a 1936 přestěhovala z č. 18",
-          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 174</a>",
+          "p": "roku 1921 manželka domkáře Josefa Kudrny, roku 1922 už vdova; matka Marie Kratochvílové. Plný úmrtní zápis z roku 1936 ji vede jako Kratochvílovou z <b>Pejškova č. 11</b>, Josefa Kudrnu výslovně označuje za domkáře v <b>Zahrádce čp. 18</b> a jako její poslední dům uvádí <b>čp. 13</b> — mezi lety 1922 a 1936 se tedy přestěhovala",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/174\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 174</a>, <a href=\"https://digi.ceskearchivy.cz/11214/270\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 270</a>",
           "r": 1921,
           "rr": 1936
         },
@@ -12430,15 +12460,15 @@ window.MAPA_DATA = {
         {
           "d": "29. / 30. 11. 1857",
           "j": "Josef Žák",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování známé rodiny N20",
-          "r": 1857
+          "p": "otec při narození dítěte Josef Žák",
+          "r": 1857,
+          "rod": "o"
         },
         {
           "d": "29. / 30. 11. 1857",
           "j": "Josef Žák",
-          "p": "otec při narození dítěte Josef Žák",
-          "r": 1857,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování známé rodiny N20",
+          "r": 1857
         },
         {
           "d": "7. / 8. 8. 1858",
@@ -12630,15 +12660,15 @@ window.MAPA_DATA = {
         {
           "d": "18. / 19. 5. 1876",
           "j": "Jan Dvořáček",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1876
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1876,
+          "rod": "o"
         },
         {
           "d": "18. / 19. 5. 1876",
           "j": "Jan Dvořáček",
-          "p": "otec při narození dítěte Jan Dvořáček",
-          "r": 1876,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1876
         },
         {
           "d": "18. / 19. 5. 1876",
@@ -12666,6 +12696,13 @@ window.MAPA_DATA = {
           "p": "matka při narození dítěte Antonie Dvořáčková",
           "r": 1878,
           "rod": "m"
+        },
+        {
+          "d": "9. / 11. 6. 1882",
+          "j": "Josef Žák",
+          "p": "chalupník v čp. 20, manžel Veroniky rozené Davidové z Rovného čp. 11; zemřel ve věku 45 let",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/12\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 12</a>",
+          "r": 1882
         },
         {
           "d": "sňatek 28. 1. 1901",
@@ -13428,7 +13465,7 @@ window.MAPA_DATA = {
         {
           "d": "11. 6. 1935",
           "j": "Marie Vacková, rozená Drexlerová",
-          "p": "manželka kočího Františka Vacka; z Chvojnice č. 5",
+          "p": "manželka kočího Františka Vacka; z <b>Chvojnice č. 8</b>",
           "z": "tentýž zápis",
           "r": 1935
         },
@@ -13447,19 +13484,19 @@ window.MAPA_DATA = {
           "r": 1937
         },
         {
-          "d": "duben 1937; okraden 8. 7. 1938",
-          "j": "Jan Plášil",
-          "p": "<b>dělník‑deputátník v čp. 22</b> — tím je konečně určen dům deputátníka, kterému se roku 1938 vloupali do bytu; jeho syn Josef, narozený v Hrobech, zemřel v dubnu 1937 na vrozenou slabost",
-          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/271\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 271</a>, <a href=\"https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb\" target=\"_blank\" rel=\"noopener\">Český jih 16. 7. 1938</a>",
-          "r": 1937,
-          "rr": 1938
-        },
-        {
-          "d": "duben 1937",
+          "d": "syn zemřel 2. 4. 1937",
           "j": "Marie Plášilová, rozená Norková",
           "p": "manželka deputátníka Jana Plášila; z Čakova u Českých Budějovic",
           "z": "<a href=\"https://digi.ceskearchivy.cz/11214/271\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 271</a>",
           "r": 1937
+        },
+        {
+          "d": "syn zemřel 2. 4. 1937; okraden 8. 7. 1938",
+          "j": "Jan Plášil",
+          "p": "<b>dělník‑deputátník v čp. 22</b> — tím je konečně určen dům deputátníka, kterému se roku 1938 vloupali do bytu; jeho syn Josef, narozený v Hrobech, zemřel podle opraveného hlavního zápisu 2. 4. 1937 (pohřeb 4. 4.) na vrozenou slabost; abecední rejstřík uvádí rozporně 12. 3.",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/271\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 271</a>, <a href=\"https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb\" target=\"_blank\" rel=\"noopener\">Český jih 16. 7. 1938</a>",
+          "r": 1937,
+          "rr": 1938
         }
       ],
       "rozsah": "1815–1938"
@@ -13795,21 +13832,21 @@ window.MAPA_DATA = {
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Jan Kudlec",
+          "j": "Jan Kadlec",
           "p": "syn; svobodný",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Josef Kudlec",
+          "j": "Josef Kadlec",
           "p": "majitel bytu; přednosta domácnosti",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
-          "j": "Marie Kudlecová",
+          "j": "Marie Kadlecová",
           "p": "manželka",
           "h": 1,
           "r": 1921
@@ -13824,7 +13861,7 @@ window.MAPA_DATA = {
         {
           "d": "16. 6. 1928",
           "j": "Jan Kadlec",
-          "p": "dělník v č. 25; matrika čte Kadlec, sčítání 1921 vede u čp. 25 Josefa Kudlce — pravopis se bez zvětšeniny nesjednocuje",
+          "p": "dělník v č. 25; obrazová revize sčítání 1921 potvrdila v témže domě rodinu Kadlecových",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/206\" target=\"_blank\" rel=\"noopener\">sn. 206</a>",
           "r": 1928
         },
@@ -14283,8 +14320,8 @@ window.MAPA_DATA = {
 window.MAPA_DNES = {
   "obec": [
     {
-      "u": "Sčítání 2021: 24 obyvatel s obvyklým pobytem, 12 obydlených bytů. RÚIAN 2026: 26 adresních míst (čp. 1–11, 13–16, 20, 21, 24–32) a 37 stavebních objektů (11 bez čp.); čp. 12, 17, 18, 19, 22, 23 zanikla",
-      "z": "ČSÚ SLDB 2021; RÚIAN"
+      "u": "Sčítání 2021: 24 obyvatel s obvyklým pobytem, 12 obydlených bytů. ČÚZK k 26. 7. 2026: 26 adresních míst (čp. 1–11, 13–16, 20, 21, 24–32) a 38 budov — 26 s čp., 11 bez čp. a jedna rozestavěná; čp. 12, 17, 18, 19, 22, 23 zanikla. Katastr má 786 parcel o výměře 371,6916 ha",
+      "z": "ČSÚ SLDB 2021; ČÚZK, podrobné informace k. ú. 775606; RÚIAN"
     },
     {
       "u": "Stopy zaniklých stavení v katastru: zbořeniště st. 27/2 (u čp. 6), st. 28/1 a 28/2; „objekt k bydlení“ bez čp. na st. 49 a „zemědělská usedlost“ bez čp. na st. 37; v řadě stavebních parcel chybí 18 kmenových čísel — kandidátní místa zaniklých čp.",
@@ -14315,7 +14352,7 @@ window.MAPA_DNES = {
       "z": "usnesení ZO Pošná"
     },
     {
-      "u": "Odstávka elektřiny EG.D 7. 8. 2026 dokládá aktivní odběrná místa: čp. 1–11, 13, 14, 15, 20, 21, 24–28 a 31 + odběry na parcelách bez čp. (3/1, 12/2, 44, 420/7); mimo seznam této odstávky jsou čp. 16, 29, 30 a 32",
+      "u": "Odstávka elektřiny EG.D 7. 8. 2026 uvádí vypínaná odběrná místa u 22 platných čp.: 1–11, 13, 14, 15, 20, 21, 24–28 a 31 + odběry na parcelách bez čp. (3/1, 12/2, 44, 420/7); mimo seznam této odstávky jsou čp. 16, 29, 30 a 32",
       "z": "EG.D, úřední deska Pošné"
     },
     {
@@ -14389,14 +14426,14 @@ window.MAPA_DNES = {
   ],
   "4": [
     {
-      "u": "RÚIAN: rodinný dům na st. 17, 152 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 21). Místní paměť MJS‑001: „naše chalupa“ — posloupnost rodin Novák → Markvart",
-      "z": "RÚIAN, SO 8831211; místní paměť"
+      "u": "RÚIAN: rodinný dům na st. 17, 152 m², dokončení evidováno k roku 1919 (nejstarší evidovaný údaj vsi spolu s čp. 21). Místní paměť MJS‑001: „naše chalupa“ — posloupnost rodin Novák → Markvart. Martin Vaněk zde měl veřejně zachycenou podnikatelskou adresu ještě 13. 3. 2026; ARES od 8. 6. 2026 uvádí Prahu, takže nejde o aktuální pobytový doklad",
+      "z": "RÚIAN, SO 8831211; místní paměť; Finance.cz; ARES"
     }
   ],
   "5": [
     {
-      "u": "RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960",
-      "z": "RÚIAN, SO 8831220"
+      "u": "RÚIAN: rodinný dům na st. 21, 240 m², dokončení evidováno k roku 1960. Vasyl Liakh zde měl podnikatelskou adresu od 2. 6. 2025 nejpozději do 19. 3. 2026; od 20. 3. 2026 ARES uvádí Milotice, nejde tedy o aktuální pobytovou stopu",
+      "z": "RÚIAN, SO 8831220; Finance.cz; ARES/RŽP"
     },
     {
       "u": "Vazba konkrétního jména na tento dům je doložena od roku 1992 (matriční rubrika Městského úřadu Pacov v měsíčníku Z mého kraje). Jde o žijící osobu mimo veřejné registry, proto se jméno uvádí jen v úplném záznamu rešerše",
@@ -14421,8 +14458,8 @@ window.MAPA_DNES = {
   ],
   "8": [
     {
-      "u": "RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Sídlo podnikání: Anna Vlčková (živnost od 20. 11. 2006, ale <b>místo podnikání na čp. 8 je v rejstříku vedeno teprve od 26. 3. 2024</b>; technické návrhy a grafika, chov zvířat, výroba upomínkových předmětů)",
-      "z": "RÚIAN, SO 8831254; ARES/RŽP"
+      "u": "RÚIAN: rodinný dům na st. 22, zastavěná plocha 536 m² (největší ve vsi), 2 podlaží, dokončení evidováno k roku 1970. Anna Vlčková: místo podnikání na čp. 8 od 26. 3. 2024 a veřejná adresa pro zasílání klubových dokladů ověřená 1. 8. 2026; ani jedna stopa sama neprokazuje bydliště",
+      "z": "RÚIAN, SO 8831254; ARES/RŽP; Český klub rhodéských ridgebacků"
     }
   ],
   "9": [
@@ -14433,6 +14470,10 @@ window.MAPA_DNES = {
     {
       "u": "Jaroslav Plášil, bytem Zahrádka 9, byl od 26. 9. 2001 do 22. 2. 2013 členem představenstva Zemědělského družstva Velká Chyška (a dříve 1993–1998); v komunálních volbách 1998 byl za sdružení nezávislých kandidátů zvolen zastupitelem obce Pošná",
       "z": "obchodní rejstřík (ARES), volby.cz KV1998"
+    },
+    {
+      "u": "Martin Plášil je s adresou „Zahrádka čp. 9, Pošná“ uveden mezi jednotlivě obesílanými účastníky vodoprávního řízení v rozhodnutí Městského úřadu Pacov z 18. 12. 2023. Listina dokládá jeho úřední kontaktní adresu k tomuto dni; sama nedokládá vlastnictví čp. 9 ani nepřetržitý pobyt",
+      "z": "rozhodnutí MÚ Pacov č. j. MP/15025/2023/Kp"
     },
     {
       "u": "Roku 2008 schválilo zastupitelstvo obce úpravu veřejného prostranství u čp. 9 spolu s dezinfekcí obecní studny a opravou kanalizace na Zahrádce",
@@ -14473,8 +14514,8 @@ window.MAPA_DNES = {
   ],
   "15": [
     {
-      "u": "RÚIAN: rodinný dům na st. 10/3, 235 m², dokončení evidováno k roku 2006. Sídlo podnikání: Pavla Moravcová (od 2019; jóga — vázaná živnost, obchod)",
-      "z": "RÚIAN, SO 8831319; ARES/RŽP"
+      "u": "RÚIAN: rodinný dům na st. 10/3, 235 m², dokončení evidováno k roku 2006. Pavla Moravcová: podnikatelská adresa od 2019; Petr Moravec: starší podnikatelská stopa na čp. 15, ukončená nejpozději 18. 7. 2016",
+      "z": "RÚIAN, SO 8831319; ARES/RŽP; Atlasfirem"
     },
     {
       "u": "Pavla Moravcová zde má nejen sídlo podnikání, ale doloženě i bydliště — smlouva o kotlíkové dotaci (PR02270.0027, 120 000 Kč, 27. 3. 2018) uvádí adresu čp. 15 a je podepsána „V Zahrádce“",
@@ -14613,4 +14654,2889 @@ window.MAPA_DNES = {
       "z": "RÚIAN, 31. 7. 2026"
     }
   ]
+};
+window.MAPA_OBYVATELE = {
+  "updated": "2026-08-01",
+  "method": "Záznam je časový bod nebo přesně vymezené období, nikoli automaticky souvislý pobyt. Bydliště, úřední adresa, kontaktní adresa, adresa podnikání a poslední známá adresa vlastníka se vedou odděleně.",
+  "evidence_types": {
+    "residence": "doložené bydliště",
+    "official_address": "úřední adresa; pobyt není výslovně potvrzen",
+    "contact_address": "veřejná kontaktní adresa; není dokladem bydliště",
+    "telephone_subscriber_address": "historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti",
+    "business_address": "adresa podnikání; není dokladem bydliště",
+    "last_known_address": "nedatovaná poslední známá adresa vlastníka uvedené parcely; nikoli vlastníka domu",
+    "organization": "sídlo organizace; není dokladem obyvatele",
+    "organization_role": "statutární role v organizaci sídlící u domu; není dokladem bydliště ani vlastnictví",
+    "project_applicant": "žadatel u úředního záměru vázaného k domu; není dokladem sídla, bydliště ani vlastnictví"
+  },
+  "current_house_context": [
+    {
+      "period": "oznámení ze 7. 7. 2026; odstávka plánována na 7. 8. 2026",
+      "houses": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "13",
+        "14",
+        "15",
+        "20",
+        "21",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "31"
+      ],
+      "detail": "EG.D uvádí 22 dnešních zahrádeckých čp. mezi adresami dotčenými jednou plánovanou odstávkou elektřiny.",
+      "limits": "Jde o technickou kontrolu adres, nikoli o soupis všech domů, odběrných míst nebo obyvatel. Chybějící čp. se nesmí vyložit jako neobydlené. Položky „čp. 0“ a „čp. 61“, které nejsou mezi dnešními adresami projektu podle RÚIAN, zůstávají nevyřešenou anomálií zdrojových dat a nepřidávají se jako domy.",
+      "source": "EG.D / Obec Pošná, oznámení odstávky č. 260306694",
+      "url": "https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660"
+    }
+  ],
+  "current_telephone_audit": {
+    "period": "veřejný adresář uvádí stav 51 098 kontaktů k 28. 7. 2026; dotazy provedeny 1. 8. 2026",
+    "source": "1188 — veřejný telefonní seznam",
+    "url": "https://seznam.1188.cz/vyhledavani",
+    "exact_known_names_checked": 5,
+    "named_results": 0,
+    "locality_only_query_available": false,
+    "phone_numbers_exported": 0,
+    "new_exact_person_links": 0,
+    "new_residence_links": 0,
+    "method": "V lokalitě Zahrádka u Pošné bylo jednotlivě ověřeno pět přesných jmen už známých z jiných veřejných pramenů. Prázdný jmenný dotaz omezený jen lokalitou formulář nepřijal. Telefonní čísla se nepřebírala.",
+    "findings": "Žádné z pěti kontrolovaných jmen nevrátilo výsledek. Audit proto nepřidal současnou adresu ani obyvatele.",
+    "limits": "Nulový výsledek neprokazuje, že osoba v domě nebydlí ani že dům nemá telefon. Bez funkčního lokalitního výpisu nejde o úplnou kontrolu vsi; adresář navíc obsahuje jen zveřejněné kontakty a není pobytovou evidencí."
+  },
+  "archival_source_audit": {
+    "period": "živý stav katalogů a digitálních příloh ověřen 1. 8. 2026",
+    "method": "U každého rozhodujícího pramene byl otevřen aktuální záznam ARON včetně celé dostupné hierarchie, polí digitálních objektů a příloh. U MNV Pošná byly přes veřejné rozhraní načteny všechny čtyři položky sekce Evidence obyvatelstva a sčítání lidu. Katalogy a klientská API digitálních knihoven KKV, MZK a JVK/CBVK i federovaná Česká digitální knihovna byly prohledány podle názvů telefonních a účastnických seznamů. Souborný katalog Knihovny.cz byl navíc prohledán podle přesného telefonního obvodu Tábor a katalog ČGHSP podle regionálních telefonních seznamů roku 1950.",
+    "new_exact_person_links": 0,
+    "new_residence_links": 0,
+    "sources": [
+      {
+        "checkpoint": "1950",
+        "source": "Národní archiv, Národní sčítání lidu 1950, NAD 984",
+        "url": "https://portal.nacr.cz/aron/apu/9a5ca37a-bb27-4581-ba0c-77f0ac6ca5d0",
+        "catalog_scope": "sčítací, domovní a hospodářské archy k rozhodnému dni 1. 3. 1950",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Fond i dvě archivní pomůcky jsou veřejně popsány, ale cílové archy Zahrádky nejsou připojeny jako digitální reprodukce. Přesný domovní řez proto vyžaduje Národní archiv."
+      },
+      {
+        "checkpoint": "1950",
+        "source": "Knihovna Národního archivu, Úřední telefonní seznam, část 2, pro kraje Jihlava, Brno, Olomouc, Gottwaldov a Ostrava 1950",
+        "url": "https://www.knihovny.cz/Record/nacr.c9d28943-e9fa-481c-9f7d-57779479f9ee",
+        "catalog_scope": "prezenční exemplář na Chodovci, signatura IM489",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Živý katalogový stav 1. 8. 2026 uvádí exemplář jako dostupný a objednatelný ke studiu. Je ve stejné instituci jako sčítací fond 1950, takže představuje nejpraktičtější doplňkovou kontrolu při jedné badatelské návštěvě. Objednávka nebyla vytvořena a obsah hesla Zahrádka nebo Pošná zatím nebyl přečten."
+      },
+      {
+        "checkpoint": "1950",
+        "source": "Národní knihovna ČR, Úřední telefonní seznam pro kraj 9: Jihlava 1950",
+        "url": "https://www.knihovny.cz/Record/nkp.NKC01-001232628",
+        "catalog_scope": "samostatný jihlavský díl, 16 a 82 stran, Národní konzervační fond, signatura II 038397",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Živý katalogový stav 1. 8. 2026 potvrzuje archivní exemplář s omezenou dostupností a možností objednání po přihlášení. Jde o nejmenší přesně cílený svazek pro kraj 9; veřejný záznam neobsahuje obrazy a žádná objednávka nebyla vytvořena."
+      },
+      {
+        "checkpoint": "1950",
+        "source": "Národní knihovna ČR, Úřední telefonní seznam, část 2, pro kraje Jihlava, Brno, Olomouc, Gottwaldov a Ostrava 1950",
+        "url": "https://www.knihovny.cz/Record/nkp.NKC01-000503068",
+        "catalog_scope": "souborný svazek pěti krajů, Národní konzervační fond, signatura III 016575",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Druhý exemplář Národní knihovny potvrzuje tentýž jihlavský obsah v souborném svazku. Živý katalog jej vede jako archivní exemplář s omezenou dostupností a možností objednání po přihlášení; veřejné obrazy ani přečtené heslo Zahrádka nejsou k dispozici."
+      },
+      {
+        "checkpoint": "1950",
+        "source": "Česká genealogická a heraldická společnost v Praze, Úřední telefonní seznam pro kraje Jihlava, Brno, Olomouc, Gottwaldov, Ostrava 1950",
+        "url": "https://archiv.genealogie.cz/uploads/media/Katalog_knihovny_k_15.8.2024.pdf",
+        "catalog_scope": "fyzický knihovní exemplář, přírůstkové číslo 1428, katalogová skupina Míst",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Jde o přesný doplňkový adresář pro rok 1950 a tehdejší Jihlavský kraj. Katalog zpřístupňuje jen bibliografický záznam, ne stránky seznamu; ruční kontrola musí nejprve potvrdit heslo Zahrádka nebo Pošná a případné účastníky s čp. Ani kladný výsledek nebude úplným soupisem domácností."
+      },
+      {
+        "checkpoint": "1950",
+        "source": "Štátna vedecká knižnica v Košiciach, Telefonní seznam pro kraj 9. Jihlava na rok 1959–60",
+        "url": "https://sclib.svkk.sk/sck01/Record/000700918",
+        "catalog_scope": "bibliografický záznam 000700918; Jihlava, Krajská správa spojov, 1959, 77 stran",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Pozdější raně poválečná bibliografická stopa může pomoci hledat jiný dochovaný exemplář, ale tento katalog výslovně uvádí „Dokument je vyradený“. Není tedy dostupným pramenem a k řezu 1950 nepřidává žádnou osobu."
+      },
+      {
+        "checkpoint": "1980",
+        "source": "SOkA Pelhřimov, MNV Útěchovičky, NAD 1262",
+        "url": "https://portal.nacr.cz/aron/apu/16e489c1-dc65-4e14-8160-b427510d8a25",
+        "catalog_scope": "evidence obyvatel, domovní seznamy a sčítání 1951–1978",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Jde o poslední katalogově doložený zahrádecký domovní pramen před rokem 1980. Fond ani prozatímní inventární seznam č. 559 nemají veřejné obrazy; navazující stav 1979–1980 katalog neurčuje."
+      },
+      {
+        "checkpoint": "1980",
+        "source": "SOkA Pelhřimov, MNV Pošná, inv. 60–63 / karton 4",
+        "url": "https://www.mza.cz/aron/apu/34333141-ad08-4de3-a43f-b0266836cabb",
+        "catalog_scope": "inv. 60 obecné výsledky sčítání 1963–1990; inv. 61 domovní seznam Pošné čp. 1–50 z let 1953–1967; inv. 62 posudky 1958–1989; inv. 63 matriční záležitosti 1946–1988",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Úplný rozpis celé čtyřpoložkové sekce nepotvrdil žádný domovní seznam Zahrádky. Inv. 61 se výslovně nesmí použít pro Zahrádku; u inv. 60 musí archiv teprve ověřit, zda vedle souhrnných výsledků obsahuje nějaké jméno."
+      },
+      {
+        "checkpoint": "2000",
+        "source": "SOkA Pelhřimov, MNV Pošná, inv. 19 / kniha 19",
+        "url": "https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834",
+        "catalog_scope": "pamětní kniha 1974–2007",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Kronika může obsahovat jmenné zmínky, ale není domovním ani pobytovým seznamem. Veřejný záznam nemá obrazy; jediná příloha nadřazeného fondu je pozdější úvod k inventáři, nikoli stránky kroniky."
+      },
+      {
+        "checkpoint": "1980",
+        "source": "Jihočeská vědecká knihovna, Telefonní seznam 1979–1980: tranzitní telefonní obvod Tábor",
+        "url": "https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0338681-Telefonni-seznam/",
+        "catalog_scope": "prezenční exemplář, signatura DT 6.504",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Fyzický kandidát pro rok 1980. Katalog potvrzuje vydání 1979–1980, ale neobsahuje skeny ani soupis obcí. Fotografovaná obálka svazku stejné řady z let 1987–1988 výslovně uvádí UTO Pacov i Pelhřimov, což posiluje územní relevanci řady; přítomnost těchto obvodů v ročníku 1979–1980, hesla Zahrádka a jednotlivých účastníků však musí potvrdit ruční kontrola.",
+        "supporting_source": "Aukro, fotografovaná obálka Telefonního seznamu TTO Tábor 1987–1988",
+        "supporting_url": "https://aukro.cz/telefonni-seznam-3-tto-tabor-1987-1988-7043580426"
+      },
+      {
+        "checkpoint": "2000",
+        "source": "Jihočeská vědecká knihovna, Zlaté stránky: Jižní Čechy, TTO Tábor",
+        "url": "https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/",
+        "catalog_scope": "prezenční exempláře 1999–2000 a 2000–2001, signatura DT 9.279",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Přesný fyzický kandidát pro řez kolem roku 2000. Katalog výslovně potvrzuje TTO Tábor i oba ročníky; neobsahuje však skeny ani rozpis místních hesel. Zahrádku a jednotlivé účastníky proto musí potvrdit ruční kontrola a ani kladný výsledek nebude úplným soupisem domácností."
+      }
+    ],
+    "findings": "Rozhodující archivní prameny pro úplné domácnosti 1950, 1980 a 2000 nejsou k 1. 8. 2026 veřejně připojeny jako obrazy. Úplná čtyřpoložková kontrola evidence MNV Pošná vyloučila domovní seznam Zahrádky. Pro rok 1950 jsou nyní přesně určeny čtyři fyzické exempláře ve třech institucích: dostupný prezenční exemplář Knihovny Národního archivu na Chodovci, signatura IM489; samostatný jihlavský díl Národní knihovny, signatura II 038397; souborný exemplář Národní knihovny, signatura III 016575; a exemplář knihovny ČGHSP, přírůstkové číslo 1428. Žádný nemá veřejné obrazy a všechny zachytí jen účastníky telefonu. Záznam jihlavského ročníku 1959–1960 ve ŠVK Košice je už vyřazený. Pro rok 1980 zůstává jediným nalezeným přesným fyzickým kandidátem TTO Tábor v JVK, signatura DT 6.504; federovaná digitální knihovna jej nemá a katalog nenabízí elektronické dodání dokumentu. Samostatně nalezené veřejné CD Český telefon 2000 je vyhodnoceno v následujícím auditu.",
+    "limits": "Nulový počet digitálních objektů neznamená, že archiválie neexistuje. Katalogová dostupnost není dokladem obsahu a žádný exemplář nebyl objednán. Telefonní seznam není pobytová evidence: může vynechat domácnosti bez pevné linky, neveřejná čísla a osoby, na něž stanice nebyla vedena. Územní obsah pozdějšího ročníku nelze automaticky přenést na ročník 1979–1980 a ani název TTO Tábor sám nepotvrzuje, že konkrétní svazek obsahuje heslo Zahrádka."
+  },
+  "cdk_fulltext_audit": {
+    "period": "celostátní index ověřen 1. 8. 2026",
+    "source": "Česká digitální knihovna, klientské API v7",
+    "url": "https://api.ceskadigitalniknihovna.cz/search/api/client/v7.0/search",
+    "query": "text_ocr:\"Zahrádka u Pošné\"",
+    "documents_found": 103,
+    "public_documents": 23,
+    "collections": {
+      "cbvk": 23,
+      "mzk": 44,
+      "nkp": 51,
+      "svkhk": 1,
+      "svkul": 1
+    },
+    "new_exact_postwar_person_links": 0,
+    "new_residence_links": 0,
+    "method": "Přes federovaný index České digitální knihovny byly staženy všechny stránky s přesnou OCR frází názvu vsi, včetně metadat sbírky, přístupnosti a krátkých zvýrazněných úryvků. Výsledky byly ručně rozděleny na statistické či územní seznamy, již známé prameny, osobní kandidáty a geografické záměny. Následně byly v Krameriovi KKV a CBVK prověřeny i blízkostní dotazy názvu vsi proti všem čp. 1–32.",
+    "findings": "Celkem 103 stran, z toho 23 veřejných, nepřidalo žádnou novou poválečnou vazbu osoby ke konkrétnímu čp. ani nový doklad bydliště. Následná kontrola všech čp. 1–32 vrátila z osobních adres jen už známé doklady Jany Strašidlové na čp. 5 z ledna 1992 a Luďka Bulanta na čp. 28 z června 1991; ostatní kandidáti byly tabulky, statistiky, obecné články nebo jiné Zahrádky. Článek Jihočeské Pravdy z 17. 11. 1989 jmenuje Tomanovou a Zdeňku Zemanovou v knihovnickém kontextu, ale ne jako obyvatelky Zahrádky a bez čp.",
+    "false_matches": "Čtyři dříve odložené stránky týdeníku Zítřek z let 1960–1968 mají kořenová metadata okresu Písek a týkají se jiné Zahrádky na Milevsku; kandidáti čp. 8, 16, 29 a 31 jsou uzavřeni jako falešná geografická shoda.",
+    "limits": "Přesná fráze může minout chybu OCR nebo zápis bez přívlastku u Pošné. Krátký úryvek je vyhledávací kandidát, nikoli sám důkaz bydliště, vlastnictví nebo vazby ke konkrétnímu domu.",
+    "result_path": "prameny_online/reserse/2026-08-01_cdk_povalecne/vysledky.json"
+  },
+  "telephone_directory_2000_audit": {
+    "period": "bytové seznamy platné do dubna 2000; firemní seznamy platné do ledna 2000; vydáno na CD Chip 12/2000",
+    "source": "Český telefon 2000 — CD Chip 12/2000",
+    "url": "https://archive.org/details/czchip200012cd",
+    "source_bin_sha1": "291573f9669e3893b4452b6246862bd6a1fc0f0c",
+    "source_bin_md5": "afb193142f9c6dde9b97ff8c2f22c3c7",
+    "source_bin_sha256": "d9778d448d251e8f65e0fe8d4e98a5fa3b0782a40c19fc50b7cd6e92020aa38d",
+    "iso_sha256": "a06a548a60d06196d040c5f907e8673b363350d9baa3401895eacdf1ebd3ff39",
+    "database_sha256": "8a2e4ed15555a2de590dbfdd7492f137718f7c9f1b8675d77f466c48058019d9",
+    "locality": "Zahrádka u Pošné",
+    "advertised_numbers": 3488096,
+    "personal_table_rows": 2792529,
+    "business_table_rows": 695562,
+    "table_rows_total": 3488091,
+    "advertised_minus_table_rows": 5,
+    "personal_matches": 10,
+    "business_matches": 1,
+    "house_numbers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "16",
+      "21",
+      "24",
+      "27",
+      "28",
+      "29"
+    ],
+    "phone_numbers_exported": 0,
+    "new_exact_person_links": 10,
+    "new_residence_links": 0,
+    "new_house_links": 1,
+    "corroborated_by_2004_person_links": 9,
+    "method": "Veřejný obraz druhého CD Chip 12/2000 byl stažen jako surový BIN, ověřen kontrolními součty, mechanicky převeden z MODE1/2352 na ISO a rozbalen. Soubor Telefony.txt je šifrovaná databáze Microsoft Access Jet 3; osobní tabulka Osoby a firemní tabulka Firmy byly čistě čtecím nástrojem mdbtools projity po všech uložených řádcích. Vybrána byla pouze přesná hodnota obce Zahrádka u Pošné. Telefonní čísla se neexportovala.",
+    "findings": "Osobní část platná do dubna 2000 obsahuje deset přesných účastnických adres: Petr Veverka čp. 5, Zdeněk Svoboda čp. 6, Karel Adam čp. 7, Marie Křížová čp. 8, Miroslav Kubiska čp. 16, Václav Dörrschmidt čp. 21, Ing. Jan Velich čp. 24, Ludmila Rohovcová čp. 27, Václav Bulant čp. 28 a Bohuslav Nacházel čp. 29. Prvních devět vazeb se nezávisle opakuje v Českém telefonu 2004; čp. 29 tím získalo první nalezenou poválečnou osobní stopu. Firemní část obsahuje jen veřejnou telefonní stanici bez čp.",
+    "limits": "Jde o přesný časový řez zveřejněných osobních telefonních stanic, nikoli o pobytovou evidenci. Seznam vynechává domácnosti bez pevné linky, neveřejná čísla i další členy domácnosti a sám neprokazuje trvalý pobyt ani vlastnictví."
+  },
+  "telephone_directory_audit": {
+    "period": "edice 2004; databázový soubor na ISO má datum 14. 11. 2003",
+    "source": "Český telefonní seznam 2004 Standard",
+    "url": "https://archive.org/details/cesky-telefon-2004-s",
+    "iso_sha256": "698e157a6ad2b934d3f236eee02c0267bdc892e774fc7567e02421ed14cd7033",
+    "database_sha256": "9a3f710ccfea0fdda848d457234b697ad8c42a19492f37cf8081c204b77fcb62",
+    "locality": "Zahrádka u Pošné",
+    "locality_id": 9231,
+    "advertised_personal_numbers": 2400000,
+    "advertised_business_numbers": 780000,
+    "personal_data_pages": 76548,
+    "business_data_pages": 12126,
+    "personal_matches": 9,
+    "business_matches": 1,
+    "house_numbers": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "16",
+      "21",
+      "24",
+      "27",
+      "28"
+    ],
+    "phone_numbers_exported": 0,
+    "new_exact_person_links": 9,
+    "new_residence_links": 0,
+    "method": "Veřejný obraz CD byl stažen jako ISO, ověřen kontrolním součtem a z databáze cztel.mdb načten čistě čtecím parserem. Přesná obec byla určena samostatným číselníkem OBEC jako ID 9231; tím byly vyloučeny Hrobská Zahrádka i ostatní stejnojmenné obce. Osobní tabulka byla projita po všech 76 548 datových stránkách a firemní tabulka po všech 12 126 stránkách. Telefonní čísla se neexportovala.",
+    "findings": "Osobní část obsahuje devět přesných účastnických adres u čp. 5, 6, 7, 8, 16, 21, 24, 27 a 28. Všech devět vazeb jméno–čp. nezávisle opakuje starší Český telefon 2000; Bohuslav Nacházel na čp. 29 se v edici 2004 neopakuje. Firemní část obsahuje jen veřejnou telefonní stanici bez čp.",
+    "limits": "Edice 2004 neurčuje přesný den platnosti jednotlivých řádků; datum databázového souboru 14. 11. 2003 je jen technická dolní opora. Osobní telefonní stanice silně spojuje jméno s adresou, ale sama neprokazuje trvalý pobyt, vlastnictví domu, úplnost domácnosti ani stav přesně k roku 2000."
+  },
+  "niv_register_audit": {
+    "period": "vydání k 3. 3. 2014, 10. 8. 2020, 11. 2. 2022 a 1. 3. 2024; stav webu ověřen 1. 8. 2026",
+    "source": "ÚZSVM / ČÚZK, seznam nedostatečně identifikovaných vlastníků pro Českou republiku",
+    "url": "https://uzsvm.gov.cz/ceska-republika",
+    "historical_source": "ÚZSVM / ČÚZK, okres Pelhřimov, data k 3. 3. 2014; veřejná archivní kopie Kurzy.cz",
+    "historical_url": "https://i.fin.cz/ban/jine/vlastnici/pelhrimov.xlsx",
+    "historical_context_url": "https://zpravy.kurzy.cz/363868-uzsvm-seznam-nemovitosti-s-nedostatecne-identifikovanymi-vlastniky/",
+    "transition_source": "ÚZSVM, upřesnění k nabývání majetku po nedostatečně identifikovaných vlastnících",
+    "transition_url": "https://uzsvm.gov.cz/upresneni-k-nabyvani-majetku-po-nedostatecne-identifikovanych-vlastnicich",
+    "editions_checked": 4,
+    "editions": [
+      {
+        "state": "3. 3. 2014",
+        "scope": "okres Pelhřimov",
+        "format": "XLSX",
+        "sha256": "2bd122bf6bcdd187fc0875334efa4e8e1e9cb98bfe3569cad2c411f0b6722f4c",
+        "selected_rows": 42,
+        "exact_cadastral_rows": 38,
+        "exact_address_rows": 20,
+        "exact_address_rows_outside_cadastral_area": 4,
+        "distinct_people": 19,
+        "distinct_parcel_lvs": 11,
+        "address_houses": [
+          "9",
+          "14",
+          "18",
+          "20"
+        ]
+      },
+      {
+        "state": "10. 8. 2020",
+        "scope": "okres Pelhřimov",
+        "format": "XLS",
+        "sha256": "a8a570fc7040d481c707fb2de96169f171730422bf2430869690e14c9e7c6f2b",
+        "selected_rows": 36,
+        "exact_cadastral_rows": 32,
+        "exact_address_rows": 16,
+        "exact_address_rows_outside_cadastral_area": 4,
+        "distinct_people": 15,
+        "distinct_parcel_lvs": 9,
+        "address_houses": [
+          "9",
+          "18",
+          "20"
+        ]
+      },
+      {
+        "state": "11. 2. 2022",
+        "scope": "okres Pelhřimov",
+        "format": "XLS",
+        "sha256": "15899af3dec267c4b874310ffe5e47ee486e9f12246a4d08769be923d98610b7",
+        "selected_rows": 30,
+        "exact_cadastral_rows": 26,
+        "exact_address_rows": 10,
+        "exact_address_rows_outside_cadastral_area": 4,
+        "distinct_people": 13,
+        "distinct_parcel_lvs": 8,
+        "address_houses": [
+          "9",
+          "20"
+        ]
+      },
+      {
+        "state": "1. 3. 2024",
+        "scope": "celá Česká republika",
+        "format": "XLSX",
+        "sha256": "b23b40f4475f4aca106e58da87db34188a8a35fa492b9279b2a4cd93d558b34e",
+        "selected_rows": 24,
+        "exact_cadastral_rows": 20,
+        "exact_address_rows": 4,
+        "exact_address_rows_outside_cadastral_area": 4,
+        "distinct_people": 12,
+        "distinct_parcel_lvs": 7,
+        "address_houses": [
+          "9"
+        ]
+      }
+    ],
+    "latest_public_state": "1. 3. 2024",
+    "latest_exact_cadastral_rows": 20,
+    "latest_exact_address_rows_outside_cadastral_area": 4,
+    "historical_2014_relevant_rows": 42,
+    "historical_2014_address_houses": [
+      "9",
+      "14",
+      "18",
+      "20"
+    ],
+    "cumulative_distinct_land_registers": 11,
+    "current_house_parcel_matches": 0,
+    "new_address_houses": 1,
+    "new_named_house_links": 2,
+    "new_residence_links": 0,
+    "new_house_owner_links": 0,
+    "method": "V každém vydání byly odděleně vybrány všechny řádky k. ú. Zahrádka u Pošné 775606 a všechny řádky jiných katastrů, jejichž poslední známá adresa přesně odpovídá tvaru Zahrádka {čp.}, 39501 Pošná. Parcelní označení bylo porovnáno s přesnými stavebními parcelami dnešních domů v kontrolním listu. Adresa, vlastnictví pozemku a vlastnictví domu se neposuzují jako totéž.",
+    "findings": "Vydání z března 2014 nově přidalo Josefa Pudila a Aloisii Pudilovou s poslední známou adresou čp. 14; jejich jména odpovídají manželům přímo doloženým na čp. 14 roku 1937. V seznamu z roku 2020 už tato dvojice chybí. Tentýž starší soubor přidal Františka a Miladu Olivovy pouze k lesní parcele 292 na LV 115, bez adresy a bez vazby ke konkrétnímu domu. Nejnovější veřejný soubor obsahuje pro k. ú. Zahrádka 20 řádků a další čtyři řádky Antonína a Anny Plášilových s adresou čp. 9 u parcel v k. ú. Pošná. Ani jeden z těchto řádků neobsahuje zahrádeckou stavbu nebo stavební parcelu dnešního domu; kontrolní list vlastníků domů proto zůstává bez jmen.",
+    "limits": "Poslední známá adresa v seznamu NIV není datem pobytu a vydání seznamu není datem vzniku zápisu. ÚZSVM k 1. 8. 2026 stále veřejně nabízí soubor se stavem k 1. 3. 2024, přestože stránka uvádí pololetní aktualizaci; samotný soubor má metadata vytvoření 11. 3. 2024. Přítomnost parcely v tomto seznamu po 1. 1. 2024 sama nedokazuje přechod na stát, protože ÚZSVM výslovně vyjímá případy s včas zjištěným vlastníkem nebo zahájeným dodatečným dědickým řízením vyznačeným v KN. Zmizení řádku mezi vydáními dokládá změnu evidence, nikoli samo o sobě její právní důvod. Historický balíček vydaný ÚZSVM v odpovědi podle zákona č. 106/1999 Sb. už na dočasném odkazu není dostupný; vydání 2014 je proto ověřeno přes dochovanou veřejnou kopii a dobovou publikační stránku."
+  },
+  "public_contract_audit": {
+    "period": "audit 1. 8. 2026",
+    "query_pattern": "\"Zahrádka {cp}\" AND \"Pošná\"",
+    "source": "Hlídač státu, OCR/fulltextová nadstavba Registru smluv",
+    "url_pattern": "https://www.hlidacstatu.cz/hledatsmlouvy?q={query}",
+    "method": "Pro každé čp. 1–32 byl zvlášť prověřen přesný domovní výraz společně s povinným výrazem Pošná. Každý zásah byl přečten podle smluvních stran, předmětu a podle potřeby také v OCR textu přílohy.",
+    "limits": "Výsledek není úplným soupisem veřejných smluv: OCR může selhat, číslo může být v tabulce dopravních linek nebo v označení knihy a nulový zásah není důkazem, že smlouva neexistuje.",
+    "false_matches": "Smlouva PR02737-01.4544 se nepřiřazuje k žádnému zahrádeckému čp.: uvádí bydliště i místo realizace Pošná čp. 79; jen dotčená budova zasahuje do katastrů Pošná a Zahrádka u Pošné.",
+    "houses": {
+      "1": {
+        "result": "Přesný dotaz nevrátil žádný výsledek; nejde o důkaz, že veřejný doklad neexistuje."
+      },
+      "2": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 2."
+      },
+      "3": {
+        "result": "Zásahy tvořily hromadný dopravní dokument a smlouva z roku 2022 o digitalizaci pozemkové knihy. Ani jeden pramen nepřiřazuje obyvatele k čp. 3."
+      },
+      "4": {
+        "result": "Jediným zásahem byla smlouva z roku 2025 o autobusové dopravní obslužnosti; nejde o osobní domovní stopu."
+      },
+      "5": {
+        "result": "Zásahy tvořily jen hromadné smlouvy dopravní obslužnosti z let 2019–2020. Známý pobytový doklad Jany Strašidlové z roku 1992 pochází z tisku, nikoli z Registru smluv."
+      },
+      "6": {
+        "result": "Audit znovu našel smlouvu Zdeňka Svobody a potvrdil doložený pobyt v letech 2019–2020. Vizuální kontrola žádosti navíc bezpečně spojila jeho vlastnickou nebo spoluvlastnickou způsobilost s místem realizace na st. 27/1, LV 31; současné vlastnictví tím doloženo není. Ostatní zásahy byly hromadné dopravní dokumenty."
+      },
+      "7": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 7."
+      },
+      "8": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 8."
+      },
+      "9": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 9."
+      },
+      "10": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 10."
+      },
+      "11": {
+        "result": "Dohoda Úřadu práce z 18. 12. 2024 uvádí čp. 11 jako místo výkonu práce anonymizovaného pomocníka správce objektu od 2. 1. nejdéle do 31. 10. 2025. Jméno je redigované a pramen nedokládá bydliště; další zásahy byly dopravní dokumenty.",
+        "source": "Registr smluv, dohoda PEA-SZ-67/2024",
+        "url": "https://smlouvy.gov.cz/smlouva/31560192"
+      },
+      "12": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 12."
+      },
+      "13": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 13."
+      },
+      "14": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 14."
+      },
+      "15": {
+        "result": "Audit znovu našel smlouvu Pavly Moravcové a potvrdil doložený pobyt roku 2018. Vizuální kontrola žádosti navíc bezpečně spojila její vlastnickou nebo spoluvlastnickou způsobilost s místem realizace čp. 15 na st. 10/3, LV 186; současné vlastnictví tím doloženo není. Další osobu nepřidal."
+      },
+      "16": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 16."
+      },
+      "17": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 17."
+      },
+      "18": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 18."
+      },
+      "19": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 19."
+      },
+      "20": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 20."
+      },
+      "21": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 21."
+      },
+      "22": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 22."
+      },
+      "23": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s historickým čp. 23."
+      },
+      "24": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 24."
+      },
+      "25": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 25."
+      },
+      "26": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 26."
+      },
+      "27": {
+        "result": "Audit potvrdil smlouvu Stanislava Jandy s pobytovou vazbou z let 2016–2017 a jeho pozdější podnikatelské smlouvy. Dotační formulář obecně omezuje žadatele na vlastníka či spoluvlastníka, ale samostatně neidentifikuje vlastněnou nemovitost; vlastnictví čp. 27 se proto nepřiřazuje."
+      },
+      "28": {
+        "result": "Audit znovu našel smlouvu Luďka Bulanta a potvrdil doložený pobyt v letech 2017–2018. Vizuální kontrola žádosti navíc bezpečně spojila jeho vlastnickou nebo spoluvlastnickou způsobilost s místem realizace čp. 28 na st. 47, LV 130; současné vlastnictví tím doloženo není. Další osobu nepřidal."
+      },
+      "29": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 29."
+      },
+      "30": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 30."
+      },
+      "31": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 31."
+      },
+      "32": {
+        "result": "Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 32."
+      }
+    }
+  },
+  "ownership_source_audit": {
+    "period": "dotační spisy 2016–2020 a živý stav archivních katalogů ověřeny 1. 8. 2026",
+    "method": "U čtyř známých kotlíkových smluv byly otevřeny originální přílohy Registru smluv, formuláře vykresleny po stránkách a porovnány tři oddělené prvky: jméno žadatele, definice jeho vlastnické způsobilosti a identifikace místa realizace. Jméno se k domu převedlo jen tehdy, když příloha samostatně určila stejné čp. nebo přesnou stavební parcelu. Potom byly zkontrolovány oficiální katalogy mladších pozemkových evidencí a poválečných fondů pro roky 1950–1980; žádná žádost archivu ani katastrálnímu pracovišti nebyla odeslána.",
+    "grant_files_checked": 4,
+    "new_exact_owner_links": 3,
+    "exact_owner_houses": [
+      "6",
+      "15",
+      "28"
+    ],
+    "rejected_owner_candidates": [
+      {
+        "house": "27",
+        "person": "Stanislav Janda",
+        "reason": "Příloha potvrzuje trvalý pobyt na čp. 27 a obecnou podmínku, že žadatel je vlastníkem nebo spoluvlastníkem podporovaného domu či jednotky, ale neobsahuje samostatnou identifikaci této nemovitosti. Bez parcelního nebo domovního propojení se vlastnictví čp. 27 nedoplňuje."
+      }
+    ],
+    "archival_sources": [
+      {
+        "source": "SOkA Pelhřimov, MNV Útěchovičky, NAD 1262",
+        "url": "https://portal.nacr.cz/aron/apu/16e489c1-dc65-4e14-8160-b427510d8a25",
+        "catalog_scope": "majetkoprávní převody 1956–1979, tedy období, kdy Zahrádka od roku 1964 pod MNV Útěchovičky spadala",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Nejpřesnější veřejně popsaná archivní cesta k vlastnickým změnám před řezem 1980; katalog však neuvádí jména ani jednotlivá čp."
+      },
+      {
+        "source": "SOkA Pelhřimov, ONV Pacov, NAD 10",
+        "url": "https://portal.nacr.cz/aron/apu/456acd46-7a1c-434a-bf89-978269945017",
+        "catalog_scope": "konfiskační, zemědělská a majetková agenda 1949–1960; inventář č. 948",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Rozhodující kandidát pro převzetí konfiskovaného velkostatku a změny v 50. letech. Veřejný záznam inventáře nemá přílohu ani položkový rozpis použitelný po domech."
+      },
+      {
+        "source": "SOkA Pelhřimov, Okresní soud Pacov, NAD 27",
+        "url": "https://portal.nacr.cz/aron/apu/49abe20d-a79e-4057-b3cf-a9455934d62a",
+        "catalog_scope": "rejstříky a několik mladších pozemkových knih, datace 1850–1949 (1960)",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Fond může určit návaznost knihovních vložek k počátku sledovaného období, ale katalog neprokazuje, že obsahuje právě všechny zahrádecké domy; převážná část fondu je nezpracovaná."
+      },
+      {
+        "source": "Katastrální pracoviště Pelhřimov / dřívější pozemkové evidence",
+        "url": "https://portal.gov.cz/sluzby-vs/poskytnuti-udaju-zkatastru-nemovitosti-a-drivejsich-pozemkovych-evidenci-S8190",
+        "catalog_scope": "mladší pozemkové knihy a návazné operáty po jednotlivých parcelách",
+        "digital_objects": 0,
+        "attachments": 0,
+        "result": "Jediná cesta k souvislé vlastnické posloupnosti každého domu; veřejná služba nabízí výpis, opis nebo kopii na žádost, nikoli volné online prohlížení. Připravený dotaz dosud nebyl odeslán."
+      }
+    ],
+    "findings": "Přílohy dotačních smluv přidaly tři přesné bodové vlastnické vazby: Zdeněk Svoboda k čp. 6, Pavla Moravcová k čp. 15 a Luděk Bulant k čp. 28. U všech formulář dovoluje pouze závěr vlastník nebo spoluvlastník; nerozlišuje výlučné vlastnictví, podíl ani společné jmění. Pro čp. 27 nebyla identita vlastněného domu dostatečně oddělena od bydliště. Veřejné katalogy pro 1950–1980 zpřesnily správné fondy, ale nepřinesly žádný další jmenný údaj po jednotlivých domech.",
+    "limits": "Dotační žádost dokládá vlastnickou způsobilost jen v době podání a jen k podporované nemovitosti; není úplným listem vlastnictví, neuvádí všechny spoluvlastníky a nedokládá stav k roku 2026. Katalogový popis archivního fondu neprokazuje, že uvnitř existuje zápis ke každému domu. Bez reprodukce knihovní vložky, listiny nebo majetkoprávního spisu se vlastník pro chybějící roky nedoplňuje odhadem."
+  },
+  "municipal_fulltext_audit": {
+    "period": "1. 8. 2026",
+    "source": "Město Pacov, celowebové vyhledávání",
+    "url": "https://www.mestopacov.cz/vismo/fulltext.asp?query=Zahr%C3%A1dka&hledani=1",
+    "results": 227,
+    "document_results": 196,
+    "unique_attachments": 199,
+    "method": "Prohledán byl úplný index webu Města Pacov pro výraz Zahrádka, všech deset stran výsledků a následně kombinace názvu vsi s čp. 1–32, stavebními parcelami dnešních domů a již známými příjmeními. Přijaty byly jen vazby, u nichž text pramene drží jméno a správnou lokalitu pohromadě.",
+    "findings": "Nalezeny byly dvě nové jmenné stopy pouze na úrovni vsi: Luděk Bulant jako obyvatel místní části roku 2014 a Josef s Hanou Kadlečíkovými jako účastníci stavebního řízení u rodinného domu roku 2021. Žádný nový pramen bezpečně nespojil další osobu s konkrétním čp.",
+    "limits": "Číselné fulltextové dotazy vracejí také čísla stran, parcel jiných obcí, územní plány, jízdní řády a časopisy. Počet zásahů proto není počtem osob ani domů a nulový či odmítnutý zásah není důkazem, že osoba u domu nebyla."
+  },
+  "official_board_audit": {
+    "period": "archivní stav a aktuální dokumenty ověřeny 1. 8. 2026; nový přesný dokument z 18. 3. 2026",
+    "source": "eDesky.cz, archiv dokumentů Města Pacov",
+    "url": "https://edesky.cz/dokument/22774025-Z%C3%A1vazn%C3%A9%20stanovisko%20-%20JES%20-%20Stavebn%C3%AD%20%C3%BApravy%20zem%C4%9Bd%C4%9Blsk%C3%A9%20usedlosti%20Zahr%C3%A1dka%2011",
+    "official_source": "Městský úřad Pacov, č. j. R/2026/47724/3",
+    "boards_checked": 3,
+    "known_name_queries": 22,
+    "exact_house_documents": 1,
+    "new_person_links": 2,
+    "new_residence_links": 0,
+    "new_owner_links": 0,
+    "method": "Archiv úředních desek byl prohledán samostatně pro Město Pacov, Obec Pošná a Státní pozemkový úřad výrazem Zahrádka a přesnějšími místními tvary. U desek Pacova a Pošné následovalo 22 dotazů na jedenáct již známých plných jmen. Každý kandidát byl rozlišen podle původce, data, čp. a parcel; role osob byly potom ověřeny v oficiálních datech veřejného rejstříku ARES.",
+    "findings": "Jediným novým dokumentem s přesným domem je souhlasné jednotné environmentální stanovisko MěÚ Pacov z 18. 3. 2026 pro stavební úpravy čp. 11 na st. 1 a parcelách 18/2 a 18/3. Jako žadatele jmenuje IT Artist s.r.o.; jméno zmocněné fyzické osoby je v publikované kopii redigováno. Veřejný rejstřík navíc zpřesnil dvě osoby ve statutárních rolích spolku iZahrádka sídlícího na čp. 11: Patrika Jíru a Pavlu Švantnerovou. Jde o organizační a projektové vazby, nikoli o obyvatele nebo vlastníky.",
+    "limits": "eDesky jsou soukromý archiv kopií úředních desek a nezaručují úplné historické pokrytí ani bezchybný OCR text. Rozhodující nový dokument pochází z MěÚ Pacov, avšak původní příloha už nebyla nalezena ve veřejném fulltextu města; publikovaná kopie rediguje osobní údaje. Redigované jméno se nedoplňuje z domněnek. Žadatel stavebního záměru, statutární zástupce spolku ani sídlo spolku samy neprokazují vlastnictví či bydliště."
+  },
+  "trade_register_audit": {
+    "period": "stav a úplná historie ověřeny 1. 8. 2026",
+    "source": "Portál živnostenského podnikání, veřejná část živnostenského rejstříku",
+    "url": "https://rzp.gov.cz/portal/cs/rejstrik",
+    "subjects": 15,
+    "houses": 10,
+    "current_addresses": 4,
+    "historical_addresses": 11,
+    "method": "Ve veřejné části RŽP byla pro obec Pošná a část obce Zahrádka vypnuta volba pouze platných údajů. Zkontrolován byl každý z 15 vrácených subjektů a jeho úplný veřejný XML výpis s historií; přepsány byly jen výslovné počátky a konce adresy Zahrádka s konkrétním čp.",
+    "findings": "RŽP zpřesnil deset domů: čp. 4, 5, 7, 8, 9, 15, 20, 21, 27 a 31. Nově přidal osobní adresní stopy k dosud prázdným čp. 7, 21 a 31 a tři další osoby k čp. 5. Čtyři adresy jsou v RŽP aktuální k 1. 8. 2026; ostatní mají uzavřený historický interval.",
+    "limits": "Všech 15 zásahů je vedeno jako sídlo podnikatele-fyzické osoby. Sídlo podnikání může, ale nemusí být bydlištěm; žádný z těchto záznamů se proto bez nezávislého pobytového pramene nepřevádí mezi doložené obyvatele. Data narození a jiné nadbytečné osobní údaje z výpisů se nezveřejňují."
+  },
+  "agricultural_register_audit": {
+    "period": "aktuální stav ověřen 1. 8. 2026",
+    "source": "MZe, veřejná Evidence zemědělského podnikatele (EZP)",
+    "url": "https://mze.gov.cz/public/app/SZR/EZP",
+    "eco_source": "MZe, Registr ekologických podnikatelů",
+    "eco_url": "https://mze.gov.cz/public/app/eagriapp/EKO/Prehled/",
+    "ezp_municipality_results": 3,
+    "ezp_village_results": 0,
+    "known_ico_checked": 15,
+    "eco_municipality_results": 2,
+    "eco_address_zahradka_results": 4,
+    "eco_district_pelhrimov_results": 0,
+    "method": "Aktuální veřejná EZP byla prohledána podle obce Pošná, kombinace Pošná + Zahrádka a jednotlivě podle všech 15 IČO nalezených dříve v historickém auditu RŽP. Registr ekologických podnikatelů byl prohledán podle adresních výrazů Pošná a Zahrádka; každý zásah byl rozlišen podle okresu a v pošenských výsledcích také podle úplné adresy v detailu.",
+    "findings": "EZP vrací pro obec Pošná tři aktuální subjekty, ale jejich adresy jsou Pošná čp. 80, Nesvačily čp. 1 a Nesvačily čp. 3; žádný není v části Zahrádka. Ani jedno z 15 známých zahrádeckých IČO nemá aktuální záznam v EZP. Ekologický registr vrací pro adresu Pošná dva subjekty, oba na Pošné čp. 80. Celostátní dotaz na adresní výraz Zahrádka má čtyři zásahy, žádný v okrese Pelhřimov. Audit proto nepřidal žádnou osobu k zahrádeckému domu.",
+    "limits": "Oba registry ukazují aktuální podnikatelské údaje, nikoli úplnou historickou řadu domácností. Adresa místa podnikání nebo registrace není sama o sobě dokladem bydliště. Nulový výsledek neprokazuje, že osoba nebyla zemědělcem před vznikem elektronické evidence nebo v minulosti."
+  },
+  "subsidy_register_audit": {
+    "period": "platby 2002–2025; údaje o subjektech platné k 1. 8. 2026",
+    "source": "MZe, Registr příjemců dotací",
+    "url": "https://mze.gov.cz/public/app/SZR/SubsidyReports/?ObecNaz=Po%C5%A1n%C3%A1&ObecKod=548600&searched=Reload",
+    "description_source": "MZe, popis Registru příjemců dotací",
+    "description_url": "https://mze.gov.cz/public/portal/mze/farmar/registr-prijemcu-dotaci",
+    "municipality_results": 13,
+    "personal_results": 11,
+    "organization_results": 2,
+    "exact_village_results": 0,
+    "known_ico_checked": 15,
+    "known_ico_results": 0,
+    "known_name_rows": 2,
+    "method": "Ve veřejném registru MZe byla vyhledána obec Pošná pomocí úředního kódu 548600 a přečteny obě stránky výsledků i všech 13 detailů podpor. Samostatně bylo podle IČO prověřeno všech 15 podnikatelů, které historický audit RŽP přesně spojil se zahrádeckým čp.; žádné IČO registr nespároval. U dvou příjemců se jméno shoduje s osobou již známou z jiných pramenů, výsledek však neobsahuje IČO, část obce ani čp.",
+    "findings": "Dotaz na obec Pošná vrátil 13 příjemců: 11 fyzických osob a dvě organizace. Mezi fyzickými osobami jsou jmenné shody Jaroslav Plášil s platbami v letech 2020–2025 a Luděk Bulant s platbami v letech 2021–2023. Registr u obou uvádí jen obec Pošná a PSČ; nepřidal proto nového obyvatele ani nový přesný interval u čp. 9 nebo 28.",
+    "limits": "Obec Pošná zahrnuje více místních částí. Ve výsledkové adrese chybí část obce, ulice i číslo domu a přijetí podpory není dokladem bydliště. Jmenná shoda bez IČO sama bezpečně nerozlišuje jmenovce. MZe navíc uvádí, že jednotlivé dotační zdroje se aktualizují v různých intervalech. Nulový zásah IČO nevyvrací osobní záznam bez zveřejněného IČO ani starší zemědělskou činnost.",
+    "house_notes": {
+      "9": {
+        "person": "Jaroslav Plášil",
+        "payment_years": "2020–2025",
+        "szr_id": "1001311476",
+        "detail_url": "https://mze.gov.cz/public/app/SZR/SubsidyReports/Registr/Subsidies/1001311476",
+        "interpretation": "Jmenně shodný příjemce je veden pouze v obci Pošná. Tento záznam neprodlužuje doložené bydliště na čp. 9 po roce 2013 ani podnikatelskou adresu po 4. 1. 2022."
+      },
+      "28": {
+        "person": "Luděk Bulant",
+        "payment_years": "2021–2023",
+        "szr_id": "1014302245",
+        "detail_url": "https://mze.gov.cz/public/app/SZR/SubsidyReports/Registr/Subsidies/1014302245",
+        "interpretation": "Jmenně shodný příjemce je veden pouze v obci Pošná. Tento záznam neprodlužuje přímý doklad bydliště na čp. 28 po roce 2018; samostatný volební pramen dokládá roku 2022 jen část obce Zahrádka bez čp."
+      }
+    }
+  },
+  "election_register_audit": {
+    "period": "komunální volby 2006, 2010, 2014, 2018 a 2022",
+    "source": "ČSÚ, otevřená data voleb do zastupitelstev obcí",
+    "url": "https://volby.gov.cz/opendata/kv2022/kv2022_opendata_seznam.htm",
+    "candidate_rows": 40,
+    "village_rows": 5,
+    "unique_village_people": 1,
+    "method": "Úplné registry kandidátů ČSÚ byly pro všech pět řádných voleb filtrovány na zastupitelstvo obce Pošná (kód 548600) a následně na pole bydliště Zahrádka. Prověřeno bylo všech 40 kandidátních řádků Pošné.",
+    "findings": "Jediným kandidátem, jehož bydliště je ve všech pěti letech výslovně uvedeno jako Zahrádka, je Luděk Bulant. Záznamy prodlužují bezpečnou stopu osoby na úrovni vsi od roku 2006 do roku 2022.",
+    "limits": "Registr uvádí jen obec nebo část obce, nikdy čp. Volební záznam se proto nesmí použít jako důkaz, že Luděk Bulant po celé období bydlel právě na čp. 28; toto čp. je přímo doloženo jen samostatnými prameny z let 1991 a 2017–2018."
+  },
+  "houses": {
+    "1": {
+      "label": "N1 / čp. 1",
+      "building": "Historické čp. 1 mělo v místě předchůdce; dnešní dům je z roku 2023.",
+      "evidence": []
+    },
+    "2": {
+      "label": "N2 / čp. 2",
+      "building": "Historická usedlost trvá; vedle ní přibyl samostatný nový dům roku 2016.",
+      "evidence": []
+    },
+    "3": {
+      "label": "N3 / čp. 3",
+      "building": "Dnešní rodinný dům existuje, přesný poválečný vývoj není potřebný pro jmennou osu.",
+      "evidence": []
+    },
+    "4": {
+      "label": "N4 / čp. 4",
+      "building": "Starší rodinný dům trvá.",
+      "evidence": [
+        {
+          "person": "Martin Vaněk",
+          "period": "4. 11. 2020 – 8. 6. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede po celý interval sídlo podnikatele na čp. 4; od 8. 6. 2026 je zapsáno sídlo v Praze. Jde o přesnou historii sídla, nikoli o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 09652281",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=09652281",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Marie Vaňková",
+          "period": "19. 3. 2025",
+          "type": "official_address",
+          "certainty": "vysoká",
+          "detail": "Úřední výpis KN ji mezi vlastníky podílu na jiné nemovitosti v Pacově uvádí s adresou Zahrádka 4. Dokládá přesný úřední adresní bod k datu výpisu, nikoli vlastnictví čp. 4 ani bydliště.",
+          "source": "Nabídka majetku státu / výpis KN, LV 2812 Pacov",
+          "url": "https://www.nabidkamajetku.gov.cz/api/Property/Attachment/1eab6c6e-1487-4552-8217-efc304e25da6",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "5": {
+      "label": "N5 / čp. 5",
+      "building": "Dům existoval nejpozději roku 1949; dnešní evidence uvádí rok dokončení 1960.",
+      "evidence": [
+        {
+          "person": "Jana Strašidlová",
+          "period": "11. 1. 1992",
+          "type": "residence",
+          "certainty": "střední",
+          "detail": "Společenská kronika týdeníku uvádí Janu Strašidlovou výslovně na adrese Pošná, část Zahrádka u Pošné čp. 5, k 11. lednu 1992. Do domovní osy se přebírá jen veřejně uvedené jméno, datum a adresa; rodinný vztah ani údaje druhé osoby se nezveřejňují.",
+          "source": "Z mého kraje 3/1992, s. 3, společenská kronika (DNNT OCR úryvek)",
+          "url": "https://kramerius.kkvysociny.cz/uuid/uuid:2921dabb-993f-4ceb-bd63-f7de941da555",
+          "publish": true
+        },
+        {
+          "person": "Petr Veverka",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 5 a UTO 0365. Je to přesná účastnická adresa k řezu 2000, nikoli automaticky trvalé bydliště, vlastnictví nebo úplná domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 619676",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Petr Veverka",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 5 a PSČ 39501. Jde o historickou adresu účastnické stanice, ne o jistý trvalý pobyt, vlastnictví ani úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 986104",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Vitalii Kotsan",
+          "period": "22. 12. 2022 – 29. 12. 2025",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 5; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 17862973",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=17862973",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Mykhailo Smarada",
+          "period": "27. 12. 2022 – 29. 9. 2025",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 5; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 17867347",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=17867347",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Volodymyr Sakalosh",
+          "period": "2. 2. 2023 – 1. 9. 2025",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 5; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 17867398",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=17867398",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Vasyl Liakh",
+          "period": "2. 6. 2025 – 20. 3. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 5; poté bylo sídlo přeneseno do Milotic. Nejde o aktuální adresu ani o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 23339888",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=23339888",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "6": {
+      "label": "N6 / čp. 6",
+      "building": "Dnešní rodinný dům je v RÚIAN veden k roku 1960.",
+      "evidence": [
+        {
+          "person": "Zdeněk Svoboda",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 6 a UTO 0365. Jde o přesnou účastnickou adresu k řezu 2000; sama nedokládá pobyt, vlastnictví ani totožnost a nepřetržitou návaznost na stejnojmennou osobu doloženou zde v letech 2019–2020. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 619253",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Zdeněk Svoboda",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 6 a PSČ 39501. Shodné jméno je na témže čp. doloženo trvalým pobytem v letech 2019–2020, samotný telefonní záznam však neprokazuje nepřetržitý pobyt ani vlastnictví; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 985704",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Zdeněk Svoboda",
+          "period": "23. 10. 2019 – 9. 4. 2020",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Žádost a smlouva ke kotlíkové dotaci uvádějí trvalý pobyt na čp. 6.",
+          "source": "Registr smluv, PR02737.1375 / KUJIP01F3XZV",
+          "url": "https://smlouvy.gov.cz/smlouva/12247400",
+          "publish": true
+        }
+      ],
+      "ownership": [
+        {
+          "person": "Zdeněk Svoboda",
+          "period": "žádost z 23. 10. 2019",
+          "relation": "vlastník nebo spoluvlastník podporované nemovitosti",
+          "certainty": "vysoká",
+          "detail": "Formulář připouští jako žadatele pouze vlastníka, spoluvlastníka nebo jednoho z manželů při společném jmění. Místo realizace samostatně identifikuje dům na st. 27/1 v k. ú. Zahrádka u Pošné, tehdejší LV 31; jde o dnešní čp. 6. Přesnou formu vlastnictví, podíl ani další spoluvlastníky formulář nerozlišuje.",
+          "source": "Registr smluv, příloha KUJIP01F3XZV",
+          "url": "https://smlouvy.gov.cz/smlouva/12247400",
+          "publish": true
+        }
+      ]
+    },
+    "7": {
+      "label": "N7 / čp. 7",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1945.",
+      "evidence": [
+        {
+          "person": "Karel Adam",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 7 a UTO 0365. Je to přesná účastnická adresa k řezu 2000, nikoli automaticky trvalé bydliště, vlastnictví nebo úplná domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 616737",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Karel Adam",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 7 a PSČ 39501. Jde o historickou adresu účastnické stanice, ne o jistý trvalý pobyt, vlastnictví ani úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 983359",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Vitalii Forkosh",
+          "period": "2. 1. 2023 – 8. 1. 2025",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 7; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 17878306",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=17878306",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "8": {
+      "label": "N8 / čp. 8",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1970.",
+      "evidence": [
+        {
+          "person": "Marie Křížová",
+          "period": "26. 2. 1956",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Článek o výroční členské schůzi JZD Zahrádka u Pošné ji výslovně označuje jako „družstevnici Marii Křížovou čp. 8“. Jde o přímou vazbu osoby na dům. Není totožná se dvěma staršími ženami stejného jména, jejichž úmrtí v čp. 8 jsou zapsána v letech 1932 a 1933.",
+          "source": "Vesnické noviny, 26. 2. 1956, č. 8, s. [1]",
+          "url": "https://kramerius.kkvysociny.cz/view/uuid:2e4e240a-0e92-4d1e-ac81-2a23b668414a",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Marie Křížová",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje toto jméno s přesnou obcí Zahrádka u Pošné, čp. 8 a UTO 0365. Jde o přesnou účastnickou adresu k řezu 2000; sama nerozhoduje, zda jde o tutéž Marii Křížovou jako roku 1956, ani nedokládá trvalý pobyt, vlastnictví či úplnou domácnost. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 618082",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Marie Křížová",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje toto jméno s přesnou obcí Zahrádka u Pošné, čp. 8 a PSČ 39501. Záznam sám nerozhoduje, zda jde o tutéž Marii Křížovou jako roku 1956, ani neprokazuje trvalý pobyt, vlastnictví či úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 984632",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Anna Vlčková",
+          "period": "26. 3. 2024 – ověřeno 1. 8. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede od 26. 3. 2024 sídlo podnikatelky na čp. 8. Vznik živnosti roku 2006 není počátkem této adresy; zápis sám neprokazuje bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 74248634",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=74248634",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "Anna Vlčková",
+          "period": "ověřeno 1. 8. 2026",
+          "type": "contact_address",
+          "certainty": "vysoká",
+          "detail": "Český klub rhodéských ridgebacků uvádí čp. 8 jako adresu hlavní poradkyně chovu pro zasílání dokladů. Potvrzuje aktuální poštovní kontakt, nikoli samo o sobě bydliště.",
+          "source": "Český klub rhodéských ridgebacků, Bonitace",
+          "url": "https://www.ckrr.cz/chov/bonitace/",
+          "publish": true,
+          "current_2026": true
+        }
+      ]
+    },
+    "9": {
+      "label": "N9 / čp. 9",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1980.",
+      "evidence": [
+        {
+          "person": "Jaroslav Plášil",
+          "period": "26. 9. 2001 – 22. 2. 2013",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Veřejný rejstřík jej po celé funkční období uvádí jako „bytem Zahrádka 9“.",
+          "source": "Veřejný rejstřík / ARES, ZD Velká Chyška",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/00111953",
+          "publish": true
+        },
+        {
+          "person": "Jaroslav Plášil",
+          "period": "7. 5. 1993 – 23. 3. 1998",
+          "type": "residence",
+          "certainty": "střední",
+          "detail": "Starší rejstříkový zápis má stejné jméno a čp. 9, ale adresu chybně standardizuje do jiné obce; totožnost je velmi pravděpodobná, ne přímá.",
+          "source": "Veřejný rejstřík / ARES, ZD Velká Chyška",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/00111953",
+          "publish": true
+        },
+        {
+          "person": "Jaroslav Plášil",
+          "period": "27. 2. 2012 – 4. 1. 2022",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede po celý interval sídlo podnikatele na čp. 9; poté bylo sídlo přeneseno jinam. Tento zápis podporuje vazbu osoby k domu, ale sám neprokazuje bydliště po roce 2013.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 88598942",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=88598942",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Martin Plášil",
+          "period": "18. 12. 2023",
+          "type": "official_address",
+          "certainty": "vysoká",
+          "detail": "MÚ Pacov jej na čp. 9 uvádí mezi jednotlivě obesílanými účastníky řízení. Jde o přesný adresní bod, ne důkaz vlastnictví domu ani souvislého pobytu.",
+          "source": "MÚ Pacov, rozhodnutí č. j. MP/15025/2023/Kp",
+          "url": "https://www.obecdul.cz/sites/default/files/2023-12/Ve%C5%99ejn%C3%A1%20vyhl%C3%A1%C5%A1ka.pdf",
+          "publish": true
+        },
+        {
+          "person": "Antonín Plášil; Anna Plášilová",
+          "period": "seznamy k 3. 3. 2014, 10. 8. 2020, 11. 2. 2022 a 1. 3. 2024; stáří adresy nezjištěno",
+          "type": "last_known_address",
+          "certainty": "vysoká",
+          "detail": "ÚZSVM u spoluvlastníků dvou orných parcel v sousedním k. ú. Pošná uvádí poslední známou adresu čp. 9. Jde o katastrální adresní údaj, nikoli důkaz pobytu v letech vydání nebo vlastnictví domu čp. 9.",
+          "source": "ÚZSVM / ČÚZK, seznam nedostatečně identifikovaných vlastníků 2014–2024",
+          "url": "https://uzsvm.gov.cz/ceska-republika",
+          "publish": true
+        }
+      ]
+    },
+    "10": {
+      "label": "N10 / čp. 10",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1980.",
+      "evidence": []
+    },
+    "11": {
+      "label": "N11 / čp. 11",
+      "building": "Bývalý panský dvůr; objekt je od roku 2022 veden jako rodinný dům.",
+      "evidence": [
+        {
+          "person": "iZahrádka z. s.",
+          "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
+          "type": "organization",
+          "certainty": "vysoká",
+          "detail": "Na adrese sídlí spolek. Zápis neprokazuje, že na čp. 11 někdo bydlí.",
+          "source": "Veřejný rejstřík / ARES, IČO 06725384",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "Patrik Jíra",
+          "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
+          "type": "organization_role",
+          "certainty": "vysoká",
+          "detail": "Veřejný rejstřík jej bez ukončení funkce vede jako předsedu spolku iZahrádka, jehož sídlem je čp. 11. Jde o přesnou organizační vazbu k adrese, nikoli o doklad bydliště nebo vlastnictví.",
+          "source": "Veřejný rejstřík / ARES, IČO 06725384",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "Pavla Švantnerová",
+          "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
+          "type": "organization_role",
+          "certainty": "vysoká",
+          "detail": "Veřejný rejstřík ji bez ukončení funkce vede jako místopředsedkyni spolku iZahrádka, jehož sídlem je čp. 11. Jde o přesnou organizační vazbu k adrese, nikoli o doklad bydliště nebo vlastnictví.",
+          "source": "Veřejný rejstřík / ARES, IČO 06725384",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "IT Artist s.r.o.",
+          "period": "18. 3. 2026",
+          "type": "project_applicant",
+          "certainty": "vysoká",
+          "detail": "Jednotné environmentální stanovisko MěÚ Pacov uvádí společnost jako žadatele o stavební úpravy čp. 11 na st. 1 a parcelách 18/2 a 18/3. Žadatel není automaticky vlastníkem, uživatelem ani obyvatelem domu.",
+          "source": "MěÚ Pacov, č. j. R/2026/47724/3; kopie eDesky",
+          "url": "https://edesky.cz/dokument/22774025-Z%C3%A1vazn%C3%A9%20stanovisko%20-%20JES%20-%20Stavebn%C3%AD%20%C3%BApravy%20zem%C4%9Bd%C4%9Blsk%C3%A9%20usedlosti%20Zahr%C3%A1dka%2011",
+          "publish": true,
+          "current_2026": false
+        }
+      ],
+      "ownership_context": [
+        {
+          "person": "Ing. Jiří Homolka",
+          "period": "4. 5. – 8. 12. 1948; nejbližší předchůdný bod před rokem 1950",
+          "relation": "dosavadní vlastník velkostatku Březina–Zahrádka před národní správou a konfiskací",
+          "certainty": "střední",
+          "detail": "Prameny spojují Jiřího Homolku s majetkem velkostatku v Březině a na Zahrádce, nikoli samostatným zápisem dnešní st. 1 nebo čp. 11. Nedokládají, komu konkrétní dvůr patřil v roce 1950; položka je proto jen nejbližší majetkový kontext, ne přesný poválečný vlastník domu.",
+          "source": "SOA Třeboň, inventář velkostatku; Palcát, 8. 12. 1948",
+          "url": "https://kramerius.cbvk.cz/view/uuid:b0361835-3fde-11f0-8920-005056841fbb",
+          "publish": true
+        }
+      ]
+    },
+    "12": {
+      "label": "N12 / čp. 12",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": []
+    },
+    "13": {
+      "label": "N13 / čp. 13",
+      "building": "Dnes objekt k bydlení bez evidovaného bytu.",
+      "evidence": []
+    },
+    "14": {
+      "label": "N14 / čp. 14",
+      "building": "Dnešní rodinný dům trvá.",
+      "evidence": [
+        {
+          "person": "Josef Pudil; Aloisie Pudilová",
+          "period": "seznam k 3. 3. 2014; v edici 10. 8. 2020 už chybějí; stáří adresy nezjištěno",
+          "type": "last_known_address",
+          "certainty": "vysoká",
+          "detail": "Okresní seznam ÚZSVM/ČÚZK uvádí u spoluvlastníků parcel 242/14 a 242/24 na LV 146 poslední známou adresu čp. 14. Jména odpovídají manželům přímo doloženým na čp. 14 roku 1937, ale záznam neprokazuje bydliště v roce 2014, vlastnictví domu ani konkrétní poválečný rok pobytu.",
+          "source": "ÚZSVM / ČÚZK, okres Pelhřimov, data k 3. 3. 2014; archivní kopie",
+          "url": "https://i.fin.cz/ban/jine/vlastnici/pelhrimov.xlsx",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "15": {
+      "label": "N15 / čp. 15",
+      "building": "Dnešní rodinný dům je z roku 2006; v místě stál starší předchůdce.",
+      "evidence": [
+        {
+          "person": "Pavla Moravcová",
+          "period": "27. 3. 2018",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Smlouva o kotlíkové dotaci uvádí adresu čp. 15 a žádost místo trvalého pobytu na Zahrádce.",
+          "source": "Registr smluv, PR02270.0027 / KUJIP018KO5Y",
+          "url": "https://smlouvy.gov.cz/smlouva/5136732",
+          "publish": true
+        },
+        {
+          "person": "Pavla Moravcová",
+          "period": "20. 8. 2019 – ověřeno 1. 8. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede od 20. 8. 2019 sídlo podnikatelky na čp. 15. Samo o sobě neprodlužuje doložené bydliště z roku 2018.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 08434557",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=08434557",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "Petr Moravec",
+          "period": "2. 12. 2005 – 30. 3. 2015",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede po celý interval sídlo podnikatele na čp. 15; poté bylo sídlo přeneseno jinam. Jde o přesnou historii sídla, nikoli o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 63255006",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=63255006",
+          "publish": true,
+          "current_2026": false
+        }
+      ],
+      "ownership": [
+        {
+          "person": "Pavla Moravcová",
+          "period": "žádost přiložená ke smlouvě z 27. 3. 2018",
+          "relation": "vlastnice nebo spoluvlastnice podporované nemovitosti",
+          "certainty": "vysoká",
+          "detail": "Formulář připouští jako žadatelku pouze vlastnici, spoluvlastnici nebo jednoho z manželů při společném jmění. Místo realizace samostatně uvádí čp. 15, st. 10/3, k. ú. Zahrádka u Pošné a tehdejší LV 186. Přesnou formu vlastnictví, podíl ani další spoluvlastníky formulář nerozlišuje.",
+          "source": "Registr smluv, příloha KUJIP018KO5Y",
+          "url": "https://smlouvy.gov.cz/smlouva/5136732",
+          "publish": true
+        }
+      ]
+    },
+    "16": {
+      "label": "N16 / čp. 16",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1960.",
+      "evidence": [
+        {
+          "person": "Miroslav Kubiska",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 16 a UTO 0365. Jde o první nalezenou poválečnou osobní stopu tohoto domu a přesnou účastnickou adresu k řezu 2000, nikoli automaticky trvalý pobyt, vlastnictví nebo úplnou domácnost. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 618115",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Miroslav Kubiska",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu znovu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 16 a PSČ 39501 a nezávisle tak opakuje vazbu z roku 2000. Jde jen o historickou adresu účastnické stanice; neprokazuje jistý trvalý pobyt, vlastnictví ani úplnou domácnost a telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 984658",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "17": {
+      "label": "N17 / čp. 17",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": []
+    },
+    "18": {
+      "label": "N18 / čp. 18",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": [
+        {
+          "person": "Antonín Kudrna; Marie Kudrnová",
+          "period": "seznamy k 3. 3. 2014 a 10. 8. 2020; v edici 11. 2. 2022 už chybějí; stáří adresy nezjištěno",
+          "type": "last_known_address",
+          "certainty": "vysoká",
+          "detail": "ÚZSVM u spoluvlastníků tří zemědělských pozemků uvádí poslední známou adresu čp. 18. Nejde o důkaz, že dům stál nebo byl obydlen v letech vydání, ani o vlastnictví domu.",
+          "source": "ÚZSVM / ČÚZK, seznamy nedostatečně identifikovaných vlastníků 2014 a 2020",
+          "url": "https://i.fin.cz/ban/jine/vlastnici/pelhrimov.xlsx",
+          "publish": true
+        }
+      ]
+    },
+    "19": {
+      "label": "N19 / čp. 19",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": []
+    },
+    "20": {
+      "label": "N20 / čp. 20",
+      "building": "Dnes objekt k bydlení s jedním bytem.",
+      "evidence": [
+        {
+          "person": "Michael Marousek",
+          "period": "30. 6. 2025 – ověřeno 1. 8. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede od 30. 6. 2025 sídlo podnikatele na čp. 20. Zápis neprokazuje bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 23443871",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=23443871",
+          "publish": true,
+          "current_2026": true
+        },
+        {
+          "person": "Stanislav Marousek",
+          "period": "1. 6. 2015 – 10. 1. 2024",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede na čp. 20 sídlo podnikatele od vzniku oprávnění do zániku poslední živnosti 10. 1. 2024. Jde o přesnou historii sídla, nikoli o doklad bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 04129377",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=04129377",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Jan Zelenka",
+          "period": "seznamy k 3. 3. 2014, 10. 8. 2020 a 11. 2. 2022; v edici 1. 3. 2024 už chybí; stáří adresy nezjištěno",
+          "type": "last_known_address",
+          "certainty": "vysoká",
+          "detail": "ÚZSVM u nedostatečně identifikovaného vlastníka pozemků uvádí poslední známou adresu čp. 20. Nejde o důkaz pobytu v letech vydání, vlastnictví domu ani o jisté ztotožnění se stejnojmenným mužem zemřelým roku 1972.",
+          "source": "ÚZSVM / ČÚZK, seznamy nedostatečně identifikovaných vlastníků 2014–2022",
+          "url": "https://i.fin.cz/ban/jine/vlastnici/pelhrimov.xlsx",
+          "publish": true
+        }
+      ]
+    },
+    "21": {
+      "label": "N21 / čp. 21",
+      "building": "Starší rodinný dům trvá.",
+      "evidence": [
+        {
+          "person": "Václav Dörrschmidt",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 21 a UTO 0365. Je to přesná účastnická adresa k řezu 2000, nikoli automaticky trvalé bydliště, vlastnictví nebo úplná domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 617124",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Václav Dörrschmidt",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 21 a PSČ 39501. Jde o historickou adresu účastnické stanice, ne o jistý trvalý pobyt, vlastnictví ani úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 983730",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Jan Dubišar",
+          "period": "13. 12. 2022 – 20. 6. 2024",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatele na čp. 21; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 03585221",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=03585221",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "22": {
+      "label": "N22 / čp. 22",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": []
+    },
+    "23": {
+      "label": "N23 / čp. 23",
+      "building": "Číslo zaniklo; dnes není v RÚIAN.",
+      "evidence": []
+    },
+    "24": {
+      "label": "N24 / čp. 24",
+      "building": "Dnešní rodinný dům trvá.",
+      "evidence": [
+        {
+          "person": "Ing. Jan Velich",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 24 a UTO 0365. Jde o první nalezenou poválečnou osobní stopu tohoto domu a přesnou účastnickou adresu k řezu 2000, nikoli automaticky trvalý pobyt, vlastnictví nebo úplnou domácnost. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 619652",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Ing. Jan Velich",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu znovu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 24 a PSČ 39501 a nezávisle tak opakuje vazbu z roku 2000. Jde jen o historickou adresu účastnické stanice; neprokazuje jistý trvalý pobyt, vlastnictví ani úplnou domácnost a telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 986075",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "25": {
+      "label": "N25 / čp. 25",
+      "building": "Dnes stavba pro rodinnou rekreaci.",
+      "evidence": []
+    },
+    "26": {
+      "label": "čp. 26",
+      "building": "Dnešní rodinný dům trvá.",
+      "evidence": []
+    },
+    "27": {
+      "label": "čp. 27",
+      "building": "Rodinný dům je v RÚIAN veden k roku 1960.",
+      "evidence": [
+        {
+          "person": "Ludmila Rohovcová",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 27 a UTO 0365. Je to přesná účastnická adresa k řezu 2000, nikoli automaticky trvalé bydliště, vlastnictví nebo úplná domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 618990",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Ludmila Rohovcová",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 27 a PSČ 39501. Jde o historickou adresu účastnické stanice, ne o jistý trvalý pobyt, vlastnictví ani úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 985459",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Stanislav Janda",
+          "period": "16. 5. 2016 – 12. 1. 2017",
+          "type": "residence",
+          "certainty": "střední",
+          "detail": "Kotlíková smlouva jej jako fyzickou osobu uvádí na čp. 27; příloha s polem trvalého pobytu je pouze obrazová, proto nejde o nejvyšší stupeň jistoty.",
+          "source": "Registr smluv, PR01537.0092 / KUJIP01683BH",
+          "url": "https://smlouvy.gov.cz/smlouva/1059477",
+          "publish": true
+        },
+        {
+          "person": "Stanislav Janda",
+          "period": "27. 6. 2005 – ověřeno 1. 8. 2026",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP vede od 27. 6. 2005 sídlo podnikatele na čp. 27; veřejné smlouvy adresu potvrzují také v letech 2021 a 2024. Živnost je od 13. 1. 2025 přerušena, sídlo však zůstává zapsané. Zápis sám neprokazuje bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 68541040",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=68541040",
+          "publish": true,
+          "current_2026": true
+        }
+      ]
+    },
+    "28": {
+      "label": "čp. 28",
+      "building": "Dnešní rodinný dům je v RÚIAN veden k roku 1990.",
+      "evidence": [
+        {
+          "person": "Luděk Bulant",
+          "period": "29. 6. 1991",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Společenská kronika týdeníku uvádí jeho adresu výslovně jako Zahrádka u Pošné čp. 28; další rodinné údaje se nezveřejňují.",
+          "source": "Z mého kraje 11/1991, s. [3]",
+          "url": "https://kramerius.kkvysociny.cz/uuid/uuid:e2e0daf0-509c-482b-9764-0e6cef2dacef",
+          "publish": true
+        },
+        {
+          "person": "Růžena Bulantová",
+          "period": "29. 1. – 7. 5. 1993",
+          "type": "residence",
+          "certainty": "střední",
+          "detail": "Veřejný rejstřík uvádí „Zahrádka č. 28“, ale ARES lokalitu chybně standardizuje do jiné obce; vazbu na naši Zahrádku podpírá místní kontext družstva.",
+          "source": "Veřejný rejstřík, ZD Velká Chyška",
+          "url": "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=420207&typ=UPLNY",
+          "publish": true
+        },
+        {
+          "person": "Václav Bulant",
+          "period": "7. 5. 1993 – 26. 9. 2001",
+          "type": "residence",
+          "certainty": "střední",
+          "detail": "Veřejný rejstřík uvádí „Zahrádka 28“; přesná obec je odvozena z kontextu družstva a místních vazeb, nikoli ze správné standardizace ARES.",
+          "source": "Veřejný rejstřík, ZD Velká Chyška",
+          "url": "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=420207&typ=UPLNY",
+          "publish": true
+        },
+        {
+          "person": "Václav Bulant",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 jej uvádí v přesné obci Zahrádka u Pošné na čp. 28 a v UTO 0365. Účastnická adresa nezávisle podporuje rejstříkový interval bydliště zahrnující celý rok 2000, ale sama neprokazuje trvalý pobyt, vlastnictví ani úplnou domácnost. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 616944",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Václav Bulant",
+          "period": "edice 2004; databáze 14. 11. 2003",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část digitálního seznamu jej uvádí v přesné obci Zahrádka u Pošné na čp. 28 a PSČ 39501. Záznam adresně navazuje na rejstříkový interval končící roku 2001, ale sám neprokazuje trvalý pobyt, vlastnictví ani úplnou domácnost; telefonní číslo nebylo převzato.",
+          "source": "Český telefonní seznam 2004 Standard, osobní část, řádek ID 983558",
+          "url": "https://archive.org/details/cesky-telefon-2004-s",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Růžena Bulantová; Václav Bulant",
+          "period": "26. 10. 2016",
+          "type": "official_address",
+          "certainty": "vysoká",
+          "detail": "Rozhodnutí Státního pozemkového úřadu je uvádí mezi vlastníky pozemků v k. ú. Samšín s přesnou adresou Zahrádka 28, Pošná. Potvrzuje úřední adresní bod, nikoli samo o sobě bydliště.",
+          "source": "SPÚ, rozhodnutí č. j. SPU 403045/2016, příloha č. 1",
+          "url": "https://f2293fc098.clvaw-cdnwnd.com/5303d8ff0351bfd96656cff41366052b/200000625-7ce437dde6/KoP%C3%9A%20Sam%C5%A1%C3%ADn%20-%20R2%20-%20k%20vyv%C4%9B%C5%A1en%C3%AD%20na%20%C3%9AD.pdf",
+          "publish": true,
+          "current_2026": false
+        },
+        {
+          "person": "Luděk Bulant",
+          "period": "20. 10. 2017 – 27. 3. 2018",
+          "type": "residence",
+          "certainty": "vysoká",
+          "detail": "Žádost a smlouva ke kotlíkové dotaci uvádějí trvalý pobyt na čp. 28.",
+          "source": "Registr smluv, PR02270.2421 / KUJIP018KDEU",
+          "url": "https://smlouvy.gov.cz/smlouva/5166264",
+          "publish": true
+        }
+      ],
+      "ownership": [
+        {
+          "person": "Luděk Bulant",
+          "period": "žádost z 20. 10. 2017",
+          "relation": "vlastník nebo spoluvlastník podporované nemovitosti",
+          "certainty": "vysoká",
+          "detail": "Formulář připouští jako žadatele pouze vlastníka, spoluvlastníka nebo jednoho z manželů při společném jmění. Místo realizace samostatně uvádí čp. 28, st. 47, k. ú. Zahrádka u Pošné a tehdejší LV 130. Přesnou formu vlastnictví, podíl ani další spoluvlastníky formulář nerozlišuje.",
+          "source": "Registr smluv, příloha KUJIP018KDEU",
+          "url": "https://smlouvy.gov.cz/smlouva/5166264",
+          "publish": true
+        }
+      ]
+    },
+    "29": {
+      "label": "čp. 29",
+      "building": "Drobný objekt bez evidovaného bytu; Český telefon 2000 dokládá používání adresy čp. 29, nikoli totožnost dnešní stavby.",
+      "evidence": [
+        {
+          "person": "Bohuslav Nacházel",
+          "period": "bytový seznam platný do dubna 2000",
+          "type": "telephone_subscriber_address",
+          "certainty": "vysoká",
+          "detail": "Osobní část Českého telefonu 2000 spojuje jméno s přesnou obcí Zahrádka u Pošné, čp. 29 a UTO 0365. Jde o první nalezenou poválečnou osobní stopu tohoto čísla a přesnou účastnickou adresu k řezu 2000; sama však nedokládá trvalý pobyt, vlastnictví, úplnou domácnost ani totožnost s dnešním drobným objektem. Telefonní číslo nebylo převzato.",
+          "source": "Český telefon 2000, osobní část, řádek ID 618536",
+          "url": "https://archive.org/details/czchip200012cd",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "30": {
+      "label": "čp. 30",
+      "building": "Dnes stavba pro rodinnou rekreaci.",
+      "evidence": []
+    },
+    "31": {
+      "label": "čp. 31",
+      "building": "Rekreační dřevostavba z roku 2019.",
+      "evidence": [
+        {
+          "person": "Natálie Radová",
+          "period": "6. 2. 2024 – 24. 1. 2025",
+          "type": "business_address",
+          "certainty": "vysoká",
+          "detail": "Úplný veřejný výpis RŽP uvádí v tomto přesném intervalu sídlo podnikatelky na čp. 31; poté bylo sídlo přeneseno jinam. Nejde o důkaz bydliště.",
+          "source": "Živnostenský rejstřík, úplný veřejný výpis, IČO 21219109",
+          "url": "https://rzp.gov.cz/trvaly-odkaz/cs/verejne-udaje?ICO=21219109",
+          "publish": true,
+          "current_2026": false
+        }
+      ]
+    },
+    "32": {
+      "label": "čp. 32",
+      "building": "Rodinný dům dokončený roku 2025.",
+      "evidence": []
+    }
+  },
+  "village_only": [
+    {
+      "period": "50. léta",
+      "people": "rodina Coufalova; předseda JZD Rohovec; Josef Pachta; účetní Kejval; František Kříž; Zdeněk a Emil Svobodovi; Václav Bulant; Jaroslav Plášil",
+      "note": "Jména jsou doložena na Zahrádce, ale žádný použitý pramen u nich neuvádí čp. Marie Křížová byla z této skupiny přesunuta k čp. 8 po dohledání úplného úryvku z 26. 2. 1956."
+    },
+    {
+      "period": "3. 12. 1955",
+      "people": "František Kříž",
+      "note": "Vesnické noviny jej výslovně označují jako družstevníka ze Zahrádky u Pošné. Čp. chybí; pramen jej proto nepřiřazuje k předválečnému čp. 5 ani čp. 8.",
+      "certainty": "vysoká",
+      "source": "Vesnické noviny, 3. 12. 1955, s. 1",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:7ac769c1-4ba1-4d63-9b75-ee95b10b7f7a"
+    },
+    {
+      "period": "12. 5. a 23. 6. 1956",
+      "people": "družstevnice Rohovcová (křestní jméno neuvedeno)",
+      "note": "Dva články ji výslovně spojují s JZD Zahrádka u Pošné a chovem drůbeže. Bez křestního jména a čp. ji nelze ztotožnit s Ludmilou Rohovcovou doloženou na účastnické adrese čp. 27 roku 2000.",
+      "certainty": "vysoká",
+      "source": "Vesnické noviny, 12. 5. 1956, s. 1",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:d4af1173-4636-4225-952e-4a7779433af7"
+    },
+    {
+      "period": "19. 7. 1957",
+      "people": "Emil Svoboda",
+      "note": "Je uveden jako člen ZO Svazarmu Zahrádka u Pošné a okresní přeborník ve střelbě. Čp. chybí; nejde o doklad totožnosti se Zdeňkem Svobodou na čp. 6 roku 2000.",
+      "certainty": "vysoká",
+      "source": "Vesnické noviny, 19. 7. 1957, s. 2",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:e2f278f7-3727-41e9-96eb-e50e58326d01"
+    },
+    {
+      "period": "60.–80. léta",
+      "people": "J. Kudrna; Marie Plášilová; Jan Zelenka; Marie Bartošková; František Kříž; Jan, Anežka a Karel Kejvalovi; František Rohovec",
+      "note": "Příjmení se nesmějí převést k předválečnému domu jen podle rodové shody."
+    },
+    {
+      "period": "13. 7. 1979",
+      "people": "Jan Kejval; Anežka Kejvalová",
+      "note": "Blahopřání ke zlaté svatbě je výslovně uvádí ze Zahrádky. Jde o přesnou časovou oporu těsně před řezem 1980, ale bez čp.; mezi čp. 10, 15 a 16 se nerozdělují.",
+      "certainty": "vysoká",
+      "source": "Nástup, 12. 7. 1979, blahopřání ke zlaté svatbě",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:0c37df10-7076-11e8-8918-001b63bd97ba"
+    },
+    {
+      "period": "1978",
+      "people": "34 družstevníků bydlících na Zahrádce",
+      "note": "Souhrnný pramen uvádí 17 důchodců, dvě ženy na mateřské a 15 pracujících, avšak bez jmen a čp.",
+      "certainty": "vysoká",
+      "source": "Zpravodaj JZD ČSP Velká Chyška, 1/1978, s. 31",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:14c81961-3791-4789-b681-9a0f39845a85"
+    },
+    {
+      "period": "1. 1. 1980",
+      "people": "33 členů JZD vedených za Zahrádku",
+      "note": "Tabulka členské základny podle obcí rozlišuje 10 mužů a 5 žen v produktivním věku, 4 důchodce a 14 důchodkyň. Nejde o všech 51 obyvatel vsi ani o domovní soupis a neobsahuje jména či čp.",
+      "certainty": "vysoká",
+      "source": "Zpravodaj JZD ČSP Velká Chyška, 20. 2. 1980, č. 1, s. 27",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:dba50795-e503-4c24-8cdd-950fb92502d4"
+    },
+    {
+      "period": "2. 10. 1980",
+      "people": "František Kříž",
+      "note": "Jubilejní oznámení jej při 60. narozeninách výslovně uvádí ze Zahrádky u Pošné. To zpřesňuje osobní řez celé vsi přesně k roku 1980, ale bez čp.; mezi čp. 5 a 8 se nepřiřazuje.",
+      "certainty": "vysoká",
+      "source": "Nástup, 2. 10. 1980, s. 4",
+      "url": "https://kramerius.kkvysociny.cz/uuid/uuid:86171179-6fc1-11e8-92a9-001b63bd97ba"
+    },
+    {
+      "period": "školní rok 1984/85",
+      "people": "Václav Bulant (mladší jmenovec)",
+      "note": "Almanach SPŠS Pelhřimov jej uvádí ve třídě IV. B s lokalitou Zahrádka u Pošné. Jde o mladšího jmenovce; nelze jej ztotožnit se starším Václavem Bulantem později doloženým na čp. 28 ani domyslet příbuznost.",
+      "certainty": "vysoká",
+      "source": "Almanach k 40. výročí založení SPŠS Pelhřimov 1965–2005, s. 66",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:7b90c1cd-c265-435f-9d8e-882286a3b6c0"
+    },
+    {
+      "period": "červenec–srpen 1989",
+      "people": "Václav Bulant; František Rohovec",
+      "note": "Z mého kraje je uvádí jako členy ČZS ZO Pacov 1 ze Zahrádky u Pošné s jubilei 25. a 29. srpna. Čp. nejsou uvedena; stopa nepřemosťuje Václava Bulanta k pozdějšímu čp. 28 a Františka Rohovce k čp. 21 či 27.",
+      "certainty": "vysoká",
+      "source": "Z mého kraje 7/1989",
+      "url": "https://kramerius.kkvysociny.cz/view/uuid:5357c348-c297-41e9-b83b-e82425392e76"
+    },
+    {
+      "period": "komunální volby 2006, 2010, 2014, 2018 a 2022",
+      "people": "Luděk Bulant",
+      "note": "Úplné registry kandidátů ČSÚ jej ve všech pěti letech uvádějí s bydlištěm v místní části Zahrádka. Jde o bezpečnou časovou oporu na úrovni vsi mezi přesnými doklady čp. 28 z let 1991 a 2017–2018, ale registr nikdy neuvádí čp.; nepoužívá se proto jako důkaz nepřetržitého bydliště v čp. 28.",
+      "certainty": "vysoká",
+      "source": "ČSÚ, registr kandidátů komunálních voleb",
+      "url": "https://volby.gov.cz/opendata/kv2022/kv2022_opendata_seznam.htm"
+    },
+    {
+      "period": "24. 6. 2021",
+      "people": "Josef Kadlečík; Hana Kadlečíková",
+      "note": "Přehled stanovisek na úseku ochrany ovzduší je spojuje se stavebním řízením u rodinného domu v Zahrádce u Pošné (krbová vložka s výměníkem). Neuvádí čp. ani parcelu a nedokládá bydliště či vlastnictví; jde jen o kandidátní jména pro další domovní ověření.",
+      "certainty": "vysoká",
+      "source": "MÚ Pacov, zpřístupňování informací na úseku ochrany ovzduší k 6. 9. 2021",
+      "url": "https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=8124"
+    },
+    {
+      "period": "stav popsaný v dokumentu vytvořeném 14. 3. 2021",
+      "people": "Marie Svobodová",
+      "note": "Veřejný rozhovor uvádí, že s manželem bydlí v malé vsi Zahrádce a oba dříve pracovali v domově v Proseči u Pošné. Kontext silně ukazuje na Zahrádku u Pošné, rozlišovací název ani čp. však text neuvádí; osobu proto nelze přiřadit k čp. 6 jen podle příjmení.",
+      "certainty": "střední",
+      "source": "Jana Svobodová: Sestra pamětnice, s. 1",
+      "url": "https://dl1.cuni.cz/pluginfile.php/1138532/mod_forum/attachment/137723/Sestra%20pam%C4%9Btnice_Jana%20Svobodov%C3%A1.pdf?forcedownload=1"
+    }
+  ]
+};
+window.MAPA_VLASTNICI = {
+  "1": {
+    "cp": "1",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 29/1",
+    "stavebni_objekt": "8831181",
+    "adresni_misto": "8882223",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "současný dům dokončen 2023; historické čp. mělo předchůdce"
+  },
+  "2": {
+    "cp": "2",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 15/2",
+    "stavebni_objekt": "82154007",
+    "adresni_misto": "79448071",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "dnešní čp. 2 je novostavba 2016; historická chráněná usedlost stojí převážně na st. 15/1 a dnes je bez čp."
+  },
+  "3": {
+    "cp": "3",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 16/6",
+    "stavebni_objekt": "8831203",
+    "adresni_misto": "8882240",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "4": {
+    "cp": "4",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 17",
+    "stavebni_objekt": "8831211",
+    "adresni_misto": "8882258",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Martin Vaněk: podnikatelská adresa doložena k 13. 3. 2026; od 8. 6. 2026 již Praha; nejde o vlastníka ani obyvatele"
+  },
+  "5": {
+    "cp": "5",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 21",
+    "stavebni_objekt": "8831220",
+    "adresni_misto": "8882266",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Vasyl Liakh: podnikatelská adresa 2. 6. 2025 až nejpozději 19. 3. 2026; poté Milotice; nejde o současného vlastníka ani obyvatele"
+  },
+  "6": {
+    "cp": "6",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 27/1",
+    "stavebni_objekt": "8831238",
+    "adresni_misto": "8882274",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Zdeněk Svoboda byl vlastník nebo spoluvlastník doložený v letech 2019–2020; současný stav nutno ověřit"
+  },
+  "7": {
+    "cp": "7",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 8",
+    "stavebni_objekt": "8831246",
+    "adresni_misto": "8882282",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "8": {
+    "cp": "8",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 22",
+    "stavebni_objekt": "8831254",
+    "adresni_misto": "8882291",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Anna Vlčková: aktuální podnikatelská a kontaktní adresa; nejde o doklad vlastnictví ani bydliště"
+  },
+  "9": {
+    "cp": "9",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 24",
+    "stavebni_objekt": "8831262",
+    "adresni_misto": "8882304",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "10": {
+    "cp": "10",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 26",
+    "stavebni_objekt": "8831271",
+    "adresni_misto": "8882312",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "11": {
+    "cp": "11",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 1",
+    "stavebni_objekt": "8831289",
+    "adresni_misto": "8882321",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "bývalý panský dvůr; sídlo spolku iZahrádka není dokladem obyvatele ani vlastníka"
+  },
+  "12": {
+    "cp": "12",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "historickou parcelu je nutné určit ze starší pozemkové evidence"
+  },
+  "13": {
+    "cp": "13",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 12",
+    "stavebni_objekt": "8831297",
+    "adresni_misto": "8882339",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "RÚIAN: objekt k bydlení bez evidovaného bytu"
+  },
+  "14": {
+    "cp": "14",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 40",
+    "stavebni_objekt": "8831301",
+    "adresni_misto": "8882347",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "15": {
+    "cp": "15",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 10/3",
+    "stavebni_objekt": "8831319",
+    "adresni_misto": "8882355",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Pavla Moravcová: vlastnice nebo spoluvlastnice doložená dotační žádostí roku 2018 (tehdejší LV 186), nikoli současný stav; bydliště doloženo 2018 a aktuální podnikatelská adresa. Petr Moravec: starší podnikatelská stopa; vlastnictví k roku 2026 nutno ověřit"
+  },
+  "16": {
+    "cp": "16",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 7",
+    "stavebni_objekt": "8831327",
+    "adresni_misto": "8882363",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "17": {
+    "cp": "17",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "historickou parcelu je nutné určit ze starší pozemkové evidence"
+  },
+  "18": {
+    "cp": "18",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "poslední známá adresa Antonína Kudrny a Marie Kudrnové v seznamu ÚZSVM 2020; nejde o stav domu v roce 2020"
+  },
+  "19": {
+    "cp": "19",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "historickou parcelu je nutné určit ze starší pozemkové evidence"
+  },
+  "20": {
+    "cp": "20",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 18",
+    "stavebni_objekt": "8831335",
+    "adresni_misto": "8882371",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Michael Marousek: aktuální podnikatelská adresa; vlastnictví a bydliště nutno ověřit"
+  },
+  "21": {
+    "cp": "21",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 38",
+    "stavebni_objekt": "8831343",
+    "adresni_misto": "8882380",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "22": {
+    "cp": "22",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "historickou parcelu je nutné určit ze starší pozemkové evidence"
+  },
+  "23": {
+    "cp": "23",
+    "stav": "zaniklé",
+    "stavebni_parcela": null,
+    "stavebni_objekt": null,
+    "adresni_misto": null,
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "historickou parcelu je nutné určit ze starší pozemkové evidence"
+  },
+  "24": {
+    "cp": "24",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 31",
+    "stavebni_objekt": "8831351",
+    "adresni_misto": "8882398",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "25": {
+    "cp": "25",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 34/2",
+    "stavebni_objekt": "8831360",
+    "adresni_misto": "8882401",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "stavba pro rodinnou rekreaci; RÚIAN neeviduje byt"
+  },
+  "26": {
+    "cp": "26",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 32",
+    "stavebni_objekt": "8831378",
+    "adresni_misto": "8882410",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": null
+  },
+  "27": {
+    "cp": "27",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 43",
+    "stavebni_objekt": "8831386",
+    "adresni_misto": "8882428",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Stanislav Janda: bydliště doloženo 2016–2017 a podnikatelská adresa 2005–2024; současný stav nutno ověřit"
+  },
+  "28": {
+    "cp": "28",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 47",
+    "stavebni_objekt": "8831394",
+    "adresni_misto": "8882436",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "Luděk Bulant: vlastník nebo spoluvlastník doložený dotační žádostí roku 2017 (tehdejší LV 130), nikoli současný stav; bydliště doloženo 1991 a 2017–2018. Vlastnictví k roku 2026 nutno ověřit"
+  },
+  "29": {
+    "cp": "29",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 34/1",
+    "stavebni_objekt": "8831408",
+    "adresni_misto": "8882444",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "drobný objekt bez evidovaného bytu"
+  },
+  "30": {
+    "cp": "30",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 10/4",
+    "stavebni_objekt": "30401500",
+    "adresni_misto": "30933056",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "stavba pro rodinnou rekreaci; RÚIAN neeviduje byt"
+  },
+  "31": {
+    "cp": "31",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 53",
+    "stavebni_objekt": "97458104",
+    "adresni_misto": "79425089",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "stavba pro rodinnou rekreaci dokončená 2019; RÚIAN neeviduje byt"
+  },
+  "32": {
+    "cp": "32",
+    "stav": "aktivní",
+    "stavebni_parcela": "st. 3/1",
+    "stavebni_objekt": "150466081",
+    "adresni_misto": "86829114",
+    "list_vlastnictvi": null,
+    "vlastnik": null,
+    "vztah_k_domu": null,
+    "overeno_dne": null,
+    "zdroj": null,
+    "poznamka": "rodinný dům dokončený 2025"
+  }
+};
+window.MAPA_REZY = {
+  "updated": "2026-08-01",
+  "method": "Jméno je k rozhodnému roku přiřazeno jen tehdy, když datovaný pramen výslovně uvádí stejné čp. Časová opora před nebo po řezu se nepovažuje za bydliště v rozhodném roce.",
+  "snapshots": {
+    "1950": {
+      "map_year": "1949",
+      "label": "sčítání 1950 / letecký snímek 1949",
+      "population": 99,
+      "census_houses": 26,
+      "default_missing": "Domovní a bytový arch Národního sčítání lidu 1950 (Národní archiv, NAD 984)."
+    },
+    "1980": {
+      "map_year": "1978",
+      "label": "stav kolem 1980 / letecký snímek 1978",
+      "population": 51,
+      "census_houses": 16,
+      "default_missing": "Poslední zahrádecký domovní seznam MNV Útěchovičky do roku 1978 a určení držitele pokračující evidence pro roky 1979–1980; pošenský inv. 61 se Zahrádky netýká."
+    },
+    "2000": {
+      "map_year": "1992",
+      "label": "stav kolem 2000 / nejbližší souvislý podklad 1992",
+      "population": null,
+      "census_houses": null,
+      "context": "Mezi sčítáními 1991 (29 obyvatel / 18 domů) a 2001 (28 obyvatel / 18 domů).",
+      "default_missing": "Pro úplnou domácnost určit držitele domovní nebo pobytové evidence kolem sčítání 1991/2001. Český telefon 2000 už byl vytěžen celý, ale zachycuje jen zveřejněné osobní stanice; kronika MNV Pošná inv. 19 / kniha 19 je pouze doplňková jmenná opora."
+    }
+  },
+  "houses": {
+    "1": {
+      "label": "N1 / čp. 1",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Historické N1 je bezpečně umístěno na st. 29; zástavba je v místě patrná i na snímku 1949. Dnešní dům je však náhrada z roku 2023.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Rohovcovi jsou u čp. 1 doloženi do roku 1928; roku 1929 už zápis uvádí čp. 21."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba v místě dnešního bodu je na snímku 1978; totožnost tehdejších zdí s historickým N1 musí potvrdit stavební evidence.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Poválečný předseda JZD Rohovec a později František Rohovec jsou doloženi jen ve vsi, bez čp."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Na snímku 1992 je v místě předchůdce dnešní novostavby; objekt z roku 2023 proto nelze promítat zpět.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Veřejné rejstříky zatím nedaly bezpečnou adresní vazbu."
+        }
+      }
+    },
+    "2": {
+      "label": "N2 / čp. 2",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Historická usedlost je doložena před rokem 1950 a stojí na snímku 1949; obytná část je kulturní památka. Pozdější novostavba na st. 15/2 je jiný objekt.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Rolník Karel Kudrna je na čp. 2 doložen roku 1928 a znovu 1934."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Areál usedlosti je patrný na snímku 1978; nejde však o doklad obydlenosti všech jeho částí.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "J. Kudrna je v 70. letech doložen ve vsi, nikoli na čp. 2."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Památkově chráněná obytná část trvala; novostavba na sousední parcele vznikla až roku 2016 a stodola úředně zanikla roku 2021.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Chybí časově přesná veřejná adresní vazba."
+        }
+      }
+    },
+    "3": {
+      "label": "N3 / čp. 3",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Čp. 3 je doloženo před řezem a zástavba je patrná na snímku 1949; shoda dnešního bodu se starým číslem je pracovní.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Bartoškovi jsou u domu doloženi do úmrtí Antonie Bartoškové roku 1936."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba v okolí dnešního adresního bodu je na snímku 1978.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Marie Bartošková je roku 1976 doložena ve vsi bez čísla; stejné příjmení nestačí k přiřazení."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Dnešní RÚIAN eviduje rodinný dům, ale bez data dokončení; stav k roku 2000 zatím není datován samostatným pramenem.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Chybí veřejná adresní vazba."
+        }
+      }
+    },
+    "4": {
+      "label": "N4 / čp. 4",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení k roku 1919 a snímek 1949 potvrzuje zástavbu v místě.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Rodina Josefa Markvarta je na čp. 4 doložena roku 1930."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Dům je patrný na snímku 1978; místní posloupnost Novák → Markvart není datovaná pro rok 1980.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Poslední bezpečná adresní opora je předválečná."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Dnešní objekt má v RÚIAN starý evidovaný rok dokončení, ale rok 2000 nemá vlastní stavební ani pobytový doklad.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Místní paměť zná rodovou posloupnost, nikoli přesné datum."
+        }
+      }
+    },
+    "5": {
+      "label": "N5 / čp. 5",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Zástavba v místě je na snímku 1949; evidovaný rok dokončení 1960 patrně popisuje pozdější úpravu nebo náhradní objekt, ne vznik adresy.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Antonín Kříž je na čp. 5 doložen roku 1929 a 3. února 1934."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Dům je patrný na snímku 1978; RÚIAN uvádí dokončení k roku 1960.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "František Kříž je přímo jmenován na Zahrádce u Pošné při 60. narozeninách 2. října 1980. Pramen neuvádí čp.; mezi předválečnými domy Křížových čp. 5 a 8 jej proto nelze rozdělit."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 5; totožnost tehdejší a dnešní stavební hmoty zůstává bez stavebního spisu pracovní.",
+          "people_state": "strong",
+          "people": "Petr Veverka — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000; totéž jméno a adresa se opakují v edici 2004. Samostatný pobytový doklad Jany Strašidlové je z 11. ledna 1992."
+        }
+      }
+    },
+    "6": {
+      "label": "N6 / čp. 6",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Zástavba je patrná na snímku 1949; RÚIAN uvádí dokončení 1960, takže stejná hmota domu přes řez není prokázána.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Josef a Marie Svobodovi jsou na čp. 6 doloženi 24. dubna 1926."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Dům je patrný na snímku 1978 a RÚIAN jej datuje k roku 1960.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Družstevník příjmením Svoboda je v JZD Zahrádka u Pošné doložen 16. června 1956 a Emil Svoboda v místním Svazarmu 19. července 1957. Ani jeden pramen neuvádí čp. 6 a nejde o doklad totožnosti se Zdeňkem Svobodou z roku 2000."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 6; přesnou kontinuitu tehdejší a dnešní stavby samostatně neřeší.",
+          "people_state": "strong",
+          "people": "Zdeněk Svoboda — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000 se opakuje v edici 2004. Shodně pojmenovaná osoba má na čp. 6 přímo doložený pobyt až v letech 2019–2020; totožnost a kontinuita nejsou prokázány."
+        }
+      }
+    },
+    "7": {
+      "label": "N7 / čp. 7",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "RÚIAN eviduje dokončení k roku 1945 a zástavba je vidět na snímku 1949.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Pachtovi jsou u domu naposledy bezpečně doloženi ve sčítání 1921."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba v okolí bodu je patrná na snímku 1978.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Josef Pachta byl tajemníkem MNV v letech 1954–1962, ale bez uvedení čp."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 7; přesnou kontinuitu tehdejší a dnešní stavby samostatně neřeší.",
+          "people_state": "strong",
+          "people": "Karel Adam — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000; totéž jméno a adresa se opakují v edici 2004."
+        }
+      }
+    },
+    "8": {
+      "label": "N8 / čp. 8",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Adresa je doložena před řezem a zástavba v místě je na snímku 1949; rok dokončení 1970 v RÚIAN nesmí být chápán jako vznik čísla.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "František Kříž je na čp. 8 doložen roku 1930; jiná Marie Křížová je s čp. 8 přímo spojena 26. února 1956. Přesný stav roku 1950 tím ještě doložen není."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Velký objekt je patrný na snímku 1978; RÚIAN uvádí dokončení k roku 1970.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "František Kříž je přímo jmenován na Zahrádce u Pošné při 60. narozeninách 2. října 1980. Pramen neuvádí čp.; mezi předválečnými domy Křížových čp. 5 a 8 jej proto nelze rozdělit."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 8; dnešní podnikatelská adresa začíná až 26. března 2024.",
+          "people_state": "strong",
+          "people": "Marie Křížová — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000 se opakuje v edici 2004. Totožnost s Marií Křížovou uvedenou u čp. 8 roku 1956 není ověřena."
+        }
+      }
+    },
+    "9": {
+      "label": "N9 / čp. 9",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Zástavba je na snímku 1949; RÚIAN uvádí dokončení k roku 1980, takže dnešní stavební hmota nemusí být totožná.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Karel a Marie Plášilovi jsou na čp. 9 doloženi 17. března a 21. dubna 1943."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení k roku 1980 a snímek 1978 zachycuje zástavbu v místě; přesný okamžik přestavby chybí.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Marie Plášilová a další Plášilovi jsou poválečně doloženi ve vsi bez čp."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Rodinný dům se dvěma byty je v RÚIAN; adresní doklady osoby leží bezprostředně po obou stranách roku 2000.",
+          "people_state": "strong",
+          "people": "Jaroslav Plášil — silná časová opora, nikoli přímé přiřazení k roku 2000.",
+          "anchor": "Adresa čp. 9 je doložena 1993–1998 a znovu 2001–2013; mezera 1999–2000 se nepřeklenuje domněnkou."
+        }
+      }
+    },
+    "10": {
+      "label": "N10 / čp. 10",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Číslo je doloženo před řezem a zástavba stojí na snímku 1949; RÚIAN datuje dnešní objekt k roku 1980.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "František, Josef a Kateřina Kejvalovi jsou na čp. 10 doloženi do roku 1937."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení k roku 1980; snímek 1978 dovoluje kontrolovat předchozí stav, ne přesný kolaudační den.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Dnešní rodinný dům byl podle evidovaného roku dokončení v řezu již přítomen.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Chybí veřejná pobytová nebo adresní vazba."
+        }
+      }
+    },
+    "11": {
+      "label": "N11 / čp. 11 — panský dvůr",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Panský dvůr na st. 1 je bezpečně ztotožněn a jeho areál zachycuje snímek 1949; po roce 1948 přešel do zemědělského užívání.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Josef Vacík je na čp. 11 doložen roku 1930; šafář Václav Pařízek je roku 1939 doložen jen ve vsi."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Areál dvora je na snímku 1978; existence provozu neznamená, že byl sčítán jako obydlený dům.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Poválečné prameny zatím jmenují organizace, ne úplný seznam obyvatel čp. 11."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Areál fyzicky trval, ale dnešní způsob využití „rodinný dům“ je v RÚIAN veden až od roku 2022.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Sídlo dnešního spolku od roku 2018 není doklad bydliště v roce 2000."
+        }
+      }
+    },
+    "12": {
+      "label": "N12 / zaniklé čp. 12",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Čp. 12 je doloženo ve 20. letech, ale jeho poloha ani datum zániku nejsou určeny; bez lokalizace nelze spolehlivě číst snímek 1949.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Jan Pudil a rodina Kejvalova jsou u čísla doloženi do roku 1930."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Není známo, zda objekt v roce 1980 ještě stál nebo byl obydlen; dnešní absence v RÚIAN odpověď nedává.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Poslední bezpečná adresní opora je z roku 1930."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Číslo dnes neexistuje, ale přesný rok zániku nebyl doložen; proto nelze zatím psát „zaniklé před 2000“.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Nutná je lokalizace na mapě a stavební nebo domovní seznam."
+        }
+      }
+    },
+    "13": {
+      "label": "N13 / čp. 13",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Adresa je doložena před řezem a zástavba je patrná na snímku 1949; samostatný arch čp. 13 chybí už v dochované sadě sčítání 1921.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Antonie Kudrnová zemřela na čp. 13 dne 6. prosince 1936; dříve bydlela na čp. 18."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Objekt je v okolí dnešního bodu na snímku 1978, ale obydlenost není doložena.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Chybí poválečná adresní opora."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Dnešní RÚIAN vede objekt k bydlení, ale bez evidovaného bytu; tento dnešní stav nelze bez dalšího přenést do roku 2000.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Aktivní odběr elektřiny je doložen až roku 2026."
+        }
+      }
+    },
+    "14": {
+      "label": "N14 / čp. 14",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Historické čp. 14 existovalo, ale dnešní adresní bod leží na místě, kde mapa 1829 dům nezachycuje; přesné ztotožnění polohy pro snímek 1949 chybí.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Josef a Aloisie Pudilovi jsou na čp. 14 přímo doloženi roku 1937; seznam NIV z března 2014 u nich uvádí stejné čp. jen jako nedatovanou poslední známou adresu."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba v širším okolí dnešního bodu je na snímku 1978, ale vazba na historické N14 není prokázána.",
+          "people_state": "gap",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Josef a Aloisie Pudilovi mají čp. 14 přímo roku 1937 a jako nedatovanou poslední známou adresu v seznamu zveřejněném roku 2014; žádný pramen je nedatuje k roku 1980."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Dnešní RÚIAN eviduje rodinný dům se dvěma byty, bez data dokončení; stav roku 2000 vyžaduje domovní seznam.",
+          "people_state": "gap",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Seznam NIV zveřejněný roku 2014 uvádí Josefa a Aloisii Pudilovy s poslední známou adresou čp. 14, ale stáří adresy ani pobyt roku 2000 neurčuje."
+        }
+      }
+    },
+    "15": {
+      "label": "N15 / čp. 15",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Číslo a usedlost jsou doloženy před řezem a zástavba je na snímku 1949; dnešní RÚIAN objekt z roku 2006 proto není totožný důkaz.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Kejvalovi jsou na čp. 15 doloženi do roku 1930."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Zástavba v místě je na snímku 1978; dnešní objekt byl evidenčně dokončen až roku 2006.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Na místě stála předchozí zástavba, ale dnešní rodinný dům je evidován jako dokončený roku 2006; přesný stav v roce 2000 je proto otevřený.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Pavla Moravcová má bydliště na čp. 15 doloženo až roku 2018."
+        }
+      }
+    },
+    "16": {
+      "label": "N16 / čp. 16",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Číslo je doloženo před řezem a zástavba je na snímku 1949; RÚIAN uvádí dokončení dnešního objektu k roku 1960.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "J. Kejvalová zemřela na čp. 16 dne 22. října 1948; tento koncový údaj ji nepřenáší do roku 1950."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Dům je na snímku 1978 a RÚIAN jej datuje k roku 1960.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Dnešní rodinný dům byl podle evidovaného roku dokončení před řezem; Český telefon 2000 navíc dokládá používání čp. 16.",
+          "people_state": "strong",
+          "people": "Miroslav Kubiska — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "První nalezená poválečná osobní stopa domu je přesná vazba jméno–obec–čp. v Českém telefonu 2000; opakuje se v edici 2004."
+        }
+      }
+    },
+    "17": {
+      "label": "N17 / zaniklé čp. 17",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Čp. 17 je před válkou doloženo, ale jeho přesná poloha a rok zániku chybějí.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Václav Plášil je doložen roku 1928; dítě Marie Říčanové zemřelo na čp. 17 roku 1933."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Bez lokalizace nelze rozhodnout, zda dům roku 1980 stál; dnešní absence čísla není časový doklad.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Poslední bezpečná adresní opora je z roku 1933."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Číslo dnes neexistuje, ale zánik před rokem 2000 není zatím prokázán.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Nutný je stavební spis nebo úplná letecká/mapová lokalizace."
+        }
+      }
+    },
+    "18": {
+      "label": "N18 / zaniklé čp. 18",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Historické číslo je doloženo, ale bez přesné polohy a roku zániku nelze stavbu v řezu bezpečně označit.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Antonín Kudrna je na čp. 18 doložen v letech 1928–1929; rodina Vacíkova roku 1928."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Není známo, zda objekt roku 1980 trval nebo byl sčítán jako dům.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Antonín a Marie Kudrnovi mají nedatovanou poslední známou adresu čp. 18 v seznamu NIV."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Číslo dnes v RÚIAN neexistuje; nedatovaná adresa vlastníků pozemků neurčuje existenci domu v roce 2000.",
+          "people_state": "gap",
+          "people": "Bez přímého jména pro rok 2000.",
+          "anchor": "Nedatovaný seznam NIV uvádí Antonína a Marii Kudrnovy s čp. 18."
+        }
+      }
+    },
+    "19": {
+      "label": "N19 / zaniklé čp. 19",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Čp. 19 je předválečně doloženo, ale poloha a datum zániku nejsou určeny.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Rodina Karla Vaňka je na čp. 19 doložena v letech 1926–1930."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Bez lokalizace nelze rozhodnout, zda objekt roku 1980 ještě stál.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Po roce 1930 chybí bezpečná adresní opora."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Dnešní absence čísla nedokládá, kdy objekt zanikl.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Nutný je stavební spis nebo domovní seznam."
+        }
+      }
+    },
+    "20": {
+      "label": "N20 / čp. 20",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Adresa je doložena před řezem a zástavba je patrná na snímku 1949.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Zelenkovi jsou na čp. 20 doloženi do roku 1932."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Objekt je patrný na snímku 1978; obydlenost v roce 1980 není doložena.",
+          "people_state": "gap",
+          "people": "Jan Zelenka sem nesmí být přiřazen k roku 1980.",
+          "anchor": "Jan Zelenka zemřel roku 1972 po posledních letech v domově důchodců; nedatovaná adresa NIV není doklad roku 1980."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Dnešní RÚIAN vede objekt k bydlení s jedním bytem, ale bez datovaného dokončení pro tento řez.",
+          "people_state": "gap",
+          "people": "Bez přímého jména pro rok 2000.",
+          "anchor": "Jan Zelenka je u čp. 20 jen v nedatovaném seznamu NIV; roku 2000 již nežil."
+        }
+      }
+    },
+    "21": {
+      "label": "N21 / čp. 21",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení k roku 1919, ale dnešní bod leží mimo zástavbu mapy 1829; stav roku 1950 je třeba propojit s parcelou.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Rohovcovi jsou na čp. 21 doloženi roku 1929 po předchozím zápisu na čp. 1; není jasné, zda šlo o stěhování či přečíslování."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba je v okolí dnešního bodu na snímku 1978; přesná identita čísla vyžaduje domovní seznam.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1980.",
+          "anchor": "František Rohovec je přímo jmenován na Zahrádce u Pošné v červenci 1989 jako člen ČZS Pacov 1 s jubileem 29. srpna. Pramen neuvádí čp. a nelze jej přenést k čp. 21 ani 27."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 21; přesnou kontinuitu tehdejší a dnešní stavby samostatně neřeší.",
+          "people_state": "strong",
+          "people": "Václav Dörrschmidt — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000; totéž jméno a adresa se opakují v edici 2004."
+        }
+      }
+    },
+    "22": {
+      "label": "N22 / zaniklé čp. 22",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Čp. 22 je před válkou doloženo u pracovníků dvora, ale jeho poloha a datum zániku nejsou určeny.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "František Vacek je doložen roku 1935; Jan Plášil a Anna Horáčková roku 1937; vloupání u Jana Plášila roku 1938."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Bez lokalizace nelze zjistit, zda deputátní dům roku 1980 ještě stál nebo byl součástí dvora.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Poslední bezpečná adresní opora je z roku 1938."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Číslo dnes neexistuje, ale zánik před rokem 2000 zatím není doložen.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Nutné propojit domovní seznamy se stavební agendou dvora."
+        }
+      }
+    },
+    "23": {
+      "label": "N23 / zaniklé čp. 23 — hájovna",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Čp. 23 je bezpečně určeno jako hájovna, ale přesná poloha samoty a její stav v roce 1950 nejsou zatím svázány s mapou.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Hajný Jan Jirků, Marie Jirků a Jiřina Jirků jsou na čp. 23 doloženi 27. září 1935."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Není doloženo, zda hájovna roku 1980 ještě existovala nebo byla sčítána se samotou.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Po roce 1935 chybí bezpečná adresní opora."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Číslo dnes neexistuje; datum zániku hájovny není známé.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Prioritou je lokalizace samoty v mapách a lesní evidenci."
+        }
+      }
+    },
+    "24": {
+      "label": "N24 / čp. 24",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Čp. 24 je před řezem doloženo a zástavba je patrná na snímku 1949; shoda dnešního bodu s historickým číslem je pracovní.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Plášilovi jsou na čp. 24 doloženi roku 1928; rod Kadleců je s domem spojen roku 1936."
+        },
+        "1980": {
+          "building_state": "probable",
+          "building": "Zástavba v okolí dnešního bodu je patrná na snímku 1978.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Chybí poválečná adresní opora."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 24; RÚIAN neuvádí datum dokončení dnešního domu.",
+          "people_state": "strong",
+          "people": "Ing. Jan Velich — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "První nalezená poválečná osobní stopa domu je přesná vazba jméno–obec–čp. v Českém telefonu 2000; opakuje se v edici 2004."
+        }
+      }
+    },
+    "25": {
+      "label": "N25 / čp. 25",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "documented",
+          "building": "Historické čp. 25 je doloženo před řezem; v místě dvojice dnešních čp. 25/29 je na snímku 1949 drobná zástavba, ale totožnost objektu není prokázána.",
+          "people_state": "gap",
+          "people": "Nikdo přímo k roku 1950.",
+          "anchor": "Jan a Marie Kadlecovi jsou na čp. 25 doloženi do roku 1928."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Snímek 1978 zachycuje drobný objekt v okolí; dnešní rekreační čp. 25 nelze bez stavebního spisu považovat za tutéž stavbu.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Po roce 1928 chybí bezpečná adresní opora."
+        },
+        "2000": {
+          "building_state": "unknown",
+          "building": "Dnešní stavba pro rodinnou rekreaci nemá datovaný vznik; existence stejného objektu a čísla roku 2000 není ověřena.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Nutný je stavební spis dvojice čp. 25 a 29."
+        }
+      }
+    },
+    "26": {
+      "label": "čp. 26",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "probable",
+          "building": "Zástavba v okolí dnešního adresního bodu je na snímku 1949, ale vznik čp. 26 ani jeho započtení mezi 26 sčítaných domů nejsou doloženy.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1950.",
+          "anchor": "Ve spisu zatím chybí bezpečný předválečný jmenný doklad tohoto čísla."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "Dnešní rodinný dům nebo jeho předchůdce je v místě zřetelný na snímku 1978.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Chybí jakákoli jmenná adresní opora."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "RÚIAN eviduje rodinný dům bez data dokončení; snímková řada dokládá starší zástavbu, ne obydlenost roku 2000.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Prioritou je zjistit datum přidělení čp. 26."
+        }
+      }
+    },
+    "27": {
+      "label": "čp. 27",
+      "priority": "A",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Zástavba v místě dnešního bodu je na snímku 1949, ale historický zápis „č. 27“ z roku 1891 je adresní anomálie a nesmí se spojit s dnešním čp. bez dalšího pramene.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1950.",
+          "anchor": "Šafář František Jaroš je roku 1891 uveden u „č. 27“, totožnost čísla je nejistá."
+        },
+        "1980": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení k roku 1960 a snímek 1978 zachycuje dům v místě.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Družstevnice příjmením Rohovcová je v JZD Zahrádka u Pošné přesně doložena v květnu a červnu 1956; křestní jméno ani čp. pramen neuvádí. Nelze ji ztotožnit s Ludmilou Rohovcovou z čp. 27 roku 2000."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "Rodinný dům byl podle RÚIAN dokončen před řezem; Český telefon 2000 navíc dokládá používání čp. 27.",
+          "people_state": "strong",
+          "people": "Ludmila Rohovcová — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "Přesná vazba jméno–obec–čp. v Českém telefonu 2000 se opakuje v edici 2004. Stanislav Janda má místo podnikání na čp. 27 až od 27. června 2005 a bydliště doložené roku 2016."
+        }
+      }
+    },
+    "28": {
+      "label": "čp. 28",
+      "priority": "B",
+      "snapshots": {
+        "1950": {
+          "building_state": "absent",
+          "building": "Dnešní adresní objekt čp. 28 je v RÚIAN evidován jako dokončený roku 1990; číslo se do řezu 1950 nepřenáší. Starší jiná stavba v místě tím není vyloučena.",
+          "people_state": "not_applicable",
+          "people": "Pro dnešní čp. 28 se řez nepoužije.",
+          "anchor": "První bezpečná místní adresní vazba je Luděk Bulant roku 1991."
+        },
+        "1980": {
+          "building_state": "absent",
+          "building": "Dnešní adresní objekt je evidován až k roku 1990; pro rok 1980 se čp. 28 nepovažuje za existující adresu.",
+          "people_state": "not_applicable",
+          "people": "Pro dnešní čp. 28 se řez nepoužije.",
+          "anchor": "Žádný jmenný doklad před rokem 1991."
+        },
+        "2000": {
+          "building_state": "documented",
+          "building": "RÚIAN uvádí dokončení roku 1990 a konkrétní adresa čp. 28 je v místních i rejstříkových dokladech od roku 1991.",
+          "people_state": "direct",
+          "people": "Václav Bulant — adresa čp. 28 po celý rok 2000; střední jistota lokality rejstříkového zápisu.",
+          "anchor": "Rejstříkový pobytový interval 7. května 1993 – 26. září 2001 nezávisle podporuje přesná účastnická adresa v Českém telefonu 2000; totéž jméno a čp. se opakují v edici 2004."
+        }
+      }
+    },
+    "29": {
+      "label": "čp. 29",
+      "priority": "B",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "Snímek 1949 ukazuje drobný objekt u dnešní dvojice čp. 25/29, ale zápis hajného Mrkvičky u „č. 29“ roku 1906 je adresní anomálie a totožnost čísla není prokázána.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1950.",
+          "anchor": "Hajný Mrkvička je roku 1906 uveden u „č. 29“, pravděpodobně však nejde o bezpečné dnešní čp."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Na snímku 1978 je v okolí drobná stavba; nelze určit, zda už nesla dnešní čp. 29.",
+          "people_state": "none",
+          "people": "Bez přímého jména pro rok 1980.",
+          "anchor": "Chybí poválečná adresní opora."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Český telefon 2000 dokládá používání adresy čp. 29; zda šlo o dnešní drobný objekt bez evidovaného bytu, musí určit stavební spis.",
+          "people_state": "strong",
+          "people": "Bohuslav Nacházel — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.",
+          "anchor": "První nalezená poválečná osobní stopa čísla je přesná vazba jméno–obec–čp. v Českém telefonu 2000. Fyzickou identitu s dnešním čp. 29 pramen neřeší."
+        }
+      }
+    },
+    "30": {
+      "label": "čp. 30",
+      "priority": "B",
+      "snapshots": {
+        "1950": {
+          "building_state": "unknown",
+          "building": "V okolí dnešního bodu byla součást starší usedlosti, ale není doloženo, že šlo o samostatné čp. 30 nebo o dnešní rekreační stavbu.",
+          "people_state": "not_applicable",
+          "people": "Bez dokladu existence samostatné adresy čp. 30 v roce 1950.",
+          "anchor": "Číslo nemá ve starším osobním registru bezpečný doklad."
+        },
+        "1980": {
+          "building_state": "unknown",
+          "building": "Snímek 1978 zachycuje zástavbu u čp. 15, ne však datum přidělení samostatného čp. 30.",
+          "people_state": "not_applicable",
+          "people": "Bez dokladu existence samostatné adresy čp. 30 v roce 1980.",
+          "anchor": "Chybí datum vzniku čísla."
+        },
+        "2000": {
+          "building_state": "probable",
+          "building": "Na snímku 1992 je v místě objekt, dnešní RÚIAN jej vede k rekreaci; zda už roku 2000 nesl čp. 30, není doloženo.",
+          "people_state": "none",
+          "people": "Bez jmenného dokladu pro rok 2000.",
+          "anchor": "Prioritou je stavební spis a datum přidělení čp. 30."
+        }
+      }
+    },
+    "31": {
+      "label": "čp. 31",
+      "priority": "C",
+      "snapshots": {
+        "1950": {
+          "building_state": "absent",
+          "building": "Dnešní rekreační dřevostavba vznikla až 17. května 2019.",
+          "people_state": "not_applicable",
+          "people": "Čp. 31 v roce 1950 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        },
+        "1980": {
+          "building_state": "absent",
+          "building": "Dnešní rekreační dřevostavba vznikla až 17. května 2019.",
+          "people_state": "not_applicable",
+          "people": "Čp. 31 v roce 1980 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        },
+        "2000": {
+          "building_state": "absent",
+          "building": "Dnešní rekreační dřevostavba vznikla až 17. května 2019.",
+          "people_state": "not_applicable",
+          "people": "Čp. 31 v roce 2000 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        }
+      }
+    },
+    "32": {
+      "label": "čp. 32",
+      "priority": "C",
+      "snapshots": {
+        "1950": {
+          "building_state": "absent",
+          "building": "Dnešní rodinný dům vznikl až 13. února 2025.",
+          "people_state": "not_applicable",
+          "people": "Čp. 32 v roce 1950 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        },
+        "1980": {
+          "building_state": "absent",
+          "building": "Dnešní rodinný dům vznikl až 13. února 2025.",
+          "people_state": "not_applicable",
+          "people": "Čp. 32 v roce 1980 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        },
+        "2000": {
+          "building_state": "absent",
+          "building": "Dnešní rodinný dům vznikl až 13. února 2025.",
+          "people_state": "not_applicable",
+          "people": "Čp. 32 v roce 2000 neexistovalo.",
+          "anchor": "Přesné datum dokončení je v RÚIAN."
+        }
+      }
+    }
+  }
 };

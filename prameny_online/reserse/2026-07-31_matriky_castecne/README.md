@@ -31,12 +31,35 @@ Otilie, dcera Františka Fraňka, rolníka č. 1, a Kateřiny **roz. Kejval z č
 (sňatková vazba rodů č. 1 × č. 15); tatáž Otylie je roku 1905 doložena jako
 provdaná Kudrnová v č. 2 (úmrtí syna Josefa, kniha 11214, snímek 123).
 
-## 2. Kniha 11214 (zemřelí 1881–1937) — ČÁSTEČNĚ (4 z 14 úseků)
+## 2. Kniha 11214 (zemřelí 1881–1937) — ČÁSTEČNĚ, stav obnovení 1. 8. 2026
 
-Pokryty snímky **43–82** (léta ~1888–1895) a **123–162** (léta ~1904–1911);
+Strukturovaně pokryty jsou snímky **43–82** (léta ~1888–1895) a **123–162**
+(léta ~1904–1911);
 celkem 80 snímků a **47 zahrádeckých úmrtních zápisů** s číslem domu, věkem,
-vztahy a příčinou; nejistá čtení značena `(?)`. Nepokryto zůstává: snímky
-**3–42** (1881–1888), **83–122** (1895–1904) a **163–274** (1911–1937).
+vztahy a příčinou; nejistá čtení značena `(?)`. V původním běhu neměly
+uzavřený přepis snímky **3–42** (1881–1888), **83–122** (1895–1904) a
+**163–274** (1911–1937).
+
+Tento odstavec popisuje pouze původně dokončené, strukturované výstupy v
+`prepisy.md`. Při kontrole handoffu 1. 8. 2026 byla nalezena zachovaná cache
+přerušených agentů. Z jejich záznamů lze bezpečně doložit, že celý obraz byl
+otevřen a vizuálně prověřen také v rozsazích **3–19, 23–42, 83–100,
+103–121, 163–177, 183–190 a 203–212**. Spolu s dokončenými úseky 43–82 a
+123–162 je tedy na úrovni snímků prověřeno **187 z 272 snímků**. Jen původních
+80 snímků však má uzavřený strukturovaný přepis; dalších 107 je zachráněná
+pracovní vrstva, kterou je nutné normalizovat a zkontrolovat po jednotlivých
+řádcích.
+
+Skutečně neprověřené mezery jsou nyní přesně: **20–22, 101–102, 122,
+178–182, 191–202 a 213–274**, dohromady **85 snímků**. Není tedy správné
+opakovat starý údaj, že chybí 192 snímků, ale stejně tak není správné vydávat
+187 otevřených obrazů za 187 hotových přepisů.
+
+Z prvního obnoveného úseku byly po nové obrazové kontrole do hlavního registru
+převzaty čtyři bezpečné události: František Pudil v čp. 6 (16. 7. 1881),
+Josef Vaněk v čp. 5 (22. 3. 1882), Josef Žák v čp. 20 (9. 6. 1882) a Marie
+Fraňková v čp. 1 (16. 6. 1882). Méně čitelné řádky se bez další kontroly
+nepřebírají.
 
 Nejcennější adresní nálezy (výběr; úplný výpis v [prepisy.md](prepisy.md)):
 hostinský **Josef Plášil v č. 6** (1891, 1894); kovář **František Dušánek
@@ -53,13 +76,15 @@ písařova nedůslednost).
 
 ## Jak navázat
 
-Běh lze obnovit se zachováním hotových výsledků (dokončení zbývajících 10
-úseků knihy 11214 se přehraje z cache):
+Původní workflow bylo ukončeno a nelze se spolehlivě opřít o jeho obnovení.
+Pokračovat je potřeba přesně od dosud neotevřených snímků **20–22, 101–102,
+122, 178–182, 191–202 a 213–274**. Dalších 107 snímků má zachovaný pracovní
+obrazový verdikt, ale nikoli uzavřený strukturovaný přepis; nesmí se proto
+vykazovat jako dokončené přepisy.
 
-```
-Workflow({scriptPath: "~/.claude/projects/-Users-patrikjira-Work-zahradka/836bfe9f-a695-4c18-95d7-864bdb02ca03/workflows/scripts/zahradka-domy-obyvatele-wf_15cf377f-ede.js",
-          resumeFromRunId: "wf_15cf377f-ede"})
-```
-
-(Cesta i ID běhu platí pro tuto pracovní stanici; skript je uložen i v adresáři
-uvedeném výše.)
+Dočasné obrázky a výřezy jsou na této pracovní stanici v cache
+`/private/tmp/claude-501/-Users-patrikjira-Work-zahradka/836bfe9f-a695-4c18-95d7-864bdb02ca03/scratchpad/11214`
+a `.../scratchpad/idx11214`. Cache není trvalý archiv; před dalším delším kolem
+je vhodné potřebné podklady uložit do projektového adresáře. U každého úseku je
+nutné zaznamenat i negativní výsledek (žádný zápis pro Zahrádku), aby se pokrytí
+dalo později přesně doložit.

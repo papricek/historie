@@ -1,0 +1,33 @@
+cp,stav,stavebni_parcela,stavebni_objekt,adresni_misto,list_vlastnictvi,vlastnik,vztah_k_domu,overeno_dne,zdroj,poznamka
+1,aktivní,st. 29/1,8831181,8882223,,,,,,"současný dům dokončen 2023; historické čp. mělo předchůdce"
+2,aktivní,st. 15/2,82154007,79448071,,,,,,"dnešní čp. 2 je novostavba 2016; historická chráněná usedlost stojí převážně na st. 15/1 a dnes je bez čp."
+3,aktivní,st. 16/6,8831203,8882240,,,,,,
+4,aktivní,st. 17,8831211,8882258,,,,,,"Martin Vaněk: podnikatelská adresa doložena k 13. 3. 2026; od 8. 6. 2026 již Praha; nejde o vlastníka ani obyvatele"
+5,aktivní,st. 21,8831220,8882266,,,,,,"Vasyl Liakh: podnikatelská adresa 2. 6. 2025 až nejpozději 19. 3. 2026; poté Milotice; nejde o současného vlastníka ani obyvatele"
+6,aktivní,st. 27/1,8831238,8882274,,,,,,"Zdeněk Svoboda byl vlastník nebo spoluvlastník doložený v letech 2019–2020; současný stav nutno ověřit"
+7,aktivní,st. 8,8831246,8882282,,,,,,
+8,aktivní,st. 22,8831254,8882291,,,,,,"Anna Vlčková: aktuální podnikatelská a kontaktní adresa; nejde o doklad vlastnictví ani bydliště"
+9,aktivní,st. 24,8831262,8882304,,,,,,
+10,aktivní,st. 26,8831271,8882312,,,,,,
+11,aktivní,st. 1,8831289,8882321,,,,,,"bývalý panský dvůr; sídlo spolku iZahrádka není dokladem obyvatele ani vlastníka"
+12,zaniklé,,,,,,,,,"historickou parcelu je nutné určit ze starší pozemkové evidence"
+13,aktivní,st. 12,8831297,8882339,,,,,,"RÚIAN: objekt k bydlení bez evidovaného bytu"
+14,aktivní,st. 40,8831301,8882347,,,,,,
+15,aktivní,st. 10/3,8831319,8882355,,,,,,"Pavla Moravcová: vlastnice nebo spoluvlastnice doložená dotační žádostí roku 2018 (tehdejší LV 186), nikoli současný stav; bydliště doloženo 2018 a aktuální podnikatelská adresa. Petr Moravec: starší podnikatelská stopa; vlastnictví k roku 2026 nutno ověřit"
+16,aktivní,st. 7,8831327,8882363,,,,,,
+17,zaniklé,,,,,,,,,"historickou parcelu je nutné určit ze starší pozemkové evidence"
+18,zaniklé,,,,,,,,,"poslední známá adresa Antonína Kudrny a Marie Kudrnové v seznamu ÚZSVM 2020; nejde o stav domu v roce 2020"
+19,zaniklé,,,,,,,,,"historickou parcelu je nutné určit ze starší pozemkové evidence"
+20,aktivní,st. 18,8831335,8882371,,,,,,"Michael Marousek: aktuální podnikatelská adresa; vlastnictví a bydliště nutno ověřit"
+21,aktivní,st. 38,8831343,8882380,,,,,,
+22,zaniklé,,,,,,,,,"historickou parcelu je nutné určit ze starší pozemkové evidence"
+23,zaniklé,,,,,,,,,"historickou parcelu je nutné určit ze starší pozemkové evidence"
+24,aktivní,st. 31,8831351,8882398,,,,,,
+25,aktivní,st. 34/2,8831360,8882401,,,,,,"stavba pro rodinnou rekreaci; RÚIAN neeviduje byt"
+26,aktivní,st. 32,8831378,8882410,,,,,,
+27,aktivní,st. 43,8831386,8882428,,,,,,"Stanislav Janda: bydliště doloženo 2016–2017 a podnikatelská adresa 2005–2024; současný stav nutno ověřit"
+28,aktivní,st. 47,8831394,8882436,,,,,,"Luděk Bulant: vlastník nebo spoluvlastník doložený dotační žádostí roku 2017 (tehdejší LV 130), nikoli současný stav; bydliště doloženo 1991 a 2017–2018. Vlastnictví k roku 2026 nutno ověřit"
+29,aktivní,st. 34/1,8831408,8882444,,,,,,"drobný objekt bez evidovaného bytu"
+30,aktivní,st. 10/4,30401500,30933056,,,,,,"stavba pro rodinnou rekreaci; RÚIAN neeviduje byt"
+31,aktivní,st. 53,97458104,79425089,,,,,,"stavba pro rodinnou rekreaci dokončená 2019; RÚIAN neeviduje byt"
+32,aktivní,st. 3/1,150466081,86829114,,,,,,"rodinný dům dokončený 2025"

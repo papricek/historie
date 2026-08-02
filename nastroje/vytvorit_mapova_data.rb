@@ -2,16 +2,21 @@
 # frozen_string_literal: true
 
 # Vytvoří datový soubor website/mapa_data.js pro interaktivní mapu vsi.
-# Zdrojem je generovaný domovní přehled obyvatele_zahradky_domy/dolozene_pobyty.md;
-# opravy patří do zdrojové evidence, potom se spustí vytvorit_domovni_pobyty.rb
-# a tento skript. Výstup se ručně neupravuje.
+# Zdrojem je generovaný domovní přehled obyvatele_zahradky_domy/dolozene_pobyty.md
+# a kanonické vrstvy poválečných obyvatel a řezů 1950/1980/2000. Opravy patří
+# do zdrojové evidence, potom se spustí generátory a tento skript. Výstup se
+# ručně neupravuje.
 
 require "json"
+require "csv"
 
 ROOT = File.expand_path("..", __dir__)
 SRC = File.join(ROOT, "obyvatele_zahradky_domy", "dolozene_pobyty.md")
 SRC_REGISTR = File.join(ROOT, "obyvatele_zahradky_domy.md")
 SRC_DNES = File.join(ROOT, "soucasny_stav_domu.md")
+SRC_REZY = File.join(ROOT, "rekonstrukce_20_stoleti_data.json")
+SRC_OBYVATELE = File.join(ROOT, "obyvatele_1950_2026_data.json")
+SRC_VLASTNICI = File.join(ROOT, "vlastnici_2026_kontrolni_list.csv")
 OUT = File.join(ROOT, "website", "mapa_data.js")
 
 def html_escape(text)
@@ -252,11 +257,33 @@ if File.exist?(SRC_DNES)
   end
 end
 
+rezy = JSON.parse(File.read(SRC_REZY))
+expected_rezy = %w[1950 1980 2000]
+unless rezy.fetch("houses").length == 32 &&
+       rezy.fetch("houses").values.all? { |h| expected_rezy.all? { |r| h.fetch("snapshots").key?(r) } }
+  abort "Neúplná rekonstrukce 20. století v #{SRC_REZY}"
+end
+
+obyvatele = JSON.parse(File.read(SRC_OBYVATELE))
+expected_houses = (1..32).map(&:to_s)
+unless obyvatele.fetch("houses").keys.sort_by(&:to_i) == expected_houses
+  abort "Neúplná poválečná evidence v #{SRC_OBYVATELE}"
+end
+
+vlastnici = CSV.read(SRC_VLASTNICI, headers: true).to_h { |row| [row.fetch("cp"), row.to_h] }
+unless vlastnici.keys.sort_by(&:to_i) == expected_houses
+  abort "Neúplný kontrolní list vlastníků v #{SRC_VLASTNICI}"
+end
+
 File.open(OUT, "w") do |f|
   f.puts "// Generováno skriptem nastroje/vytvorit_mapova_data.rb z"
-  f.puts "// obyvatele_zahradky_domy/dolozene_pobyty.md a soucasny_stav_domu.md — neupravovat ručně."
+  f.puts "// domovního registru, soucasny_stav_domu.md, obyvatele_1950_2026_data.json"
+  f.puts "// a rekonstrukce_20_stoleti_data.json — neupravovat ručně."
   f.puts "window.MAPA_DATA = #{JSON.pretty_generate({ 'domy' => houses })};"
   f.puts "window.MAPA_DNES = #{JSON.pretty_generate(dnes)};"
+  f.puts "window.MAPA_OBYVATELE = #{JSON.pretty_generate(obyvatele)};"
+  f.puts "window.MAPA_VLASTNICI = #{JSON.pretty_generate(vlastnici)};"
+  f.puts "window.MAPA_REZY = #{JSON.pretty_generate(rezy)};"
 end
 
 # Otisk dat se propíše do <script src="mapa_data.js?v=…"> v mapa.html, aby
@@ -272,4 +299,6 @@ if nove != html
   puts "mapa.html: verze dat nastavena na #{verze}"
 end
 
-puts "#{OUT}: #{houses.length} domů, #{total} osobních řádků, dnešní stav: #{dnes.values.sum(&:length)} údajů u #{dnes.length} klíčů"
+puts "#{OUT}: #{houses.length} domovních oddílů, #{total} osobních řádků, " \
+     "dnešní stav: #{dnes.values.sum(&:length)} údajů u #{dnes.length} klíčů, " \
+     "řezy 20. století: #{rezy.fetch('houses').length} domů"

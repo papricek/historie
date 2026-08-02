@@ -379,6 +379,16 @@ def extract_main_evidence
     when "Narození 1879–1880 — zahrádecké řádky snímku 362 knihy 6621"
       next unless header[0] == "Dům" && header[1] == "Dítě"
       add_birth_family(evidence, row, "1879–1880")
+    when "Úmrtí 1881–1882 — první bezpečné doplnění z knihy 11214"
+      next unless header[0] == "Dům" && header[1] == "Osoba"
+      add_person(
+        evidence,
+        row[0],
+        row[2],
+        row[1],
+        row[3],
+        row[4].to_s.empty? ? "[hlavní registr](../obyvatele_zahradky_domy.md)" : relocate_main_links(row[4])
+      )
     when "Další již doložené osoby mimo rok 1921"
       next unless header[0] == "Dům" && header[1] == "Osoba"
       add_person(

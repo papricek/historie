@@ -1,0 +1,1687 @@
+{
+  "as_of": "2026-08-01",
+  "locality": "Zahrádka u Pošné",
+  "endpoint": "https://api.ceskadigitalniknihovna.cz/search/api/client/v7.0/search",
+  "method": "Všechny stránky agregované Českou digitální knihovnou s přesnou OCR frází názvu obce; řazeno vzestupně podle data. Úryvek je kandidát k ručnímu čtení, ne automatický důkaz osoby, bydliště nebo čp.",
+  "documents_found": 103,
+  "public_documents": 23,
+  "collections": {
+    "cbvk": 23,
+    "mzk": 44,
+    "nkp": 51,
+    "svkhk": 1,
+    "svkul": 1
+  },
+  "documents": [
+    {
+      "pid": "uuid:5527abaa-eab9-11e4-8977-001b63bd97ba",
+      "composite_id": "uuid:c6dce1a4-178e-4749-99d3-71ef1ab38b6d!uuid:5527abaa-eab9-11e4-8977-001b63bd97ba",
+      "date": "23.05.1890",
+      "page": "168",
+      "title": "Otavan: týdeník pro zábavu, poučení, zájmy politické, obecné a spolkové",
+      "root_pid": "uuid:c6dce1a4-178e-4749-99d3-71ef1ab38b6d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Ctěné nabídky rekomandované přijímá inserent sám na adresu: A. Kaplan, hospodář dvoru Zahrádka u Pošné, pošta Pacov. ... 13 JS Dovoluji si P. T. pp. rodičům | oznámiti, že vyučuji a vycvičím i; v krátké době dívky | v střihů a bráni míry | na obleky dámské. | Množství pochvalných vysvědčení jest k nahlédnutí vyloženo."
+      ]
+    },
+    {
+      "pid": "uuid:9a167624-eab9-11e4-8977-001b63bd97ba",
+      "composite_id": "uuid:c6dce1a4-178e-4749-99d3-71ef1ab38b6d!uuid:9a167624-eab9-11e4-8977-001b63bd97ba",
+      "date": "30.05.1890",
+      "page": "176",
+      "title": "Otavan: týdeník pro zábavu, poučení, zájmy politické, obecné a spolkové",
+      "root_pid": "uuid:c6dce1a4-178e-4749-99d3-71ef1ab38b6d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Ctěné nabídky rekomandované přijímá inserent sám na adresu: A. K a p I a n, hospodář dvoru Zahrádka u Pošné, pošta Pacov. Všem, kdož se pohřbu našeho drahého manžela, zetě a švakra, pana Karla Prunera, c. a k. setníka v. v., majitele válečné medaille, pamětní medaille na polní tažení 1864 a důstojnického služebního řádu, zúčastnili, zejmena: veledůstoj. duchovenstvu, c. a k. důstojnictvu a úřednictvu a všem, kteří nám svou soustrast projevili, všem dárcům překrásných věnců, jakož i p."
+      ]
+    },
+    {
+      "pid": "uuid:68e7a150-2576-11e9-92f9-005056825209",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:68e7a150-2576-11e9-92f9-005056825209",
+      "date": "5.1.1898",
+      "page": "[7]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "public",
+      "snippets": [
+        "Kubiska Josef, mlynář, Moravec. Franěk František, rolník, Zahrádka u Pošné. Dr. cech Jan, advokát, Pacov. Lešanovský Josef, sou¬ kromník, Pacov."
+      ]
+    },
+    {
+      "pid": "uuid:864162e4-b6e6-11ef-8fa9-005056841fbb",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:864162e4-b6e6-11ef-8fa9-005056841fbb",
+      "date": "5.1.1898",
+      "page": "[7]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Kubiska Josef, mlynář, Moravec. Franěk František, rolník, Zahrádka u Pošné. Dr. cech Jan, advokát, Pacov. Lešanovský Josef, sou¬ kromník, Pacov. Mašát Adolf, hostinský."
+      ]
+    },
+    {
+      "pid": "uuid:ae39afd7-b232-4291-a53a-23ad26e2abe1",
+      "composite_id": "uuid:e1a43fc0-3a95-11ee-8dfc-005056827e51!uuid:ae39afd7-b232-4291-a53a-23ad26e2abe1",
+      "date": "1901",
+      "page": "697",
+      "title": "Výsledky šetření poměrů hospodářských i kulturních zemědělského obyvatelstva v království Českém v letech 1898-1900: agrární anketa : z původních prací vyšetřujících komisařů",
+      "root_pid": "uuid:e1a43fc0-3a95-11ee-8dfc-005056827e51",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "public",
+      "snippets": [
+        "Zhořec . . 583-6747 249-9363 56 4293 230-7594 57. Zahrádka u Pošné. . . 371:6710 169-4072 40-5381 128-2562 58. Vodice 378-3765 2560618 42-3719 31-9826 59."
+      ]
+    },
+    {
+      "pid": "uuid:441a1f6d-dc85-43f5-ba96-c85dd51cad7e",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:441a1f6d-dc85-43f5-ba96-c85dd51cad7e",
+      "date": "21.06.1913",
+      "page": "3",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Žádostem obecních úřadů za povolení k vybírání obecních přirážek v roce 1913 a sice: Pořin 40°/0, Dol u Pošné 40°/0, Zahrádka u Pošné 43%, Lukavce 25%, Bratříce 26%, Březina 35%, Viklantice 57% vyhověno, případně doporučeny zemskému výboru ku schválení."
+      ]
+    },
+    {
+      "pid": "uuid:740ac75d-6b13-414c-b9a7-e3b9db1b3fa8",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:740ac75d-6b13-414c-b9a7-e3b9db1b3fa8",
+      "date": "27.03.1915",
+      "page": "2",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Povoleno vybírati obecní přirážky v r. 1915 těmto obcím: Vintířov 20%, Zahrádka u Pošné 30%, Bořetice-Březina-Přáslavice 30%, Bezděčín 35%, Pacov 40% a dále v Mezilesí za r. 1914 — 40%."
+      ]
+    },
+    {
+      "pid": "uuid:0838ac83-332d-4279-b879-d4afa49de0b1",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:0838ac83-332d-4279-b879-d4afa49de0b1",
+      "date": "27.03.1915",
+      "page": "2",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Povoleno vybírati obecní přirážky v r. 1915 těmto obcím: Vintířov 20%, Zahrádka u Pošné 30%, Bořetice-Březina-Přáslavice 30%, Bezděčín 35%, Pacov 40% a dále v Mezilesí za r. 1914 — 40%."
+      ]
+    },
+    {
+      "pid": "uuid:dc7803e2-1c76-4a7e-b5aa-f8d3dc320098",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:dc7803e2-1c76-4a7e-b5aa-f8d3dc320098",
+      "date": "01.01.1916",
+      "page": "2",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Aprovisační komisi města Pacova přiděleny jsou obce: Zhoř, Zhorec, Bedřichov, Proseč, Zahrádka u Pošné, Roučkovice, Samšín, Jetřichoves. Těchobuz, Dol"
+      ]
+    },
+    {
+      "pid": "uuid:a91aa602-b705-11ef-bbdf-005056841fbb",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:a91aa602-b705-11ef-bbdf-005056841fbb",
+      "date": "7.1.1916",
+      "page": "[2]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Pacovskému obvodu přiděleny jsou město Pa¬ cov, obce Zhoř, Proseč, Zahrádka u Pošné, Roučkovice, Samšín, Jetřichoves, Těchobuzy, Dol, Bratříce, Vel. Chýška, Kamen a Pošná."
+      ]
+    },
+    {
+      "pid": "uuid:8734eb50-24df-11e9-90cf-5ef3fc9bb22f",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:8734eb50-24df-11e9-90cf-5ef3fc9bb22f",
+      "date": "7.1.1916",
+      "page": "[2]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Pa- covskému obvodu přiděleny jsou město Pa¬ cov, obce Zhoř, Proseč, Zahrádka u Pošné, Roučkovice, Samšín, Jetřichoves, Těchobu- zy, Dol, Bratříce, Vel. Chýška, Kamen a Pošná."
+      ]
+    },
+    {
+      "pid": "uuid:e631f158-062c-4415-a1ca-50c3d64873c4",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:e631f158-062c-4415-a1ca-50c3d64873c4",
+      "date": "08.01.1916",
+      "page": "3",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Pacovskému obvodu přiděleny jsou: město Pacov, obce: Zlioř, Proseč, Zahrádka u Pošné, Roučkovice, Samšín, .letřichoves, Těchobuz, Dol, Bratříce, Velká Chýška, Kamen a Pošná."
+      ]
+    },
+    {
+      "pid": "uuid:25f651b2-6829-4dda-a11d-a6e05c69d58b",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:25f651b2-6829-4dda-a11d-a6e05c69d58b",
+      "date": "06.05.1916",
+      "page": "1",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Povoleno vybírání obecních přirážek obcím: Mezilesí-Tejmoves 68%, Hořepník 44%, Bezděčín 34%, Zahrádka u Pošné 27%, Vintířov 25%, Pacov 40% a Pořín 37%. Volných návrhů nebylo, proto schůze skončena."
+      ]
+    },
+    {
+      "pid": "uuid:e395f658-b705-11ef-bbdf-005056841fbb",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:e395f658-b705-11ef-bbdf-005056841fbb",
+      "date": "15.3.1918",
+      "page": "[2]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Lhota 485, Bratřice-Cetule 360, Šimpach 400, Mezilesí 318, Tejmoves 129, Zelená Ves 125, Moravec 1000, Rov¬ ná 150, Roučkovice 301, Bedřichov 153, Zhoř 182, Zharec 272 K 40 h, Zahrádka u Pošné 222, Březi¬ na 66, Přáslavice 243, Dobrá Voda 390, Nesvačily 125, Proseč 186, Pošná 500, Raděiov 280, Lesná 426, Zlátenka 150, Vys."
+      ]
+    },
+    {
+      "pid": "uuid:7b38b7f0-24c6-11e9-b427-005056827e51",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:7b38b7f0-24c6-11e9-b427-005056827e51",
+      "date": "15.3.1918",
+      "page": "[2]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Lhota 485, Bra- třice-Cetule 360, Šimpach 400, Mezilesí 318, Tej- moves 129, Zelená Ves 125, Moravec 1000, Rov¬ ná 150, Roučkovice 301, Bedřichov 153, Zhoř 182, Zharec 272 K 40 h, Zahrádka u Pošné 222, Březi¬ na 66, Přáslavice 243, Dobrá Voda 390, Nesvačily 125, Proseč 186, Pošná 500, Raděiov 280, Lesná 426, Zlátenka 150, Vys."
+      ]
+    },
+    {
+      "pid": "uuid:466c8e39-0fc7-475c-8eee-4e434ba9818a",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:466c8e39-0fc7-475c-8eee-4e434ba9818a",
+      "date": "16.03.1918",
+      "page": "3",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Lhota 485, Bratřice-Cetule 360, Šimpach 400, Mezilesí 318, Tejmoves 129, Zelená Ves 125, Moraveč 1000, Rovná 150, Roučkovice 301, Bedřichov 153, Zhoř 182, Zhorec 272.40, Zahrádka u Pošné 222, Březina 66, Přáslavice 243, Dobrá Voda 390, Nesvačily 125, Proseč 186, Pošná 500, Radějov 280, Lesná 426, Zlátenka 150, Vyis."
+      ]
+    },
+    {
+      "pid": "uuid:e6d24bba-60c6-4718-ad49-404b15a98456",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:e6d24bba-60c6-4718-ad49-404b15a98456",
+      "date": "03.08.1918",
+      "page": "3",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Šimonovi, kováři z Bořetic za 5800 K, vzata na vědomí. Žádosti obcí Bratříce, Pacov, Zahrádka u Pošné, Pořín, Lukavec, Bezděčín, Hořepník, Vodice, Mezilesí-Tejmoves a Mal. Outěchovice za povolení vybírání obecních přirážek vyhověno."
+      ]
+    },
+    {
+      "pid": "uuid:0ab03940-87cf-11e6-8aeb-5ef3fc9ae867",
+      "composite_id": "uuid:5c259210-2182-11e6-918e-5ef3fc9ae867!uuid:0ab03940-87cf-11e6-8aeb-5ef3fc9ae867",
+      "date": "21.11.1923",
+      "page": "6",
+      "title": "Čech: politický týdenník katolický",
+      "root_pid": "uuid:5c259210-2182-11e6-918e-5ef3fc9ae867",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "a Statikov (Nová Рака), Dolní Cerekev, Zahrádka u Pošné, Myslov, osadní .(Pelhřimov), osadní Dol. Jirčany, Bohulibý, Sázava, Petrov, Křížkov, Oujezdec, Křivá Ves, Brtnice, obecná Radějovice a Čenětioe (Jílové); ш den 9. prosince 1923 v obcích : Bezdččín a Charvátec JMI."
+      ]
+    },
+    {
+      "pid": "uuid:26991af0-e179-11e7-9e31-005056822549",
+      "composite_id": "uuid:5c259210-2182-11e6-918e-5ef3fc9ae867!uuid:26991af0-e179-11e7-9e31-005056822549",
+      "date": "21.11.1923",
+      "page": "6",
+      "title": "Čech: politický týdenník katolický",
+      "root_pid": "uuid:5c259210-2182-11e6-918e-5ef3fc9ae867",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "a Statikov (Nová Рака), Dolní Cerekev, Zahrádka u Pošné, Myslov, osadní .(Pelhřimov), osadní Dol. Jirčany, Bohulibý, Sázava, Petrov, Křížkov, Oujezdec, Křivá Ves, Brtnice, obecná Radějovice a Čenětioe (Jílové); ш den 9. pro- since 1923 v obcích : Bezdččín a Charvátec JMI."
+      ]
+    },
+    {
+      "pid": "uuid:ed61c2a0-c5bc-11e7-b059-5ef3fc9ae867",
+      "composite_id": "uuid:e75c0530-19fc-11e7-981b-005056825209!uuid:ed61c2a0-c5bc-11e7-b059-5ef3fc9ae867",
+      "date": "21.11.1923",
+      "page": "5",
+      "title": "Venkov : orgán České strany agrární",
+      "root_pid": "uuid:e75c0530-19fc-11e7-981b-005056825209",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        ". — Pří- slušnými okresními správami byly vypsány n o- Vé volby na den 25. listopadu 1923 v obcích: Nová&amp;apos;Ves, Litrbachy, Kirchberg, Stein, Počátky a Waltersgrün (Kraslice); na den 2. prosince 1923 v obcích: Gusti a Staňkov (Nová Рака), Dolní Cerekev, Zahrádka u Pošné, Myslov - osadní (Pelhřimov), osadní Dol. Jirča- ny. Bohulibý, Sázava, Petrov, Křížkov, Oujez- dec, Křivá Veš, Brtnice, obecni Radějovice a Cenětice (Jílové); na den 9. prosince 1923 v obcích: Bezděčín a Charvátec (Mladá Bole- slav). — Ješiě Nikolov-Čiconkov."
+      ]
+    },
+    {
+      "pid": "uuid:08f0f770-c5bd-11e7-a351-005056825209",
+      "composite_id": "uuid:e75c0530-19fc-11e7-981b-005056825209!uuid:08f0f770-c5bd-11e7-a351-005056825209",
+      "date": "21.11.1923",
+      "page": "5",
+      "title": "Venkov: orgán České strany agrární",
+      "root_pid": "uuid:e75c0530-19fc-11e7-981b-005056825209",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        ". — Příslušnými okresními správami byly vypsány n oVé volby na den 25. listopadu 1923 v obcích: Nová&apos;Ves, Litrbachy, Kirchberg, Stein, Počátky a Waltersgrün (Kraslice); na den 2. prosince 1923 v obcích: Gusti a Staňkov (Nová Рака), Dolní Cerekev, Zahrádka u Pošné, Myslov - osadní (Pelhřimov), osadní Dol. Jirčany. Bohulibý, Sázava, Petrov, Křížkov, Oujezdec, Křivá Veš, Brtnice, obecni Radějovice a Cenětice (Jílové); na den 9. prosince 1923 v obcích: Bezděčín a Charvátec (Mladá Boleslav). — Ješiě Nikolov-Čiconkov."
+      ]
+    },
+    {
+      "pid": "uuid:b352df0f-9793-4d9f-a2f2-0703526ce4bf",
+      "composite_id": "uuid:ae864f11-435d-11dd-b505-00145e5790ea!uuid:b352df0f-9793-4d9f-a2f2-0703526ce4bf",
+      "date": "21.11.1923",
+      "page": "[3]",
+      "title": "Právo lidu: časopis hájící zájmy dělníků, maloživnostníků a rolníků",
+      "root_pid": "uuid:ae864f11-435d-11dd-b505-00145e5790ea",
+      "collections": [
+        "nkp",
+        "mzk"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Příslušnými okresními správami byly vypsány iové volby na den 25. listopadu 1923 v obcích: Nová Ves, Litrbachy, Kirchberg, Stein, Počátky a Waltersgrun (okres Kraslice); na den 2. prosince 1923 • obcích: Oustí a Staňkov (okres Nová Paka), Dolní Cerekev, Zahrádka u Pošné, Myslov — osadní (okres Pelhřimov), osadní Dolní Jirčany, Bohulibý, Sázava, Petrov, Křížkov, Oujezdec, Křivá Ves, Brtnice, obecní Radějovice a Čenětice (okres Jílové); na den 9. prosince 1923 v obcích: Bezděčín a Charvátec (okres Mladá Boleslav), Práchovice (okres Pardubice), Zelč (okres Labor) a Týnec (okres Klatovy)."
+      ]
+    },
+    {
+      "pid": "uuid:1fd4b070-53b2-11ed-a10b-005056822549",
+      "composite_id": "uuid:4eac74b0-e92c-11dc-9fa1-000d606f5dc6!uuid:1fd4b070-53b2-11ed-a10b-005056822549",
+      "date": "21.11.1923",
+      "page": "6",
+      "title": "Rudé právo: orgán Československé sociálně demokratické strany dělnické",
+      "root_pid": "uuid:4eac74b0-e92c-11dc-9fa1-000d606f5dc6",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        ". — Příslušnými okresními správami byly vypsány nové volby na den 25. listopadu 1923 v obcích: Nová Ves, Litrbachy, Kirchberg, Stein, Počátky a Waltersgrün (Kraslice); na den 2. pro- since 1923 v obcích: Oustí a Staňkov (Nová Рака), Dolní Ccrekcv, Zahrádka u Pošné, Myslov — o sadní (Pelhřimov), o sadní Dol. Jirčanv, Bohulibý, Sázava, Petrov, Křížkov, Oujezdec, Křivá Ves, Brtnice, obecní Radčjovice a Čenětice (Jílové), na den 9. prosince 1923 v obcích: Bezděčín a Charvátec (Mladá Boleslav). »Překažte vydřldušské plány!"
+      ]
+    },
+    {
+      "pid": "uuid:dcf37633-b70f-11ef-b64a-005056841fbb",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:dcf37633-b70f-11ef-b64a-005056841fbb",
+      "date": "14.10.1927",
+      "page": "[1]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Zemědělská hlídka (Řídí obvod, sekretariát Nár. Rol. Jedn. v Táboře.) Zahrádka u Pošné. Schůze stoupenců Národ, rolnické jednoty konána ve čtvrtek 6. října. Ta¬ jemník př."
+      ]
+    },
+    {
+      "pid": "uuid:3c9a8d80-240c-11e9-b427-005056827e51",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:3c9a8d80-240c-11e9-b427-005056827e51",
+      "date": "14.10.1927",
+      "page": "[1]",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Zemědělská hlídka (Řídí obvod, sekretariát Nár. Rol. Jedn. v Táboře.) Zahrádka u Pošné. Schůze stoupenců Národ, rolnické jednoty konána ve čtvrtek 6. října. Ta¬ jemník př."
+      ]
+    },
+    {
+      "pid": "uuid:483a00c0-8b43-11e7-ab45-5ef3fc9bb22f",
+      "composite_id": "uuid:ae876087-435d-11dd-b505-00145e5790ea!uuid:483a00c0-8b43-11e7-ab45-5ef3fc9bb22f",
+      "date": "20.10.1927",
+      "page": "2",
+      "title": "Národní listy",
+      "root_pid": "uuid:ae876087-435d-11dd-b505-00145e5790ea",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "., 2 mand Čachrov (Klatovy) 34 hl. Zahrádka u Pošné 37 hl. Potěšitelné výsledky voleb národní demokracie na celé Moravě. Mora-vsko-slezská národní demokracie zí- skala velkých volebních úapéchů v župě ostrav- i-lké — kde — jak jsme již včera sdělili — volilo jem několik větších obcí a přece naše strana získala zde ,od posledních parlameoit- nfch voleb na 2000 nových hlasů."
+      ]
+    },
+    {
+      "pid": "uuid:3c2ef4c3-435e-11dd-b505-00145e5790ea",
+      "composite_id": "uuid:ae876087-435d-11dd-b505-00145e5790ea!uuid:3c2ef4c3-435e-11dd-b505-00145e5790ea",
+      "date": "20.10.1927",
+      "page": "2",
+      "title": "Národní listy",
+      "root_pid": "uuid:ae876087-435d-11dd-b505-00145e5790ea",
+      "collections": [
+        "mzk",
+        "svkhk",
+        "cbvk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "., 2 mand Čachrov (Klatovy) 34 hl. Zahrádka u Pošné 37 hl. Potěšitelné výsledky voleb národní demokracie na celé Moravě. Mora-vsko-slezská národní demokracie získala velkých volebních úapéchů v župě ostravi-lké — kde — jak jsme již včera sdělili — volilo jem několik větších obcí a přece naše strana získala zde ,od posledních parlameoitnfch voleb na 2000 nových hlasů."
+      ]
+    },
+    {
+      "pid": "uuid:91b68d40-9762-11e9-b601-005056825209",
+      "composite_id": "uuid:38668a20-8cee-11e9-b66a-005056825209!uuid:91b68d40-9762-11e9-b601-005056825209",
+      "date": "04.1932",
+      "page": "374",
+      "title": "Česká osvěta: list věnovaný zájmům veřejného knihovnictví a organisaci lidového vzdělání",
+      "root_pid": "uuid:38668a20-8cee-11e9-b66a-005056825209",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Jetřichovec, Kámen, Křeč, Leskovice, Lesná, Lhota Německá, Lhota Salačova, Lhota Vysoká, Litohošť, Lukavec, Malešín, Mezilesí, Moravec, Oblajovice, Obrataň, Pacov, Pořín, Pošná, Prosetín, Proseč, Přáslavice, Radějov, Roučkovice, Rovná Velká, Říšnice, Samšín, Slavětín, Smrdov Starý, Střítež, Šimpach, Štědrovice, Tejmoves, Těchobuz, Útěchovice Malé, Ütechovice, Ves Velká, Vězná, Vintířov, Voda Dobrá, Vodice, Vyklantíce, Zahrádka Hrobská, Zahrádka u Pošné, Zdimeřice, Zhoř, Zhořec, Zlátenka, Právě letos v nesnadné době hospodářské, kdy na krisi naříká kdekdo, je třeba dvojnásob ocenit snahu záložny vydržeti ma započaté dráze finanční podpory obecních knihoven!"
+      ]
+    },
+    {
+      "pid": "uuid:785f6e20-9762-11e9-9209-005056827e51",
+      "composite_id": "uuid:38668a20-8cee-11e9-b66a-005056825209!uuid:785f6e20-9762-11e9-9209-005056827e51",
+      "date": "04.1932",
+      "page": "374",
+      "title": "Česká osvěta : list věnovaný zájmům veřejného knihovnictví a organisaci lidového vzdělání",
+      "root_pid": "uuid:38668a20-8cee-11e9-b66a-005056825209",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Jetřichovec, Kámen, Křeč, Leskovice, Lesná, Lhota Německá, Lhota Sala- čova, Lhota Vysoká, Litohošť, Lukavec, Malešín, Mezilesí, Moravec, Oblajo- vice, Obrataň, Pacov, Pořín, Pošná, Prosetín, Proseč, Přáslavice, Radějov, Roučkovice, Rovná Velká, Říšnice, Samšín, Slavětín, Smrdov Starý, Střítež, Šimpach, Štědrovice, Tejmoves, Těchobuz, Útěchovice Malé, Ütechovice, Ves Velká, Vězná, Vintířov, Voda Dobrá, Vodice, Vyklantíce, Zahrádka Hrobská, Zahrádka u Pošné, Zdimeřice, Zhoř, Zhořec, Zlátenka, Právě letos v nesnadné době hospodářské, kdy na krisi naříká kdekdo, je třeba dvojnásob ocenit snahu záložny vydržeti ma započaté dráze finanční podpory obecních knihoven!"
+      ]
+    },
+    {
+      "pid": "uuid:d9979790-23ee-11e9-92f9-005056825209",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:d9979790-23ee-11e9-92f9-005056825209",
+      "date": "20.1.1933",
+      "page": "2",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "V okrese Pelhři¬ mov má býti připojena obec Zahrádka u Pošné. Teprve připojením těchto obcí bude splněn sta¬ vební program z roku 1932. — A pak přistoupí se k provedení stavebního programu pro rok 1933."
+      ]
+    },
+    {
+      "pid": "uuid:6c78cb54-b710-11ef-b64a-005056841fbb",
+      "composite_id": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d!uuid:6c78cb54-b710-11ef-b64a-005056841fbb",
+      "date": "20.1.1933",
+      "page": "2",
+      "title": "Tábor",
+      "root_pid": "uuid:852fe538-bc82-49d6-a1eb-f6a497f8454d",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "V okrese Pelhři¬ mov má býti připojena obec Zahrádka u Pošné. Teprve připojením těchto obcí bude splněn sta¬ vební program z roku 1932. — A pak přistoupí se k provedení stavebního programu pro rok 1933."
+      ]
+    },
+    {
+      "pid": "uuid:ca5e072b-3fdc-11f0-8920-005056841fbb",
+      "composite_id": "uuid:ec9b3ea3-d906-44dc-9743-d49752b70db2!uuid:ca5e072b-3fdc-11f0-8920-005056841fbb",
+      "date": "10.06.1933",
+      "page": "2",
+      "title": "Český jih: týdenník pro zábavu, pro poučení a potřeby obecné a společenské, hlavně kraje Táborského",
+      "root_pid": "uuid:ec9b3ea3-d906-44dc-9743-d49752b70db2",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "Na vědomí vzato provedení pěšiny z okresní silnice nádražní k Vejvarce, jejíž výstavby účastnily se obce Pacov, Důl u Pošné, Zahrádka u Pošné, Roučkoviíce, Německá Lhota a Samšín společným nákladem. Studentskému zdravotnímu ústavu povoluje se vyústění ikanailisace do Kejtova po teka •a zřízeni nového koupaliště."
+      ]
+    },
+    {
+      "pid": "uuid:dde5de6d-4061-11f0-8ee3-005056841fbb",
+      "composite_id": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b!uuid:dde5de6d-4061-11f0-8ee3-005056841fbb",
+      "date": "10.06.1933",
+      "page": "2",
+      "title": "Český jih: týdeník pro poučení a zábavu, pro potřeby obecné a společenské",
+      "root_pid": "uuid:d3d8e6ae-dbda-422f-a9e3-f8895415019b",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "Na vědomí vzato provedení pěšiny z okresní silnice nádražní k Vejvarce, jejíž výstavby účastnily se obce Pacov, Důl u Pošné, Zahrádka u Pošné, Roučkoviíce, Německá Lhota a Samšín společným nákladem. Studentskému zdravotnímu ústavu povoluje se vyústění ikanailisace do Kejtova po teka •a zřízeni nového koupaliště."
+      ]
+    },
+    {
+      "pid": "uuid:e60a1174-5435-42c0-bbc0-55bd19202c70",
+      "composite_id": "uuid:df766870-d563-11dc-ba8a-000d606f5dc6!uuid:e60a1174-5435-42c0-bbc0-55bd19202c70",
+      "date": "14.9.1947",
+      "page": "6",
+      "title": "Severočeská Mladá fronta",
+      "root_pid": "uuid:df766870-d563-11dc-ba8a-000d606f5dc6",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        ". — TÁBOR: Moravec, Radenín, Dražíce, Záryb- ntčná Lhota, Slapy, Doubravka, Řepeč u Tábora, Vlče- ves, Maršov. — PACOV: Zahrádka u Pošné, Dobrá Voda u Pacova. — PELHŘIMOV: Putimov, Božejov, Kojčlce. Cetoraz, Zmišovice, Vyskytne. — KAMENICE nad Lipou: Castrov, Vlčetlnec, Bohdalín, Lidman. — MILEVSKO: Milošov nad Vltavou, Kovářov u Milevska, Borovany, Božetlce, Milevsko."
+      ]
+    },
+    {
+      "pid": "uuid:9a20c650-a5d1-11dd-b26e-000d606f5dc6",
+      "composite_id": "uuid:df766870-d563-11dc-ba8a-000d606f5dc6!uuid:9a20c650-a5d1-11dd-b26e-000d606f5dc6",
+      "date": "14.9.1947",
+      "page": "6",
+      "title": "Severočeská Mladá fronta",
+      "root_pid": "uuid:df766870-d563-11dc-ba8a-000d606f5dc6",
+      "collections": [
+        "svkul"
+      ],
+      "leader": "svkul",
+      "accessibility": null,
+      "snippets": [
+        ". — TÁBOR: Moravec, Radenín, Dražíce, Zárybntčná Lhota, Slapy, Doubravka, Řepeč u Tábora, Vlčeves, Maršov. — PACOV: Zahrádka u Pošné, Dobrá Voda u Pacova. — PELHŘIMOV: Putimov, Božejov, Kojčlce. Cetoraz, Zmišovice, Vyskytne. — KAMENICE nad Lipou: Castrov, Vlčetlnec, Bohdalín, Lidman. — MILEVSKO: Milošov nad Vltavou, Kovářov u Milevska, Borovany, Božetlce, Milevsko."
+      ]
+    },
+    {
+      "pid": "uuid:819361d5-55e7-11ee-8285-005056841fbb",
+      "composite_id": "uuid:f06139cb-4f99-47f5-9fa6-7b2bbee0b125!uuid:819361d5-55e7-11ee-8285-005056841fbb",
+      "date": "21.11.1947",
+      "page": "4",
+      "title": "Palcát: oficielní list krajového národního výboru táborského",
+      "root_pid": "uuid:f06139cb-4f99-47f5-9fa6-7b2bbee0b125",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "public",
+      "snippets": [
+        "Tak občané v Řísnici u Lukavce přispěli částkou 970 Kčs, Křeč 772 Kčs, Moravec 978 Kčs, Oblajovice 335 Kčs, Prasetín 781 Kčs, Velká Chyška 540 Kčs, Lejčkov 265 Kčs, Leskovice 560 Kčs, Šimpach 775 Kčs, Zahrádka u Pošné 260 Kčs, Vyklantice 1605 Kčs, Důl u Pošné 279 Kčs, Rjdějov 280 Kčs, Velká Rovná 158 Kčs, Útě-chovice u Vyklantic 560 Kčs, Stří-tež u Černovic 185 Kčs a Slavětín 482 Kčs."
+      ]
+    },
+    {
+      "pid": "uuid:86f220b7-3fde-11f0-8920-005056841fbb",
+      "composite_id": "uuid:f06139cb-4f99-47f5-9fa6-7b2bbee0b125!uuid:86f220b7-3fde-11f0-8920-005056841fbb",
+      "date": "23.07.1948",
+      "page": "6",
+      "title": "Palcát: oficielní list krajového národního výboru táborského",
+      "root_pid": "uuid:f06139cb-4f99-47f5-9fa6-7b2bbee0b125",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "Opatřeny roury pro další práce. Také obec Zahrádka u Pošné pracuje na cestách ve vsi. Občané Pošné prodloužili kanalisaci o 20 bm rour."
+      ]
+    },
+    {
+      "pid": "uuid:851bb4f0-e639-11e8-9445-5ef3fc9bb22f",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:851bb4f0-e639-11e8-9445-5ef3fc9bb22f",
+      "date": "1960",
+      "page": "47",
+      "title": "Seznam obcí Československé socialistické republiky 1960: Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Starý Smrdov Vyskytná Vysoká Lhota Záhoří Zahrádka u Pošné Zachotín 1. Petrkov 2. Zachotín Zajíčkov 1. Rovná 2. Zajíčkov Zhořec 1."
+      ]
+    },
+    {
+      "pid": "uuid:ad2f4240-e639-11e8-9445-5ef3fc9bb22f",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:ad2f4240-e639-11e8-9445-5ef3fc9bb22f",
+      "date": "1960",
+      "page": "357",
+      "title": "Seznam obcí Československé socialistické republiky 1960: Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "C. (2—Český Krumlov) Zadní Nezlý, dříve osada obce Horní Týnec, název zanikl — sloučena s obcí Touchořiny (4—Litoměřice) Zadní Výtoň, dříve osada obce Přední Výtoô, zanikla 12—Český Krumlov) Zádušníky, dříve osada obce Travčice, nyní m. č. (4—Litoměřice ) Zahájí, dříve osada obce Litomyšl, nyni m. č. (5—Svitavy) dříve Litomyšl Záhliní, dříve osada obce Mýto, zanikla (2—Český Krumlov) Záripřany, dříve obec, nyní m. 6. obce Mníšek pod Brdy (1—Příbram) dříve Dobříš Záhoří, dříve osada obce Svéráz, zanikla (2—Český Krumlov) dříve Český Krumlov Záhoří-Brdo, nyní Záhoří, osada obce Bošice (2—Prachatice) Záhrad, dříve osada obce Litomyšl, nyní m. C. (5—Svitavy) Za! řádka, nyní Zahrádka u Pošné (2—Pelhřimov) Pacov Zahrádky, dříve osada obce Nový Svět, zanikla (2 chatice) dříve Vimperk Záluží, nyní Záluží u Tábora (2—Tábor) dříve Tát Zámek Kynžvart, dříve osada obce Lázně Kynžvart m. č. (3—Cheb) Zářeěí, dříve osada obce Horaždovice, nyní m. ě. (3 tovy) dříve Horažďovice Zářiči, nyní Zářiči u Dírné (2—Tábor) dříve Sobě Zářiči, nyní Zářiči u Mladé Vožice (2—Tábor) dříi tice Zásada, nyní Zásada u Rašovic (4—Chomutov) Zastávka, dříve osada obce Pěnčín, nyní m. č. (6 stějov) dříve Litovel Zátiší, dříve osada obce Krásná, nyní m. č. obce К (3—Sokolov) Závada, teraz Závada pod Čiernym vrchom (8— čany) prv Bánovce nad Bebravou Závada, teraz Trenčihska Závada (8—Trenčín) pn čln Zavadilka, dříve osada obce Budětsko, nyní m. č. (6—Prostějov) dříve Litovel Závratná, dříve osada obce Rožmberk nad Vltavo; m. č. (2—Český Krumlov) Zbenické Zlakovice, dříve osada obce Těchnice, 11— Příbram) Zbožná, dříve osada obce Bílý Újezd, nyní m. č."
+      ]
+    },
+    {
+      "pid": "uuid:aa2bed50-e639-11e8-9445-5ef3fc9bb22f",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:aa2bed50-e639-11e8-9445-5ef3fc9bb22f",
+      "date": "1960",
+      "page": "333",
+      "title": "Seznam obcí Československé socialistické republiky 1960: Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿ Zŕultib (3—Cheb- Z äclubZ á v i š t n i ZŔdiib (3—Tachov] drive Stříbro Zádub-Závisín (3—Cheb] drive Mariánské Lázně Zádubnie (9—Žilina) Zádveřice (6—Gottwaldov-^ Zádveřice-Raková) Zádveřice—Raková (6—Gottwaldov] Zahájí (2—České Budějovice) dříve České Budějovice-okolí Zahájí (5—Havlíčkův Brod — Hněvkovice) dříve Ledeč nad Sázavou Zahájí j 1—Mělník—C horušice) dříve Mělník Záhlinice |6—Kroměříž) Zahnašovice (6—Kroměříž) Zábor (10—Michalovce) Záhorce (9—Lučenec) Zahorčice (2—České Budějovice— Vrabče) dříve Ceslté Budějoviceokolí Zahorčice (3—Klatovy) dříve Klatovy Zahorčice f2—Strakonice) dříve Blatná Zahorčice (2—Strakonice) dříve Strakonice Zahorčičky (3—Plzeň-jih ) Záhorčie (9—Žiar nad Hronom— B z e n i c a) Záhorie (8—Bratislava-vidiek) Záhorkov (2—Český Krumlov— Kladné) Záhorkovice (2—Český Krumlov— M o j n é ) Záhornice (1—Nymburk) dříve Poděbrady Záhornice [5—Rychnov nad Kněžnou—T r n o v ) dříve Dobruška Záhorovice (6—Uherské Hradiště) Záhorská Bystrica (8—Bratislavavidiek) Záhorská Ves (8—Bratislava-vidiek) Zahořánky (2—český Krumlov— P r á č o vj Zahořany fl—Benešov—D rach kov) dříve Votice Zahořany (1—Beroun) dříve Beroun Zahořany (3—Domažlice) dříve Domažlice Zahořany (4—Chomutov— Vilémov) dříve Kadaň Zahořany (4—Litoměřice) dříve Litoměřice Zahořany (2—Písek] dříve Milevsko Zahořany (1—Praha-západ— Záboří a Kozinec [t — Benešov— letřichovice) Záhoří u Miličína (1—Benešov) Záhořice (3—Karlovy Vary— M o č i d 1 e c ) Záhnříčko ( 1—Benešov—] i r e t i c e) dříve Votice Záhoříčko (2—Prachatice—Č k y n ě) dříve Vimperk Záhoříčko (2—Tábor—N em y š l) dříve Votice Záhořín (4—Česká Lípa—L i n d a v a) Záhostice (2—Tábor—C h ý n o v) Záhřebská ( 1—Beroun—S vátý ]an pod Skalou) &apos; Záhrada (8—Topolčany—Z á v a d a) prv Topoľčany Zahrada (6—Žďár nad Sázavou— Kaly) dříve Tišnov Zahrádčice ( 1—Benešov—D o 1 n í Královice) Zahradiště (6—Žďár nad Sázavou— Radostín nad Oslavou) Zahrádka (1—Benešov) dříve Benešov Zahrádka (1—Benešov—V o j к o v) dříve Sedlčany Zahrádka (2—Český Krumlov— M í r k o v i c e ) dříve Český Krumlov Zahrádka (2—Český Krumlov— R o ž m 11 ô 1 na Šumavě) dříve Kaplica Zahrádka (5—Havlíčkův Brod) dříve Ledeč nad Sázavou Zahrádka (3—Karlovy Vary—Staré Sedlo) dříve Toužím Zahrádka (3—Klatovy—N a 1 ž o v s k ô Hory) dříve Horažďovice Zahrádka {3—Klatovy—Čachr o v) dříve Klatovy Zahrádka (2—Písek—Kostelec nad Vltavou) dříve Milevsko Zahrádka (3—Plzeň-]ih) dříve Biovice Zahrádka (3—Plzeň-sever) dříve Plasy Zahrádka (1—Příbram— Petrovice) dříve Sedlčany Zahrádka (2—Tábor—Klokoty) dříve Tábor Zahrádka (2—Tábor—S 1 a p s к o) dříve Votice Zahrádka (6—Třebíč) dříve Velká Bíteš Zahrádka u Pošné (2—Pelhřimov) dříve Pacov Zahrádky (4—Česká Lípa) dříve česká Lípa Okrouhlo) dříve íítevé &lt;?"
+      ]
+    },
+    {
+      "pid": "uuid:1561d410-e638-11e8-8d10-5ef3fc9ae867",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:1561d410-e638-11e8-8d10-5ef3fc9ae867",
+      "date": "1960",
+      "page": "47",
+      "title": "Seznam obcí Československé socialistické republiky 1960 : Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "public",
+      "snippets": [
+        "Starý Smrdov Vyskytná Vysoká Lhota Záhoří Zahrádka u Pošné Zachotín 1. Petrkov 2. Zachotín Zajíčkov 1. Rovná 2. Zajíčkov Zhořec 1."
+      ]
+    },
+    {
+      "pid": "uuid:3359cb81-e638-11e8-8d10-5ef3fc9ae867",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:3359cb81-e638-11e8-8d10-5ef3fc9ae867",
+      "date": "1960",
+      "page": "357",
+      "title": "Seznam obcí Československé socialistické republiky 1960 : Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "public",
+      "snippets": [
+        "C. (5—Svi- tavy) Za! řádka, nyní Zahrádka u Pošné (2—Pelhřimov) Pacov Zahrádky, dříve osada obce Nový Svět, zanikla (2 chatice) dříve Vimperk Záluží, nyní Záluží u Tábora (2—Tábor) dříve Tát Zámek Kynžvart, dříve osada obce Lázně Kynžvart m. č. (3—Cheb) Zářeěí, dříve osada obce Horaždovice, nyní m. ě. (3 tovy) dříve Horažďovice Zářiči, nyní Zářiči u Dírné (2—Tábor) dříve Sobě Zářiči, nyní Zářiči u Mladé Vožice (2—Tábor) dříi tice Zásada, nyní Zásada u Rašovic (4—Chomutov) Zastávka, dříve osada obce Pěnčín, nyní m. č. (6 stějov) dříve Litovel Zátiší, dříve osada obce Krásná, nyní m. č. obce К (3—Sokolov) Závada, teraz Závada pod Čiernym vrchom (8— čany) prv Bánovce nad Bebravou Závada, teraz Trenčihska Závada (8—Trenčín) pn čln Zavadilka, dříve osada obce Budětsko, nyní m. č. (6—Prostějov) dříve Litovel Závratná, dříve osada obce Rožmberk nad Vltavo; m. č. (2—Český Krumlov) Zbenické Zlakovice, dříve osada obce Těchnice, 11— Příbram) Zbožná, dříve osada obce Bílý Újezd, nyní m. č."
+      ]
+    },
+    {
+      "pid": "uuid:310b6eb0-e638-11e8-8d10-5ef3fc9ae867",
+      "composite_id": "uuid:53781220-9717-11e8-93e3-005056827e51!uuid:310b6eb0-e638-11e8-8d10-5ef3fc9ae867",
+      "date": "1960",
+      "page": "333",
+      "title": "Seznam obcí Československé socialistické republiky 1960 : Podle stavu ke dni 1. července 1960",
+      "root_pid": "uuid:53781220-9717-11e8-93e3-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "public",
+      "snippets": [
+        "﻿ Zŕultib (3—Cheb- Z äclub- Z á v i š t n i ZŔdiib (3—Tachov] drive Stříbro Zádub-Závisín (3—Cheb] drive Mariánské Lázně Zádubnie (9—Žilina) Zádveřice (6—Gottwaldov-^ Zádveřice-Raková) Zádveřice—Raková (6—Gottwaldov] Zahájí (2—České Budějovice) dříve České Budějovice-okolí Zahájí (5—Havlíčkův Brod — Hněvkovice) dříve Ledeč nad Sázavou Zahájí j 1—Mělník—C horušice) dříve Mělník Záhlinice |6—Kroměříž) Zahnašovice (6—Kroměříž) Zábor (10—Michalovce) Záhorce (9—Lučenec) Zahorčice (2—České Budějovice— Vrabče) dříve Ceslté Budějovice- okolí Zahorčice (3—Klatovy) dříve Klatovy Zahorčice f2—Strakonice) dříve Blatná Zahorčice (2—Strakonice) dříve Strakonice Zahorčičky (3—Plzeň-jih ) Záhorčie (9—Žiar nad Hronom— B z e n i c a) Záhorie (8—Bratislava-vidiek) Záhorkov (2—Český Krumlov— Kladné) Záhorkovice (2—Český Krumlov— M o j n é ) Záhornice (1—Nymburk) dříve Poděbrady Záhornice [5—Rychnov nad Kněžnou—T r n o v ) dříve Dobruška Záhorovice (6—Uherské Hradiště) Záhorská Bystrica (8—Bratislava- vidiek) Záhorská Ves (8—Bratislava-vidiek) Zahořánky (2—český Krumlov— P r á č o vj Zahořany fl—Benešov—D rach kov) dříve Votice Zahořany (1—Beroun) dříve Beroun Zahořany (3—Domažlice) dříve Domažlice Zahořany (4—Chomutov— Vilémov) dříve Kadaň Zahořany (4—Litoměřice) dříve Litoměřice Zahořany (2—Písek] dříve Milevsko Zahořany (1—Praha-západ— Záboří a Kozinec [t — Benešov— letřichovice) Záhoří u Miličína (1—Benešov) Záhořice (3—Karlovy Vary— M o č i d 1 e c ) Záhnříčko ( 1—Benešov—] i r e t i c e) dříve Votice Záhoříčko (2—Prachatice—Č k y n ě) dříve Vimperk Záhoříčko (2—Tábor—N em y š l) dříve Votice Záhořín (4—Česká Lípa—L i n d a v a) Záhostice (2—Tábor—C h ý n o v) Záhřebská ( 1—Beroun—S vátý ]an pod Skalou) &apos; Záhrada (8—Topolčany—Z á v a d a) prv Topoľčany Zahrada (6—Žďár nad Sázavou— Kaly) dříve Tišnov Zahrádčice ( 1—Benešov—D o 1 n í Královice) Zahradiště (6—Žďár nad Sázavou— Radostín nad Oslavou) Zahrádka (1—Benešov) dříve Benešov Zahrádka (1—Benešov—V o j к o v) dříve Sedlčany Zahrádka (2—Český Krumlov— M í r k o v i c e ) dříve Český Krumlov Zahrádka (2—Český Krumlov— R o ž m 11 ô 1 na Šumavě) dříve Kaplica Zahrádka (5—Havlíčkův Brod) dříve Ledeč nad Sázavou Zahrádka (3—Karlovy Vary—Staré Sedlo) dříve Toužím Zahrádka (3—Klatovy—N a 1 ž o v s k ô Hory) dříve Horažďovice Zahrádka {3—Klatovy—Čachr o v) dříve Klatovy Zahrádka (2—Písek—Kostelec nad Vltavou) dříve Milevsko Zahrádka (3—Plzeň-]ih) dříve Biovice Zahrádka (3—Plzeň-sever) dříve Plasy Zahrádka (1—Příbram— Petrovice) dříve Sedlčany Zahrádka (2—Tábor—Klokoty) dříve Tábor Zahrádka (2—Tábor—S 1 a p s к o) dříve Votice Zahrádka (6—Třebíč) dříve Velká Bíteš Zahrádka u Pošné (2—Pelhřimov) dříve Pacov Zahrádky (4—Česká Lípa) dříve česká Lípa Okrouhlo) dříve íítevé &lt;?"
+      ]
+    },
+    {
+      "pid": "uuid:d099f610-1cf7-11e7-a5ad-001b63bd97ba",
+      "composite_id": "uuid:b30acb61-474b-4653-9776-cb88c0df1084!uuid:d099f610-1cf7-11e7-a5ad-001b63bd97ba",
+      "date": "09.02.1963",
+      "page": "1",
+      "title": "Jihočeská Pravda: orgán Komunistické strany Československa v Čes. Budějovicích",
+      "root_pid": "uuid:b30acb61-474b-4653-9776-cb88c0df1084",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "Také družstevníci z Hořepniku, Rovné a Bořetic se dohodil, že spojí své sťly. Členové JZD Zahrádka u Pošné začlenili svoje hospodářství do sloučeného JZD Lipka v Otěrhovlčkách. Sníh a mráz působí těžkosti všude."
+      ]
+    },
+    {
+      "pid": "uuid:01462d40-e2d3-11e3-bc6c-5ef3fc9ae867",
+      "composite_id": "uuid:f1c16320-ba5b-11e3-9d7d-005056827e51!uuid:01462d40-e2d3-11e3-bc6c-5ef3fc9ae867",
+      "date": "1964",
+      "page": "1134",
+      "title": "Abecední seznam obcí a jejich částí s příslušnými dodávacími poštami v Československé socialistické republice 1964: podle stavu ke dni 1. července 1964. [hlavní část]",
+      "root_pid": "uuid:f1c16320-ba5b-11e3-9d7d-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "public",
+      "snippets": [
+        "﻿Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka u Pošné Zahrádky Zahrádky Záhradné Zahradnice Zahrady Záhrb 3 2 Klatovy Klatovy Písek 3 Plzeh-jih 3 PlzeS-sever 1 Příbram 2 Tábor 2 Tábor 6 Třebíč 2 Pelhřimov 4 Česká Lípa 2 Jindřichův Hradec 10 Prešov 1 Benešov 4 Děčín 9 Žiar nad Hronom Nalžovské Hory Čacbrov Kostelec nad Vltavou Clžkov Petrovice Klokoty Slapsko Olbramovice Vlčí Hora Nová Bafla Nalžovské Hory Cachrov Kostelec nad Vltavou Cížkov u Bio vie Všeruby u Plzně Petrovice u Sedlčan Dražice Mladá VoSice Námčšf nad Oslavou Otěchovičky Pacov Zahrádky u České Lípy Studená Tulčík Olbramovice u Votic Zahrady u Rumborka Nová Baňa 1131"
+      ]
+    },
+    {
+      "pid": "uuid:345ba080-e2cd-11e3-8ee5-005056827e51",
+      "composite_id": "uuid:f1c16320-ba5b-11e3-9d7d-005056827e51!uuid:345ba080-e2cd-11e3-8ee5-005056827e51",
+      "date": "1964",
+      "page": "1134",
+      "title": "Abecední seznam obcí a jejich částí s příslušnými dodávacími poštami v Československé socialistické republice 1964: podle stavu ke dni 1. července 1964. [hlavní část]",
+      "root_pid": "uuid:f1c16320-ba5b-11e3-9d7d-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "public",
+      "snippets": [
+        "﻿Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka Zahrádka u Pošné Zahrádky Zahrádky Záhradné Zahradnice Zahrady Záhrb 3 2 Klatovy Klatovy Písek 3 Plzeh-jih 3 PlzeS-sever 1 Příbram 2 Tábor 2 Tábor 6 Třebíč 2 Pelhřimov 4 Česká Lípa 2 Jindřichův Hradec 10 Prešov 1 Benešov 4 Děčín 9 Žiar nad Hronom Nalžovské Hory Čacbrov Kostelec nad Vltavou Clžkov Petrovice Klokoty Slapsko Olbramovice Vlčí Hora Nová Bafla Nalžovské Hory Cachrov Kostelec nad Vltavou Cížkov u Bio vie Všeruby u Plzně Petrovice u Sedlčan Dražice Mladá VoSice Námčšf nad Oslavou Otěchovičky Pacov Zahrádky u České Lípy Studená Tulčík Olbramovice u Votic Zahrady u Rumborka Nová Baňa 1131"
+      ]
+    },
+    {
+      "pid": "uuid:f86b84e0-2ebe-11e8-9567-5ef3fc9ae867",
+      "composite_id": "uuid:09df42b0-204c-11e8-bdb0-005056827e51!uuid:f86b84e0-2ebe-11e8-9567-5ef3fc9ae867",
+      "date": "1964",
+      "page": "99",
+      "title": "Přehled obcí a částí v ČSSR, jejihž názvy zanikly, byly změněny, nebo se staly místními částmi v době od 5.5.1945 - 1.7.1964",
+      "root_pid": "uuid:09df42b0-204c-11e8-bdb0-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "(B - Znojmo) Zabudiša, teraz Zabudišová, osada obce Bošáca (8 - Trenčín) Zadní Bor (dříve Český Krumlov) zanikla Zadní Doubice, dříve osada obce Doubice, zanikla (4 • Děčín) Zadní Hutě — splynula s osadou Přední Hutě, nyní Hutě pod Třemšínem (1 - Příbram) Zadní Chalupy (dříve Klatovy) zanikla Zadní Kruhová, dříve osada obce Rožmitál na Šumavě, nyní m. č. (2 - Český Krumlov) Zadní Nezlý, dříve osada obce Horní Týnec, název zanikl — sloučena s obcí Touchořiny (4 Litoměřice) Zadní Výtoä, dříve osada obce Přední Výtoň, zanikla (2 - Český Krumlov) Zadní Zahájí, dříve Zadní Waldheim (dříve Tachov) zanikla Zádolí, nyní m. č. obce Vamberk (5 - Rychnov nad Kněžnon) Zádušníky, dříve osada obce Travčice, nyní m. č. (4 - Litoměřice) Zahájí, dříve osada obce Litomyšl, nyní m. č. (5 - Svitavy) Zahájí, dříve Waldheim (dříve Tachov) zanikla Záhliní, dříve osada obce Mýto, zanikla (2 - Český Krumlov) Zahne, nyní Saň (4 - Liberec) Zahořeny, dříve obec, nyni m. č. obce Mníšek pod Brdy (1 - Příbram) Záhoří, dříve osada obce Svéráz, zanikla (2 - Český Krumlov) Záhoří-Brdo, nyní Záhoří, osada obce Bošice (2 - Prachatice) Záhrad, dříve osada obce Litomyšl, nyní m. č. (5 - Svitavy) Zahrádka, nyní Zahrádka u Pošné (2 - Pelhřimov) Zahrádky, dříve osada obce Nový Svět, zanikla (2 - Prachatice) 99"
+      ]
+    },
+    {
+      "pid": "uuid:6c181c90-c583-40d7-b851-4f3c3e98b1dd",
+      "composite_id": "uuid:b1a4df60-d0f5-11ec-bc34-5ef3fc9bb22f!uuid:6c181c90-c583-40d7-b851-4f3c3e98b1dd",
+      "date": "1964",
+      "page": "9",
+      "title": "Krajský úřad Tábor 1751-1850: Inventář 1/3",
+      "root_pid": "uuid:b1a4df60-d0f5-11ec-bc34-5ef3fc9bb22f",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Stranná, Strméchy, Střitež u Božejova» Střitei pod Křeaeinikea, Svatava, Svépravice, Sýrov, Šiapaoh, Štítné, Teohorai, Těmi ce, TěSeno v, Těškovice, Trsov, Turovka, Údolí, Ustrašíň, útěchovice pod Strážištěm, Útěchovičky, Vačkov, Včelaička, Velká Černá, Velká Chýška, Velký Ježov, Veselá, Vážná, Vintířov, Vitovioe, Vláseníce, Vlčetin, VIkonovice, Vodná, Vokov, Vratiiov, Vyskytná, Vysoká Lhota, Zahrádka u Pošné, Zachotin, Zajičkov, Zhořec, Zboř, Zlatěnka, Zmišovioe, Ždár, Žirov, Žirovnice."
+      ]
+    },
+    {
+      "pid": "uuid:5e2e32b0-2ebe-11e8-af9f-5ef3fc9bb22f",
+      "composite_id": "uuid:09df42b0-204c-11e8-bdb0-005056827e51!uuid:5e2e32b0-2ebe-11e8-af9f-5ef3fc9bb22f",
+      "date": "1964",
+      "page": "99",
+      "title": "Přehled obcí a částí v ČSSR, jejihž názvy zanikly, byly změněny, nebo se staly místními částmi v době od 5.5.1945 - 1.7.1964",
+      "root_pid": "uuid:09df42b0-204c-11e8-bdb0-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "(B - Znojmo) Zabudiša, teraz Zabudišová, osada obce Bošáca (8 - Trenčín) Zadní Bor (dříve Český Krumlov) zanikla Zadní Doubice, dříve osada obce Doubice, zanikla (4 • Děčín) Zadní Hutě — splynula s osadou Přední Hutě, nyní Hutě pod Třemšínem (1 - Příbram) Zadní Chalupy (dříve Klatovy) za- nikla Zadní Kruhová, dříve osada obce Rožmitál na Šumavě, nyní m. č. (2 - Český Krumlov) Zadní Nezlý, dříve osada obce Horní Týnec, název zanikl — sloučena s obcí Touchořiny (4 - Litoměřice) Zadní Výtoä, dříve osada obce Přední Výtoň, zanikla (2 - Český Krumlov) Zadní Zahájí, dříve Zadní Wald- heim (dříve Tachov) zanikla Zádolí, nyní m. č. obce Vamberk (5 - Rychnov nad Kněžnon) Zádušníky, dříve osada obce Trav- čice, nyní m. č. (4 - Litoměřice) Zahájí, dříve osada obce Litomyšl, nyní m. č. (5 - Svitavy) Zahájí, dříve Waldheim (dříve Ta- chov) zanikla Záhliní, dříve osada obce Mýto, zanikla (2 - Český Krumlov) Zahne, nyní Saň (4 - Liberec) Zahořeny, dříve obec, nyni m. č. obce Mníšek pod Brdy (1 - Pří- bram) Záhoří, dříve osada obce Svéráz, zanikla (2 - Český Krumlov) Záhoří-Brdo, nyní Záhoří, osada obce Bošice (2 - Prachatice) Záhrad, dříve osada obce Litomyšl, nyní m. č. (5 - Svitavy) Zahrádka, nyní Zahrádka u Pošné (2 - Pelhřimov) Zahrádky, dříve osada obce Nový Svět, zanikla (2 - Prachatice) 99"
+      ]
+    },
+    {
+      "pid": "uuid:6acc27a0-1cfc-11e7-bfe0-001b63bd97ba",
+      "composite_id": "uuid:b30acb61-474b-4653-9776-cb88c0df1084!uuid:6acc27a0-1cfc-11e7-bfe0-001b63bd97ba",
+      "date": "15.03.1964",
+      "page": "2",
+      "title": "Jihočeská Pravda: orgán Komunistické strany Československa v Čes. Budějovicích",
+      "root_pid": "uuid:b30acb61-474b-4653-9776-cb88c0df1084",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "VOLEBNÍ OBVOD C. 87: Okres Pelhřimov — obce: Bácovice, Branišov, Čakovice, Častonín, Červené Rečice, Čížkov, Dehtáře, Dubovice, Hodějovice, Chvojnov, Hankov, Kojčice, Krasíkovicě, Lipice, Litohošť, Nová Cerekev, Olešná, , Plevnice, Popelištná, ProsečObořiště, Remenov, Sedlice, Stanovíce, Starý Pelhřimov, Strměchy, Střítež pod Křemešníkem, Svépravice, Téchoraz, Útěchovice, Útěchovičky, Velký Rybník, Vyskytná, Zahrádka u Pošné, Zachotín, Zirov a z obce Rovná osada Mašovice. Sídlo OVK: Červená Rečice."
+      ]
+    },
+    {
+      "pid": "uuid:96a2e048-dcf7-429b-bada-84063abd87d6",
+      "composite_id": "uuid:f9b49d20-b445-11ed-b758-5ef3fc9bb22f!uuid:96a2e048-dcf7-429b-bada-84063abd87d6",
+      "date": "1966",
+      "page": "336",
+      "title": "Okresní archivy Jihočeského kraje: soupis archivních fondů",
+      "root_pid": "uuid:f9b49d20-b445-11ed-b758-5ef3fc9bb22f",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿- J36 1599о ZAHRÁDKA (Klokoty; OA Tábor) 1861-1945 + 1945-1952 + Archiv obce Místní národní výbor I6OQ0 ZAHRADKA (Slapsko; OA Tábor) Archiv obce 1887-1941 160U ZAHRADKA u Pošné (Ůtěchovičky; OA Pelhřimov) Archiv obce Místní národní výbor 1830-1945 (1949) 1945-1945 + 1602o ZAHRÁDKY (OA Jindř."
+      ]
+    },
+    {
+      "pid": "uuid:5f908c70-4501-11e4-bf02-5ef3fc9ae867",
+      "composite_id": "uuid:93a5fc70-29d1-11e4-8f64-005056827e52!uuid:5f908c70-4501-11e4-bf02-5ef3fc9ae867",
+      "date": "1966",
+      "page": "513",
+      "title": "Tereziánský katastr český. Sv. 2. Rustikál (kraje K-Ž)",
+      "root_pid": "uuid:93a5fc70-29d1-11e4-8f64-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 1454/3 Zahrádka, ob. Slapsko, o. Tábor 1473/16 Zahrádka u Pošné, o. Pelhřimov 1468, 1468/1 Zahrádky, m. č. os. Moninec, ob. Jetřichovice, o."
+      ]
+    },
+    {
+      "pid": "uuid:88b77070-44ff-11e4-bf02-5ef3fc9ae867",
+      "composite_id": "uuid:93a5fc70-29d1-11e4-8f64-005056827e52!uuid:88b77070-44ff-11e4-bf02-5ef3fc9ae867",
+      "date": "1966",
+      "page": "513",
+      "title": "Rustikál (kraje K-Ž)",
+      "root_pid": "uuid:93a5fc70-29d1-11e4-8f64-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 1454/3 Zahrádka, ob. Slapsko, o. Tábor 1473/16 Zahrádka u Pošné, o. Pelhřimov 1468, 1468/1 Zahrádky, m. č. os. Moninec, ob. Jetři- chovice, o."
+      ]
+    },
+    {
+      "pid": "uuid:f770560c-94ec-4520-976a-679e1fa8019c",
+      "composite_id": "uuid:cdbd0330-a08e-11ed-8e8e-5ef3fc9bb22f!uuid:f770560c-94ec-4520-976a-679e1fa8019c",
+      "date": "1966",
+      "page": "9",
+      "title": "Atlas Československé socialistické republiky",
+      "root_pid": "uuid:cdbd0330-a08e-11ed-8e8e-5ef3fc9bb22f",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Trnava) 2 D 7 Žatecký kraj 3.2 Zahořany 58.1 В 4 země Česká 3.6 Ždánice 2 C 7 Záhoří 2 C 4 země Moravskoslezská 3.6 Ždánický les, poh. 10.1 D 6 Zahrádka 2 c 5 země Podkarpatoruská 3.6 Ždár 2 B 5 Zahrádka u Pošné 34.2 Zemianska Olča 2 E 7 Ždár, předh. hr. 58.1 C 3 Zahrádky 2 в 4 Zemianske Kostoľany 2 D 8 Ždarec u Skutče, ž. st. 49.1 C 5 Záhradné 2 c 11 Zemianske Podhradie 58.1 D 7 Ždárná 38.3 Zaječí 49.1 D 6 Zemné 2 E 7 Ždár nad Sázavou 2 C 5 Zaječice, č."
+      ]
+    },
+    {
+      "pid": "uuid:fc2f7fe0-ad4b-11e2-9592-5ef3fc9bb22f",
+      "composite_id": "uuid:d8246070-8d57-11e2-8593-005056827e52!uuid:fc2f7fe0-ad4b-11e2-9592-5ef3fc9bb22f",
+      "date": "1966",
+      "page": "108",
+      "title": "Statistický lexikon obcí ČSSR 1965: Podle správního rozdělení 1. ledna 1965, sčítání lidu, domů a bytů 1. března 1961",
+      "root_pid": "uuid:d8246070-8d57-11e2-8593-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Lip. 7 M M 62/5 62/5 427 140 Těšenov Horní Cerekev 6 43 98 M 43 43 854 216 53 129 6,6 82,5 83,3 49 54 5 6 147 Tukleky Humpolec 15 129/3 129 129/3 129/3 173 333 142 26 83 13,0 66,6 66,6 36 36 12 2 148 Turovka Hříběcí 2 43 43 48/4 43 43 241 77 17 43 14,6 73,1 68,2 19 19 10 - 149 Ůstrašín Vlásenice 6 79 1 M 10/1 97/1 702 267 67 153 16,3 59,1 63,9 57 60 35 2 150 Útěchovice 46 838 202 41 123 8,3 81,8 78,5 49 54 26 4 1 Mašovice Leskovice 14 46/2 46/2 46/2 46/2 36 2 Útěchovice Leskovice 10 46/2 M 46/2 46/2 166 151 Útěchovičky 97 1127 307 70 188 13,2 74,0 75,6 79 79 48 3 1 Litohošť Leskovice 2 74 M 97/1 46/2 95 2 Útěchovičky Leskovice 4 74 151/1 97/1 46/2 128 3 Zahrádka u Pošné Leskovice 4 103 112/4 103 103 84 152 Včelnička Včelnička 1 62/5 62 M 62/5 62/5 395 334 76 183 56,8 29,5 77,2 72 107 41 14 153 Velká Chyška 103 1672 721 172 412 13,9 70,3 74,3 156 164 64 21 1 Lesná Pacov 12 46/2 153/3 46/2 46/2 137 2 Útěchovice pod Stražištěm Pacov 11 165 165 84/2 84/2 181 3 Velká Chyška Pacov 9 M M 103 103 403 154 Velká Ves Pacov 16 84/2 84 84/2 84/2 84/2 435 123 23 72 15,7 77,6 73,6 34 34 1 2 155 Velký Ježov 103 741 330 85 181 11,7 74,8 75,9 74 76 25 2 1 Malý Ježov Pacov 13 103 *) 6) 103 186 2 Velký Ježov Pacov 12 103 *) e) 103 144 156 Velký Rybník Humpolec 7 66/1 1 M 1 1 628 200 53 119 20,5 63,3 65,1 46 47 10 2 157 Veselá Počátky-ŽirovnicelO 23/2 108 M 108/4 108/4 868 246 58 141 21,5 68,3 70,5 60 61 35 2 158 Věžná Obrataň 7 99/3 99 M 99/3 99/3 264 122 23 79 13,2 75,9 79,5 34 35 18 - 159 Vintiřov 28 913 197 45 114 13,5 70,3 72,8 50 51 31 3 1 Moudrov čemoviee u Tábora 3 99/3 159/2 28/1 99/3 17 2 Vintiřov Černovice u Tábora 99/3 M 28/1 99/3 180 160 Vitice 51 691 251 54 151 14,0 70,3 67,4 58 59 21 3 1 Lískovice Humpolec 10 173 173 173 173 49 2 Vitice Humpolec 11 173 173 173 173 74 3 Vřesník Humpolec 10 173 173 173 173 128 161 Vlasenice Kamenice n."
+      ]
+    },
+    {
+      "pid": "uuid:434d90a0-ad4d-11e2-9592-5ef3fc9bb22f",
+      "composite_id": "uuid:d8246070-8d57-11e2-8593-005056827e52!uuid:434d90a0-ad4d-11e2-9592-5ef3fc9bb22f",
+      "date": "1966",
+      "page": "108",
+      "title": "Statistický lexikon obcí ČSSR 1965: Podle správního rozdělení 1. ledna 1965, sčítání lidu, domů a bytů 1. března 1961",
+      "root_pid": "uuid:d8246070-8d57-11e2-8593-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Lip. 7 M M 62/5 62/5 427 140 Těšenov Horní Cerekev 6 43 98 M 43 43 854 216 53 129 6,6 82,5 83,3 49 54 5 6 147 Tukleky Humpolec 15 129/3 129 129/3 129/3 173 333 142 26 83 13,0 66,6 66,6 36 36 12 2 148 Turovka Hříběcí 2 43 43 48/4 43 43 241 77 17 43 14,6 73,1 68,2 19 19 10 149 Ůstrašín Vlásenice 6 79 1 M 10/1 97/1 702 267 67 153 16,3 59,1 63,9 57 60 35 2 150 Útěchovice 46 838 202 41 123 8,3 81,8 78,5 49 54 26 4 1 Mašovice Leskovice 14 46/2 46/2 46/2 46/2 36 2 Útěchovice Leskovice 10 46/2 M 46/2 46/2 166 151 Útěchovičky 97 1127 307 70 188 13,2 74,0 75,6 79 79 48 3 1 Litohošť Leskovice 2 74 M 97/1 46/2 95 2 Útěchovičky Leskovice 4 74 151/1 97/1 46/2 128 3 Zahrádka u Pošné Leskovice 4 103 112/4 103 103 84 152 Včelnička Včelnička 1 62/5 62 M 62/5 62/5 395 334 76 183 56,8 29,5 77,2 72 107 41 14 153 Velká Chyška 103 1672 721 172 412 13,9 70,3 74,3 156 164 64 21 1 Lesná Pacov 12 46/2 153/3 46/2 46/2 137 2 Útěchovice pod Stražištěm Pacov 11 165 165 84/2 84/2 181 3 Velká Chyška Pacov 9 M M 103 103 403 154 Velká Ves Pacov 16 84/2 84 84/2 84/2 84/2 435 123 23 72 15,7 77,6 73,6 34 34 1 2 155 Velký Ježov 103 741 330 85 181 11,7 74,8 75,9 74 76 25 2 1 Malý Ježov Pacov 13 103 *) 6) 103 186 2 Velký Ježov Pacov 12 103 *) e) 103 144 156 Velký Rybník Humpolec 7 66/1 1 M 1 1 628 200 53 119 20,5 63,3 65,1 46 47 10 2 157 Veselá Počátky-ŽirovnicelO 23/2 108 M 108/4 108/4 868 246 58 141 21,5 68,3 70,5 60 61 35 2 158 Věžná Obrataň 7 99/3 99 M 99/3 99/3 264 122 23 79 13,2 75,9 79,5 34 35 18 159 Vintiřov 28 913 197 45 114 13,5 70,3 72,8 50 51 31 3 1 Moudrov čemoviee u Tábora 3 99/3 159/2 28/1 99/3 17 2 Vintiřov Černovice u Tábora 99/3 M 28/1 99/3 180 160 Vitice 51 691 251 54 151 14,0 70,3 67,4 58 59 21 3 1 Lískovice Humpolec 10 173 173 173 173 49 2 Vitice Humpolec 11 173 173 173 173 74 3 Vřesník Humpolec 10 173 173 173 173 128 161 Vlasenice Kamenice n."
+      ]
+    },
+    {
+      "pid": "uuid:81df2c70-ad4d-11e2-9592-5ef3fc9bb22f",
+      "composite_id": "uuid:d8246070-8d57-11e2-8593-005056827e52!uuid:81df2c70-ad4d-11e2-9592-5ef3fc9bb22f",
+      "date": "1966",
+      "page": "649",
+      "title": "Statistický lexikon obcí ČSSR 1965: Podle správního rozdělení 1. ledna 1965, sčítání lidu, domů a bytů 1. března 1961",
+      "root_pid": "uuid:d8246070-8d57-11e2-8593-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Zahorčičky (3—Plzeň-jlh) 174 Záhorčie (9—Ziar nad Hronom— Bzenica—13) 497 Záhorie (8—Bratislava-vidiek) 426 Záhorkov (2—Český Krumlov— Ká]ov—17) 89 Záhorkovice (2—Český Krumlov— Mojné—25) 90 Záhornice (1—Nymburk) 54 Záhornice (5—Rychnov nad Kněžnou—Trnov—78) 291 Záhorovice (6—Uherské Hradiště) 362 Záhorská Bystrica (8— Bratislava-vidiek) 426 Záhorská Ves (8—Bratislava-vidiek) 426 Záhory (5—Ostí nad Orlici— Kunvald—62) &apos; 313 Zahořánky (2—Český Krumlov— Přídolí—34) 91 Zahořany (1—Benešov— Drachkov—37) 7 Zahořany (1—Beroun) 22 Zahořany (3—Domažlice) 145 Zahořany (4—Chomutov— Vilémov—48) 208 Zahořany (4—Litoměřice) 225 Zahořany (2—Písek) 115 Zahořany (1—Praha-západ— Okrouhlo—50) 62 Záhoří (1—Benešov— Zderadice—168) 18 Záhoří (2—Jindřichův Hradec— Pleše—108) 98 Záhoří (3—Karlovy Vary— Verušičky—76) 155 Záhoří (4—Louny—Žatec—102) 232 Záhoří (2—Pelhřimov) 109 Záhoří (2—Písek) 115 Záhoří (3—Plzeň-jih—Mileě—50) 171 Záhoří (2—Prachatice—Bošlce—4) dříve Vimperk 116 Záhoří (2—Prachatice— Chroboly—18) dříve Prachatice 118 Záhoří (5—Semily) 298 Záhoří (2—Tábor) 138 Záhoří (3—Tachov— Černošín—11) 188 Záhoří (4—Teplice—Zim—46) 237 Záhoří a Kozinec (1—Benešov— Jetřichovice—57) 9 Záhoří u Miličína (1—Benešov— Milíčín—84) 11 Záhořice (3—Karlovy Vary— Novosedly—46) 153 Záhoříčko (1—Benešov—Jiřetice—58) 9 Záhoříčko (2—Prachatice— Čkyně—8) 117 Záhoříčko (2—Tábor—Nemyšl—71) 134 Záhořín (4—Česká Lípa— Lindava—40) 195 Záhostice (2—Tábor—Chýnov—46) 132 Záhrabská (1—Beroun— Svatý Jan pod Skalou—76) 21 Záhrada (8—Topoľčany— Závada—131) 451 Zahrada (6—Ždár nad Sázavou— Kaly—64) 374 Zahrádčice (1—Benešov— Dolní Královice—34) 7 Zahradiště (6—Zdár nad Sázavou— Radostín nad Oslavou—139) 377 Zahrádka (1—Benešov) dříve Benešov 17 Zahrádka (1—Benešov— Vojkov—155) dříve Sedlčany 16 Zahrádka (2—Český Krumlov— Mírkovice—24) 90 Zahrádka (5—Havlíčkův Brod) 250 Zahrádka (3—Karlovy Vary— Staré Sedlo—62) 154 Zahrádka (3—Klatovy— Čachrov—18) dříve Klatovy 157 Zahrádka (3—Klatovy— Nalžovské Hory—99) dříve Horažďovice 163 Zahrádka (2—Písek— Kostelec nad Vltavou—27) 111 Zahrádka (3—Plzeň-jih—Čížkov—9) 169 Zahrádka (3—Plzeň-sever) 180 Zahrádka (1—Příbram— Petrovice—114) 70 Zahrádka (2—Tábor—Klokoty—52) dříve Tábor 133 Zahrádka (2—Tábor—Slapsko—108) dříve Votice 137 Zahrádka (6—Třebíč) 358 Zahrádka u Pošné (2—Pelhřimov— Otěchovičky—151) 108 Zahrádky (4—Česká Lípa) 198 Zahrádky (2—Jindřichův Hradec) 100 Záhradné (10—Préšov) 534 Zahradnice (1—Benešov— Olbramovice—102) 12 Zahrady (4—Děčín— Vlčí Hora—64) 204 Záhrb (9—Žiar nad Hronom— Nová Baňa—53) 498 Záhrobí (2—Strakonice) 129 Záhuby (5—Jičín—Milkovice—55) 270 Záhvozdí (2—Prachatice— Zelnava—68) 122 Zacharovce (9—Rimavská Sobota) 492 Záchlumí (3—Tachov) 192 Záchlumí (5—Ostí nad Orlicí) 316 Zachotín (2—Pelhřimov) 109 Zachrašťany (5—Hradec Králové) 257 ZaJakury (5—Jičín—Sobotka—86) 272 Zaječí (1—Benešov— Zahrádka—166] 17 Zaječí (6—Břeclav) 331 Zaječí 1. díl (5—Náchod— Dolany—16) 275 Zaječí 2. díl (5—Náchod— Chvalkovice—26) 276 Zaječice (4—Chomutov— Vrskmaň—51) 209 Zaječice (5—Chrudim) 266 Zaječice (4—Most—Bečov—3) 232 Zaječice (1—Praha-východ— Pyšely—74) 58 Zaječiny (5—Ostí nad Orlicí— Kunvald—62) • 313 Zaječov (1—Beroun) 22 Zájezd (1—Kladno) 26 Zájezd (5—Náchod—Česká Skalice—14) 275 Zájezdec (5—Chrudim) 266 Zájezdy (1—Mladá Boleslav— Veselá—147) 49 Zaježová (9—Zvolen) 496 Zajíčkov (2—Pelhřimov) 109 &apos;Zákamenné (9—Dolný Kubín) 469 Zákolany (1—Kladno) 26 Zakopaná (1—Mladá Boleslav— Branžež—13) 43 Zákopčie (9—Čadca) 466 Zákoutí (4—Chomutov— Blatno—3) 204 Zákoutí (5—Rychnov nad Kněžnou— Deštné—19) 287 Zákoutí (5—Semily—Benecko—3) 293 Zákraví (5—Rychnov nad Kněžnou— Ohnišov—51) 290 Zakřany (6—Brno-venkov) 328 Zákřov (7—Olomouc) 401 Zakšín (4—Česká Lípa) 198 Zákupy (4—Česká Lípa) 198 Zalaba (8—Levice) 437 Zalány (1—Příbram— Rožmitál pod Třemšínem—133) 72 Zalažany (5—Chrudim— • Jenišovice-Zalažany—41) 259 Zálesí (1—Benešov— Teplýšovice—142) . 15 Zálesí (1—Benešov— Neustupov—98) 12 Zálesí (5—Havlíčkův Brod— Horní Křupá—31) dříve Havlíčkův Brod 244 Zálesí (5^—Havlíčkův Brod— Slávikov—111) dříve Chotěboř 248 Zálesí (3—Karlovy Vary— Jáchymov—26) 152 Zálesí (3—Plzeň-jih— Příchovice—70) 172 Zálesí (2—Strakonice—Drážov—25) 123 Zálesí (5—Svitavy—Biskupice—7) 298 Zálesí (7—Šumperk—Javorník—42) 413 Zálesí (5—Trutnov— Doubravice—17) 305 Zálesí (6—Znojmo) 370 Zálesí 1. díl (1—Benešov— Maršovice—80) 10 Zálesí 2. díl (1—Benešov— Zahrádka—166) 17 Zálesie (8—Bratislava-vidiek) 426 Zálesie (10—Poprad) 527 Zálesná Zhoř (6—Brno-venkov) 328 Zálesní Lhota (5—Semily) 298 Zalešany (1—Kolín) 31 Zálezlice (1—Mělník) 42 Zálezly (4—Louny— Velemyšleves—91) 231 Zálezly (2—Prachatice) 121 Zálezly (3—Tachov—Skapce—47) 191 Zalíbená (1—Kutná Hora— Otryby—36) 34 Zalíbené (5—Chrudim— Studnice—118) 264 Zaliny (2—České Budějovice— Kaliště—40) 82 Zaloňov (5—Náchod) 279 Zálší (2—Písek—Sepekov—61) 114 Zálší (2—Tábor) 138 Zálší (5—Ostí nad Orlicí) 316 Zalužany (1—Příbram) 74 Zalužany (4—Ostí nad Labem— Vyklice—49) 241 Záluží (1—Beroun) 22 Záluží (2—České Budějovice— Slavče—78) 85 Záluží (2—Český Krumlov) 92 Záluží (2—Český Krumlov— Přídolí—34) 91 Záluží (3—Klatovy—Sušice—139) 165 Záluží (4—Litoměřice—Dobříň—19) 219 Záluží (4—Most) 234 Záluží (2—Písek—Kovářov—28) 112 Záluží (2—Písek—Ratiboř—58) 114 Záluží (3—Plzeň-jih— Kotovice—36) dříve Stod 170 Záluží (3—Plzeň-jih— Těnovice—89) dříve Blovice 173 Záluží (3—Plzeň-sever— Třemošná—88) 179 Záluží [1—Praha-východ— Čelákovice—11) 55 Záluží (2—Strakonice) 129 Záluží u Budislavě (2—Tábor) 138 Záluží u Tábora (2—Tábor— Měšice—65) 134 Záluží u Vlastiboře (2—Tábor— Vlastiboř—126) 138 Zálužice (2—České Budějovice— Pištín—68] 84 Zalužice (3—Klatovy— Hartmanice—42) 159 Zálužice (4—Louny) 231 Zálužné (7—Opava—Nové Těchanovíce—76) 404 Zamachy (1—Mladá Boleslav) 49 Zamarovce (8—Trenčín) 455 Zámecká (4—Česká Lípa— Velký Valtinov—84) 198 Zámecký Okres (4—Liberec— Český Dub—9) 213 Záměl (5—Rychnov nad Kněžnou) 292 Zámělíč (3—Domažlice— Poběžovice—71) 143 Zámezí (5—Jičín—Cidlina—15) 267 Zámlyní (2—Strakonice) 129 649"
+      ]
+    },
+    {
+      "pid": "uuid:3eb73510-ad4c-11e2-9592-5ef3fc9bb22f",
+      "composite_id": "uuid:d8246070-8d57-11e2-8593-005056827e52!uuid:3eb73510-ad4c-11e2-9592-5ef3fc9bb22f",
+      "date": "1966",
+      "page": "649",
+      "title": "Statistický lexikon obcí ČSSR 1965: Podle správního rozdělení 1. ledna 1965, sčítání lidu, domů a bytů 1. března 1961",
+      "root_pid": "uuid:d8246070-8d57-11e2-8593-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Zahorčičky (3—Plzeň-jlh) 174 Záhorčie (9—Ziar nad Hronom— Bzenica—13) 497 Záhorie (8—Bratislava-vidiek) 426 Záhorkov (2—Český Krumlov— Ká]ov—17) 89 Záhorkovice (2—Český Krumlov— Mojné—25) 90 Záhornice (1—Nymburk) 54 Záhornice (5—Rychnov nad Kněžnou—Trnov—78) 291 Záhorovice (6—Uherské Hradiště) 362 Záhorská Bystrica (8— Bratislava-vidiek) 426 Záhorská Ves (8—Bratislava-vidiek) 426 Záhory (5—Ostí nad Orlici— Kunvald—62) &amp;apos; 313 Zahořánky (2—Český Krumlov— Přídolí—34) 91 Zahořany (1—Benešov— Drachkov—37) 7 Zahořany (1—Beroun) 22 Zahořany (3—Domažlice) 145 Zahořany (4—Chomutov— Vilémov—48) 208 Zahořany (4—Litoměřice) 225 Zahořany (2—Písek) 115 Zahořany (1—Praha-západ— Okrouhlo—50) 62 Záhoří (1—Benešov— Zderadice—168) 18 Záhoří (2—Jindřichův Hradec— Pleše—108) 98 Záhoří (3—Karlovy Vary— Verušičky—76) 155 Záhoří (4—Louny—Žatec—102) 232 Záhoří (2—Pelhřimov) 109 Záhoří (2—Písek) 115 Záhoří (3—Plzeň-jih—Mileě—50) 171 Záhoří (2—Prachatice—Bošlce—4) dříve Vimperk 116 Záhoří (2—Prachatice— Chroboly—18) dříve Prachatice 118 Záhoří (5—Semily) 298 Záhoří (2—Tábor) 138 Záhoří (3—Tachov— Černošín—11) 188 Záhoří (4—Teplice—Zim—46) 237 Záhoří a Kozinec (1—Benešov— Jetřichovice—57) 9 Záhoří u Miličína (1—Benešov— Milíčín—84) 11 Záhořice (3—Karlovy Vary— Novosedly—46) 153 Záhoříčko (1—Benešov—Jiřetice—58) 9 Záhoříčko (2—Prachatice— Čkyně—8) 117 Záhoříčko (2—Tábor—Nemyšl—71) 134 Záhořín (4—Česká Lípa— Lindava—40) 195 Záhostice (2—Tábor—Chýnov—46) 132 Záhrabská (1—Beroun— Svatý Jan pod Skalou—76) 21 Záhrada (8—Topoľčany— Závada—131) 451 Zahrada (6—Ždár nad Sázavou— Kaly—64) 374 Zahrádčice (1—Benešov— Dolní Královice—34) 7 Zahradiště (6—Zdár nad Sázavou— Radostín nad Oslavou—139) 377 Zahrádka (1—Benešov) dříve Benešov 17 Zahrádka (1—Benešov— Vojkov—155) dříve Sedlčany 16 Zahrádka (2—Český Krumlov— Mírkovice—24) 90 Zahrádka (5—Havlíčkův Brod) 250 Zahrádka (3—Karlovy Vary— Staré Sedlo—62) 154 Zahrádka (3—Klatovy— Čachrov—18) dříve Klatovy 157 Zahrádka (3—Klatovy— Nalžovské Hory—99) dříve Horažďovice 163 Zahrádka (2—Písek— Kostelec nad Vltavou—27) 111 Zahrádka (3—Plzeň-jih—Čížkov—9) 169 Zahrádka (3—Plzeň-sever) 180 Zahrádka (1—Příbram— Petrovice—114) 70 Zahrádka (2—Tábor—Klokoty—52) dříve Tábor 133 Zahrádka (2—Tábor—Slapsko—108) dříve Votice 137 Zahrádka (6—Třebíč) 358 Zahrádka u Pošné (2—Pelhřimov— Otěchovičky—151) 108 Zahrádky (4—Česká Lípa) 198 Zahrádky (2—Jindřichův Hradec) 100 Záhradné (10—Préšov) 534 Zahradnice (1—Benešov— Olbramovice—102) 12 Zahrady (4—Děčín— Vlčí Hora—64) 204 Záhrb (9—Žiar nad Hronom— Nová Baňa—53) 498 Záhrobí (2—Strakonice) 129 Záhuby (5—Jičín—Milkovice—55) 270 Záhvozdí (2—Prachatice— Zelnava—68) 122 Zacharovce (9—Rimavská Sobota) 492 Záchlumí (3—Tachov) 192 Záchlumí (5—Ostí nad Orlicí) 316 Zachotín (2—Pelhřimov) 109 Zachrašťany (5—Hradec Králové) 257 ZaJakury (5—Jičín—Sobotka—86) 272 Zaječí (1—Benešov— Zahrádka—166] 17 Zaječí (6—Břeclav) 331 Zaječí 1. díl (5—Náchod— Dolany—16) 275 Zaječí 2. díl (5—Náchod— Chvalkovice—26) 276 Zaječice (4—Chomutov— Vrskmaň—51) 209 Zaječice (5—Chrudim) 266 Zaječice (4—Most—Bečov—3) 232 Zaječice (1—Praha-východ— Pyšely—74) 58 Zaječiny (5—Ostí nad Orlicí— Kunvald—62) • 313 Zaječov (1—Beroun) 22 Zájezd (1—Kladno) 26 Zájezd (5—Náchod—Česká Skalice—14) 275 Zájezdec (5—Chrudim) 266 Zájezdy (1—Mladá Boleslav— Veselá—147) 49 Zaježová (9—Zvolen) 496 Zajíčkov (2—Pelhřimov) 109 &amp;apos;Zákamenné (9—Dolný Kubín) 469 Zákolany (1—Kladno) 26 Zakopaná (1—Mladá Boleslav— Branžež—13) 43 Zákopčie (9—Čadca) 466 Zákoutí (4—Chomutov— Blatno—3) 204 Zákoutí (5—Rychnov nad Kněžnou— Deštné—19) 287 Zákoutí (5—Semily—Benecko—3) 293 Zákraví (5—Rychnov nad Kněžnou— Ohnišov—51) 290 Zakřany (6—Brno-venkov) 328 Zákřov (7—Olomouc) 401 Zakšín (4—Česká Lípa) 198 Zákupy (4—Česká Lípa) 198 Zalaba (8—Levice) 437 Zalány (1—Příbram— Rožmitál pod Třemšínem—133) 72 Zalažany (5—Chrudim— • Jenišovice-Zalažany—41) 259 Zálesí (1—Benešov— Teplýšovice—142) . 15 Zálesí (1—Benešov— Neustupov—98) 12 Zálesí (5—Havlíčkův Brod— Horní Křupá—31) dříve Havlíčkův Brod 244 Zálesí (5^—Havlíčkův Brod— Slávikov—111) dříve Chotěboř 248 Zálesí (3—Karlovy Vary— Jáchymov—26) 152 Zálesí (3—Plzeň-jih— Příchovice—70) 172 Zálesí (2—Strakonice—Drážov—25) 123 Zálesí (5—Svitavy—Biskupice—7) 298 Zálesí (7—Šumperk—Javorník—42) 413 Zálesí (5—Trutnov— Doubravice—17) 305 Zálesí (6—Znojmo) 370 Zálesí 1. díl (1—Benešov— Maršovice—80) 10 Zálesí 2. díl (1—Benešov— Zahrádka—166) 17 Zálesie (8—Bratislava-vidiek) 426 Zálesie (10—Poprad) 527 Zálesná Zhoř (6—Brno-venkov) 328 Zálesní Lhota (5—Semily) 298 Zalešany (1—Kolín) 31 Zálezlice (1—Mělník) 42 Zálezly (4—Louny— Velemyšleves—91) 231 Zálezly (2—Prachatice) 121 Zálezly (3—Tachov—Skapce—47) 191 Zalíbená (1—Kutná Hora— Otryby—36) 34 Zalíbené (5—Chrudim— Studnice—118) 264 Zaliny (2—České Budějovice— Kaliště—40) 82 Zaloňov (5—Náchod) 279 Zálší (2—Písek—Sepekov—61) 114 Zálší (2—Tábor) 138 Zálší (5—Ostí nad Orlicí) 316 Zalužany (1—Příbram) 74 Zalužany (4—Ostí nad Labem— Vyklice—49) 241 Záluží (1—Beroun) 22 Záluží (2—České Budějovice— Slavče—78) 85 Záluží (2—Český Krumlov) 92 Záluží (2—Český Krumlov— Přídolí—34) 91 Záluží (3—Klatovy—Sušice—139) 165 Záluží (4—Litoměřice—Dobříň—19) 219 Záluží (4—Most) 234 Záluží (2—Písek—Kovářov—28) 112 Záluží (2—Písek—Ratiboř—58) 114 Záluží (3—Plzeň-jih— Kotovice—36) dříve Stod 170 Záluží (3—Plzeň-jih— Těnovice—89) dříve Blovice 173 Záluží (3—Plzeň-sever— Třemošná—88) 179 Záluží [1—Praha-východ— Čelákovice—11) 55 Záluží (2—Strakonice) 129 Záluží u Budislavě (2—Tábor) 138 Záluží u Tábora (2—Tábor— Měšice—65) 134 Záluží u Vlastiboře (2—Tábor— Vlastiboř—126) 138 Zálužice (2—České Budějovice— Pištín—68] 84 Zalužice (3—Klatovy— Hartmanice—42) 159 Zálužice (4—Louny) 231 Zálužné (7—Opava—Nové Těchanovíce—76) 404 Zamachy (1—Mladá Boleslav) 49 Zamarovce (8—Trenčín) 455 Zámecká (4—Česká Lípa— Velký Valtinov—84) 198 Zámecký Okres (4—Liberec— Český Dub—9) 213 Záměl (5—Rychnov nad Kněžnou) 292 Zámělíč (3—Domažlice— Poběžovice—71) 143 Zámezí (5—Jičín—Cidlina—15) 267 Zámlyní (2—Strakonice) 129 649"
+      ]
+    },
+    {
+      "pid": "uuid:dc0f6a30-77f8-11e4-abad-5ef3fc9ae867",
+      "composite_id": "uuid:ad54db60-328b-11e4-8f64-005056827e52!uuid:dc0f6a30-77f8-11e4-abad-5ef3fc9ae867",
+      "date": "1970",
+      "page": "642",
+      "title": "Dominikál",
+      "root_pid": "uuid:ad54db60-328b-11e4-8f64-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 1453 Zahrádka, ob. Slapsko, o. Tábor 1399, 1473 Zahrádka u Pošné, ob. Útěchovičky, o. Pelhřimov 1343, 1424, 1468 Zahrádky, m. č. os. Moninec, ob."
+      ]
+    },
+    {
+      "pid": "uuid:cc562570-77f8-11e4-abad-5ef3fc9ae867",
+      "composite_id": "uuid:ad54db60-328b-11e4-8f64-005056827e52!uuid:cc562570-77f8-11e4-abad-5ef3fc9ae867",
+      "date": "1970",
+      "page": "517",
+      "title": "Dominikál",
+      "root_pid": "uuid:ad54db60-328b-11e4-8f64-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Záhoříčko, dvůr (Táb.) 1467 Zahrádka, statek (Ber.) 146 Zahrádka, statek (Plz.) 1078 Zahrádka, tři svobodné dvory (Ber.) 147, 148, 149 Zahrádka u Pošné, statek (Táb.) 1468 Záhrobí, svobodný dvůr (Prách.) 1220 Zaječí Pahorek, svobodný lenní dvůr (Lok.) 981 Zájezdec, statek (Hrad.) 594 Zákupy, panství (Bol.) 232 Zálezly, statek (Prách.) 1221 Zálší, statek (Bud.) 280 Zalužany, statek (Prách.) 1222 Záluží viz Duchcov, Záluží a Horní Litvínov, -panství (Lit.)"
+      ]
+    },
+    {
+      "pid": "uuid:840ccf90-7801-11e4-b2f6-005056827e51",
+      "composite_id": "uuid:ad54db60-328b-11e4-8f64-005056827e52!uuid:840ccf90-7801-11e4-b2f6-005056827e51",
+      "date": "1970",
+      "page": "642",
+      "title": "Tereziánský katastr český. Svazek 3. Dominikál",
+      "root_pid": "uuid:ad54db60-328b-11e4-8f64-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 1453 Zahrádka, ob. Slapsko, o. Tábor 1399, 1473 Zahrádka u Pošné, ob. Útěchovičky, o. Pelhřimov 1343, 1424, 1468 Zahrádky, m. č. os. Moninec, ob."
+      ]
+    },
+    {
+      "pid": "uuid:70de1320-7801-11e4-b2f6-005056827e51",
+      "composite_id": "uuid:ad54db60-328b-11e4-8f64-005056827e52!uuid:70de1320-7801-11e4-b2f6-005056827e51",
+      "date": "1970",
+      "page": "517",
+      "title": "Tereziánský katastr český. Svazek 3. Dominikál",
+      "root_pid": "uuid:ad54db60-328b-11e4-8f64-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Záhoříčko, dvůr (Táb.) 1467 Zahrádka, statek (Ber.) 146 Zahrádka, statek (Plz.) 1078 Zahrádka, tři svobodné dvory (Ber.) 147, 148, 149 Zahrádka u Pošné, statek (Táb.) 1468 Záhrobí, svobodný dvůr (Prách.) 1220 Zaječí Pahorek, svobodný lenní dvůr (Lok.) 981 Zájezdec, statek (Hrad.) 594 Zákupy, panství (Bol.) 232 Zálezly, statek (Prách.) 1221 Zálší, statek (Bud.) 280 Zalužany, statek (Prách.) 1222 Záluží viz Duchcov, Záluží a Horní Litvínov, -panství (Lit.)"
+      ]
+    },
+    {
+      "pid": "uuid:f48961a6-5131-4d7b-a69e-837955a91de0",
+      "composite_id": "uuid:076aa3e0-0600-11ee-86bd-005056827e52!uuid:f48961a6-5131-4d7b-a69e-837955a91de0",
+      "date": "1975",
+      "page": "59",
+      "title": "Panská sídla v Československu: předběžný seznam hradů, zámků, tvrzí, kaštělů, kurií a letohrádků. Díl II. Čechy",
+      "root_pid": "uuid:076aa3e0-0600-11ee-86bd-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿- 59 Všelibice LI ST Všemyslice CB sH X Všenory PZ Zk Všeradice BE Z Xaverov /Praha 9 - Horní Počernice/ AB Zk Všeruby PS sH Všesulov RA zT Všetaty ME Zk Z Všetaty RA Zk Výhledy /Hazlov/ CH sT Záběhlice /Praha 10/ AB Z Vyklantice PE Zk Záblatí /Ponědraž/ JH zT Výprachtice UO sT Záboří ST T Výrov PS zH Zadní Hrádek /Sudoměř/ MB sH Výrov /Nové Město nad Zadní Střítěž /Po jbu- TA Zk Metují/ NA zH ky/ Vysoká /Myštěves/ HK sT Zahájí /Lesná/ TC Z Vysoká Lhota /Čerčany/ BN Zk Zahájí /Litomyšl/ SY sT Vysoká Libyně PS Z Zahořany LT Z Vysoká Lípa /Jetřicho- Zahrádka /Petrovice/ PB Zk více/ DC Zahrádka /Slapsko/ TA sH sH Zahrádka u Pošné zZk /Útěchovičky/ PE Zk Vysoká u Příbramě PB Z Zachrašťany HK sT Vysoké Chvojno PA Zk Za ječice CR zT Vysoké Veselí JC Z C Vysoký Hrádek /Březí sZ u Týna nad Vltavou/ CB Zk Zákupy CL Z Vysoký Chlumec PB H Zálesí /Potěhy/ KH Zk Vysoký Újezd BE Z Zalešany KO T Vysoký Újezd nad Zálezky /Batňovice/ TU sT Dědinou RK sH Zaliny /Kaliště/ CB sT Vyšehořovice PY zT Zálší TA Zk Vyšehrad /Praha 4/ AB zH Zalužany PB Z Vyšetice TA Z Záluží BE sH Vyšné CB Zk Záluží CK zT Vyšný /Křišťanov/ PT Zk Záluží Záluží /Kotovice/ MO PJ zT Z w Zámeček /Plzeň 1/ Zámrsk PM UO Zk Z Windsor /Siřejovice/ LT zL Zásadka /Podolí/ MB zZ"
+      ]
+    },
+    {
+      "pid": "uuid:b0a11c7e-38e3-4c94-af45-190ba83a7047",
+      "composite_id": "uuid:076aa3e0-0600-11ee-86bd-005056827e52!uuid:b0a11c7e-38e3-4c94-af45-190ba83a7047",
+      "date": "1975",
+      "page": "101",
+      "title": "Panská sídla v Československu: předběžný seznam hradů, zámků, tvrzí, kaštělů, kurií a letohrádků. Díl II. Čechy",
+      "root_pid": "uuid:076aa3e0-0600-11ee-86bd-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿I o I PELHŘIMOV /PE/ hrady: Kámen - Želiv zbytky hradů: Humpolec: Orlík stopy hradů: Hořepník: Konipaš - Onšov - Velká Chyška: Pechburk - Vojslavice tvrze: Sudkův Důl zbytky tvrzí: Buřenice - Chmelná: Myslov - Kojčice: Služátky - Lhotice - Nová Buková - Pelhřimov: Lhotky - Proseč - Speřice - Veselá stopy tvrzí: Horní Ves - Hořepník: Březina - Křešín: dtto; Blážnov - Lhotice - Nemojov - Roučkovice: dtto; Hrádek - štítné - Ústrašín zámky: Božejov - Černovice - Červené Řečice - Čížkov Horní Cerekev - Hořepník: Březina - Kamenice nad Lipou Koštice: starý; nový - Libkova Voda - Lukavec - Nový Rychnov Onšov - Pacov - Pavlov - Pelhřimov - Pošná: Proseč u Pošné Proseč-Obořiště: Obořiště - Těchobuz - Žirovnice zámečky: Nízká Lhota: Nový Dvůr - Nová Cerekev: Stanovice - Štítné: Krupčiny - Útěchovičky: Záhradka u Pošné Včelnička - Vyklantice panské domy: Častrov: Barborka - Pelhřimov: Peklo PÍSEK /PI/ hrady: Písek - Zvíkovské Podhradí: Zvíkov zbytky hradů: Albrechtice nad Vltavou: Újezdec - Myšenec - Slabčice: Smoleč stopy hradů: Mirotice: Boudy - Sepekov: dtto; Skalice tvrze: Čimelice - Kestřany: Staré Kestřany: horní; dolní Kevářov - Lety - Mirovice - Myslín - Myšenec: Klokočín Vlksice"
+      ]
+    },
+    {
+      "pid": "uuid:001b06f0-6a1b-11e4-8c6e-001018b5eb5c",
+      "composite_id": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52!uuid:001b06f0-6a1b-11e4-8c6e-001018b5eb5c",
+      "date": "1976",
+      "page": "793",
+      "title": "Statistický lexikon obcí ČSSR 1974: podle správního rozdělení k 1. lednu 1974, sčítání lidu, domů a bytů k 1. prosinci 1970",
+      "root_pid": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "-IV) 527 Záhorská Ves (Bratislava-vidiek) 531 Záhory (Ústí nad Orlicí-Kunvald) 382 Zahořánky (Český Krumlov-Přídolí) 135 Zahořany (Benešov-Drachkov) 35 Zahořany (Beroun) 53 Zahořany (Domažlice) 192 Zahořany (Chomutov-Vilémov) 264 Zahořany (Litoměřice) 284 Zahořany (Písek) 161 Zahořany (Praha-západ-Okrouhlo) 100 Zahořany (Příbram-Mníšek pod Brdy) 108 Záhoří (Benešov-Zderadice) 47 Záhoří (Frýdek-Místek-Skalice) 475 Záhoří (Jablonec nad Nisou-Smržovka) 267 Záhoří (Jindřichův Hradec-Pleše) 142 Záhoří (KarlovyVary-Verušičky) 204 Záhoří (Louny-Žatec) 290 Záhoří (Pelhřimov-Mladé Bříště) 150 Záhoří (Písek) 161 Záhoří (Plzeň-jih-Mileč) 222 Záhoří (Prachatice-Bošice) dříve Vimperk 163 Záhoří (Prachatice-Chroboly) dříve Prachatice 164 Záhoří (Semily) 365 Záhoří (Tábor-Březnice) 177 Záhoří (Tachov-Černošín) 240 Záhoří (Teplice-Žim) 298 Záhoří a Kozinec (Benešov-Jetřichovice) 37 Záhoří u Miličína (Benešov-Miličín) 39 Záhořice (Karlovy Vary-Novosedly) 202 Záhoříčko (Benešov-Jiřetice) 37 Záhoříčko (Prachatice-Čkyně) 163 Záhoříčko (Tábor-Nemyšl) 180 Záhořín (Česká Lípa-Lindava) 249 Záhostice (Tábor-Čhýnov) 179 Záhrabina (Lučenec-Kokava nad Rimavicou) 606 Záhrabská (Beroun-Svatý Jan pod Skalou) 52 Záhrada (Topoľčany-Závada) 570 Zahrada (Žcfár nad Sázavou-Kaly) 457 Zahrádčice (Benešov-Dolní Královice) 35 Zahradiště (Ždár nad Sázavou-Radostín nad Oslavou) 460 Zahrádka (Benešov) dříve Benešov 47 Zahrádka (Benešov-Vojkov) dříve Sedlčany 45 Zahrádka (České Budějovice-Vrábče) 129 Zahrádka (Český Krumlov-Mirkovice) 134 Zahrádka (Havlíčkův Brod) 312 Zahrádka (Karlovy yary-Staré Sedlo) 203 Zahrádka (Klatovy-Čachrov) dříve Klatovy 206 Zahrádka (Klatovy-Nalžovské Hory) dříve Horažďovice 212 Zahrádka (Písek-Kostelec nad Vltavou) 157 Zahrádka (Plzeň-jih-Čížkov) 220 Zahrádka (Plzeň-sever) 231 Zahrádka (Příbram-Petrovice) 110 Zahrádka (Tábor-Tábor) dříve Tábor 176 Zahrádka (Tábor-Slapsko) dříve Votice 183 Zahrádka (Třebíč) 439 Zahrádka-Kahanov (Tábor-Jedlany) 179 Zahrádka u Pošné (PelhřimovÚtěchovičky) 153 Zahrádky (Česká Lípa) 251 Zahrádky (Jindřichův Hradec) 145 Záhradné (Prešov) 681 Zahradnice (Benešov-Olbramovice) 41 Záhradská (Trenčín-Lubina) 573 Zahrady (Děčín-Vlčí Hora) 259 Záhrady (Rimavská Sobota-Rimavské Brezovo) 628 Zahrady (Uherské Hradiště-Buchlovice) 440 Záhrady (Žiar nad Hronom-Pitelová) 644 Záhrb (Žiar nad Hronom-Nová Baňa) 644 Záhrobí (Strakonice-Bělčice) 169 Záhuby (Jičín-Milkovice) 333 Záhutí (Gottwaldov-Březnice) 409 Záhvozdí (Prachatice-Želnava) 169 Zacharovce (Rimavská Sobota) 630 Záchlumí (Tachov) 245 Záchlumí (Ústí nad Orlicí) 386 Zachotín (Pelhřimov) 154 Zachrašťany (Hradec Králové) 319 Zajačia dolina (Levice-Krškany) 545 Zajakury (Jičín-Sobotka) 336 Zaječí (Benešov-Zahrádka) 47 Zaječí (Břeclav) 407 Zaječí Důl (Liberec-Mníšek) 273 Zaječice (Chomutov-Vrskmaň) 264 Zaječice (Chrudim) 329 Zaječice (Most-Bečov) 291 Zaječice (Praha-východ-Pyšely) 95 Zaječiny (Ústí nad Orlicí-Kunvald) 382 Zaječov (Beroun) 53 Zájezd (Kladno) 59 Zájezd (Náchod-Česká Skalice) 339 Zájezdec (Chrudim-Přestavlky) 326 Zájezdy (Mladá Boleslav-Veselá) 85 Zaježová (Zvolen) 640 Zajíc (Jindřichův Hradec-Klikov) 140 Zajíčkov (Pelhřimov) 154 Zákamenné (Dolný Kubín) 599 Zaklično (Lučenec-Kokava nad Rimavicou) 606 Zákolany (Kladno) 59 Zakopaná (Mladá Boleslav-Kněžmost) 82 Zakopanka (Rychnov nad Kněžnou-Peklo nad Zdobnicí) 356 Zákopanka (Ústí nad Orlicí-Líšnice) 383 Zákopčie (Čadca) 595 Zákopčie-ústredie (Čadca-Zákopčie) 595 Zakostoľany {Trnava-Veľkó KostoTany) 581 Zákoutí (Chomutov-Blatno) 259 Zákoutí (Rychnov nad Kněžnou-Deštné) 353 Zákoutí (Semily-Benecko) 359 Zákraví (Rychnov nad Kněžnou-Ohnišov) 355 Zakřany (Brno-venkov) 404 Zákřov (Olomouc) 493 Zakšín (Česká Lípa) 251 Zákupy (Česká Lípa) 251 Zákysučie (Čadca-Krásno nad Kysucou) 591 Zalaba (Levice) 547 Zalagoš (Levice-Tekovské Lužany) 547 Zalány (Příbram-Nepomuk) 109 Zalány (Příbram-Rožmitál pod Třemšínem) 111 Zalažany (Chrudim-Jenišovice-Zalažany) 322 Zálepy (Praha-západ-Dolní Břežany) 98 Zálesí (Benešov-Teplýšovice) 44 Zálesí (Benešov-Neustupov) 40 Zálesí (Havlíčkův Brod-Horní Křupá) dříve Havlíčkův Brod 305 Zálesí (Havlíčkův Brod-Slavíkov) dříve Chotěboř 310 Zálesí (Karlovy Vary-Dalovice) 199 Zálesí (Plzeň-jih-Příchovice) 223 Zálesí (Strakonice-Drážov) 171 Zálesí (Svitavy-Biskupice) 366 Zálesí (Šumperk-Javorník) 512 Zálesí (Trutnov-Doubravice) 373 Zálesí (Znojmo) 453 Zálesí 1. díl (Benešov-Maršovice) 39 Zálesí 2. díl (Benešov-Zahrádka) 47 Zálesie (Bratislava-vidiek) 531 Zálesie (Poprad) 674 Zálesie-domčeky (Bratislava-vidiek-Zálesie) 532 Zálesná Zhoř (Brno-venkov) 404 Zálesní Lhota (Semily) 365 Zalešany (Kolín) 64 Zálezlice (Mělník) 77 Zálezly (Louny-Velemyšleves) 289 Zálezly (Prachatice) 168 Zálezly (Tachov-Skapce) 243 Zalíbená (Kutná Hora-Otryby) 68 Zalíbené (Chrudim-Studnice) 327 Zaliny (České Budějovice-Kaliště) 124 Zaloňov (Náchod) 344 Zálší (Písek-Sepekov) 160 Zálší (Tábor) 184 Zálší (Ústí nad Orlic!)"
+      ]
+    },
+    {
+      "pid": "uuid:37ee5e20-6a1a-11e4-8c6e-001018b5eb5c",
+      "composite_id": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52!uuid:37ee5e20-6a1a-11e4-8c6e-001018b5eb5c",
+      "date": "1976",
+      "page": "153",
+      "title": "Statistický lexikon obcí ČSSR 1974: podle správního rozdělení k 1. lednu 1974, sčítání lidu, domů a bytů k 1. prosinci 1970",
+      "root_pid": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Útěchovičky 69 551 39414 114 53 66 29 30 32 3. Zahrádka u Pošné 69 518 39501 58 28 34 17 19 20 137 Včelnička M 57 555 395 39470 102 296 145 56 90 73 148 66 63 20 67 32 81 67 101 138 Velká Chyška 94 1672 198 711 374 172 193 176 354 163 63 218 238 120 116 160 187 1."
+      ]
+    },
+    {
+      "pid": "uuid:d9719520-6a13-11e4-8d66-5ef3fc9bb22f",
+      "composite_id": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52!uuid:d9719520-6a13-11e4-8d66-5ef3fc9bb22f",
+      "date": "1976",
+      "page": "793",
+      "title": "Lexikon obcí ČSSR",
+      "root_pid": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "-IV) 527 Záhorská Ves (Bratislava-vidiek) 531 Záhory (Ústí nad Orlicí-Kunvald) 382 Zahořánky (Český Krumlov-Přídolí) 135 Zahořany (Benešov-Drachkov) 35 Zahořany (Beroun) 53 Zahořany (Domažlice) 192 Zahořany (Chomutov-Vilémov) 264 Zahořany (Litoměřice) 284 Zahořany (Písek) 161 Zahořany (Praha-západ-Okrouhlo) 100 Zahořany (Příbram-Mníšek pod Brdy) 108 Záhoří (Benešov-Zderadice) 47 Záhoří (Frýdek-Místek-Skalice) 475 Záhoří (Jablonec nad Nisou-Smržovka) 267 Záhoří (Jindřichův Hradec-Pleše) 142 Záhoří (KarlovyVary-Verušičky) 204 Záhoří (Louny-Žatec) 290 Záhoří (Pelhřimov-Mladé Bříště) 150 Záhoří (Písek) 161 Záhoří (Plzeň-jih-Mileč) 222 Záhoří (Prachatice-Bošice) dříve Vimperk 163 Záhoří (Prachatice-Chroboly) dříve Prachatice 164 Záhoří (Semily) 365 Záhoří (Tábor-Březnice) 177 Záhoří (Tachov-Černošín) 240 Záhoří (Teplice-Žim) 298 Záhoří a Kozinec (Benešov-Jetřichovice) 37 Záhoří u Miličína (Benešov-Miličín) 39 Záhořice (Karlovy Vary-Novosedly) 202 Záhoříčko (Benešov-Jiřetice) 37 Záhoříčko (Prachatice-Čkyně) 163 Záhoříčko (Tábor-Nemyšl) 180 Záhořín (Česká Lípa-Lindava) 249 Záhostice (Tábor-Čhýnov) 179 Záhrabina (Lučenec-Kokava nad Rimavicou) 606 Záhrabská (Beroun-Svatý Jan pod Skalou) 52 Záhrada (Topoľčany-Závada) 570 Zahrada (Žcfár nad Sázavou-Kaly) 457 Zahrádčice (Benešov-Dolní Královice) 35 Zahradiště (Ždár nad Sázavou-Radostín nad Oslavou) 460 Zahrádka (Benešov) dříve Benešov 47 Zahrádka (Benešov-Vojkov) dříve Sedlčany 45 Zahrádka (České Budějovice-Vrábče) 129 Zahrádka (Český Krumlov-Mirkovice) 134 Zahrádka (Havlíčkův Brod) 312 Zahrádka (Karlovy yary-Staré Sedlo) 203 Zahrádka (Klatovy-Čachrov) dříve Klatovy 206 Zahrádka (Klatovy-Nalžovské Hory) dříve Horažďovice 212 Zahrádka (Písek-Kostelec nad Vltavou) 157 Zahrádka (Plzeň-jih-Čížkov) 220 Zahrádka (Plzeň-sever) 231 Zahrádka (Příbram-Petrovice) 110 Zahrádka (Tábor-Tábor) dříve Tábor 176 Zahrádka (Tábor-Slapsko) dříve Votice 183 Zahrádka (Třebíč) 439 Zahrádka-Kahanov (Tábor-Jedlany) 179 Zahrádka u Pošné (Pelhřimov- Útěchovičky) 153 Zahrádky (Česká Lípa) 251 Zahrádky (Jindřichův Hradec) 145 Záhradné (Prešov) 681 Zahradnice (Benešov-Olbramovice) 41 Záhradská (Trenčín-Lubina) 573 Zahrady (Děčín-Vlčí Hora) 259 Záhrady (Rimavská Sobota-Rimavské Brezovo) 628 Zahrady (Uherské Hradiště-Buchlovice) 440 Záhrady (Žiar nad Hronom-Pitelová) 644 Záhrb (Žiar nad Hronom-Nová Baňa) 644 Záhrobí (Strakonice-Bělčice) 169 Záhuby (Jičín-Milkovice) 333 Záhutí (Gottwaldov-Březnice) 409 Záhvozdí (Prachatice-Želnava) 169 Zacharovce (Rimavská Sobota) 630 Záchlumí (Tachov) 245 Záchlumí (Ústí nad Orlicí) 386 Zachotín (Pelhřimov) 154 Zachrašťany (Hradec Králové) 319 Zajačia dolina (Levice-Krškany) 545 Zajakury (Jičín-Sobotka) 336 Zaječí (Benešov-Zahrádka) 47 Zaječí (Břeclav) 407 Zaječí Důl (Liberec-Mníšek) 273 Zaječice (Chomutov-Vrskmaň) 264 Zaječice (Chrudim) 329 Zaječice (Most-Bečov) 291 Zaječice (Praha-východ-Pyšely) 95 Zaječiny (Ústí nad Orlicí-Kunvald) 382 Zaječov (Beroun) 53 Zájezd (Kladno) 59 Zájezd (Náchod-Česká Skalice) 339 Zájezdec (Chrudim-Přestavlky) 326 Zájezdy (Mladá Boleslav-Veselá) 85 Zaježová (Zvolen) 640 Zajíc (Jindřichův Hradec-Klikov) 140 Zajíčkov (Pelhřimov) 154 Zákamenné (Dolný Kubín) 599 Zaklično (Lučenec-Kokava nad Rimavicou) 606 Zákolany (Kladno) 59 Zakopaná (Mladá Boleslav-Kněžmost) 82 Zakopanka (Rychnov nad Kněžnou-Peklo nad Zdobnicí) 356 Zákopanka (Ústí nad Orlicí-Líšnice) 383 Zákopčie (Čadca) 595 Zákopčie-ústredie (Čadca-Zákopčie) 595 Zakostoľany {Trnava-Veľkó KostoTany) 581 Zákoutí (Chomutov-Blatno) 259 Zákoutí (Rychnov nad Kněžnou-Deštné) 353 Zákoutí (Semily-Benecko) 359 Zákraví (Rychnov nad Kněžnou-Ohnišov) 355 Zakřany (Brno-venkov) 404 Zákřov (Olomouc) 493 Zakšín (Česká Lípa) 251 Zákupy (Česká Lípa) 251 Zákysučie (Čadca-Krásno nad Kysucou) 591 Zalaba (Levice) 547 Zalagoš (Levice-Tekovské Lužany) 547 Zalány (Příbram-Nepomuk) 109 Zalány (Příbram-Rožmitál pod Třemšínem) 111 Zalažany (Chrudim-Jenišovice-Zalažany) 322 Zálepy (Praha-západ-Dolní Břežany) 98 Zálesí (Benešov-Teplýšovice) 44 Zálesí (Benešov-Neustupov) 40 Zálesí (Havlíčkův Brod-Horní Křupá) dříve Havlíčkův Brod 305 Zálesí (Havlíčkův Brod-Slavíkov) dříve Chotěboř 310 Zálesí (Karlovy Vary-Dalovice) 199 Zálesí (Plzeň-jih-Příchovice) 223 Zálesí (Strakonice-Drážov) 171 Zálesí (Svitavy-Biskupice) 366 Zálesí (Šumperk-Javorník) 512 Zálesí (Trutnov-Doubravice) 373 Zálesí (Znojmo) 453 Zálesí 1. díl (Benešov-Maršovice) 39 Zálesí 2. díl (Benešov-Zahrádka) 47 Zálesie (Bratislava-vidiek) 531 Zálesie (Poprad) 674 Zálesie-domčeky (Bratislava-vidiek-Zálesie) 532 Zálesná Zhoř (Brno-venkov) 404 Zálesní Lhota (Semily) 365 Zalešany (Kolín) 64 Zálezlice (Mělník) 77 Zálezly (Louny-Velemyšleves) 289 Zálezly (Prachatice) 168 Zálezly (Tachov-Skapce) 243 Zalíbená (Kutná Hora-Otryby) 68 Zalíbené (Chrudim-Studnice) 327 Zaliny (České Budějovice-Kaliště) 124 Zaloňov (Náchod) 344 Zálší (Písek-Sepekov) 160 Zálší (Tábor) 184 Zálší (Ústí nad Orlic!)"
+      ]
+    },
+    {
+      "pid": "uuid:740f68c0-6a12-11e4-8d66-5ef3fc9bb22f",
+      "composite_id": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52!uuid:740f68c0-6a12-11e4-8d66-5ef3fc9bb22f",
+      "date": "1976",
+      "page": "153",
+      "title": "Lexikon obcí ČSSR",
+      "root_pid": "uuid:5962c7a0-2ebd-11e4-8f64-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Útěchovičky 69 551 39414 114 53 66 29 30 32 3. Zahrádka u Pošné 69 518 39501 58 28 34 17 19 20 137 Včelnička M 57 555 395 39470 102 296 145 56 90 73 148 66 63 20 67 32 81 67 101 138 Velká Chyška 94 1672 198 711 374 172 193 176 354 163 63 218 238 120 116 160 187 1."
+      ]
+    },
+    {
+      "pid": "uuid:0ce90174-7bc8-42f6-8b8a-664c7e1e110b",
+      "composite_id": "uuid:771b32b0-7122-11eb-9f97-005056827e51!uuid:0ce90174-7bc8-42f6-8b8a-664c7e1e110b",
+      "date": "1977",
+      "page": "278",
+      "title": "Rejstříky k deskám zemským. Díl 1., sv. 1. Obnovené vklady po požáru desek 1541",
+      "root_pid": "uuid:771b32b0-7122-11eb-9f97-005056827e51",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Mladé Vožice) Zéhořičko (ob. Dolany s.o. Vimperk) Zahrádka u Pošné (Zahrádka s.o. Pacov) DZV 250 D 6 1543 - vklad DZV 2 J 7&apos; 1543 (1497) - trh DZV 4 К 13 1543 - věno Zahradnice, roztroušené chalupy n. okolo Děčín DZV 84 C 22&apos; 1543 (1515) - dluh (v Zahradniczy) DZV 84 G 28 1549 (1527) - dluh DZV 4 L 13 1543 - trh (Zahradníky tu okolo Děčína) Zahradnice (ob."
+      ]
+    },
+    {
+      "pid": "uuid:805d57f0-8655-11e3-8485-5ef3fc9bb22f",
+      "composite_id": "uuid:b92897d0-76aa-11e3-a388-5ef3fc9ae867!uuid:805d57f0-8655-11e3-8485-5ef3fc9bb22f",
+      "date": "1978",
+      "page": "266",
+      "title": "Retrospektivní lexikon obcí Československé socialistické republiky 1850-1970: počet obyvatelů a domů podle obcí a částí obcí podle správního členění k 1. lednu 1972 a abecední přehled obcí a část obcí v letech 1850-1970",
+      "root_pid": "uuid:b92897d0-76aa-11e3-a388-5ef3fc9ae867",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Útěchovice Útěchovičky 1. Litohošť 2. Útěchovičky 3. Zahrádka u Pošné VčeSnička Velká Chyška 1. Lesná 2. Útěchovice pod Stražištěm 3. Velká Chyška Velká Ves Velký Ježov 1."
+      ]
+    },
+    {
+      "pid": "uuid:c48c0000-864d-11e3-a606-005056827e51",
+      "composite_id": "uuid:b92897d0-76aa-11e3-a388-5ef3fc9ae867!uuid:c48c0000-864d-11e3-a606-005056827e51",
+      "date": "1978",
+      "page": "266",
+      "title": "Retrospektivní lexikon obcí Československé socialistické republiky 1850-1970: počet obyvatelů a domů podle obcí a částí obcí podle správního členění k 1. lednu 1972 a abecední přehled obcí a část obcí v letech 1850-1970",
+      "root_pid": "uuid:b92897d0-76aa-11e3-a388-5ef3fc9ae867",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Útěchovice Útěchovičky 1. Litohošť 2. Útěchovičky 3. Zahrádka u Pošné VčeSnička Velká Chyška 1. Lesná 2. Útěchovice pod Stražištěm 3. Velká Chyška Velká Ves Velký Ježov 1."
+      ]
+    },
+    {
+      "pid": "uuid:937548ce-dc7d-12c0-8feb-959e6738ed16",
+      "composite_id": "uuid:28d8af90-49af-11e2-a9ad-005056827e51!uuid:937548ce-dc7d-12c0-8feb-959e6738ed16",
+      "date": "1978",
+      "page": "610",
+      "title": "Retrospektivní lexikon obcí Československé socialistické republiky 1850-1970: počet obyvatelů a domů podle obcí a částí obcí podle správního členění k 1. lednu 1972 a abecední přehled obcí a část obcí v letech 1850-1970",
+      "root_pid": "uuid:28d8af90-49af-11e2-a9ad-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Pelhřimov, v r. 1950 obec v okr. Pocov, v dalších letech viz Zahrádka u Pošné ZAHRADKA v r. 1850-1950 obec v okr. Milevsko, v r. 1961 až 1970 osada obce Kostelec nad Vltavou v okr.",
+        "Tišnov, v dalších letech viz Zahrada ZAHRADKA U POŠNÉ v r. 1850—1950 viz Zahrádka, v r. 1961 až 1970 osada obce Otěchovičky v okr."
+      ]
+    },
+    {
+      "pid": "uuid:36baa8f6d4d9274f27177738f968fecc",
+      "composite_id": "uuid:28d8af90-49af-11e2-a9ad-005056827e51!uuid:36baa8f6d4d9274f27177738f968fecc",
+      "date": "1978",
+      "page": "610",
+      "title": "Retrospektívny lexikon obcí Československej socialistickej republiky 1850-1970",
+      "root_pid": "uuid:28d8af90-49af-11e2-a9ad-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Pelhřimov, v r. 1950 obec v okr. Pocov, v dalších letech viz Zahrádka u Pošné ZAHRADKA v r. 1850-1950 obec v okr. Milevsko, v r. 1961 až 1970 osada obce Kostelec nad Vltavou v okr.",
+        "Tišnov, v dalších letech viz Zahrada ZAHRADKA U POŠNÉ v r. 1850—1950 viz Zahrádka, v r. 1961 až 1970 osada obce Otěchovičky v okr."
+      ]
+    },
+    {
+      "pid": "uuid:b32e517a-5084-4094-864e-d20bb572f76c",
+      "composite_id": "uuid:6f7587d0-171c-11ed-986f-005056827e52!uuid:b32e517a-5084-4094-864e-d20bb572f76c",
+      "date": "1980",
+      "page": "137",
+      "title": "Jednotný číselník prostorových jednotek: územně technické jednotky - stálé statistické obvody : základní územní jednotky",
+      "root_pid": "uuid:6f7587d0-171c-11ed-986f-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Kód Kód Název ÚTJ MČN 1C ÚTJ okresu Název ÚTJ MČN IČÚTJ okresu z Záhorce M 871770 5310 Zahorčice na Šumavě M 756814 3404 Zóbědov J 707210 3602 Zahorčice u Lnářů J 686255 3307 Záběhlice - 10 M 732117 3110 Zahorčice u Volyně J 789798 3307 Záběhlice - 4 M 727997 3104 Záhorčičky J 789801 3406 Zábeštní Lhota J 789054 3808 Záhorkovice J 698156 3302 Zábiedovo J 871648 5303 Záhornice J 768375 3607 Záblatí J 789089 3301 Záhornice u Městce Králové J 789828 3208 Zablatí u Bohumína J 789216 3803 Zá borovice M 789836 3711 Záblatí u Osové Bítýšky J 789208 3714 Záhorská Bystrica J 871796 5104 Záblatí u Ponědraže J 725633 3303 Záhorská Bystrica II J 871800 5201 Záblatí u Prachatic J 789178 3306 Záhorská Bystrica III J 871818 5201 Záblatie 1 J 871664 5210 Záhorská Ves J 871826 5201 Záblatie II J 875228 5210 Zahořany M 789909 3305 Zábludov J 789232 3701 Zahořany M 697656 3210 Žábo rie J 871672 5306 Zahořany u Berouna M 789844 3202 Záborná J 789241 3707 Zahořany u Domažlic M 789925 3401 Záborná Lhota J 789259 3211 Záhořany u Litoměřic M 789941 3506 Záborské J 871681 5407 Záhoří J 721727 3303 Záboří nad Labem J 789348 3205 Záhoří u Bechyně J 790044 3308 Záboří u Blatné J 789313 3307 Záhoří u Černošína J 620475 3410 Záboří u Českých Budějovic J 789283 3301 Záhoří u Humpolce J 789950 3304 Záboří u Dvora Králové J 782777 3610 Záhoří u Chrobol J 654205 3306 Záboří u Kel J 666785 3206 Záhoří u Milče J 694576 3406 Záboří u Proseče J 733199 3603 Záhoří u Miličína J 694878 3201 Záboří u Protivína J 674320 3305 Záhoří u Semil J 790095 3608 Zábrdí u Osečné J 712795 3505 Záhoří u Verušiček J 780324 3403 Zábrdovice u Křince M 676306 3208 Záhoří u Větrní J 781215 3302 Zábrdovice u Vedrovic M 798754 3713 Zá hoříce M 706965 3403 Zábrdovice - 3 M 610704 3702 Zá hostice J 655481 3308 Zábrež J 844152 5303 Záhrad&apos; J 685704 3609 Zá brodí J 789364 3605 Zahrada J 662330 3714 Zábrodí u Lažišť J 679569 3306 Zahrádčice J 629383 3201 Zabrušany M 789399 3509 Zahradiště J 738395 3714 Zábřeh Hulváky J 713970 3807 Zahrádka J 742821 3302 Zábřeh na Moravě J 789429 3809 Zahrádka na Moravě J 790222 3710 Zábřeh nad Odrou J 714305 3807 Zahrádka u Benešova J 790133 3201 Zábřeh u Hlučína J 789411 3806 Zahrádka u Čachrova J 618268 3404 Zábřeh - VŽKG J 714089 3807 Zahrádka u Čížkova J 624098 3406 Zá březí J 768626 3610 Zahrádka u Kovářova J 670251 3305 Zádiel J 871711 5404 Zahrádka u Ledče nad Sázavou J 790206 3601 Zadní Arnoštov J 789551 3609 Zahrádka u Mirkovic J 695335 3302 Zadní Hrádek J 601322 3204 Zahrádka u Omlenic J 711241 3302 Zadní Chalupy M 792756 3404 Zahrádka u Petrovic J 719919 3211 Zadní Chlum J 669962 3211 Zahrádka u Pošné J 775606 3304 Zadní Chodov J 789585 3410 Zahrádka u Starého Sedla J 754714 3403 Zadní Kopanina - 5 J 745278 3105 Zahrádka u Všerub J 790176 3407 Zadní Lomná J 724998 3308 Zahrádky M 790249 3303 Zadní Ptákovice M 701858 3307 Zahrádky u Borových Lad M 707970 3306 Zadní Střítež J 725005 3308 Zahrádky u České Lípy M 790273 3501 Zadní Třeboň J 789593 3202 Záhradné J 871834 5407 Zadní Újezd J 692620 3805 Zahradnice M 709921 3201 Zadní Vydří J 700568 3707 Zahrady M 783722 3502 Zadní Výtoň J 734403 3302 Záhrobí J 790281 3307 Zadní Zborovice J 770191 3307 Záhuby M 695025 3604 Zadní Zhořec J 789607 3714 Zacha rovce M 871851 5309 Zádolí u Neveklova J 789640 3201 Záchlumí J 790303 3611 Zádolí u Trnová J 768367 3607 Záchlumí u Stříbra J 790290 3410 Zádolí u Vysokého Mýta J 789666 3611 Zachotín J 790311 3304 Zádor J 871729 5309 Zachrašťany M 790338 3602 Zadražany M 789674 3602 Zaječí J 790346 3704 Zádub J 789691 3402 Zaječice u Bečova M 601250 3508 Zádub u Olbramova J 709832 3410 Zaječice u Chrudimi M 790362 3603 Zádubnie J 871737 5313 Zaječice u Pyšel M 737071 3209 Zádveřice M 789747 3705 Zaječov J 790389 3202 Zahájí u Hluboké nad Vltavou J 789755 3301 Zájezd u Buštěhradu J 790401 3203 Zahájí u Hněvkovic J 640131 3601 Zájezd u České Skalice J 621731 3605 Zahájí u Chorušic J 652768 3206 Zájezdec J 790419 3603 Zahájí u Lesné J 680117 3410 Zaježová J 871915 5311 Záhlinice M 789771 3708 Zajíčkov J 790435 3304 Zahnašovice M 789780 3708 Zákamenné J 871923 5303 Záhor J 871745 5405 Zákopčie J 872253 5302 137"
+      ]
+    },
+    {
+      "pid": "uuid:f1904a0c-dedc-4a83-8cbe-e43804daf63c",
+      "composite_id": "uuid:0ef66510-756b-11e9-b253-005056827e52!uuid:f1904a0c-dedc-4a83-8cbe-e43804daf63c",
+      "date": "1981",
+      "page": "[21]",
+      "title": "Historie a současnost Pelhřimovska: [Sborník]",
+      "root_pid": "uuid:0ef66510-756b-11e9-b253-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿Vlásenice-Drbohlavy Vlčetín Vojslavice Vokov Voplešácko VratiSov Vřesník Vyskytná Vystrkov Záhoří Zahrádka u Pošné Zachotín Zajíčkov Zálesí viz humpolecké Zálesí Zhoř Zhořec Zlátenka Zmišovice Želiv Zelivsko Zirov Žirovnice 37 128, 195 11, 43, 45, 50, 168, 185 20 1, 45 20, 22 55, 56 20, 55, 133 43, 45, 53, 54, 56, 185 20, 45, 50, 54, 185 12, 20, 91, 102 20, 43, 53 20, 22 7, 12, 24, 89, 110 110 12, 37, 110 20, 22 1, 2, 15, 20, 45, 54, 56, 67, 87, 103, 137, 165 18, 20, 23, 43, 55, 56, 67 20 6, 15, 16, 69, 171, 179, 195 Lokality, náležející v minulosti к humpoleckému Zálesí a Pelhřimovsku (dnes okres Jihlava): Boršov Branišov Cejle Dolní Cerekev Dudín Dušejov Kalhov Milíčov Opátov Rohozná Simanov Ostí Větrný Jeníkov Větrnojeníkovsko Zbilidy Zbinohy 20 14, 20, 50, 55, 87 20, 65 20, 65, 132, 133 55, 87 50, 55, 87, 103, 132 55, 87 20 20, 87 20, 37, 38, 96, 132, 133, 134 50, 53, 55, 79, 87, 103, 185 55, 78, 79, 82, 86, 87, 103 45, 46, 50, 52, 55, 77, 78, 79, 81, 82, 83, 84, 87, 103, 185 18, 48 65, 79, 84, 87, 124 41, 55, 76, 78, 82, 87"
+      ]
+    },
+    {
+      "pid": "uuid:50709734-fe04-4ce1-afce-eb241b1261d3",
+      "composite_id": "uuid:0ef66510-756b-11e9-b253-005056827e52!uuid:50709734-fe04-4ce1-afce-eb241b1261d3",
+      "date": "1981",
+      "page": "10",
+      "title": "Historie a současnost Pelhřimovska: [Sborník]",
+      "root_pid": "uuid:0ef66510-756b-11e9-b253-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "CL 64, 1977, s. 173—183 Půdorys lidového domu — Bor, Lešov, Nová Ves u Košetic, Proseß u Pošné, Zahrádka u Pošné 92. Navrátil, F.: Ještě kudibal. CL 27, 1927, s. 381 lidový název, krejčí — Počátky 93."
+      ]
+    },
+    {
+      "pid": "uuid:cdbe0dc0-e035-11e3-85ae-001018b5eb5c",
+      "composite_id": "uuid:89ed2f80-dc3f-11e3-94ef-5ef3fc9ae867!uuid:cdbe0dc0-e035-11e3-85ae-001018b5eb5c",
+      "date": "1984",
+      "page": "1675",
+      "title": "Statistický lexikon obcí ČSSR 1982: Podle správního rozdělení k 1. lednu 1982 a výsledků sčítání lidu, domů a bytů k 1. listopadu 1980",
+      "root_pid": "uuid:89ed2f80-dc3f-11e3-94ef-5ef3fc9ae867",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "&apos; 1976 1.7.1974 1.7.1974 1. 1. 1980 s obci Chlum u Třeboně 1.1.1980 Okres Pelhřimov Arneštovice Bácovice Bělá Benešov Bolechov Bořetice Bořetín Branišov Brná Brtná Bystrá Částkovice Častonín Čelistná Černov Číhovice Čížkov Dehtáře Dobešov Dobrá Voda Dobrá Voda u Pacova Hodějovice Hojovice Horní Rápotice Horní Ves Houserovka Hříběcí Chmelná Chrástov Chválkov Chvojnov Chýstovice Jankov Jetřichovec Ježov Kojčice Krasíkovice Krasoňov Leskovec Lešov Lhota u Kamenice nad Lipou Lhotice Lhotka Libkova Voda Lipice Lítkovice Markvarec Martinice u Onšova Mezná Močidla Mysletín Nemojov Nová Buková Olešná Ondřejov obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena řičí) obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena stí Sedliště) obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena s obcí Košetice _ s obcí Červená Řečice s obci Horní Cérekev s obcí Černovice s obcí Želiv (bez části Pos obcí Hořepník s obcí Mnich s obcí Vyskytná s obcí Věžná s obcí Želiv s obcí Komorovice s obcí Proseč-Obořiště s obcí Zachotín (bez čás obcí s obcí s obcí s obcí s obcí s obcí s obcí s obcí Libkova Voda Horní Cerekev Křelovice Nová Cerekev Velký Rybník Černovice Pelhřimov Kámen obec sloučena s obci Krasíkovice obec sloučena s obcí Černovice obec sloučena s obcí Humpolec obec sloučena s obcí Horní Cerekev obec sloučena s obcí Pelhřimov obec sloučena s obcí Horní Cerekev obec sloučena s obcí Nová Cerekev obec sloučena s obcí Horní Cerekev obec sloučena s obcí Mnich obec sloučena s obcí Pelhřimov obec sloučena s obcí Košetice obec sloučena s obcí Vyskytná obec sloučena s obcí Pacov obec sloučena s obcí Hořice obec sloučena s obcí Pelhřimov obec sloučena s obcí Pelhřimov obec sloučena s obcí Humpolec správný název části v obci Počátky je Léskovec obec sloučena s obcí Radňov část obce Kamenice nad Lipou, název změněn na Lhota obec sloučena s obcí Želiv obec sloučena s obcí Petrovice obec sloučena s obcí Pelhřimov obec sloučena s obcí Pelhřimov obec sloučena s obcí Žirovnice obec sloučena s obcí Nová Cerekev obec sloučena s obcí Košetice obec sloučena s obcí Rynárec část obce Petrovice je správně částí obce Jiřice obec sloučena s obcí Zachotín část obce Zachotín, přičleněna к obci Mladé Bříště obec sloučena s obcí Radňov obec sloučena s obcí Horní Cerekev obec sloučena s obcí Pelhřimov obec sloučena s obcí Božejov 1.4.1976 1. 1.1975 1.4. 1976 1.1.1980 1. 1. 1975 1. 1. 1980 1.4. 1976 1.1. 1976 1.4. 1976 1.7. 1975 1. 1. 1980 1.4. 1976 &apos;1.4. 1976 1.7. 1975 1.7. 1975 1.7. 1974 1.4. 1976 1.4. 1976 1.1. 1980 1. 1. 1980 1. 1. 1976 1.4. 1976 1.7. 1980 1.1. 1980 1.7. 1980 1.7. 1980 1.4. 1976 1.7. 1975 1.7. 1975 1. 1. 1980 1.1.1980 1.4. 1976 1.4. 1976 1.1. 1980 1.7. 1980 1. 1. 1980 1. 1. 1980 1. 1. 1980 1. 1. 1975 1.4. 1976 1. 1. 1980 1.4. 1976 1. 1. 1980 1. 1. 1980 1. 1. 1976 1. 1. 1980 1.4. 1976 1.4. 1976 1.4. 1976 1.7. 1980 1.1. 1975 1.7. 1975 1. 1. 1980 1.4. 1976 Píšť Plačkov Podivice Polesí Popelištná Poříčí Pravíkov Proseč Proseč-Obořiště Proseč pod Křemešníkem Proseč u Pošné Přáslavice Putimov Radňov Roučkovice Rynárec Řeženčice Sázava Sedliště Skrýšov Stranná Strměcfty Střítež pod Křemešníkem Střítež u Božejova Střítež u Černovic Sudkův Důl Svépravice Světlice Štítné Těchobuz Těchoraz Těšenov Turovka Ústrašín Útěchovičky Včelnička Velký Ježov Velký Rybník Věžná Vintířov Vitice Vlasenice Vlásenice Vlčetín Vratišov Vysoká Lhota Zahrádka u Pošné Zachotín Zajíčkov Zhořec Zlátenka Okres Písek Borovany Brtec Budějovické Předměstí Cerhonice Doběšice Chvaletice Jamný obec sloučena s obcí Hořice obec sloučena s obcí Humpolec obec sloučena s obcí Kaliště obec sloučena s obcí Počátky obec sloučena s obcí Červená Řečice část obce Bolechov, přičleněna к obci Křelovice obec sloučena s obcí Kamenice nad Lipou obec sloučena s obci Kaliště obec sloučena s obcí Nová Cerekev (bez části Vlásenice) obec sloučena s obcí Putimov část obce Pošná, název změněn na Pro- 1 seč obec sloučena s obcí Samšín 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Pacov 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Nový Rychnov 1 obec sloučena s obcí Nový Rychnov 1 část obce Častonín, přičleněna k obci 1 Vyskytná obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Žirovnice 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Vyskytná 1 obec sloučena s obcí Božejov, název 1 části v obci Božejov změněn na Střítež obec sloučena s obcí Černovice, název 1 části v obcí Černovice změněn na Střítež . obec sloučena s obcí Obrataň 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Humpolec 1 obec sloučena s obcí Žirovnice 1 obec sloučena s obci Pacov 1 obec sloučena s obcí Červená Řečice 1 obec sloučena s obcí Horní Cerekev 1 obec sloučena s obcí Horní Cerekev 1 obec sloučena s obci Božejov 1 obec sloučena s obcí Útěchovice (bez 1 části Zahrádka u Pošné) , obec sloučena s obcí Kamenice nad Li- 1 pou ‘ obec vyčleněna z okresu Pelhřimov 1 a sloučena s obcí Smilovy Hory v okrese Tábor obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Obrataň 1 obec sloučena s obcí Obrataň 1 obec sloučena s obcí Želiv 1 obec sloučena s obcí Kamenice nad Li- 1 pou obec sloučena s obcí Proseč-Obořiště 1 část obce Proseč-Obořiště, přičleněna 1 к obci Pelhřimov obec sloučena s obcí Žirovnice 1 správný název části Vatišov v obci Mezná je Vratišov obec sloučena s obcí Kámen 1 část obce Útěchovičky, přičleněna к ob- 1 ci Pošná, název části v obci Pošná změněn na Zahrádka obec sloučena s obcí Pelhřimov (bez 1 části Mysletín) obec sloučena s obcí Rynárec 1 obec sloučena s obcí Pacov 1 obec sloučena s obcí Kámen 1 obec sloučena s obcí Bernartice obec sloučena s obcí Petříkovice název nově vymezené části v obci Písek obec sloučena s obcí Mirotice část obce Písek, zanikla obec sloučena s obcí Protivín obec sloučena s obcí Záhoří .7. 1980 .1.1980 .1.1980 .4. 1976 .1.1975 .1.1975 . 4. 1976 .1.1980 .1.1980 .4. 1976 .1.1980 .4. 1976 .1.1980 .7.1980 . 1. 1980 .1.1980 .4. 1976 .4. 1976 .4. 1976 .1.1976 . 1. 1976 .1.1980 .4. 1976 .4. 1976 . 1. 1976 .1.1976 .1.1980 .1.1980 .1.1980 .7.1980 .1.1975 . 7. 1980 .4. 1976 .4. 1976 .1.1980 .7. 1980 .4. 1976 .7. 1980 .7. 1980 . 1. 1980 . 1. 1980 . 7. 1975 .4. 1976 . 1. 1980 .4. 1976 .4. 1976 . 1. 1980 .7. 1980 .4. 1976 . 7. 1980 . 1. 1975 .1.1976 .1.1976 .1.1980 . 1. 1981 .1.1980 .1.1976 . 4. 1976 1675 i"
+      ]
+    },
+    {
+      "pid": "uuid:3c91ffa0-e030-11e3-94ef-5ef3fc9ae867",
+      "composite_id": "uuid:89ed2f80-dc3f-11e3-94ef-5ef3fc9ae867!uuid:3c91ffa0-e030-11e3-94ef-5ef3fc9ae867",
+      "date": "1984",
+      "page": "1675",
+      "title": "Statistický lexikon obcí ČSSR 1982: Podle správního rozdělení k 1. lednu 1982 a výsledků sčítání lidu, domů a bytů k 1. listopadu 1980",
+      "root_pid": "uuid:89ed2f80-dc3f-11e3-94ef-5ef3fc9ae867",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "&amp;apos; 1976 1.7.1974 1.7.1974 1. 1. 1980 s obci Chlum u Třeboně 1.1.1980 Okres Pelhřimov Arneštovice Bácovice Bělá Benešov Bolechov Bořetice Bořetín Branišov Brná Brtná Bystrá Částkovice Častonín Čelistná Černov Číhovice Čížkov Dehtáře Dobešov Dobrá Voda Dobrá Voda u Pacova Hodějovice Hojovice Horní Rápotice Horní Ves Houserovka Hříběcí Chmelná Chrástov Chválkov Chvojnov Chýstovice Jankov Jetřichovec Ježov Kojčice Krasíkovice Krasoňov Leskovec Lešov Lhota u Kame- nice nad Lipou Lhotice Lhotka Libkova Voda Lipice Lítkovice Markvarec Martinice u Onšova Mezná Močidla Mysletín Nemojov Nová Buková Olešná Ondřejov obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena řičí) obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena stí Sedliště) obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena obec sloučena s obcí Košetice _ s obcí Červená Řečice s obci Horní Cérekev s obcí Černovice s obcí Želiv (bez části Po- s obcí Hořepník s obcí Mnich s obcí Vyskytná s obcí Věžná s obcí Želiv s obcí Komorovice s obcí Proseč-Obořiště s obcí Zachotín (bez čá- s obcí s obcí s obcí s obcí s obcí s obcí s obcí s obcí Libkova Voda Horní Cerekev Křelovice Nová Cerekev Velký Rybník Černovice Pelhřimov Kámen obec sloučena s obci Krasíkovice obec sloučena s obcí Černovice obec sloučena s obcí Humpolec obec sloučena s obcí Horní Cerekev obec sloučena s obcí Pelhřimov obec sloučena s obcí Horní Cerekev obec sloučena s obcí Nová Cerekev obec sloučena s obcí Horní Cerekev obec sloučena s obcí Mnich obec sloučena s obcí Pelhřimov obec sloučena s obcí Košetice obec sloučena s obcí Vyskytná obec sloučena s obcí Pacov obec sloučena s obcí Hořice obec sloučena s obcí Pelhřimov obec sloučena s obcí Pelhřimov obec sloučena s obcí Humpolec správný název části v obci Počátky je Léskovec obec sloučena s obcí Radňov část obce Kamenice nad Lipou, název změněn na Lhota obec sloučena s obcí Želiv obec sloučena s obcí Petrovice obec sloučena s obcí Pelhřimov obec sloučena s obcí Pelhřimov obec sloučena s obcí Žirovnice obec sloučena s obcí Nová Cerekev obec sloučena s obcí Košetice obec sloučena s obcí Rynárec část obce Petrovice je správně částí ob- ce Jiřice obec sloučena s obcí Zachotín část obce Zachotín, přičleněna к obci Mladé Bříště obec sloučena s obcí Radňov obec sloučena s obcí Horní Cerekev obec sloučena s obcí Pelhřimov obec sloučena s obcí Božejov 1.4.1976 1. 1.1975 1.4. 1976 1.1.1980 1. 1. 1975 1. 1. 1980 1.4. 1976 1.1. 1976 1.4. 1976 1.7. 1975 1. 1. 1980 1.4. 1976 &amp;apos;1.4. 1976 1.7. 1975 1.7. 1975 1.7. 1974 1.4. 1976 1.4. 1976 1.1. 1980 1. 1. 1980 1. 1. 1976 1.4. 1976 1.7. 1980 1.1. 1980 1.7. 1980 1.7. 1980 1.4. 1976 1.7. 1975 1.7. 1975 1. 1. 1980 1.1.1980 1.4. 1976 1.4. 1976 1.1. 1980 1.7. 1980 1. 1. 1980 1. 1. 1980 1. 1. 1980 1. 1. 1975 1.4. 1976 1. 1. 1980 1.4. 1976 1. 1. 1980 1. 1. 1980 1. 1. 1976 1. 1. 1980 1.4. 1976 1.4. 1976 1.4. 1976 1.7. 1980 1.1. 1975 1.7. 1975 1. 1. 1980 1.4. 1976 Píšť Plačkov Podivice Polesí Popelištná Poříčí Pravíkov Proseč Proseč-Obo- řiště Proseč pod Křemešníkem Proseč u Pošné Přáslavice Putimov Radňov Roučkovice Rynárec Řeženčice Sázava Sedliště Skrýšov Stranná Strměcfty Střítež pod Křemešníkem Střítež u Božejova Střítež u Čer- novic Sudkův Důl Svépravice Světlice Štítné Těchobuz Těchoraz Těšenov Turovka Ústrašín Útěchovičky Včelnička Velký Ježov Velký Rybník Věžná Vintířov Vitice Vlasenice Vlásenice Vlčetín Vratišov Vysoká Lhota Zahrádka u Pošné Zachotín Zajíčkov Zhořec Zlátenka Okres Písek Borovany Brtec Budějovické Předměstí Cerhonice Doběšice Chvaletice Jamný obec sloučena s obcí Hořice obec sloučena s obcí Humpolec obec sloučena s obcí Kaliště obec sloučena s obcí Počátky obec sloučena s obcí Červená Řečice část obce Bolechov, přičleněna к obci Křelovice obec sloučena s obcí Kamenice nad Li- pou obec sloučena s obci Kaliště obec sloučena s obcí Nová Cerekev (bez části Vlásenice) obec sloučena s obcí Putimov část obce Pošná, název změněn na Pro- 1 seč obec sloučena s obcí Samšín 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Pacov 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Nový Rychnov 1 obec sloučena s obcí Nový Rychnov 1 část obce Častonín, přičleněna k obci 1 Vyskytná obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Žirovnice 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Vyskytná 1 obec sloučena s obcí Božejov, název 1 části v obci Božejov změněn na Střítež obec sloučena s obcí Černovice, název 1 části v obcí Černovice změněn na Stří- tež . obec sloučena s obcí Obrataň 1 obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Humpolec 1 obec sloučena s obcí Žirovnice 1 obec sloučena s obci Pacov 1 obec sloučena s obcí Červená Řečice 1 obec sloučena s obcí Horní Cerekev 1 obec sloučena s obcí Horní Cerekev 1 obec sloučena s obci Božejov 1 obec sloučena s obcí Útěchovice (bez 1 části Zahrádka u Pošné) , obec sloučena s obcí Kamenice nad Li- 1 pou ‘ obec vyčleněna z okresu Pelhřimov 1 a sloučena s obcí Smilovy Hory v okrese Tábor obec sloučena s obcí Pelhřimov 1 obec sloučena s obcí Obrataň 1 obec sloučena s obcí Obrataň 1 obec sloučena s obcí Želiv 1 obec sloučena s obcí Kamenice nad Li- 1 pou obec sloučena s obcí Proseč-Obořiště 1 část obce Proseč-Obořiště, přičleněna 1 к obci Pelhřimov obec sloučena s obcí Žirovnice 1 správný název části Vatišov v obci Mez- ná je Vratišov obec sloučena s obcí Kámen 1 část obce Útěchovičky, přičleněna к ob- 1 ci Pošná, název části v obci Pošná změ- něn na Zahrádka obec sloučena s obcí Pelhřimov (bez 1 části Mysletín) obec sloučena s obcí Rynárec 1 obec sloučena s obcí Pacov 1 obec sloučena s obcí Kámen 1 obec sloučena s obcí Bernartice obec sloučena s obcí Petříkovice název nově vymezené části v obci Písek obec sloučena s obcí Mirotice část obce Písek, zanikla obec sloučena s obcí Protivín obec sloučena s obcí Záhoří .7. 1980 .1.1980 .1.1980 .4. 1976 .1.1975 .1.1975 . 4. 1976 .1.1980 .1.1980 .4. 1976 .1.1980 .4. 1976 .1.1980 .7.1980 . 1. 1980 .1.1980 .4. 1976 .4. 1976 .4. 1976 .1.1976 . 1. 1976 .1.1980 .4. 1976 .4. 1976 . 1. 1976 .1.1976 .1.1980 .1.1980 .1.1980 .7.1980 .1.1975 . 7. 1980 .4. 1976 .4. 1976 .1.1980 .7. 1980 .4. 1976 .7. 1980 .7. 1980 . 1. 1980 . 1. 1980 . 7. 1975 .4. 1976 . 1. 1980 .4. 1976 .4. 1976 . 1. 1980 .7. 1980 .4. 1976 . 7. 1980 . 1. 1975 .1.1976 .1.1976 .1.1980 . 1. 1981 .1.1980 .1.1976 . 4. 1976 1675 i"
+      ]
+    },
+    {
+      "pid": "uuid:7371bba0-e70e-11e5-92c7-5ef3fc9ae867",
+      "composite_id": "uuid:84f3ab00-d92f-11e5-984e-005056827e52!uuid:7371bba0-e70e-11e5-92c7-5ef3fc9ae867",
+      "date": "1985",
+      "page": "121",
+      "title": "Rajonizace cestovního ruchu ČSR",
+      "root_pid": "uuid:84f3ab00-d92f-11e5-984e-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿chyně — Kámen — Kozí Hrádek — Louňovice — Tábor, II. kategorie: Bratříce — Choustník — Křeč — Leskovice — Libouň — Neustupov — Pacov — Stádlec — Těchobuz — Votice — Zahrádka u Pošné. Místa s kulturně společenskými akcemi: I. kategorie: 0, II. kategorie: Sedlec."
+      ]
+    },
+    {
+      "pid": "uuid:250d1180-e70e-11e5-87ba-5ef3fc9bb22f",
+      "composite_id": "uuid:84f3ab00-d92f-11e5-984e-005056827e52!uuid:250d1180-e70e-11e5-87ba-5ef3fc9bb22f",
+      "date": "1985",
+      "page": "121",
+      "title": "Rajonizace cestovního ruchu ČSR",
+      "root_pid": "uuid:84f3ab00-d92f-11e5-984e-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "﻿chyně — Kámen — Kozí Hrádek — Louňo- vice — Tábor, II. kategorie: Bratříce — Choustník — Křeč — Leskovice — Libouň — Neustupov — Pacov — Stádlec — Těcho- buz — Votice — Zahrádka u Pošné. Místa s kulturně společenskými akcemi: I. katego- rie: 0, II. kategorie: Sedlec."
+      ]
+    },
+    {
+      "pid": "uuid:4cbb5480-e84c-11e2-9439-005056825209",
+      "composite_id": "uuid:730daab0-db23-11e2-9923-005056827e52!uuid:4cbb5480-e84c-11e2-9439-005056825209",
+      "date": "1986",
+      "page": "292",
+      "title": "Hrady, zámky a tvrze v Čechách, na Moravě a ve Slezsku. 5. Jižní Čechy",
+      "root_pid": "uuid:730daab0-db23-11e2-9923-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 88 Zahrádka, okr. Tábor 80, 154, 161 Zahrádka u Pošné, okr. Pelhřimov 155 Zálesí, okr. Benešov 135 Zálezly, okr. Prachatice 35, 56, 214—215, 221, mp 1 Zaliny, okr."
+      ]
+    },
+    {
+      "pid": "uuid:dc318400-e84b-11e2-9439-005056825209",
+      "composite_id": "uuid:730daab0-db23-11e2-9923-005056827e52!uuid:dc318400-e84b-11e2-9439-005056825209",
+      "date": "1986",
+      "page": "292",
+      "title": "Jižní Čechy",
+      "root_pid": "uuid:730daab0-db23-11e2-9923-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 88 Zahrádka, okr. Tábor 80, 154, 161 Zahrádka u Pošné, okr. Pelhřimov 155 Zálesí, okr. Benešov 135 Zálezly, okr. Prachatice 35, 56, 214—215, 221, mp 1 Zaliny, okr."
+      ]
+    },
+    {
+      "pid": "uuid:6016a90f-179a-446b-8d5b-e72bceef8140",
+      "composite_id": "uuid:22f70d60-4ff6-11ef-81c2-5ef3fc9bb22f!uuid:6016a90f-179a-446b-8d5b-e72bceef8140",
+      "date": "1986",
+      "page": "[1]",
+      "title": "Pelhřimov. 23-14",
+      "root_pid": "uuid:22f70d60-4ff6-11ef-81c2-5ef3fc9bb22f",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Chyšky 778362 Hořepník 645079 Rovná u Hořepníku - 645087 Rovná 521 Sedlice Sedlice U Zelivi .746878 Kordovsko 502 Hradek C 7 Rejd 590 \\717215 Kámen u Pacova 662348 576 ROUCKOVICE 741574 Na Pazdernách Proseč Nizká Lhota 662356 592 Nový Dvůr L Černý MI. 534 Horní Dv^ Březina I Hořepníku&gt; X459 Žlábky 481 463 612944 Brtná U hliništ Šimonicko Kletečná u Humpolce 666181 517 Straž 484 645061 Březina 473 vein 1 608149 ... 61 Na Obci: 012 TA Mašovice Mašovice u Hořepníku Zádoli Samsin Přáslavice 734098 746045 600733 Milotičky 595 Zahrádka u Posne Zahrádka 553 775584 Litohošť Štěchovice Vousk, 625 775576 624063 Čížkov Šibenný v. 518 725749 Zmišovice Popelištná 725731 U Jeřábků :/ ONSOVICE Tři Králové / 552 X Bácovice 600725 O v čm ° 603 726338 ."
+      ]
+    },
+    {
+      "pid": "uuid:65949170-2810-11e3-b79f-5ef3fc9bb22f",
+      "composite_id": "uuid:6f7587d0-171c-11ed-986f-005056827e52!uuid:65949170-2810-11e3-b79f-5ef3fc9bb22f",
+      "date": "1988",
+      "page": "85",
+      "title": "Jednotný číselník prostorových jednotek: územně technické jednotky - stálé statistické obvody : základní územní jednotky",
+      "root_pid": "uuid:6f7587d0-171c-11ed-986f-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿ZÁKLADNÍ ÚZEMNÍ JEDNOTKA ÚZEMNÉ TECHNICKÁ JEDNOTKA IČZUJ BO Název ICÚTJ PČ Název MČN OKRES 548561 23 548600 23 548715 45 548731 34 548740 34 548766 45 548774 34 548936 45 548987 23 549011 23 549053 45 549126 45 549134 45 549142 45 549215 23 3304 PELHŘIMOV 790435 33 756938 34 756920 35 797138 36 760293 37 783323 38 646318 39 646300 40 646326 41 646334 42 738158 43 680460 44 703192 45 779717 46 625370 47 625388 48 625396 49 625400 50 790311 51 618675 52 POČÁTKY 723002 01 722979 02 722987 03 722995 04 723011 05 723029 06 723037 07 725242 08 POŠNÁ 726320 01 726290 02 726338 03 775606 04 ŘEČICE 744859 01 744867 02 SALAČOVA LHOTA 745936 01 SAMŠÍN 746045 01 734098 02 SEDUCE 746878 01 SENOŽATY 747564 01 747548 02 747572 03 771431 04 TĚMICE 765864 01 765821 02 765830 03 765848 04 ÚTĚCHOVICE 775576 01 775568 02 775592 03 775584 04 VELKÁ CHYŠKA 778389 01 778362 02 778371 03 VESELÁ 780511 01 VOJSLAVICE 784621 01 VYKLANTICE 787591 01 VYSKYTNÁ 787752 01 609358 02 656798 03 618683 04 757985 05 ŽELIV 796271 01 ZAJIČKOV J STRMÈCHY M JELCOVY LHOTKY M ŽIROV J SVÉPRAVICE J VľASENICE U PELHňlMOVA J HOUSEROVKA J BENÁTKY U HOUSEROVKY M JANOVICE U HOUSEROVKY J OSTROVEC U HOUSEROVKY J RADŇOV U RYNÁRCE J LESOV J NEMOJOV J VEĽKÝ RYBNÍK U HUMPOLCE J DEHTÁŘE M MILOTICE J ONŠOVICE U DEHTÁŘÚ J VADČICE J ZACHOTÍN J ČÁSTONÍN J POČÁTKY M HEftMANEČ U POČÁTEK J HORNl VILÍMEČ J LÉSKOVEC J PROSTÝ J STO J Čí N J VESCE U POČÁTEK J POLESÍ U POČÁTEK J POŠNÁ J DÚL J PROSEČ U POŽNÉ J ZAHRÁDKA U POŠNÉ J ŔEČICE U HUMPOLCE J KŘEPINY M SALAČOVA LHOTA J SAMŠÍN J PŘÁSLAVICE J SEDUCE U ŽEL1VI J SENOŽATY M NEČICE J SYROV J TUKLEKY M TĚMICE U KAMENICE NAD LIPOU J BABÍN J DRAHOŇOV J DRACHOV J ÚTĚCHOVICE U HOftEPNÍKU J MAŠOVICE U HOŘEPNÍKU J ÚTĚCHOVIČKY M LITOHOŠŤ J VELKÁ CHYŠKA J LESNÁ U VELKÉ CHYŠKY J ÚTĚCHOVICE POD STRAŽIŠTĚM J VESELÁ U ČASTROVA J VOJSLAVICE NAD ŽELIVKOU M VYKLANTICE J VYSKYTNÁ J BRANIŠOV POD KňEMEŠNlKEM J JANKOV U PELHňlMOVA J SEDLIŠTĚ U ČASTONÍNA M STfiíTEŽ POD KňEMEŠNlKEM J ŽELIV J"
+      ]
+    },
+    {
+      "pid": "uuid:c3646050-2810-11e3-b79f-5ef3fc9bb22f",
+      "composite_id": "uuid:53b3f170-10ba-11e3-9923-005056827e52!uuid:c3646050-2810-11e3-b79f-5ef3fc9bb22f",
+      "date": "1988",
+      "page": "85",
+      "title": "Jednotný číselník prostorových jednotek: Zákl. územní jednotky (obce) : Územně techn. jednotky (katastry) : Stav ke dni 31. 12. 1987. Díl 1. Systematické uspořádání",
+      "root_pid": "uuid:53b3f170-10ba-11e3-9923-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿ZÁKLADNÍ ÚZEMNÍ JEDNOTKA ÚZEMNÉ TECHNICKÁ JEDNOTKA IČZUJ BO Název ICÚTJ PČ Název MČN OKRES 548561 23 548600 23 548715 45 548731 34 548740 34 548766 45 548774 34 548936 45 548987 23 549011 23 549053 45 549126 45 549134 45 549142 45 549215 23 3304 PELHŘIMOV 790435 33 756938 34 756920 35 797138 36 760293 37 783323 38 646318 39 646300 40 646326 41 646334 42 738158 43 680460 44 703192 45 779717 46 625370 47 625388 48 625396 49 625400 50 790311 51 618675 52 POČÁTKY 723002 01 722979 02 722987 03 722995 04 723011 05 723029 06 723037 07 725242 08 POŠNÁ 726320 01 726290 02 726338 03 775606 04 ŘEČICE 744859 01 744867 02 SALAČOVA LHOTA 745936 01 SAMŠÍN 746045 01 734098 02 SEDUCE 746878 01 SENOŽATY 747564 01 747548 02 747572 03 771431 04 TĚMICE 765864 01 765821 02 765830 03 765848 04 ÚTĚCHOVICE 775576 01 775568 02 775592 03 775584 04 VELKÁ CHYŠKA 778389 01 778362 02 778371 03 VESELÁ 780511 01 VOJSLAVICE 784621 01 VYKLANTICE 787591 01 VYSKYTNÁ 787752 01 609358 02 656798 03 618683 04 757985 05 ŽELIV 796271 01 ZAJIČKOV J STRMÈCHY M JELCOVY LHOTKY M ŽIROV J SVÉPRAVICE J VľASENICE U PELHňlMOVA J HOUSEROVKA J BENÁTKY U HOUSEROVKY M JANOVICE U HOUSEROVKY J OSTROVEC U HOUSEROVKY J RADŇOV U RYNÁRCE J LESOV J NEMOJOV J VEĽKÝ RYBNÍK U HUMPOLCE J DEHTÁŘE M MILOTICE J ONŠOVICE U DEHTÁŘÚ J VADČICE J ZACHOTÍN J ČÁSTONÍN J POČÁTKY M HEftMANEČ U POČÁTEK J HORNl VILÍMEČ J LÉSKOVEC J PROSTÝ J STO J Čí N J VESCE U POČÁTEK J POLESÍ U POČÁTEK J POŠNÁ J DÚL J PROSEČ U POŽNÉ J ZAHRÁDKA U POŠNÉ J ŔEČICE U HUMPOLCE J KŘEPINY M SALAČOVA LHOTA J SAMŠÍN J PŘÁSLAVICE J SEDUCE U ŽEL1VI J SENOŽATY M NEČICE J SYROV J TUKLEKY M TĚMICE U KAMENICE NAD LIPOU J BABÍN J DRAHOŇOV J DRACHOV J ÚTĚCHOVICE U HOftEPNÍKU J MAŠOVICE U HOŘEPNÍKU J ÚTĚCHOVIČKY M LITOHOŠŤ J VELKÁ CHYŠKA J LESNÁ U VELKÉ CHYŠKY J ÚTĚCHOVICE POD STRAŽIŠTĚM J VESELÁ U ČASTROVA J VOJSLAVICE NAD ŽELIVKOU M VYKLANTICE J VYSKYTNÁ J BRANIŠOV POD KňEMEŠNlKEM J JANKOV U PELHňlMOVA J SEDLIŠTĚ U ČASTONÍNA M STfiíTEŽ POD KňEMEŠNlKEM J ŽELIV J"
+      ]
+    },
+    {
+      "pid": "uuid:e5abd2c0-2602-11e3-b62e-005056825209",
+      "composite_id": "uuid:acdf6620-139a-11e3-8f8a-005056827e52!uuid:e5abd2c0-2602-11e3-b62e-005056825209",
+      "date": "1988",
+      "page": "164",
+      "title": "Abecední uspořádání",
+      "root_pid": "uuid:acdf6620-139a-11e3-8f8a-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "J 790419 3603 ZÁHORNICE U MĚSTCE KRÁLOVÉ J 789828 3208 ZAJEŽOVÁ J 871915 5311 ZÁHOROVICE M 789836 3711 ZAJÍČKOV J 790435 3304 ZÁHORSKÁ BYSTRICA 1 J 871796 5104 ZÁ KAMENNÉ J 871940 5303 ZÁHORSKÁ BYSTRICA II J 871800 5201 ZÁKOPČIE J 872253 5302 ZÁHORSKÁ BYSTRICA III J 871818 5201 ZÁKOSTOĽANY M 868159 5211 ZÁHORSKÁ VES J. 871826 5201 ZÁKOUTÍ J 605425 3503 ZAHOŘANY M 789909 3305 ZÁKRAVÍ J 709271 3607 ZAHOŘANY U BEROUNA M 789844 3202 ZAKŘANY M 790478 3703 ZAHOŘANY U DOMAŽLIC M 789925 3401 ZÁKŘOV J 790486 3805 ZÁHOŘANY U LITOMĚŘIC M 789941 3506 ZAKŠÍN J 790516 3501 ZAHOŘANY U MNÍŠKU POD BRDY M 697656 3210 ZAKŠOV U HRADIŠTĚ J 990370 3403 ZÁHOŘÍ 721727 3303 ZÁKUPY M 790567 3501 ZÁHOŘÍ U BECHYNĚ 790044 3308 ZALABA J 872261 5205 ZÁHOŘÍ U ČERNOŠÍNA 620475 3410 ZALAŽANY M 658464 3603 ZÁHOŘÍ U HUMPOLCE 789950 3304 ZÁLESÍ U BÍTOVA J 790575 3713 ZÁHOŘÍ U CHROBOL 654205 3306 ZÁLESÍ U DRÁŽOVA J 632295 3307 ZÁHOŘÍ U MILČE 694576 3406 ZÁLESÍ U DVORA KRÁLOVÉ J 631299 3610 ZÁHOŘÍ U MILIČÍNA 694878 3201 ZÁLESÍ U JAVORNÍKA J 657964 3809 ZÁHOŘÍ U SEMIL 790095 3608 ZÁLESÍ U JEVÍČKA J 604771 3609 ZÁHOŘÍ U VERUŠIČEK 780324 3403 ZÁLESÍ U PŘÍCHOVIC J 735965 3406 ZÁHOŘÍ U VĚTŘNÍ 781215 3302 ZÁLESIE J 872270 5201 ZÁHOŘICE M 706965 3403 ZÁLESIE V ZAMAGURÍ J 872296 5406 ZÁHOSTICE 655481 3308 ZÁLESNÁ ZHOŘ J 790583 3703 ZAHRADA 662330 3714 ZÁLESNÍ LHOTA J 790591 3608 ZAHRÁDČICE 629383 3201 ZALEŠANY M 790613 3204 ZÁHRADÍ 685704 3609 ZÁLEZLICE M 790630 3206 ZAHRADIŠTĚ 738395 3714 ZÁLEZLY M 777731 3507 ZAHRÁDKA 742821 3302 ZÁLEZLY U ČKYNÉ M 790656 3306 ZAHRÁDKA NA MORAVĚ 790222 3710 ZALÍBENÉ J 758507 3603 ZAHRÁDKA U BENEŠOVA 790133 3201 ZALINY M 662224 3301 ZAHRÁDKA U ČACHROVA 618268 3404 ZALOŇOV J 790699 3605 ZAHRÁDKA U ČÍŽKOVA 624098 3406 ZÁLŠÍ J 790729 3308 ZAHRÁDKA U KOVÁŘOVA 670251 3305 ZÁLŠÍ U CHOCNĚ J 790745 3611 ZAHRÁDKA U LEDČE NAD SÁZAVOU 790206 3601 ZÁLŠÍ U SEPEKOVA J 747611 3305 ZAHRÁDKA U MIRKOVIC 695335 3302 ZALUŽANY M 790761 3211 ZAHRÁDKA U OMLENIC 711241 3302 ZALUŽANY U VYKLIČ M 787639 3510 ZAHRÁDKA U PETROVIC 719919 3211 ZÁLUŽÍ J 671118 3406 ZAHRÁDKA U POŠNÉ 775606 3304 ZÁLUŽÍ NAD VLTAVOU J 790826 3302 ZAHRÁDKA U STARÉHO SEDLA 754714 3403 ZÁLUŽÍ U BUDISLAVI J 790851 3308 ZAHRÁDKA U VŠERUB 790176 3407 ZÁLUŽÍ U ČELÁKOVIC J 619230 3209 ZAHRÁDKY M 790249 3303 ZÁLUŽÍ U HOŘOVIC J 790770 3202 ZAHRÁDKY U BOROVÝCH LAD M 707970 3306 ZÁLUŽÍ U LITVÍNOVA J 790842 3508 164"
+      ]
+    },
+    {
+      "pid": "uuid:6a231bd0-2603-11e3-b62e-005056825209",
+      "composite_id": "uuid:acdf6620-139a-11e3-8f8a-005056827e52!uuid:6a231bd0-2603-11e3-b62e-005056825209",
+      "date": "1988",
+      "page": "164",
+      "title": "Jednotný číselník prostorových jednotek: Zákl. územní jednotky (obce) : Územně techn. jednotky (katastry) : Stav ke dni 31. 12. 1987. Díl 2. Abecední uspořádání",
+      "root_pid": "uuid:acdf6620-139a-11e3-8f8a-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "J 790419 3603 ZÁHORNICE U MĚSTCE KRÁLOVÉ J 789828 3208 ZAJEŽOVÁ J 871915 5311 ZÁHOROVICE M 789836 3711 ZAJÍČKOV J 790435 3304 ZÁHORSKÁ BYSTRICA 1 J 871796 5104 ZÁ KAMENNÉ J 871940 5303 ZÁHORSKÁ BYSTRICA II J 871800 5201 ZÁKOPČIE J 872253 5302 ZÁHORSKÁ BYSTRICA III J 871818 5201 ZÁKOSTOĽANY M 868159 5211 ZÁHORSKÁ VES J. 871826 5201 ZÁKOUTÍ J 605425 3503 ZAHOŘANY M 789909 3305 ZÁKRAVÍ J 709271 3607 ZAHOŘANY U BEROUNA M 789844 3202 ZAKŘANY M 790478 3703 ZAHOŘANY U DOMAŽLIC M 789925 3401 ZÁKŘOV J 790486 3805 ZÁHOŘANY U LITOMĚŘIC M 789941 3506 ZAKŠÍN J 790516 3501 ZAHOŘANY U MNÍŠKU POD BRDY M 697656 3210 ZAKŠOV U HRADIŠTĚ J 990370 3403 ZÁHOŘÍ 721727 3303 ZÁKUPY M 790567 3501 ZÁHOŘÍ U BECHYNĚ 790044 3308 ZALABA J 872261 5205 ZÁHOŘÍ U ČERNOŠÍNA 620475 3410 ZALAŽANY M 658464 3603 ZÁHOŘÍ U HUMPOLCE 789950 3304 ZÁLESÍ U BÍTOVA J 790575 3713 ZÁHOŘÍ U CHROBOL 654205 3306 ZÁLESÍ U DRÁŽOVA J 632295 3307 ZÁHOŘÍ U MILČE 694576 3406 ZÁLESÍ U DVORA KRÁLOVÉ J 631299 3610 ZÁHOŘÍ U MILIČÍNA 694878 3201 ZÁLESÍ U JAVORNÍKA J 657964 3809 ZÁHOŘÍ U SEMIL 790095 3608 ZÁLESÍ U JEVÍČKA J 604771 3609 ZÁHOŘÍ U VERUŠIČEK 780324 3403 ZÁLESÍ U PŘÍCHOVIC J 735965 3406 ZÁHOŘÍ U VĚTŘNÍ 781215 3302 ZÁLESIE J 872270 5201 ZÁHOŘICE M 706965 3403 ZÁLESIE V ZAMAGURÍ J 872296 5406 ZÁHOSTICE 655481 3308 ZÁLESNÁ ZHOŘ J 790583 3703 ZAHRADA 662330 3714 ZÁLESNÍ LHOTA J 790591 3608 ZAHRÁDČICE 629383 3201 ZALEŠANY M 790613 3204 ZÁHRADÍ 685704 3609 ZÁLEZLICE M 790630 3206 ZAHRADIŠTĚ 738395 3714 ZÁLEZLY M 777731 3507 ZAHRÁDKA 742821 3302 ZÁLEZLY U ČKYNÉ M 790656 3306 ZAHRÁDKA NA MORAVĚ 790222 3710 ZALÍBENÉ J 758507 3603 ZAHRÁDKA U BENEŠOVA 790133 3201 ZALINY M 662224 3301 ZAHRÁDKA U ČACHROVA 618268 3404 ZALOŇOV J 790699 3605 ZAHRÁDKA U ČÍŽKOVA 624098 3406 ZÁLŠÍ J 790729 3308 ZAHRÁDKA U KOVÁŘOVA 670251 3305 ZÁLŠÍ U CHOCNĚ J 790745 3611 ZAHRÁDKA U LEDČE NAD SÁZAVOU 790206 3601 ZÁLŠÍ U SEPEKOVA J 747611 3305 ZAHRÁDKA U MIRKOVIC 695335 3302 ZALUŽANY M 790761 3211 ZAHRÁDKA U OMLENIC 711241 3302 ZALUŽANY U VYKLIČ M 787639 3510 ZAHRÁDKA U PETROVIC 719919 3211 ZÁLUŽÍ J 671118 3406 ZAHRÁDKA U POŠNÉ 775606 3304 ZÁLUŽÍ NAD VLTAVOU J 790826 3302 ZAHRÁDKA U STARÉHO SEDLA 754714 3403 ZÁLUŽÍ U BUDISLAVI J 790851 3308 ZAHRÁDKA U VŠERUB 790176 3407 ZÁLUŽÍ U ČELÁKOVIC J 619230 3209 ZAHRÁDKY M 790249 3303 ZÁLUŽÍ U HOŘOVIC J 790770 3202 ZAHRÁDKY U BOROVÝCH LAD M 707970 3306 ZÁLUŽÍ U LITVÍNOVA J 790842 3508 164"
+      ]
+    },
+    {
+      "pid": "uuid:d7a806af-2eb9-11e7-b165-001b63bd97ba",
+      "composite_id": "uuid:b30acb61-474b-4653-9776-cb88c0df1084!uuid:d7a806af-2eb9-11e7-b165-001b63bd97ba",
+      "date": "17.11.1989",
+      "page": "8",
+      "title": "Jihočeská Pravda: orgán Komunistické strany Československa v Čes. Budějovicích",
+      "root_pid": "uuid:b30acb61-474b-4653-9776-cb88c0df1084",
+      "collections": [
+        "cbvk"
+      ],
+      "leader": "cbvk",
+      "accessibility": "private",
+      "snippets": [
+        "Aspoň občas z něčeho,&quot; říká soudružka Tomanová a zahrAdka u POŠNÉ První místo našeho zastavení. Ještě než do redakčního favorita přisednou soudružka Tomanová a wedoucí metodička Zdeňka Zemanová, která nám jako znalec terénu bude dělat průvodce a navigátora. nahlížím do knihy zápisů.",
+        "„Nemá cenu obnovovat fond který je značně zastaralý, dopadlo by to s ním stejně jako tady s těmi knížkami,&quot; doplní metndička a pokračuje už venku „Tam. kde je počet obyvatel jakž takž, snažíme se provoz knihoven udržet, ale tady. v tomhle prostředí, pro těch pár EXKURZE Zahrádka u Pošné. Do knihovny vede cesta kolem kravinám ze zkušenosti dodá: „Už při vchodu do knihovny poznáte, jestli knihovna žije, jestli má o práci zájem nejen knihovník, ale také příslušný národní výbor."
+      ]
+    },
+    {
+      "pid": "uuid:8ab676bd-fa16-4ea1-9b17-4c278d7a12f0",
+      "composite_id": "uuid:106a4a40-78f4-11f0-94da-5ef3fc9bb22f!uuid:8ab676bd-fa16-4ea1-9b17-4c278d7a12f0",
+      "date": "1991",
+      "page": "1162",
+      "title": "Zeměpisný lexikon ČR",
+      "root_pid": "uuid:106a4a40-78f4-11f0-94da-5ef3fc9bb22f",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Rožmitál na Šumavě; Č. Krumlov; zan. 1963 Zahrádka u Pošné viz Zahrádka; Pelhřimov Zahrádky č. o. Nový Svět; Prachatice; zan. 1955 Zakopanka č. o."
+      ]
+    },
+    {
+      "pid": "uuid:8edb1a6a-c113-4907-822d-0fd22ebfce2b",
+      "composite_id": "uuid:d93b2830-c26d-11ed-98a8-5ef3fc9bb22f!uuid:8edb1a6a-c113-4907-822d-0fd22ebfce2b",
+      "date": "1996",
+      "page": "169",
+      "title": "Zemědělství: (soubor právních předpisů)",
+      "root_pid": "uuid:d93b2830-c26d-11ed-98a8-5ef3fc9bb22f",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿169 u Pelhřimova, Dubovice, Důl v Pošné, Eš, Heřmaneč u Počátek, Hněvkovice u Humpolce, Hodějovice, Hojanovice, Hojovice, Holušice, Horní Cerekev, Horní Ves, Horní Vilímeč, Hořepník, Hořice u Humpolce, Houserovka, Hrobská Zahrádka, Hroznětice, Hříběcí, Humpolec, Chlovy, Chmelná u Pelhřimova, Chrástov u Horní Cerekve, Chválov u Pelhřimova, Chvojnov, Chýstovice, Chýšná, Janovice u Houserovky, Jelcovy Lhotky, Jetřichovec, Ježov nad Želivkou, Jiřice u Humpolce, Jiřičky, Kámen u Pacova, Kejžlice, Kletečná u Humpolce, Koberovice, Kojčice, Komorovice, Košetice, Kramolín u Křešína, Krasikovice, Krasoňov, Krumvald, Křeč, Křelovice u Pelhřimova, Křešín u Pacova, Kuklety, Kyjov u Buřenic, Leskovice, Lesná u Velké Chýšky, Lešov, Léskovec, Lhotice, Lhotka u Humpolce, Libkova Voda, Lidmaň, Lidmaňka, Lipice, Litohošť, Liskovice, Lísky u Holušic, Lohenice, Lukavec u Pacova, Markvarec u Nové Cerekve, Martinice u Onšova, Mašovice u Hořepníku, Mezilesí, Mezná u Pelhřimova, Miletín u Humpolce, Milotice, Milotičky, Mladé Bříště, Moraveč, Moudrov, Mysletín, Myslotín, Myslov, Nečice, Nemojov, Nízká Lhota, Nová Buková, Nová Cerekev, Nový Rychnov, Obrataň, Olešná u Pelhřimova, Ondrejov u Pelhřimova, Onšov, Onšovice u Dehtářů, Ostrovec u Houserovky, Pacov, Pavlov u Rynárce, Pejškov, Pelhřimov, Petrovice u Humpolce, Píšť u Humpolce, Plačkov, Plevnice, Pobistrýce, Počátky, Podivice, Popelištná, Poříčí u Bolechova, Pošná, Proseč Obořiště, Proseč pod Křemešníkem, Proseč u Pošné, Prostý, Přáslavice, Putimov, Radějov u Buřenic, Radětín, Radňov u Rynárce, Rohovka, Roučkovice, Rovná u Hořepníku, Rozkoš u Humpolce, Rynárec, Řemenov, Řeženčice, Salačova Lhota, Samšín, Sázava pod Křemešníkem, Sedlice u Želiva, Sedliště u Častonina, Senožaty, Skoranovice, Skrýšov u Pelhřimova, Služátky u Pelhřimova, Speřice, Stanovíce u Nové Cerekve, Staré Bříště, Starý Pelhřimov, Stojčín, Strměchy, Střítež pod Křemešníkem, Střítež u Božejova, Střítež u Čemovic, Sudkův Důl, Svatava u Černovic, Svépravice, Syrov, Simpach, Štědrovice, Těchobuz, Těchoraz, Těšenov, Těškovice u Onšova, Turovka, Týmová Ves, Ústrašín, Útěchovice pod Strážištěm, Útěchovice u Hořepníku, Útěchovičky, Vadčice, Velká Chýška, Velká Rovná, Velká Ves, Velký Rybník u Humpolce, Vesce u Počátek, Veselá u Častrova, Věžná, Vilémov u Humpolce, Vintířov, Vitice u Humpolce, Vlásenice-Drbohlavy, Vlásenice u Pelhřimova, Vlkosovice, Vojslavice nad Želivkou, Vokov u Rynárce, Vranice, Vratišov u Mezné, Vřesník, Vyklantice, Vyskytná, Vysoká Lhota, Zahrádka u Pošné, Zachotín, Zajíčkov, Záhoří u Humpolce, Zhoř u Pacova, Zhořec u Pacova, Zlátenka, Zmišovice, Želiv, Žirov."
+      ]
+    },
+    {
+      "pid": "uuid:347df802-1e6b-456a-87f0-75d8ede5ca38",
+      "composite_id": "uuid:3b2f13a0-465b-11e9-936e-005056827e52!uuid:347df802-1e6b-456a-87f0-75d8ede5ca38",
+      "date": "1996",
+      "page": "182",
+      "title": "Přehled právních předpisů pro oceňování nemovitostí: 1. 1. 1994 - 31. 3. 1996. [3]",
+      "root_pid": "uuid:3b2f13a0-465b-11e9-936e-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "ČSÚ Název katastrálního území Kč/m2 330410602 721069 VRANICE U HUMPOLCE 5.60 330408802 693782 VRATIŠOV U MEZNÉ 3.37 330417308 782866 VŔESNÍK 3.96 330416501 787591 VYKLANTICE 4.64 330416601 787752 VYSKYTNÁ 3.06 330416701 788040 VYSOKÁ LHOTA 2.44 330418101 668869 VYSTRKOV U HUMPOLCE 3.80 330408903 789950 ZÁHOŘÍ U HUMPOLCE 3.66 330411204 775606 ZAHRÁDKA U POŠNÉ &apos;4.44 330416901 790311 ZACHOTÍN 3.83 330417001 790435 ZAJÍČKOV 3.71 330410308 792951 ZHOŔ U PACOVA 2.78 330417101 792969 ZHOŔEC U PACOVA 4.42 330417201, 793205 ZLÁTENKA 3.28 330402906 725749 ZMIŠOVICE 3.96 330417301 796271 ŽELIV 4.55 330417401 797138 Ž ÍROV 4.68 330417501 797154 ŽIROVNICE 4.41 Okres: PÍSEK 330500201 600229 ALBRECHTICE NAD VLTAVOU 3.30 330500301 602663 BERNARTICE U MILEVSKA 4.46 330507402 780821 BÍLINA 3.73 330500302 602671 BILINKA 4.08 330508302 792837 BLEHOV 2.93 330500303 602680 BOJENICE 4.17 330503610 606898 BOJEŠICE 4.03 330501102 624152 BOREČNICE 3.72 330500501 607789 BOROVANY U MILEVSKA 4.25 330503507 756822 BOŘÍCE U MIROTIC 4.36 330501103 624161 BOŠOVICE U ČÍŽOVÉ 3.21 330508601 695483 BOUDY 4.28 330500601 608840 BOŽETICE 4.11 330500701 609307 BRÁNICE ■4- 3.76 330502208 739766 BRANIŠOVICE U RATIBOŘE 3.00 330501502 632406 BRLOH U DRHOVLE 3.36 330502802 671398 BŘEZÍ U KOVÁŘOVA 3.31 330508303 792870 BŘEZÍ U MILEVSKA 3.08 330500901 617571 CERHONICE 4.09 330501001 623822 ČIMELICE 4.71 330504802 716120 DÉDOVICE 3.86 330503403 626732 DMÝŠTICE 3.83 330502602 666700 DOBEŠICE 3.88 330502803 671363 DOBRÁ VODA U KOVÁŘOVA 2.60 330501802 647918 DOBROŠOV U HRAZAN 3.45 330504101 703699 DOLNÍ NERESTCE 4.95 330509001 789968 DOLNÍ NOVOSEDLY 3.60 330504801 716138 DOLNÍ OSTROVEC 3.99 330501401 632198 DRAŽíČ 4.89 156"
+      ]
+    },
+    {
+      "pid": "uuid:c8c4200e-3384-4a9c-81b6-5bf294ca1b8d",
+      "composite_id": "uuid:efe6e9e0-225f-11ef-be46-0050568d319f!uuid:c8c4200e-3384-4a9c-81b6-5bf294ca1b8d",
+      "date": "1999",
+      "page": "318",
+      "title": "Židovské matriky HBMa 1784-1949 (1960)",
+      "root_pid": "uuid:efe6e9e0-225f-11ef-be46-0050568d319f",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Tábor 2, 8, 1358, 1359, 1362, 1692 Zahrádka u Pošné, ob. Útěchovičky, o. Pelhřimov 205, 488, 490, 1500-1504, 1507, 1508, 1510 Zahrádky, o."
+      ]
+    },
+    {
+      "pid": "uuid:755db560-f104-ef75-a4ec-99e9c895cb41",
+      "composite_id": "uuid:4aa6b700-6c66-11e2-8ed6-005056827e52!uuid:755db560-f104-ef75-a4ec-99e9c895cb41",
+      "date": "2004",
+      "page": "236",
+      "title": "Ceny zemědělských a stavebních pozemků 2004 stanovené v návaznosti na vyhlášku ministerstva financí č. 540/2002 Sb. ve znění vyhlášky číslo 452/2003 Sb., kterou se provádějí některá ustanovení zákona č. 151/1997 Sb. o oceňování majetku",
+      "root_pid": "uuid:4aa6b700-6c66-11e2-8ed6-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿název obce I statut kód obce počet obyvatel | cena stav. poz název katastrálního úzenií kód kú prům. cena zem poz. typ přirážky u zem. pozemku satelit Mys lov 651907 2,84 Kč/m2 60 % (6.2) Nová Cerekev 705012 4,18 Kč/m2 60 % (6.2) Proseč-Obofiště 733202 3,01 Kč/m2 60 % (6.2) Stanovíce u Nové Cerekve 705021 4,21 Kč/m2 60 % (6.2) Nový Rychnov | 1 548464 925 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Cejkov 618985 2,43 Kč/m2 60 % (6.2) Nový Rychnov 707881 1,98 Kč/m2 60 % (6.2) Reženčice 745430 2,09 Kč/m2 60 % (6.2) Sázava pod Křemešníkem 746215 2,06 Kč/m2 60 % (6.2) Obrataň | 1 548472 857 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Bezděčín u Obrataně 708691 1,48 Kč/m2 Hrobská Zahrádka 708704 2,73 Kč/m2 Moudrov 782386 1,99 Kč/m2 Obrataň 708712 2,72 Kč/m2 Sudkův Důl 758787 2,08 Kč/m2 Simpach 708721 4,24 Kč/m2 40 % (7.2) Vintírov 782394 2,18 Kč/m2 Olešná 1 1 561967 524 obyvatel I §28 odst. 1 k) 35,00 Kč/m2 Chválov u Pelhřimova 710211 3,90 Kč/m2 60 % (6.2) Olešná u Pelhřimova 710229 3,16 Kč/m2 60 % (6.2) Plevnice 710237 3,78 Kč/m2 60 % (6.2) Remeňov 710245 4,16 Kč/m2 60 % (6.2) Ondrejov | 1 537691 128 obyvatel | §28 odst 1 k) 35,00 Kč/m2 Ondřejov u Pelhřimova 711292 4,11 Kč/m21 60% (6.2) Onšov 1 1 548502 239 obyvatel I §28 odst. 1 k) 35,00 Kč/m2 Chlovy 711349 4,20 Kč/m2 Onšov 711357 3,64 Kč/m2 Těškovice u Onšova 711365 3,78 Kč/m2 Paco v 1 2 548511 5198 obyvatel | §28 odst. 1 k) 66,12 Kč/m2 Bedřichov u Zhořce 792934 3,23 Kč/m2 80% (7.1) Jetřichovec 659207 3,72 Kč/m2 80% (7.1) Pacov 717215 4,38 Kč/m2 80% (7.1) Roučkovice 741574 4,12 Kč/m2 80% (7.1) Velká Rovná 792942 3,23 Kč/m2 80% (7.1) Zhoř u Pacova 792951 2,03 Kč/m2 80% (7.1) Pavlov 1 1 561916 139 obyvatel | §28 odst 1 k) 35,00 Kč/m2 Pavlov u Rynárce 718360 3,54 Kč/m21 60 % (6.2) Píšť 1 1 548545 79 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Píšť u Humpolce 721051 4,79 Kč/m2 Vranice u Humpolce 721069 4,97 Kč/m2 Počátky 1 2 548561 2746 obyvatel | §28 odst. 1 k) 47,94 Kč/m2 Heřmaneč u Počátek 722979 2,34 Kč/m2 40% (8.1) &apos; Horní Vilímeč 722987 2,14 Kč/m2 40 % (8.1) Léskovec 722995 2,14 Kč/m2 40 % (8.1) Počátky 723002 2,71 Kč/m2 40% (8.1) Prostý 723011 2,69 Kč/m2 40 % (8.1) Vesce u Počátek 723037 2,69 Kč/m2 40 % (8.1) Polesí 1 1 561436 84 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Polesí u Počátek 725242 2,44 Kč/m21 20 % (8.2) Pošná 1 1 548600 206 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Pošná 726320 3,29 Kč/m2 40 % (7.2) Proseč u Pošné 726338 2,91 Kč/m2 Zahrádka u Pošné 775606 3,53 Kč/m2 Proseč 1 1 537829 75 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Proseč u Humpolce 733156 1,81 Kč/m21 60% (6.2) Proseč pod Křemešníkem | 1 561941 82 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Proseč pod Křemešníkem 733253 2,57 Kč/m21 60 % (6.2) Putimov 1 1 598755 230 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Putimov 736996 4,05 Kč/m21 60 % (6.2) Rod ino v 1 1 561789 211 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Rodinov 740276 3,55 Kč/m21 20 % (8.2) Rovná 1 1 561274 66 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Rovná u Hořepníku 645087 2,95 Kč/m21 -236 -"
+      ]
+    },
+    {
+      "pid": "uuid:05c4d5b9345cf23a7056dbc8b2324d55",
+      "composite_id": "uuid:4aa6b700-6c66-11e2-8ed6-005056827e52!uuid:05c4d5b9345cf23a7056dbc8b2324d55",
+      "date": "2004",
+      "page": "236",
+      "title": "Ceny zemědělských a stavebních pozemků 2004 stanovené v návaznosti na vyhlášku ministerstva financí č. 540/2002 Sb. ve znění vyhlášky číslo 452/2003 Sb., kterou se provádějí některá ustanovení zákona č. 151/1997 Sb. o oceňování majetku",
+      "root_pid": "uuid:4aa6b700-6c66-11e2-8ed6-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "﻿název obce I statut kód obce počet obyvatel | cena stav. poz název katastrálního úzenií kód kú prům. cena zem poz. typ přirážky u zem. pozemku satelit Mys lov 651907 2,84 Kč/m2 60 % (6.2) Nová Cerekev 705012 4,18 Kč/m2 60 % (6.2) Proseč-Obofiště 733202 3,01 Kč/m2 60 % (6.2) Stanovíce u Nové Cerekve 705021 4,21 Kč/m2 60 % (6.2) Nový Rychnov | 1 548464 925 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Cejkov 618985 2,43 Kč/m2 60 % (6.2) Nový Rychnov 707881 1,98 Kč/m2 60 % (6.2) Reženčice 745430 2,09 Kč/m2 60 % (6.2) Sázava pod Křemešníkem 746215 2,06 Kč/m2 60 % (6.2) Obrataň | 1 548472 857 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Bezděčín u Obrataně 708691 1,48 Kč/m2 Hrobská Zahrádka 708704 2,73 Kč/m2 Moudrov 782386 1,99 Kč/m2 Obrataň 708712 2,72 Kč/m2 Sudkův Důl 758787 2,08 Kč/m2 Simpach 708721 4,24 Kč/m2 40 % (7.2) Vintírov 782394 2,18 Kč/m2 Olešná 1 1 561967 524 obyvatel I §28 odst. 1 k) 35,00 Kč/m2 Chválov u Pelhřimova 710211 3,90 Kč/m2 60 % (6.2) Olešná u Pelhřimova 710229 3,16 Kč/m2 60 % (6.2) Plevnice 710237 3,78 Kč/m2 60 % (6.2) Remeňov 710245 4,16 Kč/m2 60 % (6.2) Ondrejov | 1 537691 128 obyvatel | §28 odst 1 k) 35,00 Kč/m2 Ondřejov u Pelhřimova 711292 4,11 Kč/m21 60% (6.2) Onšov 1 1 548502 239 obyvatel I §28 odst. 1 k) 35,00 Kč/m2 Chlovy 711349 4,20 Kč/m2 Onšov 711357 3,64 Kč/m2 Těškovice u Onšova 711365 3,78 Kč/m2 Paco v 1 2 548511 5198 obyvatel | §28 odst. 1 k) 66,12 Kč/m2 Bedřichov u Zhořce 792934 3,23 Kč/m2 80% (7.1) Jetřichovec 659207 3,72 Kč/m2 80% (7.1) Pacov 717215 4,38 Kč/m2 80% (7.1) Roučkovice 741574 4,12 Kč/m2 80% (7.1) Velká Rovná 792942 3,23 Kč/m2 80% (7.1) Zhoř u Pacova 792951 2,03 Kč/m2 80% (7.1) Pavlov 1 1 561916 139 obyvatel | §28 odst 1 k) 35,00 Kč/m2 Pavlov u Rynárce 718360 3,54 Kč/m21 60 % (6.2) Píšť 1 1 548545 79 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Píšť u Humpolce 721051 4,79 Kč/m2 Vranice u Humpolce 721069 4,97 Kč/m2 Počátky 1 2 548561 2746 obyvatel | §28 odst. 1 k) 47,94 Kč/m2 Heřmaneč u Počátek 722979 2,34 Kč/m2 40% (8.1) &amp;apos; Horní Vilímeč 722987 2,14 Kč/m2 40 % (8.1) Léskovec 722995 2,14 Kč/m2 40 % (8.1) Počátky 723002 2,71 Kč/m2 40% (8.1) Prostý 723011 2,69 Kč/m2 40 % (8.1) Vesce u Počátek 723037 2,69 Kč/m2 40 % (8.1) Polesí 1 1 561436 84 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Polesí u Počátek 725242 2,44 Kč/m21 20 % (8.2) Pošná 1 1 548600 206 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Pošná 726320 3,29 Kč/m2 40 % (7.2) Proseč u Pošné 726338 2,91 Kč/m2 Zahrádka u Pošné 775606 3,53 Kč/m2 Proseč 1 1 537829 75 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Proseč u Humpolce 733156 1,81 Kč/m21 60% (6.2) Proseč pod Křemešníkem | 1 561941 82 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Proseč pod Křemešníkem 733253 2,57 Kč/m21 60 % (6.2) Putimov 1 1 598755 230 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Putimov 736996 4,05 Kč/m21 60 % (6.2) Rod ino v 1 1 561789 211 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Rodinov 740276 3,55 Kč/m21 20 % (8.2) Rovná 1 1 561274 66 obyvatel | §28 odst. 1 k) 35,00 Kč/m2 Rovná u Hořepníku 645087 2,95 Kč/m21 -236 -"
+      ]
+    },
+    {
+      "pid": "uuid:464092c5-a550-45a3-a0f8-de5a0bdde461",
+      "composite_id": "uuid:4ed915f0-fbdf-11ea-b646-005056827e52!uuid:464092c5-a550-45a3-a0f8-de5a0bdde461",
+      "date": "[2005?]",
+      "page": "25",
+      "title": "Sdružení mikroregionu Pelhřimov",
+      "root_pid": "uuid:4ed915f0-fbdf-11ea-b646-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Od roku 1850 byla obec samostatnou, před rokem 1869 к ní byla připojena Zahrádka u Pošné, roku 1910 opět odloučená. Roku 1919 došlo ke změně názvu obce z Malé Outěchovice na Útěchovičky."
+      ]
+    },
+    {
+      "pid": "uuid:1aa545b0-1d9d-11e8-8cd8-5ef3fc9bb22f",
+      "composite_id": "uuid:9f832730-d1e7-11e3-85ae-001018b5eb5c!uuid:1aa545b0-1d9d-11e8-8cd8-5ef3fc9bb22f",
+      "date": "2006",
+      "page": "599",
+      "title": "Historický lexikon obcí České republiky 1869-2005",
+      "root_pid": "uuid:9f832730-d1e7-11e3-85ae-001018b5eb5c",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Pacov, v r. 1961-1979 pod názvem Zahrádka u Pošné část obce Útěchovičky v okr. Pelhřimov, od 1.1.1980 část obce Pošná v okr.",
+        "Velká Bíteš, od r. 1961 obec v okr. Třebíč ZAHRÁDKA U POŠNÉ viz Zahrádka (Pelhřimov) ZAHRÁDKY v r. 1869-1910 pod názvem Neugarten obec v okr."
+      ]
+    },
+    {
+      "pid": "uuid:074f6eb0-1d9c-11e8-8ee4-005056825209",
+      "composite_id": "uuid:9f832730-d1e7-11e3-85ae-001018b5eb5c!uuid:074f6eb0-1d9c-11e8-8ee4-005056825209",
+      "date": "2006",
+      "page": "599",
+      "title": "Historický lexikon obcí České republiky 1869-2005",
+      "root_pid": "uuid:9f832730-d1e7-11e3-85ae-001018b5eb5c",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Pacov, v r. 1961-1979 pod názvem Zahrádka u Pošné část obce Útěchovičky v okr. Pelhřimov, od 1.1.1980 část obce Pošná v okr.",
+        "Velká Bíteš, od r. 1961 obec v okr. Třebíč ZAHRÁDKA U POŠNÉ viz Zahrádka (Pelhřimov) ZAHRÁDKY v r. 1869-1910 pod názvem Neugarten obec v okr."
+      ]
+    },
+    {
+      "pid": "uuid:96292c60-7c53-11e7-94b3-005056825209",
+      "composite_id": "uuid:76afb260-54b1-11e7-bfb1-005056827e52!uuid:96292c60-7c53-11e7-94b3-005056825209",
+      "date": "2010",
+      "page": "440",
+      "title": "Katastr nemovitostí: výklad je zpracován k právnímu stavu ke dni 31.1.2010",
+      "root_pid": "uuid:76afb260-54b1-11e7-bfb1-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "﻿PŘÍLOHY Důl, Eš, Heřmaneč u Počátek, Hněvkovice u Humpolce, Hodějovice, Hojanovice, Hojovice, Holušice, Horní Cerekev, Horní Rápotice, Horní Ves, Horní Vilímeč, Hořepník, Hořice u Humpolce, Houserovka, Hrobská Zahrádka, Hroznětice, Hříběcí, Humpolec, Jakubín, Jankov u Pelhřimova, Janovice u Houserovky, Jelcovy Lhotky Jetřichovec, Ježov nad Želivkou, Jiřice u Humpolce, Jiřičky, Kaliště, Kámen u Pacova, Kamenice nad Lipou, Kejžlice, Kletečná u Humpolce, Koberovice, Kojčice, Komorovice, Košetice, Kramolín u Křešína, Krasíkovice, Krasoňov, Krumvald, Křeč, Křelovice u Pelhřimova, Křepiny, Křešín u Pacova, Kyjov u Buřenic, Léskovec, Leskovice, Lesná u Velké Chyšky, Lešov, Lhota u Kamenice nad Lipou, Lhotice, Lhotka u Humpolce, Libkova Voda, Lidmaň, Lidmaňka, Lipice, Lískovice, Lísky u Holušic, Litkovice, Litohošť, Lohenice, Lukavec u Pacova, Markvarec u Nové Cerekve, Martinice u Onšova, Mašovice u Hořepníku, Metánov, Mezilesí, Mezná u Pelhřimova, Miletín u Humpolce, Milotice, Milotičky, Mirotín, Mladé Bříště, Mnich, Moraveč, Moudrov, Mysletín, Myslotín, Myslov, Nečice, Nemojov, Nízká Lhota, Nová Buková, Nová Cerekev, Nový Rychnov, Obrataň, Olešná u Pelhřimova, Ondrejov u Pelhřimova, Onšov, Onšovice u Dehtářů, Ostrovec u Houserovky, Pacov, Pavlov u Rynárce, Pejškov, Pelec, Pelhřimov, Petrovice u Humpolce, Píšt u Humpolce, Plačkov, Plevnice, Pobistrýce, Počátky, Podivice, Polesí u Počátek, Popelištná, Poříčí u Bolechova, Pošná, Pravíkoy Proseč pod Křemešníkem, Proseč u Humpolce, Proseč u Pošné, Proseč-Obořiště, Prostý, Přáslavice, Putimov, Radějov u Buřenic, Radětín, Radňov u Rynárce, Rodinov, Rohovka, Roučkovice, Rovná u Hořepníku, Rozkoš u Humpolce, Rynárec, ňečice u Humpolce, Řemenov, Řeženčice, Salačova Lhota, Samšín, Sázava pod Křemešníkem, Sedllce u Želivi, Sedliště u Častonína, Senožaty, Skoranovice, Skrýšov u Pelhřimova, Služátky u Pelhřimova, Speřice, Stanovíce u Nové Cerekve, Staré Bříště, Starý Pelhřimov, Stojčín, Stranná u Žirovnice, Strměchy, Střítež pod Křemešníkem, Střítež u Božejova, Střítež u Černovic, Sudkův Důl, Svatava u Černovic, Svépravice, Světlice, Syrov, Šimpach, Štědrovice, Štítné, Těchobuz, Těchoraz, Těmice u Kamenice nad Lipou, Těšenov, Těškovice u Onšova, Tukleky Turovka, Týmová Ves, Ústrašín, Útěchovice pod Stražištěm, Útěchovice u Hořepníku, Útěchovičky, Vadčice, Včelnička, Velká Chyška, Velká Rovná, Velká Ves, Velký Rybník u Humpolce, Vesce u Počátek, Veselá u Častrova, Věžná, Vilémov u Humpolce, Vintířov, Vitice u Humpolce, Vlasenice u Kamenice nad Lipou, Vlásenice u Pelhřimova, VláseniceDrbohlavy, Vlčetín, Vlkosovice, Vojslavice nad Želivkou, Vokov u Rynárce, Vranice u Humpolce, Vratišov u Mezně, Vřesník, Vyklantice, Vyskytná, Vysoká Lhota, Vystrkov u Humpolce, Zachotín, Záhoří u Humpolce, Zahrádka u Pošné, Zajíčkov, Zhoř u Pacova, Zhořec u Pacova, Zlátenka, Zmišovice, Želiv, Žirov, Žirovnice."
+      ]
+    },
+    {
+      "pid": "uuid:7d75bcc0-7c52-11e7-b92d-005056827e51",
+      "composite_id": "uuid:76afb260-54b1-11e7-bfb1-005056827e52!uuid:7d75bcc0-7c52-11e7-b92d-005056827e51",
+      "date": "2010",
+      "page": "440",
+      "title": "Katastr nemovitostí : výklad je zpracován k právnímu stavu ke dni 31.1.2010",
+      "root_pid": "uuid:76afb260-54b1-11e7-bfb1-005056827e52",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "﻿PŘÍLOHY Důl, Eš, Heřmaneč u Počátek, Hněvkovice u Humpolce, Hodějovice, Hojanovice, Hojovice, Holušice, Horní Cerekev, Horní Rápotice, Horní Ves, Horní Vilímeč, Hořepník, Hořice u Humpolce, Houserovka, Hrobská Zahrádka, Hroznětice, Hříběcí, Humpolec, Jakubín, Jankov u Pelhřimova, Janovice u Houserovky, Jelcovy Lhotky Jetřichovec, Ježov nad Želivkou, Jiřice u Humpolce, Jiřičky, Kaliště, Kámen u Pacova, Kamenice nad Lipou, Kejžlice, Kletečná u Humpolce, Koberovice, Kojčice, Komorovice, Košetice, Kramolín u Křešína, Krasíkovice, Krasoňov, Krumvald, Křeč, Křelovice u Pelhřimova, Křepiny, Křešín u Pacova, Kyjov u Buřenic, Léskovec, Leskovice, Lesná u Velké Chyšky, Lešov, Lhota u Kamenice nad Lipou, Lhotice, Lhotka u Humpolce, Libkova Voda, Lidmaň, Lidmaňka, Lipice, Lískovice, Lísky u Holušic, Litkovice, Litohošť, Lohenice, Lukavec u Pacova, Markvarec u Nové Cerekve, Martinice u Onšova, Mašovice u Hořepníku, Metánov, Mezilesí, Mezná u Pelhřimova, Miletín u Humpolce, Milotice, Milotičky, Mirotín, Mladé Bříště, Mnich, Moraveč, Moudrov, Mysletín, Myslotín, Myslov, Nečice, Nemojov, Nízká Lhota, Nová Buková, Nová Cerekev, Nový Rychnov, Obrataň, Olešná u Pelhřimova, Ondrejov u Pelhřimova, Onšov, Onšovice u Dehtářů, Ostrovec u Houserovky, Pacov, Pavlov u Rynárce, Pejškov, Pelec, Pelhřimov, Petrovice u Humpolce, Píšt u Humpolce, Plačkov, Plevnice, Pobistrýce, Počátky, Podivice, Polesí u Počátek, Popelištná, Poříčí u Bolechova, Pošná, Pravíkoy Proseč pod Křemešníkem, Proseč u Humpolce, Proseč u Pošné, Proseč-Obořiště, Prostý, Přáslavice, Putimov, Radějov u Buřenic, Radětín, Radňov u Rynárce, Rodinov, Rohovka, Roučkovice, Rovná u Hořepníku, Rozkoš u Humpolce, Rynárec, ňečice u Humpolce, Řemenov, Řeženčice, Salačova Lhota, Samšín, Sázava pod Křemešníkem, Sedllce u Želivi, Sedliště u Častonína, Senožaty, Skoranovice, Skrýšov u Pelhřimova, Služátky u Pelhřimova, Speřice, Stanovíce u Nové Cerekve, Staré Bříště, Starý Pelhřimov, Stojčín, Stranná u Žirovnice, Strměchy, Střítež pod Křemešníkem, Střítež u Božejova, Střítež u Černovic, Sudkův Důl, Svatava u Černovic, Svépravice, Světlice, Syrov, Šimpach, Štědrovice, Štítné, Těchobuz, Těchoraz, Těmice u Kamenice nad Lipou, Těšenov, Těškovice u Onšova, Tukleky Turovka, Týmová Ves, Ústrašín, Útěchovice pod Stražištěm, Útěchovice u Hořepníku, Útěchovičky, Vadčice, Včelnička, Velká Chyška, Velká Rovná, Velká Ves, Velký Rybník u Humpolce, Vesce u Počátek, Veselá u Častrova, Věžná, Vilémov u Humpolce, Vintířov, Vitice u Humpolce, Vlasenice u Kamenice nad Lipou, Vlásenice u Pelhřimova, Vlásenice- Drbohlavy, Vlčetín, Vlkosovice, Vojslavice nad Želivkou, Vokov u Rynárce, Vranice u Humpolce, Vratišov u Mezně, Vřesník, Vyklantice, Vyskytná, Vysoká Lhota, Vystrkov u Humpolce, Zachotín, Záhoří u Humpolce, Zahrádka u Pošné, Zajíčkov, Zhoř u Pacova, Zhořec u Pacova, Zlátenka, Zmišovice, Želiv, Žirov, Žirovnice."
+      ]
+    },
+    {
+      "pid": "uuid:26eeae83-0471-4314-ba10-7620e231ec04",
+      "composite_id": "uuid:c61879b0-0f82-11eb-a4cf-005056827e52!uuid:26eeae83-0471-4314-ba10-7620e231ec04",
+      "date": "2015",
+      "page": "236",
+      "title": "Kraj Vysočina: města a obce kraje : tradice, historie, památky, turistika, současnost",
+      "root_pid": "uuid:c61879b0-0f82-11eb-a4cf-005056827e52",
+      "collections": [
+        "mzk",
+        "nkp"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Od roku 1850 byla obec samostatnou, před rokem 1869 к ní byla připojena Zahrádka u Pošné, která však byla roku 1910 opět odloučena. V roce 1919 došlo ke změně názvu z Malých Outěchovic na Utěchovičky."
+      ]
+    },
+    {
+      "pid": "uuid:c3646050-2810-11e3-b79f-5ef3fc9bb22f",
+      "composite_id": "uuid:6f7587d0-171c-11ed-986f-005056827e52!uuid:c3646050-2810-11e3-b79f-5ef3fc9bb22f",
+      "date": null,
+      "page": "85",
+      "title": null,
+      "root_pid": "uuid:6f7587d0-171c-11ed-986f-005056827e52",
+      "collections": [
+        "mzk"
+      ],
+      "leader": null,
+      "accessibility": null,
+      "snippets": [
+        "﻿ZÁKLADNÍ ÚZEMNÍ JEDNOTKA ÚZEMNÉ TECHNICKÁ JEDNOTKA IČZUJ BO Název ICÚTJ PČ Název MČN OKRES 548561 23 548600 23 548715 45 548731 34 548740 34 548766 45 548774 34 548936 45 548987 23 549011 23 549053 45 549126 45 549134 45 549142 45 549215 23 3304 PELHŘIMOV 790435 33 756938 34 756920 35 797138 36 760293 37 783323 38 646318 39 646300 40 646326 41 646334 42 738158 43 680460 44 703192 45 779717 46 625370 47 625388 48 625396 49 625400 50 790311 51 618675 52 POČÁTKY 723002 01 722979 02 722987 03 722995 04 723011 05 723029 06 723037 07 725242 08 POŠNÁ 726320 01 726290 02 726338 03 775606 04 ŘEČICE 744859 01 744867 02 SALAČOVA LHOTA 745936 01 SAMŠÍN 746045 01 734098 02 SEDUCE 746878 01 SENOŽATY 747564 01 747548 02 747572 03 771431 04 TĚMICE 765864 01 765821 02 765830 03 765848 04 ÚTĚCHOVICE 775576 01 775568 02 775592 03 775584 04 VELKÁ CHYŠKA 778389 01 778362 02 778371 03 VESELÁ 780511 01 VOJSLAVICE 784621 01 VYKLANTICE 787591 01 VYSKYTNÁ 787752 01 609358 02 656798 03 618683 04 757985 05 ŽELIV 796271 01 ZAJIČKOV J STRMÈCHY M JELCOVY LHOTKY M ŽIROV J SVÉPRAVICE J VľASENICE U PELHňlMOVA J HOUSEROVKA J BENÁTKY U HOUSEROVKY M JANOVICE U HOUSEROVKY J OSTROVEC U HOUSEROVKY J RADŇOV U RYNÁRCE J LESOV J NEMOJOV J VEĽKÝ RYBNÍK U HUMPOLCE J DEHTÁŘE M MILOTICE J ONŠOVICE U DEHTÁŘÚ J VADČICE J ZACHOTÍN J ČÁSTONÍN J POČÁTKY M HEftMANEČ U POČÁTEK J HORNl VILÍMEČ J LÉSKOVEC J PROSTÝ J STO J Čí N J VESCE U POČÁTEK J POLESÍ U POČÁTEK J POŠNÁ J DÚL J PROSEČ U POŽNÉ J ZAHRÁDKA U POŠNÉ J ŔEČICE U HUMPOLCE J KŘEPINY M SALAČOVA LHOTA J SAMŠÍN J PŘÁSLAVICE J SEDUCE U ŽEL1VI J SENOŽATY M NEČICE J SYROV J TUKLEKY M TĚMICE U KAMENICE NAD LIPOU J BABÍN J DRAHOŇOV J DRACHOV J ÚTĚCHOVICE U HOftEPNÍKU J MAŠOVICE U HOŘEPNÍKU J ÚTĚCHOVIČKY M LITOHOŠŤ J VELKÁ CHYŠKA J LESNÁ U VELKÉ CHYŠKY J ÚTĚCHOVICE POD STRAŽIŠTĚM J VESELÁ U ČASTROVA J VOJSLAVICE NAD ŽELIVKOU M VYKLANTICE J VYSKYTNÁ J BRANIŠOV POD KňEMEŠNlKEM J JANKOV U PELHňlMOVA J SEDLIŠTĚ U ČASTONÍNA M STfiíTEŽ POD KňEMEŠNlKEM J ŽELIV J"
+      ]
+    },
+    {
+      "pid": "uuid:8bd43870-62b2-11e5-81eb-001018b5eb5c",
+      "composite_id": "uuid:b0f72d00-46fc-11e5-8851-005056827e51!uuid:8bd43870-62b2-11e5-81eb-001018b5eb5c",
+      "date": "[2009 nebo 2010]",
+      "page": "252",
+      "title": "Kraj Vysočina: města a obce kraje Vysočina : tradice, historie, památky, turistika, současnost",
+      "root_pid": "uuid:b0f72d00-46fc-11e5-8851-005056827e51",
+      "collections": [
+        "mzk"
+      ],
+      "leader": "mzk",
+      "accessibility": "private",
+      "snippets": [
+        "Od roku 1850 byla obec opět samostatnou, před rokem 1869 к ní byla připojena Zahrádka u Pošné, která byla roku 1910 odloučena. Roku 1919 došlo ke změně názvu obce z Malé Outěchovice na Útěchovičky."
+      ]
+    },
+    {
+      "pid": "uuid:23bfe130-62ad-11e5-9a33-5ef3fc9ae867",
+      "composite_id": "uuid:b0f72d00-46fc-11e5-8851-005056827e51!uuid:23bfe130-62ad-11e5-9a33-5ef3fc9ae867",
+      "date": "[2009 nebo 2010]",
+      "page": "252",
+      "title": "Města a obce kraje Vysočina",
+      "root_pid": "uuid:b0f72d00-46fc-11e5-8851-005056827e51",
+      "collections": [
+        "nkp"
+      ],
+      "leader": "nkp",
+      "accessibility": "private",
+      "snippets": [
+        "Od roku 1850 byla obec opět samos- tatnou, před rokem 1869 к ní byla při- pojena Zahrádka u Pošné, která byla roku 1910 odloučena. Roku 1919 došlo ke změně názvu obce z Malé Outěchovice na Útěchovičky."
+      ]
+    }
+  ]
+}

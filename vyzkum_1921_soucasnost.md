@@ -175,13 +175,15 @@ neztotožněn.
 
 ## Matriky po letech 1911 / 1930 / 1937
 
-- DigiArchiv SOA Třeboň (stav 31. 7. 2026): farnost Pošná má 14 digitalizovaných
+- DigiArchiv SOA Třeboň (živě znovu ověřeno 1. 8. 2026): farnost Pošná má 14 digitalizovaných
   knih a 9 rejstříků; **nic novějšího než N 1911 (kniha 11210), O 1930 (6624)
   a Z 1937 (11214) digitalizováno není** — čistý negativní výsledek. — přístupový
   bod [k/409642](https://digi.ceskearchivy.cz/k/409642); vysoká.
 - **Na matričním úřadě v Pacově** jsou nedigitalizované knihy farnosti Pošná:
   **N 1912–1949, O 10A 1931–1949, Z 12B 1938–1949 — všechny s indexem** a se
-  Zahrádkou ve výčtu lokalit. — tamtéž, oddíl nedigitalizovaných matrik; vysoká.
+  Zahrádkou ve výčtu lokalit. Katalog 1. 8. 2026 vede O 10A a Z 12B přesně se
+  stavem **„čekáme na předání matriky do archivu“**; nejsou ještě označeny jako
+  připravované k digitalizaci. — tamtéž, oddíl nedigitalizovaných matrik; vysoká.
 - Lhůty (§ 23 zákona č. 301/2000 Sb.): kniha narození zůstává u matričního úřadu
   100 let, manželství a úmrtí 75 let od posledního zápisu, poté předání SOA.
   **O 10A i Z 12B překročily lhůtu už roku 2024** — předání do SOA Třeboň a
@@ -321,13 +323,16 @@ Podrobná domovní evidence dnešního stavu je v
 [rešerši 31. 7. 2026](prameny_online/reserse/2026-07-31_soucasny_stav/README.md).
 Hlavní body:
 
-- **RÚIAN 2026**: část obce má 26 adresních míst (čp. 1–11, 13–16, 20, 21,
-  24–32) a 37 stavebních objektů (11 bez čp.); čp. 12, 17, 18, 19, 22, 23
+- **ČÚZK 2026**: část obce má 26 adresních míst (čp. 1–11, 13–16, 20, 21,
+  24–32). Aktuální katastrální souhrn k 26. 7. eviduje 38 budov: 26 s čp.,
+  11 bez čp. a jednu rozestavěnou; čp. 12, 17, 18, 19, 22, 23
   zanikla. Stopy zbořených stavení: zbořeniště st. 27/2, 28/1, 28/2, obytný
   objekt bez čp. na st. 49, „zemědělská usedlost“ bez čp. na st. 37 a 18
   chybějících kmenových čísel stavebních parcel. Evidované roky dokončení sahají
   od 1919 (čp. 4 a 21) po 13. 2. 2025 (novostavba čp. 32); čp. 1 je novostavba
-  z 22. 9. 2023 na místě historického N1. — ČÚZK RÚIAN ArcGIS REST; vysoká.
+  z 22. 9. 2023 na místě historického N1. Katastr má 786 parcel o celkové
+  výměře 371,6916 ha. — ČÚZK, podrobné informace k. ú. 775606 a RÚIAN
+  ArcGIS REST; vysoká.
 - **Vlastnictví**: jména vlastníků nejsou v žádném bezplatném strojovém kanálu
   (vyhláška č. 50/2024 Sb.; Nahlížení do KN za captchou). Veřejně publikované
   převody z registru smluv: Lesy ČR prodaly v květnu 2026 lesní parcely 155/2
@@ -348,7 +353,7 @@ Hlavní body:
 - **Obec 2023–2026**: oprava místních komunikací 5c a 6c na Zahrádce
   (SWIETELSKY, 1,11 mil. Kč, 2024), žádost o opravu mostku (2025), vodovod
   Zahrádka se společným vodným/stočným; ČOV z ÚP zatím bez kroků. Odstávka
-  EG.D 7. 8. 2026 dokládá aktivní odběrná místa u 21 čp. — usnesení ZO Pošná,
+  EG.D 7. 8. 2026 dokládá vypínaná odběrná místa u 22 platných čp. — usnesení ZO Pošná,
   úřední deska; vysoká.
 
 - **Památková ochrana** (doplňuje audit NPÚ 2026 ve [vyzkum_statku.md](vyzkum_statku.md)):
@@ -425,8 +430,8 @@ Hlavní jmenné výsledky:
 | č. 8 | **František Kříž**, rolník (1930) — roku 1921 zde František Růž | Český jih 5. 4. 1930 |
 | č. 9 | hostinský **Josef Plášil** s Marií roz. Vorlovou a dětmi, rolník **Alois Plášil** (1925); **Karel Plášil**, hostinský a později rolník (1918, 1921, 1939, 1943); **Marie Plášilová** (1943) | 6624; Úřední list; Tábor |
 | č. 10 | **František Kejval**, rolník — jiná osoba než stejnojmenný starosta z č. 15 | Úřední list 1923; Český jih 1930 |
-| č. 11 | šafář **František Vitiska** (1921–1928), zemědělský dělník **Josef Vacík** s dcerou Marií (1929) | 6624; kandidátní listina 1928 |
-| č. 12 | **Jan Pudil**, domkář (sčítání 1921 jej čte „Budil“; podepsal se však vlastní rukou „Jan Pudil“) a **František Kejval**, dělník a domkář | 6624 |
+| č. 11 | šafář **František Vitiska** (1921–1928), zemědělský a poté hospodářský dělník-deputátník **Josef Vacík** s dcerou Marií (1929–1930) | 6624; kandidátní listina 1928; úmrtní kniha 11214, sn. 247 |
+| č. 12 | **Jan Pudil**, domkář (obrazová revize sčítání 1921 potvrdila „Pudil“; stejně se podepsal vlastní rukou) a **František Kejval**, dělník a domkář | 6624; sčítací arch PE0584, sn. 28 |
 | č. 13 | **Kateřina Kejvalová**, provdaná Fraňková — jediný jmenný doklad k domu, jehož arch ve sčítání 1921 chybí | 6624, sn. 158 |
 | č. 15 | starosta **František Kejval** s Františkou roz. Kudrnovou, syn Jan (*1902), dcera Marie (*1907); **Josef Dvořák** (1923) | 6624; Úřední list 1923 |
 | č. 16 | **Jan Kejval**, domkář, s Kateřinou roz. Pošusta a dcerami Annou, Terezií a Karolínou; **J. Kejvalová** († 22. 10. 1948) | 6624; Palcát 1948 |
@@ -605,7 +610,7 @@ posouvá tím matriční řadu se jmény a domy z roku 1930 až do roku 1937:
 
 | Datum | Osoba | Dům |
 |---|---|---|
-| 7. 2. 1930 | Josef Vacík, deputátník | čp. 11 |
+| 1. 2. 1930 | Josef Vacík, hospodářský dělník-deputátník | čp. 11 |
 | 9. 10. 1930 | Václav Hák, dítě | čp. 11 |
 | 21. 2. 1932 | Josef Dvořák, dělník | bez čp. |
 | 30. 4. 1932 | Marie Kejvalová, dítě | čp. 16 |
@@ -618,19 +623,19 @@ posouvá tím matriční řadu se jmény a domy z roku 1930 až do roku 1937:
 | 31. 7. 1934 | Herminie Kejvalová, žena rolníka | čp. 10 |
 | 3. 11. 1934 | Kateřina Kejvalová, žena rolníka | bez čp. |
 | 11. 6. 1935 | František Vacek, dítě | čp. 22 |
-| 4. 5. 1936 | Antonie Bartošková, výměnkářka | čp. 3 |
+| 4. 5. 1936 | Antonie Bartoška `[normalizovaně Bartošková]`, výměnkářka | čp. 3 |
 | 6. 12. 1936 | Antonie Kudrnová, vdova | čp. 13 |
 | 4. 2. 1937 | Anna Horáčková, dělnice | čp. 22 |
-| duben 1937 | Josef Plášil, dítě | čp. 22 |
+| 2. 4. 1937 | Josef Plášil, dítě (hlavní zápis; rejstřík rozporně 12. 3.) | čp. 22 |
 | 12. 5. 1937 | Kateřina Kejvalová | čp. 10 |
 | 16. 10. 1937 | Josef Pudil, dítě | čp. 14 |
 
 U sedmi nejmladších byly dohledány i plné zápisy, a ty přidaly povolání a
 rodinné vazby: kočí **František Vacek** s Marií rozenou Drexlerovou v čp. 22,
-**Antonie Bartošková**, vdova po rolníku Matěji Bartoškovi, jako výměnkářka
-v čp. 3, **Antonie Kudrnová rozená Kratochvílová z Pejškova** v čp. 13 (roku
-1921 byla rodina ještě v čp. 18 — opravuje to i naši domněnku, že Kratochvíl
-je jméno prvního muže: je to její rodné příjmení), **Anna Horáčková rozená
+**Antonie Bartoška** (normalizovaně Bartošková), vdova po rolníku Matěji
+Bartoškovi, jako výměnkářka v čp. 3, **Antonie Kudrnová rozená Kratochvílová
+z Pejškova č. 11** v čp. 13 (její zemřelý manžel Josef byl domkářem v čp. 18;
+čp. 13 patří místu jejího úmrtí roku 1936), **Anna Horáčková rozená
 Jandová**, vdova po deputátníku Aloisi Horáčkovi, v čp. 22, rolník‑výměnkář
 **Josef Kejval** s Kateřinou rozenou Vrdickou v čp. 10 a malorolník **Josef
 Pudil** s Aloisií rozenou Kremličkovou z pošenského mlýna v čp. 14.
@@ -638,8 +643,9 @@ Pudil** s Aloisií rozenou Kremličkovou z pošenského mlýna v čp. 14.
 Dva nálezy uzavírají starší otevřené otázky. **Deputátník Jan Plášil**, dosud
 vedený bez domu (roku 1938 mu vykradli byt), bydlel s manželkou Marií rozenou
 Norkovou v **čp. 22**. A **Josef Vacík**, roku 1929 zemědělský dělník ve dvoře,
-je roku 1930 v témže domě pohřben jako deputátník — jeho pobyt v čp. 11 je tím
-potvrzen z druhé strany.
+zemřel 1. 2. 1930 v témže domě jako hospodářský dělník-deputátník — jeho pobyt
+v čp. 11 je tím potvrzen z druhé strany. Plný zápis na snímku 247 má přednost
+před chybným datem 7. 2. v abecedním rejstříku.
 
 ### Čp. 23 byla hájovna
 
@@ -723,13 +729,15 @@ ale místo podnikání na čp. 27 je v rejstříku vedeno teprve **od 27. 6. 200
 (a živnost je od 13. 1. 2025 přerušena); Anna Vlčková má živnost od 20. 11.
 2006, ale adresu čp. 8 **až od 26. 3. 2024**. Do spisů šla opravená znění.
 
-### Dobrá zpráva pro další práci
+### Stav navazujících matrik
 
-DigiArchiv nyní vede knihy **Pošná 10A (O 1931–1949)** a **12B (Z 1938–1949)**
-jako uložené v archivu se statusem **„připravováno k digitalizaci“** — nejsou
-už tedy na matrice v Pacově a dříve či později budou online. Tím se otevře
-souvislá jmenná řada s čísly domů až do roku 1949. Naopak evangelická Moraveč
-končí rokem 1933 a její pokračování je u matričního úřadu Nová Cerekev.
+Živá kontrola DigiArchivu 1. 8. 2026 opravila výklad třetí rešerše. Knihy
+**Pošná 10A (O 1931–1949)** a **12B (Z 1938–1949)** nemají stav „připravováno
+k digitalizaci“, nýbrž **„čekáme na předání matriky do archivu“**. Nejsou tedy
+online a pro praktické nahlédnutí je nadále výchozím místem matrika v Pacově;
+držení je vhodné před návštěvou potvrdit. Po budoucím předání a digitalizaci
+otevřou souvislou jmennou řadu s čísly domů až do roku 1949. Evangelická
+Moraveč končí rokem 1933 a její pokračování je u matričního úřadu Nová Cerekev.
 
 ## Stopy blokované v režimu DNNT (k ručnímu dočtení v knihovně)
 
@@ -770,6 +778,14 @@ jsou v tabulkách a v [úplném výstupu rešerše](prameny_online/reserse/2026-
 
 ## Další postup (priority)
 
+Hlavním cílem další práce je nyní **úplná rekonstrukce obyvatel všech domů ve
+třech řezech 1950, 1980 a 2000**. Průběžné pokrytí, kontrolní matice všech čp.
+a přesné pořadí pramenů jsou v
+[rekonstrukce_20_stoleti.md](rekonstrukce_20_stoleti.md). Veřejné online zdroje
+zatím dávají přímé přiřazení v rozhodném roce pouze pro čp. 28 k roku 2000;
+ostatní poválečná jména bez čísla domu se nesmějí doplňovat podle shody
+příjmení.
+
 1. **SOkA Pelhřimov — badatelna**: objednat pamětní knihu obce Zahrádka
    1937–1962 (AO Zahrádka, NAD 1334) + knihy evidence obyvatel 1874–1948 +
    zápisy zastupitelstva 1911–1944; dále fond MNV Zahrádka (NAD 1335), zápisy
@@ -787,10 +803,10 @@ jsou v tabulkách a v [úplném výstupu rešerše](prameny_online/reserse/2026-
    úmrtní knihy 12B (1938–1949) a rodních zápisů 1912–1926 (vše s indexy);
    současně sledovat DigiArchiv — knihy O a Z mají po uplynutí lhůty 2024
    zamířit do SOA Třeboň a k digitalizaci.
-4. V knize narozených 11210 ověřit rodné zápisy legionářů‑kandidátů (Vaněk
-   *1. 3. 1891, Trpák, Růžička, oba Vlachové, Franěk, Makovec, Zika, Lhota,
-   Charouzek) — nález v pošenské matrice = rodák ze Zahrádky u Pošné (Hrobská
-   Zahrádka patřila k farnosti Pacov). Poté propojit s registrem domů.
+4. ~~V knize narozených 11210 ověřit rodné zápisy legionářů‑kandidátů~~ —
+   **hotovo 31. 7. 2026**: Karel Vaněk, Karel Lhota a Josef Zika jsou rodáci
+   z naší Zahrádky a jsou propojeni s registrem domů; ostatní kandidáti byli
+   vyloučeni nebo zůstali bez bezpečného místního dokladu.
 5. Lokalizovat **Rohovcovou Chalupu** (mapy, gruntovní knihy, sčítání 1930) a
    hájovnu z lexikonu 1921; propojit s MJS‑004.
 6. Přes DNNT terminál dočíst stopy z tabulek (lexikony 1965/1974/1982, volby
@@ -808,8 +824,11 @@ jsou v tabulkách a v [úplném výstupu rešerše](prameny_online/reserse/2026-
    **Markvart**, nikoli `Matějka`, takže matrika i sčítání souhlasí;
    (c) dohledat posun rodiny **Jana Rohovce**
    č. 22 → č. 1 → č. 21 v letech 1920–1929; (d) ověřit ve zvětšeninách zápisy
-   čtené zatím ze zmenšenin (Vacíkovi v č. 11, Kadlecovi v č. 25, Svobodovi
-   v č. 3/6); (e) prověřit ostatní evangelické matriky okolí, protože sňatky
+   čtené zatím ze zmenšenin — **Vacík v čp. 11 vyřešen 1. 8. 2026** plným
+   úmrtním zápisem, zbývají Svobodovi v č. 3/6; Kadlecovi
+   v čp. 25 byli 1. 8. 2026 obrazově potvrzeni a zároveň se opravilo Budil →
+   Pudil v čp. 12 a Kudlec → Kadlec u čeledína v čp. 15; (e) prověřit ostatní
+   evangelické matriky okolí, protože sňatky
    po roce 1930 se tam dají číst i bez knihy 10A.
 9. Menší úkoly: záznam „Zíka František 1907“ ve škole Tábor; židovské matriky
    HBMa knihy 1362 a 1692; civilní oddací kniha Pelhřimov 3A a knihy okolních

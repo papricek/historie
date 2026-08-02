@@ -1,6 +1,6 @@
 # Handoff — výzkum statku a web historie.poutnazahradce.cz
 
-Stav k **31. 7. 2026**. Tento soubor je hlavní předávací bod pro navazující výzkum
+Stav k **1. 8. 2026**. Tento soubor je hlavní předávací bod pro navazující výzkum
 dvora na Zahrádce i pro jeho webovou prezentaci.
 
 Od 30. 7. 2026 je hlavním směrem osobního výzkumu celá ves a přiřazování lidí ke
@@ -62,7 +62,7 @@ v dalším zpracování obrátit.
   řádků, nikoli nutně šestnáct dalších unikátních osob; některé se objevují také
   ve sčítání 1921 nebo později u jiného domu. Dalších šestnáct obyvatel z let 1654,
   1898 a 1915 je vedeno ve frontě `dům nezjištěn`.
-- Všech 225 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je
+- Všech 230 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je
   dostupných v `obyvatele_zahradky_domy/n11.md`; tři členové Lenzovy rodiny se
   spornou adresou N11/N14 jsou odděleni. Soubor se reprodukuje skriptem
   `nastroje/vytvorit_index_n11.rb`, takže se nemá ručně upravovat.
@@ -80,16 +80,21 @@ v dalším zpracování obrátit.
   komukoli. Sčítání 1930 drží Národní archiv (fond NAD 752/2, jen na žádost).
 - Večer 31. 7. 2026 proběhla obrazová rešerše matrik, měkce ukončená před
   dokončením; výsledky jsou zachovány v
-  `prameny_online/reserse/2026-07-31_matriky_castecne/` a do registru zatím
-  promítnuty nejsou. Hotové: všech deset legionářů-kandidátů rozhodnuto —
+  `prameny_online/reserse/2026-07-31_matriky_castecne/`. Hotové: všech deset
+  legionářů-kandidátů rozhodnuto —
   **Karel Vaněk (*3. 1. 1891, č. 19), Karel Lhota (*26. 10. 1895, č. 22,
   syn lesního hajného) a Josef Zika (*21. 1. 1892, č. 9) jsou rodáci ze
   Zahrádky**, sedm zbývajících patří patrně Hrobské Zahrádce. Z úmrtní knihy
-  11214 přepsáno 80 z 272 snímků (léta ~1888–1895 a 1904–1911; 47 zahrádeckých
-  zápisů s čp.) — mj. hostinský Plášil v č. 6, kovář Dušánek v č. 17,
+  11214 je strukturovaně přepsáno 80 z 272 snímků (léta ~1888–1895 a
+  1904–1911; 47 zahrádeckých zápisů s čp.) — mj. hostinský Plášil v č. 6,
+  kovář Dušánek v č. 17,
   hajní v č. 17/22/29, tesař Rohovec v č. 18, Bartoškovi u č. 3 a šafář
-  Jaroš u č. 27 (1891). Zbylé úseky lze dokončit obnovením běhu
-  (návod v README rešerše).
+  Jaroš u č. 27 (1891). Kontrola zachované cache 1. 8. 2026 doložila obrazové
+  prověření dalších 107 snímků: celkem je na úrovni obrazu zkontrolováno
+  **187/272**, ale strukturovaný přepis zůstává uzavřený jen u 80. Skutečně
+  neotevřené mezery jsou 20–22, 101–102, 122, 178–182, 191–202 a 213–274
+  (85 snímků); přesný účet je v README rešerše. Do hlavního registru byly
+  zatím bezpečně převzaty čtyři nové události z let 1881–1882.
 - Pozdě večer 31. 7. 2026 proběhla druhá rešerše, tentokrát výslovně na
   **obyvatele domů 1921–2026** (7 směrů, 209 zjištění, 98 nezávislých
   ověřovacích verdiktů; úplný záznam v
@@ -115,12 +120,13 @@ v dalším zpracování obrátit.
   až do roku **1937** (19 zahrádeckých úmrtí, u sedmi dohledány plné zápisy),
   a **úřední seznam nedostatečně identifikovaných vlastníků ÚZSVM/ČÚZK**,
   jediný veřejný strojový zdroj, který u vlastníků parcel uvádí poslední
-  známou adresu (Zahrádka čp. 9, 18 a 20). Hlavní rozhodnutí: **čp. 23 byla
+  známou adresu (Zahrádka čp. 9, 14, 18 a 20). Hlavní rozhodnutí: **čp. 23 byla
   hájovna** (Jan Jirků, lesní hajný, 1935); **deputátník Jan Plášil bydlel
   v čp. 22**; posledním jménem známým šafářem dvora je **Václav Pařízek
-  († 26. 5. 1939)**. Knihy **10A (O 1931–1949) a 12B (Z 1938–1949) už nejsou
-  v Pacově** — DigiArchiv je vede jako uložené v archivu se statusem
-  „připravováno k digitalizaci“. Kontrola vyvrátila tři tvrzení o dnešních
+  († 26. 5. 1939)**. Živá kontrola 1. 8. 2026 opravila stav knih **10A
+  (O 1931–1949) a 12B (Z 1938–1949)**: DigiArchiv u obou píše **„čekáme na
+  předání matriky do archivu“**, nikoli „připravováno k digitalizaci“; praktický
+  krok proto stále vede na matriku v Pacově. Kontrola vyvrátila tři tvrzení o dnešních
   živnostech se stejnou příčinou: datum vzniku živnosti není datem vzniku
   adresy (Janda čp. 27 od 2005, ne 1999; Vlčková čp. 8 od 2024, ne 2006).
 - **Přepis sčítání 1921 není spolehlivý a reviduje se.** Namátková obrazová
@@ -185,7 +191,9 @@ lokalita** a její osoby ani statistiky sem nepatří.
 | Osoby spojené s N11, události a jistota čtení | `obyvatele_zahradky.md` |
 | Jmenný registr celé obce podle domů: sčítání 1921, narození 1788–1796 a další přesně adresované osoby | `obyvatele_zahradky_domy.md` |
 | Jmenný domovní přehled s datem nebo mezními daty každého doloženého pobytu | `obyvatele_zahradky_domy/dolozene_pobyty.md` |
-| Generovaný domovní index 225 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
+| Pováleční obyvatelé a adresní stopy 1950–2026 po všech 32 čp. | `obyvatele_1950_2026.md` + `obyvatele_1950_2026_data.json` |
+| Přesný kontrolní plán neobsazených řezů 32 domů × 1950/1980/2000/2026 | `mezery_obyvatel_1950_2026.csv` |
+| Generovaný domovní index 230 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
 | Podrobný rozbor sčítání 1921, zejména čp. 11 | `obyvatele_zahradky_1921.md` |
 | Katalog všech stažených veřejných pramenů | `prameny_online/README.md` |
 | Úplné výstupy rešerší 31. 7. 2026 (zjištění, přepisy, slepé konce, stopy — Markdown i JSON) | `prameny_online/reserse/` |
@@ -266,9 +274,9 @@ Junkovi / Jůnkovi v N11 jsou napojeni bez duplicit a Svačkovi jsou doloženi v
 Oddíl dalších dříve doložených osob obsahuje šestnáct bezpečných adresních řádků
 mimo č. 11 a oddíl `dům nezjištěn` šestnáct osob. Tyto vrstvy se nesčítají na
 unikátní osoby, protože některý člověk může být zachycen vícekrát.
-Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 225 bezpečných
+Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 230 bezpečných
 osobních řádků N11 / čp. 11 z podrobného staršího spisu a tři sporné řádky N11/N14.
-Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 1898
+Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 2005
 dokladových osobních řádků v 26 domech a u každého ukazuje datum nebo mezní data;
 obsahuje všech 174 osob sčítání 1921. Oprava 31. 7. 2026: `normalize_house`
 v generátoru dříve nerozpoznávala tvar `č. 15` (jen `čp. 15` / `č 15`), takže pět
@@ -401,25 +409,44 @@ zápisových snímcích 309–362 personálně inventarizován; snímek 363 je r
 
 ## Co má nejvyšší prioritu dál
 
-1. Pro označená nejistá jména ve sčítání 1921 hledat potvrzení v matrikách nebo
+Novým hlavním cílem je rekonstrukce **obyvatel celé vsi dům po domu k rokům
+1950, 1980, 2000 a 2026**. Stavební změny se sledují jen natolik, aby se osoba
+nepřiřadila k číslu, které tehdy neexistovalo. Hlavní výstup je
+`obyvatele_1950_2026.md`; doplňkový stavební podklad zůstává v
+`rekonstrukce_20_stoleti.md`. Z tohoto cíle plyne pořadí priorit:
+
+1. Získat sčítací operát 1950 (NA, NAD 984), domovní seznamy 1951–1978 (MNV
+   Útěchovičky, NAD 1262) a přes SOkA/Obec Pošná určit držitele pokračující
+   domovní či pobytové evidence pro roky 1980 a 2000. Kronika MNV Pošná,
+   inv. 19 / kniha 19 (1974–2007), je jen doplňková jmenná opora. Koncept
+   žádosti v `zadost_o_archivni_prameny.md` je upraven, ale nic nebylo odesláno.
+2. Dokončit knihu zemřelých 11214: nejprve otevřít dosud neprověřené snímky
+   **20–22, 101–102, 122, 178–182, 191–202 a 213–274** (85 snímků), potom
+   sjednotit do strukturovaného přepisu 107 snímků, u nichž se z ukončeného běhu
+   zachoval pouze pracovní obrazový verdikt. Negativní snímky evidovat stejně
+   přesně jako nalezené zápisy.
+3. Pro označená nejistá jména ve sčítání 1921 hledat potvrzení v matrikách nebo
    jiném jmenném prameni. Vazbu na dům neměnit jen podle shody příjmení.
-2. Rozšířit časové řady lidí po domech z oddacích a úmrtních zápisů, přednostně
+4. Rozšířit časové řady lidí po domech z oddacích a úmrtních zápisů, přednostně
    tam, kde už rodné knihy 6619, 6620 a 6621 ukazují opakovanou rodinu nebo změnu
    domu. Nezahajovat další plošný výřezový projekt; celé snímky a přesné odkazy
    stačí.
-3. Vyžádat reprodukci jednotky 40 fondu Velkostatek Březina–Zahrádka, protože kniha
+5. Vyžádat reprodukci jednotky 40 fondu Velkostatek Březina–Zahrádka, protože kniha
    služného může přidat zaměstnance a domácnosti. Jednotky 20–23 mají význam hlavně
    pro stavbu a jsou teď nižší prioritou.
-4. Vyžádat z fondu MNV Pošná kroniky a personálně využitelné evidence; přes SOkA
-   zjistit současné držitele dokumentů JZD Pošná a ZD Velká Chyška.
-5. Teprve při potřebě rozlišit nebo sledovat domovní čísla řešit pozdější knihovní
+6. Vyžádat z fondu MNV Pošná kroniku inv. 19 a prověřit inv. 60 / karton 4;
+   přes SOkA zjistit držitele mladší pobytové evidence i dokumentů JZD Pošná
+   a ZD Velká Chyška.
+7. Teprve při potřebě rozlišit nebo sledovat domovní čísla řešit pozdější knihovní
    vložku, parcelní návaznost a další mapy. Jeden bezpečný mapový kontext pro N1 a
    N11 už existuje; nové složité výřezy nejsou prioritou.
-6. Dořešit otevřenou otázku z rešerše obyvatel 1921–2026: **posun rodiny Jana Rohovce**
+8. Dořešit otevřenou otázku z rešerše obyvatel 1921–2026: **posun rodiny Jana Rohovce**
    č. 22 → č. 1 → č. 21 v letech 1920–1929. Dále ověřit ve zvětšeninách zápisy
-   čtené zatím ze zmenšenin (Vacíkovi v č. 11, Kadlecovi v č. 25, Svobodovi
-   v č. 3/6).
-7. Pro období 1921–současnost se priority vedou v `vyzkum_1921_soucasnost.md`
+   čtené zatím ze zmenšenin: **Vacík v čp. 11 je od 1. 8. 2026 vyřešen** plným
+   úmrtním zápisem, zbývají Svobodovi v č. 3/6. Kontrola
+   1. 8. 2026 už uzavřela čp. 12 a 25 jako **Pudilovy** a **Kadlecovy** a stejný
+   snímkový audit opravil čeledína v čp. 15 na Františka Kadlece.
+9. Pro období 1921–současnost se priority vedou v `vyzkum_1921_soucasnost.md`
    → „Další postup“. Nejvýš stojí pamětní kniha obce Zahrádka 1937–1962 a
    evidence obyvatel 1874–1948 (SOkA Pelhřimov, fond AO Zahrádka NAD 1334),
    žádost o sčítání 1930 do Národního archivu a nahlédnutí do matrik 1931–1949
@@ -661,12 +688,432 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
 4. Ověřeno `node --check`, headless renderem obou stránek a vizuální kontrolou
    panelu čp. 28; nasazeno rsyncem.
 
+## Rekonstrukce celé vsi 1950 / 1980 / 2000 (1. 8. 2026)
+
+1. Nový kanonický soubor `rekonstrukce_20_stoleti_data.json` obsahuje všech
+   **32 čp. × 3 rozhodné roky = 96 domovních řezů**. U každého řezu jsou zvlášť:
+   stav a jistota stavby, stav jmenného přiřazení, čitelný výsledek, nejbližší
+   časová opora a chybějící pramen. Nepřenášet osobu přes rozhodný rok jen podle
+   příjmení nebo blízkého data.
+2. `ruby nastroje/vytvorit_rekonstrukci_20_stoleti.rb` z těchto dat vytváří
+   `rekonstrukce_20_stoleti.md`: čitelný odrážkový katalog po domech. Výstup se
+   ručně neupravuje. Validace vyžaduje právě čp. 1–32 a všechny tři řezy.
+3. `nastroje/vytvorit_mapova_data.rb` stejný zdroj přidává do
+   `website/mapa_data.js` jako `window.MAPA_REZY`. Stránka `website/mapa.html`
+   má nový přepínač **Rekonstrukce po domech: 1950 / 1980 / 2000 / vypnout**,
+   přepne na nejbližší mapový podklad 1949 / 1978 / 1992 a obarví body podle
+   přímého jména, silné opory, mezery nebo neexistujícího čísla. Každý panel
+   domu zobrazuje tři odrážkové karty: stavba, lidé, opora, chybějící pramen.
+   Hluboký odkaz může nést i řez, např. `#28/1992/r2000`.
+4. Skutečné pokrytí zůstává po zpřesnění poctivě nízké: pro rok 1950 **0**
+   přímých domovních jmen, pro 1980 **0**, pro 2000 **1** (Václav Bulant,
+   čp. 28, střední jistota lokality) a **10 silných opor**: čp. 9 z okolních
+   pobytových intervalů a čp. 5, 6, 7, 8, 16, 21, 24, 27 a 29 z Českého telefonu
+   2000. Účastnická adresa není automaticky bydliště; úplné obsazení vyžaduje
+   neveřejné operáty a domovní seznamy.
+5. Kontroly: oba Ruby skripty `Syntax OK`, JSON 32 domů / 96 řezů, generování
+   idempotentní, `node --check website/mapa_data.js`, kompilace inline skriptu
+   `mapa.html`, lokální HTTP 200 pro HTML i JS. V relaci nebyl dostupný žádný
+   ovladatelný prohlížeč, proto nebyla provedena nová vizuální klikací kontrola
+   ani nasazení.
+
+## Zpřesněná vrstva obyvatel 1950–2026 (1. 8. 2026)
+
+1. Na pokyn uživatele je hlavní osou **obyvatel → čp. → přesný rozsah dokladu**.
+   Stavební vývoj je omezen na jednu orientační větu o existenci, zániku nebo
+   zásadním nahrazení domu. Vlastnictví zůstává jen podpůrnou informací.
+2. Kanonický soubor `obyvatele_1950_2026_data.json` obsahuje všech 32 čp.
+   a nyní 57 publikovatelných osobních nebo adresních stop. Typy se nesmějí směšovat:
+   `residence`, `official_address`, `contact_address`, `business_address`,
+   `telephone_subscriber_address`, `last_known_address`, `organization`,
+   `organization_role` a `project_applicant`. Interval je rozsahem pramene,
+   ne domnělou nepřetržitostí; `current_2026` zvlášť označuje platnost k 1. 8. 2026.
+3. `ruby nastroje/vytvorit_obyvatele_1950_2026.rb` generuje čitelný odrážkový
+   soubor `obyvatele_1950_2026.md`. Skutečné pokrytí: **7 z 32 čp.** má alespoň
+   jeden poválečný doklad bydliště, **18 z 32 čp.** alespoň nějakou osobní stopu.
+   Pro rok 1950 je přímé pokrytí 0 čp., pro 1980 také 0, pro rok 2000 zůstává
+   středně jistý Václav Bulant na čp. 28.
+4. Nový veřejný nález: rozhodnutí MÚ Pacov č. j. MP/15025/2023/Kp z 18. 12. 2023
+   uvádí **Martina Plášila, Zahrádka čp. 9**, mezi jednotlivě obesílanými
+   účastníky řízení. Je to úřední adresní bod, nikoli automaticky vlastnictví
+   domu ani souvislý pobyt. Do veřejného výstupu se nepřebírá datum narození.
+5. `nastroje/vytvorit_mapova_data.rb` nyní zapisuje také
+   `window.MAPA_OBYVATELE`; panel každého domu v `website/mapa.html` má samostatný
+   odrážkový blok **Obyvatelé 1950–2026** se štítkem typu a jistoty. U prázdných
+   domů blok výslovně hlásí chybějící domovní evidenci.
+6. Ověřeno: oba nové JSON/Markdown výstupy mají 32 čp.; Ruby skripty `Syntax OK`,
+   `website/mapa_data.js` prošel `node --check`, jediný inline skript stránky se
+   zkompiloval a mapová vrstva má 32 domů. Vestavěný prohlížeč nebyl v relaci
+   dostupný, proto se před nasazením doporučuje jediná ruční vizuální kontrola
+   panelů čp. 9, 27 a 28.
+7. Po upřesnění zadání zobrazuje hlavní katalog u každého domu jako vnořené
+   odrážky samostatné obyvatelské řezy **1950, 1980, 2000 a 2026**. U prvních
+   tří bere stav, nejbližší jmennou oporu a konkrétní mezeru z
+   `rekonstrukce_20_stoleti_data.json`; rok 2026 výslovně odlišuje podpůrnou
+   adresu podnikání/organizace od bydliště. Stavební stav je jen jedna věta.
+8. Na začátku `zadost_o_archivni_prameny.md` je nová prioritní žádost zaměřená
+   výhradně na úplné domácnosti. ARON potvrzuje: MNV Zahrádka NAD 1335 je
+   přístupný (pomůcka 573), MNV Útěchovičky NAD 1262 částečně přístupný
+   (pomůcka 559; domovní seznamy a sčítání 1951–1978) a MNV Pošná NAD 1544
+   částečně přístupný (inventář 1034). Pomůcky nemají v ARONu připojený veřejný
+   soubor, proto žádost požaduje jejich PDF nebo opis relevantních položek.
+9. `archivni_prepis_obyvatel.csv` je připravená dvacetisloupcová importní
+   šablona pro získané reprodukce. Žádná žádost nebyla odeslána; k odeslání je
+   potřeba doplnit jméno a kontakt badatele.
+10. Původní podpůrné intervaly z adresních agregátorů byly nahrazeny úplnými
+    veřejnými výpisy RŽP: Martin Vaněk čp. 4 (4. 11. 2020–8. 6. 2026), Vasyl
+    Liakh čp. 5 (2. 6. 2025–20. 3. 2026), Anna Vlčková čp. 8 od 26. 3. 2024 a
+    Petr Moravec čp. 15 (2. 12. 2005–30. 3. 2015). Ani jedna podnikatelská nebo
+    kontaktní stopa se nesmí převést na bydliště.
+11. `vlastnici_2026_kontrolni_list.csv` obsahuje všech 32 čp.; u 26 existujících
+    adres je předvyplněna stavební parcela, SO a adresní místo RÚIAN. Jména a LV
+    zůstávají prázdná, protože Nahlížení do KN vyžaduje přihlášení/CAPTCHA a
+    nepovoluje automatizované vytěžování. V `zadost_o_archivni_prameny.md` je
+    připraven samostatný neodeslaný dotaz na vhodný úřední výstup KP Pelhřimov.
+12. Hlavní katalog má nově nahoře rychlý 32bodový index. V každém domovním
+    oddílu jsou nejprve doložená bydliště, potom zřetelně oddělené nepobytové
+    vazby a až poté čtyři kontrolní řezy. Opakovaná stavební karta byla z mapy
+    odstraněna; zůstala jediná orientační věta o domu.
+13. Tentýž generátor vytváří `mezery_obyvatel_1950_2026.csv`: 32 domů × čtyři
+    roky = 128 řádků. Každý řádek uvádí stav osoby, nejbližší bezpečnou oporu a
+    přesný cíl dalšího ověření (NAD 984 pro rok 1950; NAD 1262 a dohledání
+    pokračující evidence pro rok 1980; kroniku NAD 1544 a určení držitele
+    pobytové evidence pro rok 2000; souhlas/přímý pobytový doklad pro 2026).
+14. Doplňkový veřejný audit tehdy vyčerpal tisk a adresní agregátory: v periodiku
+    *Z mého kraje* byly systematicky dotázány kombinace Zahrádky s čp. 1–32,
+    místními příjmeními a Pošnou; kromě již známých čp. 5 (1992) a 28 (1991)
+    nepřibylo bezpečné bydliště. Pozdější úplná historická rešerše RŽP přidala
+    podpůrné osobní stopy na další domy, nikoli však nové bydliště. Úplné řezy
+    tedy opravdu závisejí na archivních domovních seznamech, ne na dalším
+    obecném webovém hledání.
+15. Doplňkový přesný audit všech čp. s variantou PSČ `39501` přidal tři
+    nepobytové stopy: Marie Vaňková na čp. 4 (úřední výpis KN, 19. 3. 2025),
+    Stanislav Marousek na čp. 20 (archivovaný RES, stav 3. 2. 2024; aktuální
+    ARES už záznam nenachází) a Růženu Bulantovou s Václavem Bulantem na čp. 28
+    (rozhodnutí SPÚ, 26. 10. 2016). Veřejná data narození nebyla převzata a
+    žádná z těchto adres se nepovažuje za důkaz bydliště. Registr smluv byl
+    současně prověřen přes úplný 43záznamový výsledek `Pošná, Zahrádka`;
+    jedinou přesnou adresou naší vsi v metadatech zůstává čp. 27, protože
+    adresní filtr není frázový a přílohy bez textové vrstvy může minout.
+16. Položková kontrola vlastního ARONu MZA opravila další archivní předpoklad.
+    Ve fondu MNV Pošná NAD 1544 je inv. 61 / karton 4 výslovně **domovní seznam
+    Pošné čp. 1–50 (1953–1967)**, nikoli Zahrádky. Pro rok 1980 je posledním
+    katalogově doloženým zahrádeckým domovním pramenem MNV Útěchovičky NAD 1262
+    s mezními daty 1951–1978. Pošenská inv. 60 / karton 4 (1963–1990) musí být
+    teprve zkontrolována, zda obsahuje jména, nebo jen souhrnné výsledky sčítání.
+    Kroniky MNV Pošná jsou nyní přesně určeny: inv. 17 / kniha 17 (1940–1964),
+    inv. 18 / kniha 18 (1965–1973) a inv. 19 / kniha 19 (1974–2007). Pro úplné
+    domácnosti 1980/2000 je nutné přes SOkA nebo Obec Pošná určit pokračování
+    pobytové evidence; kronika je jen doplňkový jmenný pramen. Generátor,
+    128řádkový kontrolní plán a prioritní neodeslaná žádost byly podle toho
+    zpřesněny.
+17. U inv. 17–19 a inv. 60 jsou v ARONu prázdná pole digitálních objektů;
+    dostupná příloha je pouze PDF k úvodu inventáře, nikoli obrazy archiválií.
+    Znovu vygenerovány `obyvatele_1950_2026.md`, kontrolní CSV a mapová data.
+    Kontrola potvrdila 32 domovních oddílů, 128 řezů (po 32 pro roky 1950,
+    1980, 2000 a 2026), shodné kontrolní součty při opakovaném generování,
+    `Syntax OK` u Ruby skriptů, platný JavaScript mapy a čistý `git diff --check`.
+18. Dodatečný přesný audit tisku podle čísel 1–32 přidal první bezpečnou
+    poválečnou obyvatelskou vazbu pro čp. 8: článek *Vesnických novin* z
+    26. 2. 1956 výslovně uvádí „družstevnici Marii Křížovou čp. 8“ v kontextu
+    výroční schůze JZD Zahrádka u Pošné. Nejde automaticky o jednu ze dvou
+    starších Marií Křížových, které v domě zemřely roku 1932/1933, ani o důkaz
+    přesného stavu domácnosti v roce 1950. Falešné zásahy z Vysoké Lhoty,
+    Chyšecka a jiné Zahrádky na Milevsku byly výslovně vyloučeny. Metadata
+    veřejných telefonních seznamů KKV, JVK/CBVK a MZK pro Pacovsko kolem roku
+    2000 nepřinesla použitelný adresář.
+19. Znovu byl prověřen kořen zpravodaje JZD ČSP Velká Chyška. Ve skutečnosti
+    obsahuje 15 čísel / 358 stran jen z let 1977–1980, nikoli navazující ročníky
+    1981–1989. Všech 31 stran s OCR tvarem Zahrádky a průniky místních příjmení
+    byly zkontrolovány; žádná osoba není bezpečně spojena s domem. Přibyl však
+    přesný obecní řez: k 1. 1. 1980 vedlo JZD za Zahrádku 33 členů (10 mužů a
+    5 žen v produktivním věku, 4 důchodce a 14 důchodkyň). Jde o členskou
+    základnu, nikoli všech 51 obyvatel. Veřejný rozhovor vytvořený 14. 3. 2021
+    navíc středně jistě dokládá Marii Svobodovou ve vsi, ale bez čp.; k čp. 6
+    se nesmí přiřadit jen podle příjmení. Formulář veřejného telefonního seznamu
+    1188 byl později vyzkoušen přes HTTP: vyžaduje celé jméno a neumožňuje
+    výčet podle samotné lokality. Dotaz `Luděk Bulant + Pošná` nic nevrátil;
+    nejde o negativní soupis vsi.
+20. Fulltext Obce Pošná byl uzavřen úplným průchodem 85 výsledků na čtyřech
+    stránkách a textovou kontrolou 52 veřejných příloh. Nepřibylo žádné
+    bezpečné spojení osoby s konkrétním zahrádeckým čp.; anonymizované převody
+    samostatných pozemků se k domům nepřiřazují. Oznámení EG.D ze 7. 7. 2026
+    pro odstávku 7. 8. 2026 však uvádí 22 známých čp. (1–11, 13–15, 20–21,
+    24–28 a 31) jako vypnuté adresy. Tato technická stopa je promítnuta do
+    `obyvatele_1950_2026_data.json` a generovaného katalogu, vždy s výslovným
+    varováním, že nedokládá obyvatele. Položky čp. 0 a 61 jsou anomálie exportu
+    EG.D a nebyly přidány jako domy.
+21. OCR/fulltextová nadstavba Registru smluv byla prověřena samostatným dotazem
+    `"Zahrádka {čp}" AND "Pošná"` pro všech 32 čp. Audit znovu našel všechny
+    čtyři známé pobytové smlouvy (čp. 6, 15, 27 a 28), ale žádného dalšího
+    jmenovaného obyvatele. U čp. 11 doložil pouze místo výkonu práce
+    anonymizovaného pomocníka správce objektu od 2. 1. nejdéle do 31. 10. 2025;
+    nejde o pobyt. Smlouva PR02737-01.4544 byla vyloučena, protože uvádí pobyt
+    i realizaci v Pošné čp. 79 a jen budova zasahuje do k. ú. Zahrádka u Pošné. Přesný
+    výsledek je nyní uložen u každého domu v `public_contract_audit`, generuje se
+    do katalogu i do nového sloupce `audit_verejnych_smluv` v kontrolním CSV.
+22. Fulltext webu Města Pacov byl prověřen přes všech deset stran: 227 výsledků,
+    196 dokumentových záznamů a 199 jedinečných příloh. Přidal dvě stopy jen na
+    úrovni vsi: Luděk Bulant je v kandidátní listině roku 2014 veden s bydlištěm
+    Zahrádka; Josef a Hana Kadlečíkovi jsou 24. 6. 2021 spojeni se stavebním
+    řízením u rodinného domu v Zahrádce u Pošné. Ani jeden pramen neuvádí čp.;
+    Kadlečíkovi nejsou dokladem bydliště ani vlastnictví. Metoda a omezení jsou
+    v kanonickém `municipal_fulltext_audit`.
+23. Priorita výstupu byla změněna podle zadání: v každém domovním oddílu jsou
+    nejprve obyvatelé a další osobní stopy, potom přesná stavební parcela, SO a
+    adresní místo, zvlášť stav vlastníka a až poté jediná stručná věta o stavbě.
+    `mezery_obyvatel_1950_2026.csv` nyní nese tyto identifikátory i stav ověření
+    vlastníka ve všech 128 řezech. Mapová data obsahují `window.MAPA_VLASTNICI`
+    a stejnou strukturu zobrazuje panel domu. Vlastníci zůstávají neověření do
+    ruční kontroly KN; automatizované překonávání CAPTCHA se nepoužívá.
+24. Veřejná část RŽP byla pro obec Pošná a část Zahrádka prohledána včetně
+    neplatných historických údajů. Patnáct fyzických osob se sídlem podnikání
+    pokrývá deset čp.; úplné XML výpisy daly přesné intervaly. Nové jsou první
+    osobní stopy pro čp. 7 (Vitalii Forkosh, 2023–2025), čp. 21 (Jan Dubišar,
+    2022–2024) a čp. 31 (Natálie Radová, 2024–2025) a tři další osoby na čp. 5.
+    Aktuální k 1. 8. 2026 jsou podnikatelské adresy čp. 8, 15, 20 a 27. Žádná
+    z nich se bez přímého pobytového pramene nepovažuje za bydliště. Kanonická
+    data mají nový `trade_register_audit`.
+25. Úplné kandidátní registry ČSÚ pro komunální volby 2006, 2010, 2014, 2018 a
+    2022 obsahují 40 kandidátních řádků Pošné. Jediným člověkem s bydlištěm
+    výslovně v části Zahrádka je ve všech pěti volbách Luděk Bulant. Jde o
+    bezpečnou obecní stopu 2006–2022, nikoli o doklad čp. 28; registry čp.
+    neobsahují. Kanonická data mají nový `election_register_audit`.
+26. Aktuální veřejná Evidence zemědělského podnikatele MZe byla prověřena podle
+    obce Pošná, kombinace Pošná + Zahrádka a všech 15 známých zahrádeckých IČO.
+    Tři výsledky obce patří Pošné čp. 80 a Nesvačilům čp. 1 a 3; Zahrádka nemá
+    žádný. Registr ekologických podnikatelů vrátil pro Pošnou dvě osoby, obě na
+    Pošné čp. 80, a celostátní dotaz na adresu Zahrádka neměl žádný zásah v
+    okrese Pelhřimov. Žádná osoba ani dům proto nepřibyly; negativní audit je
+    reprodukovatelně uložen jako `agricultural_register_audit` a výslovně se
+    nevykládá jako historická absence zemědělců či obyvatel.
+27. Registr příjemců dotací MZe byl prověřen podle úředního kódu obce Pošná a
+    samostatně podle všech 15 IČO z historického auditu RŽP. Obecní dotaz má
+    13 příjemců (11 fyzických osob a dvě organizace), avšak adresu zkracuje na
+    „Pošná, 39501“ bez části obce a čp. Jmenně se s již známými osobami shodují
+    Jaroslav Plášil (platby 2020–2025) a Luděk Bulant (2021–2023), ale ani
+    jedno jméno není v tomto výsledku doplněno IČO. Všech 15 přímých dotazů na
+    známá IČO skončilo bez výsledku. Kontrola proto nepřidala obyvatele ani
+    neprodloužila pobyt na čp. 9 či 28; u obou domů se generuje pouze výslovně
+    označená obecní jmenná stopa. Kanonická data mají nový
+    `subsidy_register_audit`.
+28. Archiv eDesky byl prohledán odděleně pro Město Pacov, Obec Pošná a Státní
+    pozemkový úřad; u Pacova a Pošné následovalo 22 přesných dotazů na jedenáct
+    již známých jmen. Nový přesný dokument se týká čp. 11: souhlasné JES MěÚ
+    Pacov č. j. R/2026/47724/3 z 18. 3. 2026 uvádí IT Artist s.r.o. jako
+    žadatele o stavební úpravy na st. 1 a parcelách 18/2 a 18/3. Jméno
+    zmocněné osoby je redigované a nedoplňuje se. Oficiální veřejný rejstřík
+    současně zpřesnil osoby ve vedení spolku iZahrádka sídlícího na čp. 11:
+    Patrik Jíra je od 31. 1. 2018 předsedou a Pavla Švantnerová
+    místopředsedkyní. Obě položky jsou vedeny jen jako organizační role, IT
+    Artist jen jako žadatel; žádná neprokazuje bydliště ani vlastnictví.
+    Kanonická data mají nový `official_board_audit` a počet zveřejněných stop
+    stoupl z 34 na 37, přímé bydliště zůstalo na 7 čp.
+29. Čtyři veřejně dochovaná vydání seznamu nedostatečně identifikovaných
+    vlastníků byla nově porovnána řádek po řádku: 3. 3. 2014, 10. 8. 2020,
+    11. 2. 2022 a 1. 3. 2024. Nejstarší okresní soubor doplnil Josefa a Aloisii
+    Pudilovy s nedatovanou poslední známou adresou čp. 14; stejný pár je na
+    tomto čp. přímo doložen roku 1937, ale seznam NIV neprokazuje pobyt v roce
+    2014 ani vlastnictví domu. Přibyli také František a Milada Olivovi jen u
+    lesní parcely 292 na LV 115, bez adresy a bez přiřazení k domu. Kumulativně
+    jde o 11 různých LV, nikoli dříve předpokládaných 14. Přesné porovnání se
+    stavebními parcelami dnešních domů dalo nula shod, takže kontrolní list
+    vlastníků zůstává bez jmen. Aktuálně zveřejněný oficiální soubor měl i
+    1. 8. 2026 stále stav k 1. 3. 2024; přítomnost parcely v něm sama nedokládá
+    přechod na stát a zmizení mezi vydáními neurčuje právní důvod změny.
+    Reprodukovatelný parser je `nastroje/proverit_niv_zahradka.py`. Po doplnění
+    čp. 14 má katalog 38 zveřejněných stop na 15 čp.; přímé bydliště zůstává
+    na 7 čp. a přesné řezy 1950/1980 zůstávají bez jmen.
+30. Živý audit ARONu k 1. 8. 2026 potvrdil, že cílové prameny pro řezy 1950,
+    1980 a 2000 nemají veřejné obrazové reprodukce. U MNV Pošná byla přes
+    katalogové API načtena celá čtyřpoložková sekce evidence obyvatel: inv. 60
+    jsou obecné výsledky sčítání 1963–1990, inv. 61 výslovně Pošná čp. 1–50,
+    inv. 62 posudky a inv. 63 matriční agenda. Žádný domovní seznam Zahrádky se
+    v ní neskrývá. Katalog JVK/CBVK však určil dva přesné prezenční kandidáty:
+    Telefonní seznam TTO Tábor 1979–1980 (DT 6.504) a Zlaté stránky Jižní
+    Čechy 1999–2000 / 2000–2001 (tehdy chybně vedené jako DT 9.277). Jejich územní obsah a zahrádecká
+    hesla je nutné ověřit ručně; seznamy by stejně zachytily jen zveřejněné
+    pevné linky. Kanonická data mají nový `archival_source_audit`, generátor
+    zpřesňuje u každého domu přesný pramen a omezení a v souboru žádostí je
+    připraven neodeslaný knihovní dotaz.
+31. Navazující souborné hledání opravilo kandidáta pro rok 2000: správný titul
+    je `Zlaté stránky: Jižní Čechy, TTO Tábor`, sign. **DT 9.279**, s ročníky
+    1999–2000 a 2000–2001; svazek TTO České Budějovice DT 9.277 není pro tento
+    účel správná volba. Česká digitální knihovna cílové svazky mezi
+    digitalizovanými záznamy nemá. Fotografovaná obálka stejné řady TTO Tábor
+    z let 1987–1988 výslovně uvádí UTO Pacov a Pelhřimov, což potvrzuje
+    územní relevanci řady, ne však obsah vydání 1979–1980 ani heslo Zahrádka.
+    Oprava je promítnuta do kanonických dat, generátoru, mapy, katalogového
+    auditu i neodeslaného dotazu knihovně; žádné nové jméno obyvatele tím
+    zatím nepřibylo.
+32. Doplňková cílená kontrola Jihočeské Pravdy prošla přesný výraz `Zahrádka
+    u Pošné`, všechny pádové tvary názvu vsi a kombinace s výrazy kandidát,
+    volební, bytem, bydliště a čp. Celkem šlo o 11 jedinečných relevantních či
+    kontrolních stran. Žádná nepřinesla spojení osoby s konkrétním domem;
+    jediná osobní stopa byla již známá zpráva o J. Kudrnovi ze 16. 9. 1965,
+    která zůstává pouze na úrovni vsi. Tato cesta proto nepřidala obyvatele do
+    žádného řezu 1950 / 1980 / 2000.
+33. Internet Archive zpřístupňuje celé CD `Český telefonní seznam 2004
+    Standard`. Obraz ISO i databáze `cztel.mdb` byly ověřeny samostatnými
+    SHA-256 a osobní tabulka byla projita po všech 76 548 datových stránkách
+    podle přesné lokality `Zahrádka u Pošné`, ID 9231. Nalezeno bylo devět
+    účastnických adres: Petr Veverka čp. 5, Zdeněk Svoboda čp. 6, Karel Adam
+    čp. 7, Marie Křížová čp. 8, Miroslav Kubiska čp. 16, Václav Dörrschmidt
+    čp. 21, Ing. Jan Velich čp. 24, Ludmila Rohovcová čp. 27 a Václav Bulant
+    čp. 28. Čp. 16 a 24 tím získala první nalezenou poválečnou osobní stopu.
+    Telefonní čísla nebyla exportována. Edice 2004 a datum databáze 14. 11.
+    2003 z těchto řádků nedělají přesný řez roku 2000, pobytovou evidenci,
+    doklad vlastnictví ani úplný soupis domácnosti. Reprodukovatelný parser je
+    `nastroje/proverit_telefonni_seznam_2004.py`, audit i strojový výstup jsou
+    v `prameny_online/telefonni_seznamy/2004/`. Kanonická data mají nový typ
+    `telephone_subscriber_address` a `telephone_directory_audit`.
+34. Internet Archive obsahuje také přesný ročník `Český telefon 2000` jako
+    druhé CD přílohy Chip 12/2000. Zadní strana obalu datuje bytové podklady do
+    dubna 2000 a firemní do ledna 2000. Surový BIN byl ověřen SHA-1, MD5 a
+    SHA-256, převeden z MODE1/2352 na ISO a databáze Jet 3 byla čistě čtecím
+    `mdb-export` projita celá: 2 792 529 osobních a 695 562 firemních řádků.
+    Nalezeno bylo deset přesných účastnických adres: Petr Veverka čp. 5,
+    Zdeněk Svoboda čp. 6, Karel Adam čp. 7, Marie Křížová čp. 8, Miroslav
+    Kubiska čp. 16, Václav Dörrschmidt čp. 21, Ing. Jan Velich čp. 24, Ludmila
+    Rohovcová čp. 27, Václav Bulant čp. 28 a Bohuslav Nacházel čp. 29. Prvních
+    devět se opakuje v edici 2004; čp. 29 získalo první poválečnou osobní
+    stopu. Telefonní čísla nebyla exportována. Obal inzeruje 3 488 096 čísel,
+    uložené tabulky mají dohromady 3 488 091 řádků; rozdíl pěti je přiznán,
+    nikoli domyšlen. Jde o silnou účastnickou adresu k řezu 2000, ne automaticky
+    o pobyt, vlastnictví nebo úplnou domácnost. Reprodukce je v
+    `nastroje/proverit_telefonni_seznam_2000.rb`, audit a výstup v
+    `prameny_online/telefonni_seznamy/2000/`; kanonická data používají
+    `telephone_directory_2000_audit`. Po integraci má hlavní katalog 57
+    zveřejněných stop na 18 čp., z toho stále jen 7 čp. s přímým dokladem
+    bydliště. Řez 2000 má 1 přímé přiřazení a 10 silných opor; řezy 1950 a 1980
+    zůstávají bez přímého jména. Uložený výpis je bitově shodný s novým úplným
+    průchodem databází, generování je idempotentní a JSON, Ruby, mapový i inline
+    JavaScript a `git diff --check` prošly.
+35. Deset osobních účastníků Českého telefonu 2000 bylo zpětně prověřeno v
+    plnotextu Krameria KK Vysočiny a JVK/CBVK: přesné celé jméno i příjmení
+    proti frázi `Zahrádka u Pošné`, celkem 42 dotazů a 12 skupin se zásahem.
+    Žádný zásah nepřidal bezpečnou vazbu téhož člověka ke konkrétnímu čp. před
+    rokem 2000. Karel Adam z Vesnických novin 31. 1. 1957 byl výslovně
+    vyloučen: jméno a obec jsou ve dvou různých článcích na téže straně.
+    Reprodukce je v `nastroje/proverit_povalecna_jmena_kramerius.rb`, surový
+    výstup a ruční verdikt v
+    `prameny_online/reserse/2026-08-01_jmena_telefon_1950_1999/`.
+    Kontrola ale zpřesnila nepřiřazené jmenné opory: František Kříž je ve vsi
+    přímo 2. 10. 1980, Jan a Anežka Kejvalovi 13. 7. 1979, mladší Václav Bulant
+    ve školním roce 1984/85 a Václav Bulant s Františkem Rohovcem v létě 1989.
+    Tyto body jsou v obecní části katalogu a v řezu 1980 u čp. 5/8, 10/15/16
+    a 21; čp. 6 a 27 mají nově přesně formulované starší rodové kontroly.
+    Nikde se nepřeneslo příjmení k domu bez čp., takže součet zůstává 57
+    zveřejněných domovních stop, 18 čp. s osobní stopou a 7 čp. s přímým
+    bydlištěm. Přesný domovní řez 1980 zůstává neuzavřený.
+36. Federovaný fulltext České digitální knihovny byl k 1. 8. 2026 projet celý
+    přes přesnou frázi `Zahrádka u Pošné`: 103 stran, z toho 23 veřejných,
+    napříč sbírkami NKP, MZK, CBVK, SVK Hradec Králové a SVK Ústí nad Labem.
+    Ruční vyhodnocení nepřidalo žádnou novou poválečnou vazbu člověk–čp. ani
+    doklad bydliště. Čtyři staré kandidáty týdeníku *Zítřek* z let 1960–1968
+    se podařilo definitivně vyloučit: kořenová metadata patří okresu Písek a
+    zásahy s čp. 8, 16, 29 a 31 se týkají jiné Zahrádky na Milevsku. Audit je
+    reprodukovatelný skriptem `nastroje/proverit_cdk_zahradka.rb`, surová data
+    a ruční verdikt jsou v
+    `prameny_online/reserse/2026-08-01_cdk_povalecne/`. Kanonický
+    `cdk_fulltext_audit` i odrážkový domovní katalog tuto negativní kontrolu
+    zveřejňují; bilance zůstává 57 stop na 18 čp., z toho 7 čp. s přímým
+    bydlištěm. Řezy 1950 a 1980 zůstávají bez jmen.
+37. Hlavní odrážkový katalog byl po připomínce k čitelnosti přeuspořádán:
+    rychlý index všech 32 domů je hned za vysvětlivkami a následuje přímo
+    oddíl dům po domu. U každého čp. stojí nejdřív doložené bydliště a řezy
+    1950/1980/2000/2026, teprve potom podpůrné adresy, vlastník, jedna stručná
+    stavební věta, RÚIAN a doplňkové audity. Celkové metodické audity jsou až
+    za domovním katalogem. Doplňkové hledání v metadatech Internet Archive
+    nenašlo jiný český digitalizovaný telefonní adresář před rokem 2000;
+    online zůstávají jen už vytěžené databáze 2000 a 2004. Fyzický Telefonní
+    seznam TTO Tábor 1979–1980, sign. DT 6.504, proto zůstává hlavním
+    adresářovým kandidátem pro ruční kontrolu řezu 1980.
+38. Originální přílohy čtyř kotlíkových smluv byly vykresleny a vizuálně
+    zkontrolovány po formulářových polích, nikoli jen podle OCR. Tři spisy
+    bezpečně spojují vlastnickou způsobilost žadatele s přesnou podporovanou
+    nemovitostí: Zdeněk Svoboda — čp. 6 / st. 27/1 / tehdejší LV 31 (žádost
+    23. 10. 2019), Pavla Moravcová — čp. 15 / st. 10/3 / LV 186 (spis ke
+    smlouvě 27. 3. 2018) a Luděk Bulant — čp. 28 / st. 47 / LV 130 (žádost
+    20. 10. 2017). Formulář nerozlišuje výlučné vlastnictví, spoluvlastnický
+    podíl ani společné jmění, takže výstup uvádí jen „vlastník nebo
+    spoluvlastník“ a pouze k době žádosti. Stanislav Janda u čp. 27 zůstal
+    vědomě nepřiřazen: příloha dokládá bydliště a obecnou vlastnickou podmínku,
+    ale neidentifikuje podporovanou nemovitost samostatně. Kanonická data mají
+    nová pole `ownership`, `ownership_context` a audit
+    `ownership_source_audit`; hlavní odrážkový katalog i mapa je zobrazují
+    odděleně od obyvatel a od vlastníka 2026. U čp. 11 je jen výslovně
+    nepřesný předpolní kontext Jiřího Homolky a konfiskace velkostatku roku
+    1948, nikoli vlastník domu k roku 1950. Žádná data narození, rodná čísla,
+    kontakty ani bankovní údaje z příloh nebyly převzaty. Veřejné katalogy
+    byly pro vlastnické mezery zpřesněny na MNV Útěchovičky (majetkoprávní
+    převody 1956–1979), ONV Pacov (konfiskační a zemědělská agenda 1949–1960),
+    Okresní soud Pacov a mladší pozemkové evidence KP Pelhřimov; veřejné
+    obrazy ani jmenný rozpis po domech nemají a žádost nebyla odeslána.
+39. Následná kontrola Krameria KKV a CBVK zkombinovala přesný název vsi se
+    všemi čp. 1–32. Z adresních osobních zásahů potvrdila jen dva už známé
+    body: Janu Strašidlovou na čp. 5 dne 11. 1. 1992 a Luďka Bulanta na čp. 28
+    dne 29. 6. 1991; ostatní kandidáti byly tabulky, statistiky, obecné články
+    nebo jiné Zahrádky. U čp. 5 se proto v hlavním domovním katalogu nově
+    zveřejňuje přesně doložené jméno Jana Strašidlová, avšak bez rodinného
+    vztahu a bez údajů druhé osoby. Katalog ČGHSP navíc určil fyzický *Úřední
+    telefonní seznam pro kraje Jihlava, Brno, Olomouc, Gottwaldov, Ostrava
+    1950*, přírůstkové číslo 1428. U každého domu je nyní uveden jako přesný
+    doplňkový úkol pro řez 1950; nenahrazuje sčítací arch. Pozdější jihlavský
+    seznam 1959–1960 má ve ŠVK Košice jen vyřazený exemplář. Omezený audit
+    veřejného adresáře 1188 ověřil pět známých jmen bez výsledku, ale formulář
+    neposkytl úplný lokalitní výpis, takže nepřidal ani nevyloučil obyvatele.
+    Žádná žádost, rezervace ani jiná externí zpráva nebyla odeslána.
+40. Souborný katalog Knihovny.cz zpřesnil přístup k telefonnímu řezu 1950.
+    Knihovna Národního archivu má na Chodovci prezenční část 2 pro kraje 9–13,
+    sign. IM489; veřejný stav jednotky ji 1. 8. 2026 označil jako dostupnou a
+    objednatelnou. Národní knihovna má samostatný *Úřední telefonní seznam pro
+    kraj 9: Jihlava 1950*, rozsah 16 + 82 stran, sign. II 038397, a souborný
+    exemplář sign. III 016575; oba jsou archivní exempláře bez veřejných obrazů.
+    Federovaná Česká digitální knihovna ani Internet Archive exactní titul
+    neobsahují. Pro TTO Tábor 1979–1980 souborný katalog potvrdil jen známý
+    prezenční exemplář JVK DT 6.504 a nenabízí Získej EDD. Kanonický archivní
+    audit, dům-po-domu pokyny a návrhy žádostí jsou podle toho zpřesněny.
+    Žádný exemplář nebyl objednán a žádná zpráva nebyla odeslána.
+41. Audit úplnosti proti původnímu cíli potvrzuje, že projekt ještě není
+    obsahově dokončený. Všech 32 čp. má technickou kartu a 128 kontrolních řezů,
+    ale přímý poválečný doklad bydliště má jen 7 čp. (5, 6, 8, 9, 15, 27 a
+    28); 18 čp. má alespoň nějakou osobní adresní stopu a 14 čp. nemá žádnou.
+    Pro řez 1950 je 25 mezer, 3 domy bez jmenného dokladu a 4 tehdy ještě
+    neexistující čp.; přímé jméno není žádné. Pro rok 1980 je 14 mezer, 14
+    domů bez jmenného dokladu a 4 nepoužitelná čp.; přímé jméno opět není
+    žádné. Rok 2000 má 1 přímé přiřazení (čp. 28), 10 silných telefonních opor,
+    3 mezery, 16 domů bez jména a 2 nepoužitelná čp. Rok 2026 má 26 aktivních
+    domů bez veřejně doloženého současného obyvatele a 6 zaniklých čp.
+    Historické vlastnictví je bodově doloženo jen u čp. 6, 15 a 28; kontrolní
+    list vlastníků 2026 má 0 z 32 vyplněných vlastníků, LV i dat ověření.
+    Stejná překážka se opakuje: úplné domácnosti vyžadují fyzické sčítací a
+    domovní archy, telefonní řezy vyžadují prezenční svazky a vlastníci 2026
+    ruční výpis KN nebo úřední dávku. Veřejné online zdroje byly vyčerpány,
+    externí objednávka nebyla autorizována ani odeslána a bez nového vstupu
+    nelze další jména bezpečně doplnit.
+
 ## Nabízející se další kroky
 
-- Odeslat připravené žádosti z `zadost_o_archivni_prameny.md` (nyní 10 konceptů, stačí doplnit
-  jméno/kontakt) — hlavně inv. č. 23 (budovy/pojištění 1928–1948, klíč k demolicím),
-  inv. č. 40 (kniha služného 1940–44), nově pamětní kniha obce Zahrádka (SOkA
-  Pelhřimov) a sčítání 1930 (Národní archiv).
+- Po schválení odeslat prioritní žádost na úplné domovní řezy 1950 / 1980 /
+  2000 z `zadost_o_archivni_prameny.md`; stavební agenda je jen vedlejší.
+- Při návštěvě Národního archivu objednat vedle sčítacích archů také knihovní
+  exemplář IM489 a projít hesla Zahrádka / Pošná. Pokud nebude dostupný nebo
+  nebude obsahovat cílovou lokalitu, použít záložní jihlavský díl NK ČR
+  II 038397.
+- Ručně prověřit Úřední telefonní seznam 1950 v knihovně ČGHSP, přírůstkové
+  číslo 1428, pod hesly Zahrádka a Pošná. Zapsat jen výslovně uvedené jméno a
+  čp.; i úplný výpis telefonních účastníků zůstane jen doplňkem sčítacího archu.
+- Ručně prověřit především prezenční telefonní seznam JVK DT 6.504 pro rok
+  1979–1980. Český telefon 2000 i ročník 2004 jsou už vytěžené; DT 9.279 z let
+  1999–2001 může sloužit jen jako srovnání tištěné a digitální edice. Jména
+  přebírat pouze při výslovné vazbě na Zahrádku u Pošné a konkrétní čp.
+- Po obdržení archivních obrazů přepsat všechny osoby i prázdné domy do
+  `archivni_prepis_obyvatel.csv` a teprve potom je přenést do kanonických dat.
+- Pro souvislou vlastnickou osu požádat až po schválení o knihovní vložky a
+  návazné listiny všech aktivních stavebních parcel; pro 1950–1980 nejprve
+  nechat archiv identifikovat konkrétní jednotky MNV Útěchovičky a ONV Pacov.
+  Bodové dotační doklady u čp. 6, 15 a 28 nenahrazují LV ani stav roku 2026.
 - Po každé aktualizaci spisů promítnout novinky do JS polí webu a redeploy.
 - Otevřené výzkumné otázky jsou v oddílu IX webu (Q1–Q6) a v `vyzkum_statku.md`
   → „Další postup“.

@@ -2405,7 +2405,7 @@
      "citace": "František Rohovec, tesař ze Zahrádky č. 1, narozený v Zahrádce č. 1 … manželský syn Jana Rohovce, tesaře v Zahrádce č. 1 … Terezie Kejvalová ze Zahrádky č. 16 … svědkové: František Vytiska, šafář v Zahrádce č. 11; Jan Pudil, dělník v Zahrádce č. 12",
      "url": "https://digi.ceskearchivy.cz/6624/163",
      "jistota": "vysoká",
-     "poznamka": "Dva sourozenci Kejvalovi z čp. 16 se oženili téhož dne. Svědek Jan Pudil z čp. 12 je pravděpodobně týž člověk, kterého soupis 1921 uvádí jako „Jan Budil\" – matriky píší Pudil opakovaně a on sám se roku 1925 podepsal „Jan Pudil, otec\"."
+     "poznamka": "Dva sourozenci Kejvalovi z čp. 16 se oženili téhož dne. Svědek Jan Pudil z čp. 12 je totožný s mužem na sčítacím archu; obrazová revize 1. 8. 2026 potvrdila, že i arch čte „Pudil“. Matriky jej tak píší opakovaně a on sám se roku 1925 podepsal „Jan Pudil, otec“."
     },
     {
      "tvrzeni": "1. 2. 1921 se v Pošné oženil František Vitiska (Vytiska), šafář v Zahrádce č. 11 (*21. 1. 1892), s Kateřinou Kejvalovou ze Zahrádky č. 11 (*22. 10. 1892). Svědky byli Jan Pudil, dělník v Zahrádce č. 12, a František Rohovec, tesař v Zahrádce č. 1.",
@@ -2535,7 +2535,7 @@
      "citace": "Terezie Habarthová, schovanka u Jana a Marie Kadlecových, dělníka v Zahrádce č. 25, narozena ve Vídni … Jan Kadlec, dělník v Zahrádce č. 25",
      "url": "https://digi.ceskearchivy.cz/6624/206",
      "jistota": "střední",
-     "poznamka": "Matrika čte příjmení jako Kadlec, kdežto soupis 1921 uvádí u čp. 25 Josefa Kudlce; obojí je v obci doloženo (Kudlec i Kadlečík). Bez zvětšeniny se pravopis nesjednocuje. Vídeňský původ schovanky je pro obec neobvyklý a stojí za doplnění."
+     "poznamka": "Matrika i obrazová revize sčítacího archu 1. 8. 2026 čtou příjmení „Kadlec“; starší přepis „Kudlec“ byl opraven. Vídeňský původ schovanky je pro obec neobvyklý a stojí za doplnění."
     },
     {
      "tvrzeni": "14. 7. 1928 se vdávala Antonie Plášilová ze Zahrádky č. 24, narozená tamtéž, nemanželská dcera Anny, provdané za Antonína Škodu, domkáře v Blatinách, vnučka Václava Plášila, domkaře v Zahrádce č. 24. Svědkem byl Václav Plášil, krejčí v Zahrádce č. 17.",
@@ -2707,8 +2707,8 @@
      "url": "https://digi.ceskearchivy.cz/11086"
     },
     {
-     "stopa": "Rozpor u čp. 12: výchozí soupis 1921 vede „Jan Budil\", matriky let 1921, 1925 a 1930 píší třikrát „Jan Pudil, dělník / domkář v Zahrádce č. 12\" a otec sám se roku 1925 vlastnoručně podepsal „Jan Pudil, otec\". Obdobně u čp. 25 stojí proti soupisovému „Kudlec\" matriční „Kadlec\".",
-     "jak_pokracovat": "Zkontrolovat příslušný sčítací arch sady PE0584 (MZA, veřejné ID 13183) a porovnat rukopis; přednostně arch čp. 12 a čp. 25. Pokud se potvrdí Pudil, opravit v registru i na webu.",
+     "stopa": "Vyřešeno 1. 8. 2026 — obrazová revize archů sady PE0584 potvrdila čtení Pudil u čp. 12 a Kadlec u čp. 25; starší přepisy Budil a Kudlec byly opraveny.",
+     "jak_pokracovat": "Bez další akce; oprava byla promítnuta do registru, domovních indexů, mapových dat a webu.",
      "url": "https://digi.ceskearchivy.cz/6624/186"
     },
     {

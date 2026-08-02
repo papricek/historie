@@ -16,14 +16,14 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | Dům | Od–do doloženo | Osobních dokladových řádků |
 |---|---|---:|
 | č. 1a | 1921 | 5 |
-| N1 / čp. 1 | 1788–1928 | 118 |
+| N1 / čp. 1 | 1788–1928 | 119 |
 | N2 / čp. 2 | 1788–1934 | 68 |
 | N3 / čp. 3 | 1788–1936 | 99 |
 | N4 / čp. 4 | 1788–1930 | 57 |
-| N5 / čp. 5 | 1788–1934 | 85 |
-| N6 / čp. 6 | 1797–1926 | 123 |
+| N5 / čp. 5 | 1788–1934 | 86 |
+| N6 / čp. 6 | 1797–1926 | 124 |
 | N7 / čp. 7 | 1788–1921 | 45 |
-| N8 / čp. 8 | 1800–1933 | 104 |
+| N8 / čp. 8 | 1800–1956 | 105 |
 | N9 / čp. 9 | 1788–1943 | 80 |
 | N10 / čp. 10 | 1788–1937 | 116 |
 | N11 / čp. 11 | 1772–1930 | 230 |
@@ -35,7 +35,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | N17 / čp. 17 | 1788–1933 | 86 |
 | N18 / čp. 18 | 1808–1936 | 80 |
 | N19 / čp. 19 | 1813–1930 | 79 |
-| N20 / čp. 20 | 1819–1932 | 97 |
+| N20 / čp. 20 | 1819–1932 | 98 |
 | N21 / čp. 21 | 1812–1929 | 72 |
 | N22 / čp. 22 | 1815–1938 | 33 |
 | N23 / čp. 23 | 1825–1935 | 28 |
@@ -162,6 +162,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 11. / 12. 4. 1880 | František Franěk (?) | otec při narození dítěte Marie Fraňková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. / 12. 4. 1880 | Kateřina | matka při narození dítěte Marie Fraňková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. / 12. 4. 1880 | Marie Fraňková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 18. 6. 1882 | Marie Fraňková | dcera Františka Fraňka, rolníka v čp. 1, a Kateřiny rozené Kejvalové ze Zahrádky čp. 15; příčinou smrti byl záškrt | [úmrtní matrika, sn. 12](https://digi.ceskearchivy.cz/11214/12) |
 | 18. 5. 1920 | František Franěk | rolník v č. 1, otec ženicha | tentýž zápis |
 | 18. 5. 1920 | Josef Franěk / Franík | rolnický syn v č. 1, ženich; matrika jej píše Franěk / Fraňek | [oddací matrika, sn. 158](https://digi.ceskearchivy.cz/6624/158) |
 | 1. 2. 1921 | František Rohovec | tesař ze Zahrádky č. 1, narozen 15. 7. 1895; ženich Terezie Kejvalové | [sn. 163](https://digi.ceskearchivy.cz/6624/163) |
@@ -350,7 +351,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 5. 1. 1925 | Václav Bartoška | rolník v Zahrádce u Pošné č. 3, narozen 17. 9. 1894; roku 1925 už hospodář. Ohlášky sňatku vyšly i v tisku | [Pelhřimov, sn. 198](https://digi.ceskearchivy.cz/6347/198), [Týdeník z Českomoravské vysočiny, 3. 1. 1925, s. 4](https://kramerius.kkvysociny.cz/uuid/uuid:0ea75ebf-2e66-4747-a28f-e13833b161f0) |
 | 24. 4. 1926 | Jan Svoboda | dělník v č. 3, otec Marie. Příjmení Svoboda není ve sčítání 1921 ani u č. 3, ani u č. 6 — šlo o novou rodinu nebo podnájemníky | tentýž zápis |
 | zemřel před 4. 5. 1936 | Matěj Bartoška | rolník v čp. 3; úmrtní zápis manželky jej označuje za zemřelého | tentýž zápis |
-| zemřela 4. 5. 1936 | Antonie Bartošková, rozená Svobodová | **rolnice‑výměnkářka v čp. 3**, vdova po Matěji Bartoškovi; z Útěchoviček č. 20, zemřela v 69 letech na cukrovku. Doplňuje rodinu z let 1921–1925 | [úmrtní matrika, sn. 268](https://digi.ceskearchivy.cz/11214/268) |
+| zemřela 4. 5. 1936 | Antonie Bartoška `[normalizovaně Bartošková]`, rozená Svobodová | **výměnkářka v čp. 3**, vdova po Matěji Bartoškovi; z Útěchoviček č. 20, zemřela v 69 letech na cukrovku. Matrika píše přesný tvar `Bartoška` a původně napsanou roli `rolnice` škrtá. Doplňuje rodinu z let 1921–1925 | [úmrtní matrika, sn. 268](https://digi.ceskearchivy.cz/11214/268) |
 
 ## N4 / čp. 4
 
@@ -438,8 +439,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 14. 10. 1809; křest téhož dne | Michal (?) `[příjmení nejasné]` | otec při narození dítěte Marie (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. 11. 1811; křest téhož dne | Anna (?) | matka při narození dítěte Barbora `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. 11. 1811; křest téhož dne | Barbora `[příjmení nejasné]` | narození / křest; dům, datum a jméno dítěte čitelné; další údaje otevřené | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 4. / 5. 1. 1820 | Josef Kejval (?) | narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 1. 1820 | Josef Kejval (?) | otec při narození dítěte Josef Kejval (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. / 5. 1. 1820 | Josef Kejval (?) | narození / křest; dům, data a křestní jméno bezpečné; rodové čtení Kejval je pracovní a podporuje je opakování u otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. / 5. 1. 1820 | Mariana | matka při narození dítěte Josef Kejval (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 25. / 26. 4. 1821 | Anna `[další jméno nebo příjmení nejasné]` | narození / křest; dům, data a tři křestní jména rodiny čitelná; příjmení se nedoplňuje odhadem | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 25. / 26. 4. 1821 | Barbora `[rodové údaje nejasné]` | matka při narození dítěte Anna `[další jméno nebo příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -462,8 +463,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 29. / 30. 1. 1849 | Anna | matka při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 29. / 30. 1. 1849 | Anna Nuníková (?) | narození / křest; dům, oba dny a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 29. / 30. 1. 1849 | Martin Nuník (?) | otec při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 12. 2. 1852; den křtu neuveden | Marie | matka při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. 8. 1854; den křtu neuveden | František Nuník (?) | narození / křest; dům a den narození bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 4. 8. 1854; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte František Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -489,6 +490,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 19. / 21. 6. 1871 | Antonín Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 21. 6. 1871 | Josef Nuník (?) | otec při narození dítěte Antonín Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 21. 6. 1871 | Marie | matka při narození dítěte Antonín Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 22. / 24. 3. 1882 | Josef Vaněk | rolník v čp. 5, manžel Marie rozené Svobodové z Outěchoviček čp. 7; zemřel ve věku 56 let | [úmrtní matrika, sn. 10](https://digi.ceskearchivy.cz/11214/10) |
 | 1921 (sčítací arch) | Anna Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Vaňková | tchyně přednosty | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Růž | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -556,8 +558,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 21. / 22. 8. 1850 | Anna | matka při narození dítěte Anna Marie Chramostová (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 21. / 22. 8. 1850 | Anna Marie Chramostová (?) `[dvojče]` | narození / křest; druhé dvojče téhož zápisu; nerozšiřuje počet matričních zápisů | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 21. / 22. 8. 1850 | Josef Chramosta (?) `[dvojče]` | narození / křest; první z dvojčat; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 21. / 22. 8. 1850 | Matěj Chramosta (?) | otec při narození dítěte Anna Marie Chramostová (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 21. / 22. 8. 1850 | Matěj Chramosta (?) | otec při narození dítěte Josef Chramosta (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 21. / 22. 8. 1850 | Matěj Chramosta (?) | otec při narození dítěte Anna Marie Chramostová (?) `[dvojče]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 7. 1853 | Marie Reníková (?) | narození / křest; dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 7. 1853 | Martin Reník (?) | otec při narození dítěte Marie Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 6. / 7. 7. 1853 | Terezie (?) | matka při narození dítěte Marie Reníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -620,6 +622,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. 7. 1879; pokřtěna téhož dne | Josef Plášil | otec při narození dítěte Marie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 7. 1879; pokřtěna téhož dne | Marie | matka při narození dítěte Marie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 7. 1879; pokřtěna téhož dne | Marie Plášilová | narození / křest; dítě, rodiče, dům a den bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 19. 7. 1881 | František Pudil | syn Františka Pudila, nádeníka v čp. 6, a Františky rozené Sváčkové z Eše čp. 37; zemřel ve věku 1 měsíce a 16 dní na psotník | [úmrtní matrika, sn. 7](https://digi.ceskearchivy.cz/11214/7) |
 | 1921 (sčítací arch) | Anežka Perníčková | dítě v domácnosti; svobodná; narozena 18. 2. 1912 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Bílková | matka přednostky; ovdovělá; narozena 2. 6. 1840 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Plášilová | služka; svobodná; narozena 1. 5. 1858 | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -790,6 +793,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1930 | František Kříž | rolník v čp. 8; přísedící představenstva Družstva pro rozvod elektrické energie Proseč–Pošná. Roku 1921 byl přednostou domácnosti čp. 8 František Růž — držitel se mezitím změnil, nebo šlo o dalšího obyvatele domu | [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) |
 | zemřela 22. 12. 1932 | Marie Křížová | žena z čp. 8 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) |
 | zemřela 19. 6. 1933 | Marie Křížová | **výměnkářka** z čp. 8; potvrzuje rodinu Křížových v tomto domě vedle rolníka Františka Kříže z roku 1930 | tentýž rejstřík |
+| 26. 2. 1956 | Marie Křížová | článek o výroční členské schůzi JZD Zahrádka u Pošné ji výslovně uvádí jako „družstevnici Marii Křížovou čp. 8“. Jde o přímou domovní vazbu; se dvěma staršími ženami stejného jména, které v tomto domě zemřely v letech 1932 a 1933, se bez dalšího pramene neztotožňuje | [Vesnické noviny, č. 8, s. [1]](https://kramerius.kkvysociny.cz/view/uuid:2e4e240a-0e92-4d1e-ac81-2a23b668414a) |
 
 ## N9 / čp. 9
 
@@ -1228,7 +1232,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | doložen 24. 5. 1924 | František Vytiska | **šafář v Zahrádce č. 11**; svědek sňatku; adresní posloupnost: Zahrádka č. 11 | ZAH-0110; tentýž zápis jako ZAH-0108 |
 | oddán 24. 5. 1924 | Matěj Kudrhalt | **hospodářský pomocník v Zahrádce č. 11**; ženich; adresní posloupnost: Zahrádka č. 11 | ZAH-0108; [originál, snímek 182](https://digi.ceskearchivy.cz/6624/182), [výřez](../prameny_online/matriky/snatky/1924/snatek_matej_kudrhalt_anna_prochazkova_n11_snim182.jpg) |
 | oddána 24. 5. 1924 | Anna Procházková | nevěsta bydlící v č. 11; adresní posloupnost: Zahrádka č. 11 | ZAH-0109; tentýž zápis jako ZAH-0108 |
-| doložen 23. 11. 1929 | Josef Vacík | **zemědělský dělník** ve dvoře; otec Marie; adresní posloupnost: Zahrádka č. 11 | ZAH-0239; [oddací matrika, snímek 215](https://digi.ceskearchivy.cz/6624/215) |
+| doložen 23. 11. 1929; zemřel 1. 2. 1930, pohřben 3. 2. 1930 | Josef Vacík | **zemědělský dělník**, v úmrtním zápisu **hospodářský dělník-deputátník**; otec Marie; adresní posloupnost: Zahrádka č. 11 | ZAH-0239; [oddací matrika, snímek 215](https://digi.ceskearchivy.cz/6624/215), [plný úmrtní zápis, snímek 247](https://digi.ceskearchivy.cz/11214/247), [rozporný rejstřík, snímek 296](https://digi.ceskearchivy.cz/11214/296) |
 | oddána 23. 11. 1929 | Marie Vacíková | nevěsta; adresní posloupnost: Zahrádka č. 11, u rodičů | ZAH-0240; tentýž zápis jako ZAH-0239 |
 | doložen 9. 10. 1930 | Václav Hák | **kočí v Zahrádce č. 11**; otec Václava; adresní posloupnost: Zahrádka č. 11 | ZAH-0147; tentýž zápis jako ZAH-0146 |
 | doložena 9. 10. 1930 | Růžena Háková, rozená Ryš | matka Václava; adresní posloupnost: rodina v Zahrádce č. 11 | ZAH-0148; tentýž zápis jako ZAH-0146 |
@@ -1265,8 +1269,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 28. / 29. 5. 1828 | Jan Jiřiček (?) | otec při narození dítěte Anna Jiřičková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. 5. 1829; křest téhož dne | Jan Nepomuk Jiří (?) `[příjmení nejasné]` | narození / křest; nemanželský zápis; dům, den a základní křestní jména čitelná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. 5. 1829; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Jan Nepomuk Jiří (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 28. 11. 1831; křest téhož dne | Josef Krejčí (?) | otec při narození dítěte Josef Krejčí (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 11. 1831; křest téhož dne | Josef Krejčí (?) | narození / křest; dům a den bezpečné; příjmení je pracovní čtení opakované u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. 11. 1831; křest téhož dne | Josef Krejčí (?) | otec při narození dítěte Josef Krejčí (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 28. 11. 1831; křest téhož dne | Kateřina `[příjmení nejasné]` | matka při narození dítěte Josef Krejčí (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 1. 1833 | Anna `[příjmení nejasné]` | matka při narození dítěte Emanuel (?) `[další jméno a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 1. 1833 | Emanuel (?) `[další jméno a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -1278,12 +1282,12 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 16. 3. 1837; křest téhož dne | Kateřina Anna (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 2. 1921 | František Kejval | dělník a domkář v č. 12, otec Kateřiny | tentýž zápis |
 | 1. 2. 1921 | Kateřina Kejvalová, provdaná Vitisková | nevěsta ze Zahrádky č. 12, narozena 23. 10. 1892 v Loutkově č. 3; provdala se za šafáře panského dvora č. 11 | [sn. 164](https://digi.ceskearchivy.cz/6624/164) |
-| 1921 (sčítací arch) | Jan Budil | přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Budil | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Jan Pudil | přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Pudil | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josefa Kejvalová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Budilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Kejvalová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921, 1925 a 1930 | Jan Pudil | dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Sčítání 1921 čte v čp. 12 „Jan Budil“; matrika píše opakovaně Pudil a on sám se roku 1925 podepsal „Jan Pudil, otec“ | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 186](https://digi.ceskearchivy.cz/6624/186), [sn. 215](https://digi.ceskearchivy.cz/6624/215) |
+| 1921 (sčítací arch) | Marie Pudilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921, 1925 a 1930 | Jan Pudil | dělník, později domkář v č. 12; svědek dvou sňatků roku 1921 a otec Marie a Josefa. Obrazová revize sčítacího archu 1. 8. 2026 potvrdila čtení „Pudil“; stejně jej píší matriky a on sám se roku 1925 podepsal „Jan Pudil, otec“ | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 186](https://digi.ceskearchivy.cz/6624/186), [sn. 215](https://digi.ceskearchivy.cz/6624/215) |
 | 14. 2. 1925 | Marie Pudilová, provdaná Zelenková | dcera Jana Pudila ze Zahrádky č. 12 | tentýž zápis |
 
 ## N13 / čp. 13
@@ -1350,7 +1354,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 29. / 30. 6. 1845 | Lidmila (?) | matka při narození dítěte Marianna Kulhanová (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 29. / 30. 6. 1845 | Marianna Kulhanová (?) | narození / křest; dům a oba dny bezpečné; příjmení dítěte a rodičovská jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. 5. 1920 | Kateřina Fraňková, rozená Kejval | matka ženicha; pramen ji uvádí jako „rozenou Kejval ze Zahrádky č. 13“ — vzácný doklad k domu, jehož arch ve sčítání 1921 chybí | tentýž zápis |
-| zemřela 6. 12. 1936 | Antonie Kudrnová, rozená Kratochvílová | vdova po Josefu Kudrnovi, domkáři; z Pejškova č. 4, zemřela v 77 letech sešlostí věkem. Zápis ji vede u **čp. 13**, kdežto roku 1921 a 1922 byla rodina v čp. 18 | [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) |
+| zemřela 6. 12. 1936 | Antonie Kudrnová, rozená Kratochvílová | vdova po Josefu Kudrnovi, domkáři v **Zahrádce čp. 18**; z **Pejškova č. 11**, zemřela v 77 letech sešlostí věkem. Zápis ji roku 1936 vede u **čp. 13**, kdežto roku 1921 a 1922 byla rodina v čp. 18 | [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) |
 
 ## N14 / čp. 14
 
@@ -1447,7 +1451,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 5. / 6. 2. 1868 | Kateřina Zemišková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Anna Kejvalová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Matěj Kejval | přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 16. 10. 1937 | Aloisie Pudilová, rozená Kremličková | manželka malorolníka Josefa Pudila; z Pošné č. 55 (mlýn) | tentýž zápis |
+| 16. 10. 1937 | Aloisie Pudilová, rozená Kremličková | manželka malorolníka Josefa Pudila; z **Pošné č. 35** | tentýž zápis |
 | 16. 10. 1937 | Josef Pudil | **malorolník v čp. 14**; roku 1930 se ženil jako „bytem v č. 15, narozen v č. 22“ — po svatbě tedy hospodařil ve 14. Jeho třídenní syn Josef zemřel 16. 10. 1937 | [úmrtní matrika, sn. 273](https://digi.ceskearchivy.cz/11214/273) |
 
 ## N15 / čp. 15
@@ -1531,8 +1535,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 10. / 11. 5. 1876 | Václav Křivol (?) | otec při narození dítěte Jan Křivol (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | adresář 1915 | František Kejval | starosta obce; jiná osoba než stejnojmenný člen výboru z č. 10 | [uložený výřez adresáře](../prameny_online/tisky/1915/chytiluv_adresar_zahradka_sprava_obce_a_dvora_vyrez.jpg) |
 | 1921 (sčítací arch) | Antonie Kulhavá | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | František Kadlec | čeledín; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kejval | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | František Kudlec | čeledín; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Františka Kejvalová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Kejval | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Kejval | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -1801,7 +1805,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1921 (sčítací arch) | Josef Kudrna | majitel bytu; přednosta domácnosti; narozen 19. 5. 1876 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Kratochvílová | dcera; svobodná; narozena 30. 3. 1895 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 a 18. 7. 1922 | Marie Kratochvílová | dcera v domácnosti Kudrnových, narozena 30. 3. 1895 v Táboře č. 238; roku 1922 nevěsta. Ve sčítacím archu byla dříve mylně čtena jako `Marie Matějková, služka` | [sčítací arch, sn. 38](../prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) |
-| 1921, 18. 7. 1922; zemřela 6. 12. 1936 | Antonie Kudrnová, rozená Kratochvílová | roku 1921 manželka domkáře Josefa Kudrny, roku 1922 už vdova; matka Marie Kratochvílové. Úmrtní zápis z roku 1936 doplňuje rodné příjmení **Kratochvílová z Pejškova č. 4** a udává jako poslední dům **čp. 13** — rodina se tedy mezi lety 1922 a 1936 přestěhovala z č. 18 | [sčítací arch, sn. 38](../prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174) |
+| 1921, 18. 7. 1922; zemřela 6. 12. 1936 | Antonie Kudrnová, rozená Kratochvílová | roku 1921 manželka domkáře Josefa Kudrny, roku 1922 už vdova; matka Marie Kratochvílové. Plný úmrtní zápis z roku 1936 ji vede jako Kratochvílovou z **Pejškova č. 11**, Josefa Kudrnu výslovně označuje za domkáře v **Zahrádce čp. 18** a jako její poslední dům uvádí **čp. 13** — mezi lety 1922 a 1936 se tedy přestěhovala | [sčítací arch, sn. 38](../prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg), [oddací matrika, sn. 174](https://digi.ceskearchivy.cz/6624/174), [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) |
 | zemřel před 18. 7. 1922 | Josef Kudrna | domkář v č. 18; sčítání 1921 jej ještě zachycuje jako přednostu domácnosti | [sn. 174](https://digi.ceskearchivy.cz/6624/174) |
 | 24. 11. 1928 | Josef Vacík | truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují | tentýž zápis |
 | 24. 11. 1928 a 9. 11. 1929 | Antonín Kudrna | domkář v č. 18, narozen 4. 6. 1900 tamtéž; syn Josefa Kudrny | [sn. 208](https://digi.ceskearchivy.cz/6624/208), [sn. 213](https://digi.ceskearchivy.cz/6624/213) |
@@ -1946,8 +1950,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 14. / 15. 1. 1857 | Anna | matka při narození dítěte Marie Novotná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 14. / 15. 1. 1857 | Marie Novotná | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 29. / 30. 11. 1857 | Anna | matka při narození dítěte Josef Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 29. / 30. 11. 1857 | Josef Žák | narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování známé rodiny N20 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 29. / 30. 11. 1857 | Josef Žák | otec při narození dítěte Josef Žák | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 11. 1857 | Josef Žák | narození / křest; dítě, rodiče, dům a oba dny bezpečné; pokračování známé rodiny N20 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1858 | Anna | matka při narození dítěte Antonín Novotný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1858 | Antonín Novotný | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 7. / 8. 8. 1858 | Antonín Novotný | otec při narození dítěte Antonín Novotný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -1976,12 +1980,13 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 23. / 24. 8. 1874 | Josef Pavlík | otec při narození dítěte Marie Pavlíková | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 23. / 24. 8. 1874 | Josefa | matka při narození dítěte Marie Pavlíková | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 23. / 24. 8. 1874 | Marie Pavlíková | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 18. / 19. 5. 1876 | Jan Dvořáček | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 5. 1876 | Jan Dvořáček | otec při narození dítěte Jan Dvořáček | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 18. / 19. 5. 1876 | Jan Dvořáček | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 5. 1876 | Marie | matka při narození dítěte Jan Dvořáček | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 6. 1878 | Antonie Dvořáčková | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 6. 1878 | Jan Dvořáček | otec při narození dítěte Antonie Dvořáčková | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 6. 1878 | Marie | matka při narození dítěte Antonie Dvořáčková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 9. / 11. 6. 1882 | Josef Žák | chalupník v čp. 20, manžel Veroniky rozené Davidové z Rovného čp. 11; zemřel ve věku 45 let | [úmrtní matrika, sn. 12](https://digi.ceskearchivy.cz/11214/12) |
 | sňatek 28. 1. 1901 | Alois Kaňka | zedník a ženich; dříve narozen v N11 | [oddací matrika](https://digi.ceskearchivy.cz/6624/75) |
 | 1921 (sčítací arch) | Anna Zelenková | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Zelenka | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -2101,9 +2106,9 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1921 (sčítací arch) | Ludvík Bílek | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Václav Bílek | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. 6. 1935 | František Vacek | **kočí** v čp. 22; jeho čtyřměsíční syn František téhož dne zemřel | [úmrtní matrika, sn. 265](https://digi.ceskearchivy.cz/11214/265) |
-| 11. 6. 1935 | Marie Vacková, rozená Drexlerová | manželka kočího Františka Vacka; z Chvojnice č. 5 | tentýž zápis |
-| duben 1937 | Marie Plášilová, rozená Norková | manželka deputátníka Jana Plášila; z Čakova u Českých Budějovic | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271) |
-| duben 1937; okraden 8. 7. 1938 | Jan Plášil | **dělník‑deputátník v čp. 22** — tím je konečně určen dům deputátníka, kterému se roku 1938 vloupali do bytu; jeho syn Josef, narozený v Hrobech, zemřel v dubnu 1937 na vrozenou slabost | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271), [Český jih 16. 7. 1938](https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb) |
+| 11. 6. 1935 | Marie Vacková, rozená Drexlerová | manželka kočího Františka Vacka; z **Chvojnice č. 8** | tentýž zápis |
+| syn zemřel 2. 4. 1937 | Marie Plášilová, rozená Norková | manželka deputátníka Jana Plášila; z Čakova u Českých Budějovic | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271) |
+| syn zemřel 2. 4. 1937; okraden 8. 7. 1938 | Jan Plášil | **dělník‑deputátník v čp. 22** — tím je konečně určen dům deputátníka, kterému se roku 1938 vloupali do bytu; jeho syn Josef, narozený v Hrobech, zemřel podle opraveného hlavního zápisu 2. 4. 1937 (pohřeb 4. 4.) na vrozenou slabost; abecední rejstřík uvádí rozporně 12. 3. | [úmrtní matrika, sn. 271](https://digi.ceskearchivy.cz/11214/271), [Český jih 16. 7. 1938](https://kramerius.cbvk.cz/uuid/uuid:a58b079a-4062-11f0-8ee3-005056841fbb) |
 | zemřel před 4. 2. 1937 | Alois Horáček | **dělník‑deputátník v čp. 22** | tentýž zápis |
 | zemřela 4. 2. 1937 | Anna Horáčková, rozená Jandová | **zemědělská dělnice v čp. 22**, vdova po Aloisi Horáčkovi; z Útěchoviček č. 15, 69 let. Sčítání 1921 vede Horáčkovy v čp. 21 — rodina se přestěhovala, nebo je čtení archu nepřesné | [úmrtní matrika, sn. 270](https://digi.ceskearchivy.cz/11214/270) |
 
@@ -2167,11 +2172,11 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | Doložené datum / období | Osoba | Podklad vazby k domu | ID / pramen |
 |---|---|---|---|
 | 1921 (sčítací arch) | Anna Kolářová | pomocnice; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Jan Kudlec | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Kudlec | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Kudlecová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Jan Kadlec | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Kadlec | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Kadlecová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Peřová (?) | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 16. 6. 1928 | Jan Kadlec | dělník v č. 25; matrika čte Kadlec, sčítání 1921 vede u čp. 25 Josefa Kudlce — pravopis se bez zvětšeniny nesjednocuje | [sn. 206](https://digi.ceskearchivy.cz/6624/206) |
+| 16. 6. 1928 | Jan Kadlec | dělník v č. 25; obrazová revize sčítání 1921 potvrdila v témže domě rodinu Kadlecových | [sn. 206](https://digi.ceskearchivy.cz/6624/206) |
 | 16. 6. 1928 | Marie Kadlecová | manželka Jana Kadlece | tentýž zápis |
 | 16. 6. 1928 | Terezie Habarthová | schovanka Jana a Marie Kadlecových v č. 25, narozená ve Vídni | tentýž zápis |
 

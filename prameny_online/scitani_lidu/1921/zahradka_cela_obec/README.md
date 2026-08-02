@@ -42,10 +42,10 @@ personální registr celé vsi, vedený především podle čísel popisných, j
 | 9 | 22 / `00220` | — | 7 | jména a základní role přepsány |
 | 10 | 24 / `00240` | — | 7 | jména a základní role přepsány |
 | **11** | **26 / `00260`** | — | **8** | **úplně přepsáno** |
-| 12 | 28 / `00280` | — | 5 | jména a základní role přepsány |
+| 12 | 28 / `00280` | — | 5 | obrazově revidováno; Pudil, nikoli dřívější `Budil` |
 | 13 | — | — | — | samostatný arch nenalezen |
 | 14 | 30 / `00300` | — | 2 | jména a základní role přepsány |
-| 15 | 32 / `00320` | — | 7 | jména a základní role přepsány |
+| 15 | 32 / `00320` | — | 7 | obrazově revidováno; čeledín František Kadlec |
 | 16 | 34 / `00340` | 35 / `00350` | 11 | jména a základní role přepsány |
 | 17 | 36 / `00360` | 37 / `00370` | 11 | všechny osoby zachyceny; jedno křestní jméno nečitelné |
 | 18 | 38 / `00380` | — | 3 | všechny osoby zachyceny; jedno příjmení nejisté |
@@ -55,7 +55,7 @@ personální registr celé vsi, vedený především podle čísel popisných, j
 | 22 | 46 / `00460` | 47 / `00470` | 9 | jména a základní role přepsány |
 | 23 | 48 / `00480` | — | 4 | jména a základní role přepsány |
 | 24 | 50 / `00500` | — | 4 | jména a základní role přepsány |
-| 25 | 52 / `00520` | — | 5 | všechny osoby zachyceny; jedno příjmení nejisté |
+| 25 | 52 / `00520` | — | 5 | obrazově revidováno; Kadlecovi potvrzeni, jedno příjmení nejisté |
 | **Celkem** |  |  | **174** | **všech 174 osob přiřazeno k domu** |
 
 ## Poznámka k přepisu
