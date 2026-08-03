@@ -423,7 +423,7 @@ Hlavní jmenné výsledky:
 |---|---|---|
 | č. 1 | rodina tesaře **Jana Rohovce** (1921, 1928; 1920 ještě v č. 22, 1929 v č. 21); **Fraňkova/Franíkova usedlost** — matrika ji píše „č. 1“, sčítání 1921 jako čp. 1a | oddací kniha 6624 |
 | č. 2 | **František Kudrna**, rolník († před 1928), po něm syn **Karel Kudrna** (1928, 1934); syn Jan (*1905) | 6624; ČCE Moraveč a Červená Řečice |
-| č. 3 | **Matěj Bartoška** a Antonie roz. Svobodová, od roku 1925 hospodaří syn **Václav** (*17. 9. 1894) | 6624; matrika Pelhřimov |
+| č. 3 | **Matěj Bartoška** a Antonie roz. Svobodová, od roku 1925 hospodaří syn **Václav** (*17. 9. 1894); jeho manželka Marie roz. Pavlíková (*22. 6. 1901) je podle přesného data narození totožná s Marií Bartoškovou doloženou ve vsi 1976 a 1987 | 6624; matrika Pelhřimov; Nástup |
 | č. 4 | **Josef Markvart**, rolník, s Antonií roz. Bečkovou ze Zlátenky a dětmi Antonií, Václavem, Karlem, Anežkou a Josefem (1921, 1929, 1930); obrazová kontrola sčítacího archu 31. 7. 2026 opravila dřívější přepis `Matějka` na **Markvart** | 6624, tři nezávislé zápisy; sčítací arch PE0584, sn. 12 |
 | č. 5 | **František Vaněk**, rolník, s Antonií roz. Kejvalovou z č. 15; **Antonín Kříž**, rolník (1929, 1934) | 6624; ČCE Červená Řečice |
 | č. 6 | rodina **Svobodova** (1926) — ve sčítání 1921 zde není | 6624 |
@@ -435,7 +435,7 @@ Hlavní jmenné výsledky:
 | č. 13 | **Kateřina Kejvalová**, provdaná Fraňková — jediný jmenný doklad k domu, jehož arch ve sčítání 1921 chybí | 6624, sn. 158 |
 | č. 15 | starosta **František Kejval** s Františkou roz. Kudrnovou, syn Jan (*1902), dcera Marie (*1907); **Josef Dvořák** (1923) | 6624; Úřední list 1923 |
 | č. 16 | **Jan Kejval**, domkář, s Kateřinou roz. Pošusta a dcerami Annou, Terezií a Karolínou; **J. Kejvalová** († 22. 10. 1948) | 6624; Palcát 1948 |
-| č. 17 | **Václav Plášil**, krejčí (1928) — jiná osoba než stejnojmenný domkář v č. 24 | 6624 |
+| č. 17 | **Václav Plášil**, krejčí (1921 a 1928) — sčítání jej chybně píše jako Vojtěcha, ale přesné datum narození 10. 9. 1876 a rodina totožnost potvrzují; obecní dům je velmi silně ztotožněn s pastouškou. Jiná osoba než stejnojmenný domkář v č. 24 | sčítání PE0584; 6624; Vesnické noviny |
 | č. 18 | **Josef Kudrna**, domkář († před 1922), vdova Antonie, syn **Antonín** (*1900); truhlář **Josef Vacík** (1928) | 6624 |
 | č. 19 | **Josef Vaněk**, chalupník, a jeho pět dětí: Anna, Jan, **Karel (legionář, *3. 1. 1891)**, Růžena, Alois | 6624, pět zápisů |
 | č. 20 | domkáři **Václav** a **Jan Zelenka**, syn Karel, tesařský pomocník | 6624 |
@@ -578,7 +578,10 @@ vedeny v oddílu „dům nezjištěn“.
 - 1956/1957 — **Václav Plášil** (*10. 9. 1876) pohřben 12. 1. 1956 a jeho
   manželka **Marie** 26. 12. 1957; podle vzpomínkového dopisu bydlela rodina
   v **obecní pastoušce**, patřila k nejchudším ve vsi a na stáří se manželé
-  odstěhovali do Samšína. Existence obecní pastoušky je pro ves nový poznatek.
+  odstěhovali do Samšína. Sčítání a matrika nyní velmi silně určují pastoušku
+  jako čp. 17. Dopis však mluví o otci jako těžce nemocném po výročí 16. 1.,
+  kdežto zpráva o pohřbu uvádí 12. 1. 1956; možné publikační zpoždění je jen
+  vysvětlení, ne doložený fakt.
 - 1965 — motocyklista **J. Kudrna** těžce zraněn při srážce se srnou.
 - prosinec 1966 — dvě děvčata se probořila pod led na návesním rybníku a byla
   zachráněna (jména jsou v úplném výstupu rešerše; obě osoby mohou žít).
@@ -586,7 +589,9 @@ vedeny v oddílu „dům nezjištěn“.
   Peštova a Plášilová.
 - červenec 1972 — zemřel **Jan Zelenka**, poslední léta v Domově důchodců
   v Humpolci; pohřbu se účastnili zástupci JZD a MO KSČ v Útěchovičkách.
-- 1976 a dále — jubilea a parte: **Marie Bartošková** (*22. 6. 1901),
+- 1976 a 1987 — **Marie Bartošková** (*22. 6. 1901) je podle přesného data
+  narození totožná s Marií Pavlíkovou, která se roku 1925 provdala za Václava
+  Bartošku z čp. 3; články ale neuvádějí její tehdejší čp. Další jubilea a parte:
   **František Kříž** (*2. 10. 1920, † 5/1982), **Jan Kejval** († 29. 4. 1983) a
   **Anežka Kejvalová** († 3. 2. 1984) s dětmi Věrou, Marií a Pavlem, **Karel
   Kejval** († 10. 10. 1985, pracovník Agrozetu Pelhřimov), **František Rohovec**
@@ -834,6 +839,13 @@ příjmení.
    HBMa knihy 1362 a 1692; civilní oddací kniha Pelhřimov 3A a knihy okolních
    farností po roce 1930; PDF odstávky EG.D (seznam čp.); výkresy ÚP (funkční
    plocha dvora); vlastnictví areálu dvora v katastru (nahlizenidokn.cuzk.gov.cz).
+10. Hloubková kontrola rozhovoru 3. 8. 2026 je rozepsána po všech osmnácti
+    tvrzeních v
+    [samostatné rešerši](prameny_online/reserse/2026-08-03_rozhovor_pavel_pesta/README.md).
+    Zásadní opravy: pastouška = velmi pravděpodobně obecní čp. 17, nikoli N12;
+    čp. 25 bylo 1921/1928 obytné; Marie Pavlíková/Bartošková propojuje rodinu
+    čp. 3 s obecní stopou do roku 1987; originál matriky potvrzuje Pičkovou z
+    čp. 16. U každého závěru jsou odděleny mezery a rozpory pramenů.
 
 Žádná žádost ani zpráva třetí straně nebyla odeslána; nové koncepty jsou
 v [zadost_o_archivni_prameny.md](zadost_o_archivni_prameny.md).

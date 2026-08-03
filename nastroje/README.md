@@ -138,6 +138,34 @@ Samostatným typem je také historická adresa osobní telefonní stanice.
 Statutární role, žadatel úředního záměru ani telefonní účastnická adresa nejsou
 samy bydlištěm nebo vlastnictvím; telefonní záznam navíc není úplným soupisem
 domácnosti.
+Kořenové pole `oral_history` drží oddělenou publikovatelnou vrstvu rozhovoru s
+Pavlem Peštou z čp. 26 z 3. 8. 2026. Každá položka má vlastní ID, druh stopy,
+výslovná čp. nebo prázdný seznam pro dosud neumístěnou polohu, míru jistoty,
+příznak zveřejnění a povinnou ověřovací vrstvu: `verification_status`, slovní
+`verification`, jmenné a věcné `connections`, jednotlivé badatelské kroky
+`findings`, výslovnou mez důkazu `open_questions` a seznam dohledaných
+`sources`. Generátor vyžaduje u každého záznamu alespoň jedno zjištění i jednu
+otevřenou otázku a publikuje je jako vnořené odrážky, aby nebyl výsledek
+schovaný v jednom dlouhém odstavci.
+Stavy se překládají přes `verification_labels`; i negativní výsledek hledání
+se zapisuje výslovně, aby se rod doložený u jiného domu neproměnil ve falešné
+potvrzení ústní posloupnosti. `current_2026: true` znamená pouze současnou
+vazbu podle informátora; v kontrolním CSV dostane stav `oral` a nezapočítává se
+mezi úředně či archivně doložená bydliště.
+
+Přesné výrazy z rozhovoru lze znovu prověřit proti Krameriům KKV a JVK/CBVK:
+
+```bash
+ruby nastroje/proverit_rozhovor_kramerius.rb \
+  --as-of 2026-08-03 \
+  --output prameny_online/reserse/2026-08-03_rozhovor_pavel_pesta/kramerius_audit.json
+```
+
+Výstup uchovává všech 126 dotazů včetně nulových zásahů a OCR ukázek. Společný
+výskyt jména a lokality na jedné novinové straně není automaticky jejich
+vztah; každý kladný zásah se musí otevřít a vyložit v kontextu. Audit proto
+slouží jako reprodukovatelný protokol hledání, nikoli jako automatický
+generátor rodových vazeb.
 Jmennou zpětnou kontrolu deseti účastníků z roku 2000 v plnotextu dvou
 Krameriů reprodukuje `proverit_povalecna_jmena_kramerius.rb`. Hledá celé jméno
 i příjmení společně s přesným názvem vsi, ale výstup ponechává jako kandidátní:
@@ -201,8 +229,10 @@ archiválií a katalogové signatury doplňkových telefonních seznamů; nulov�
 digitálních objektů se nesmí vykládat jako neexistence archiválie. Druhý příkaz
 přidává do mapy objekty `window.MAPA_OBYVATELE` a `window.MAPA_VLASTNICI`.
 Oba generátory vyžadují právě čp. 1–32. Jména možná
-žijících osob se publikují jen v rozsahu veřejného úředního, rejstříkového nebo
-adresního mediálního pramene. U společenské kroniky se přebírá jen jméno,
+žijících osob se z veřejných pramenů publikují jen v rozsahu veřejného
+úředního, rejstříkového nebo adresního mediálního pramene; výslovně poskytnuté
+ústní svědectví se zobrazuje v samostatně označeném oddílu a nesmí se vydávat
+za pobytovou evidenci. U společenské kroniky se přebírá jen jméno,
 datum a přesná adresa; datum narození, rodinný vztah, údaje druhé osoby ani
 telefonní číslo se do vrstvy nepřebírají.
 

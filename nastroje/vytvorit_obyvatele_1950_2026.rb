@@ -24,6 +24,10 @@ data = JSON.parse(File.read(SRC))
 reconstruction = JSON.parse(File.read(RECON_SRC))
 houses = data.fetch("houses")
 types = data.fetch("evidence_types")
+oral_history = data.fetch("oral_history")
+oral_kind_labels = oral_history.fetch("kind_labels")
+oral_verification_labels = oral_history.fetch("verification_labels")
+oral_items = oral_history.fetch("items")
 house_context = data.fetch("current_house_context")
 current_telephone_audit = data.fetch("current_telephone_audit")
 archival_audit = data.fetch("archival_source_audit")
@@ -48,6 +52,28 @@ abort "Nesouhlasí čp. v rekonstrukci" unless reconstruction_houses.keys.sort =
 abort "Nesouhlasí čp. v kontrolním listu vlastníků" unless owner_rows.keys.sort_by(&:to_i) == expected
 
 allowed_certainty = %w[vysoká střední nízká].freeze
+%w[recorded source method kind_labels verification_labels items].each { |field| oral_history.fetch(field) }
+oral_ids = oral_items.map do |item|
+  %w[id houses kind period title detail verification_status verification connections findings open_questions sources certainty publish].each { |field| item.fetch(field) }
+  abort "#{item.fetch('id')}: neznámý typ ústního svědectví #{item.fetch('kind')}" unless oral_kind_labels.key?(item.fetch("kind"))
+  unless oral_verification_labels.key?(item.fetch("verification_status"))
+    abort "#{item.fetch('id')}: neznámý stav ověření #{item.fetch('verification_status')}"
+  end
+  item.fetch("sources").each { |source| source.fetch("label") }
+  abort "#{item.fetch('id')}: chybějí jednotlivá zjištění" if item.fetch("findings").empty?
+  abort "#{item.fetch('id')}: chybí otevřená otázka nebo mez důkazu" if item.fetch("open_questions").empty?
+  abort "#{item.fetch('id')}: neznámá jistota #{item.fetch('certainty')}" unless allowed_certainty.include?(item.fetch("certainty"))
+  unknown_houses = item.fetch("houses") - expected
+  abort "#{item.fetch('id')}: neznámá čp. #{unknown_houses.join(', ')}" unless unknown_houses.empty?
+  abort "#{item.fetch('id')}: publish musí být true/false" unless [true, false].include?(item.fetch("publish"))
+  if item.key?("current_2026")
+    abort "#{item.fetch('id')}: current_2026 musí být true/false" unless [true, false].include?(item.fetch("current_2026"))
+    abort "#{item.fetch('id')}: současná stopa musí mít čp." if item.fetch("current_2026") && item.fetch("houses").empty?
+  end
+  item.fetch("id")
+end
+abort "Duplicitní ID ústního svědectví" unless oral_ids.uniq.length == oral_ids.length
+
 houses.each do |key, house|
   house.fetch("label")
   house.fetch("building")
@@ -286,6 +312,15 @@ end
 published_ownership_context = houses.transform_values do |house|
   house.fetch("ownership_context", []).select { |item| item.fetch("publish") }
 end
+published_oral = oral_items.select { |item| item.fetch("publish") }
+oral_by_house = expected.to_h { |key| [key, []] }
+published_oral.each do |item|
+  item.fetch("houses").each { |key| oral_by_house.fetch(key) << item }
+end
+oral_unplaced = published_oral.select { |item| item.fetch("houses").empty? }
+current_oral_by_house = oral_by_house.transform_values do |items|
+  items.select { |item| item.fetch("current_2026", false) }
+end
 ownership_items = published_ownership.flat_map { |key, items| items.map { |item| [key, item] } }
 abort "Nesouhlasí počet přesných vlastnických vazeb" unless ownership_items.length == ownership_audit.fetch("new_exact_owner_links")
 abort "Nesouhlasí čp. přesných vlastnických vazeb" unless ownership_items.map(&:first).uniq.sort_by(&:to_i) == ownership_audit.fetch("exact_owner_houses").sort_by(&:to_i)
@@ -300,6 +335,7 @@ support_houses = published.count do |_key, items|
 end
 ownership_houses = published_ownership.count { |_key, items| items.any? }
 ownership_people = published_ownership.values.flatten.map { |item| item.fetch("person") }.uniq
+oral_current_houses = current_oral_by_house.count { |_key, items| items.any? }
 
 def source_md(item)
   return item.fetch("source") if item.fetch("url", "").empty?
@@ -311,6 +347,29 @@ def evidence_line(item, type_label)
   "  - **#{item.fetch('person')} — #{item.fetch('period')}** " \
     "(#{type_label}; jistota #{item.fetch('certainty')}): #{item.fetch('detail')} " \
     "Pramen: #{source_md(item)}."
+end
+
+def oral_source_md(source)
+  return source.fetch("label") if source.fetch("url", "").empty?
+
+  "[#{source.fetch('label')}](#{source.fetch('url')})"
+end
+
+def oral_history_line(item, type_label, source, verification_label)
+  found_sources = item.fetch("sources").map { |entry| oral_source_md(entry) }
+  connections = item.fetch("connections")
+  lines = [
+    "  - **#{item.fetch('title')} — #{item.fetch('period')}** " \
+      "(#{type_label}; jistota #{item.fetch('certainty')}): #{item.fetch('detail')}",
+    "    - **Souhrnný výsledek — #{verification_label}:** #{item.fetch('verification')}",
+    "    - **Dohledaná zjištění krok po kroku:**"
+  ]
+  item.fetch("findings").each { |finding| lines << "      - #{finding}" }
+  lines << "    - **Návaznosti osob, domů a míst:** #{connections.join('; ')}." unless connections.empty?
+  lines << "    - **Co zůstává otevřené:** #{item.fetch('open_questions').join(' ')}"
+  lines << "    - **Dohledané prameny:** #{found_sources.join('; ')}." unless found_sources.empty?
+  lines << "    - **Původ výpovědi:** #{source}."
+  lines.join("\n")
 end
 
 def ownership_line(item)
@@ -403,7 +462,7 @@ def exact_verification(year, key, house, cut)
   end
 end
 
-def quick_house_line(key, house, items, ownership, types)
+def quick_house_line(key, house, items, ownership, types, oral_items)
   residence = items.select { |item| item["type"] == "residence" }
   organization_types = %w[organization project_applicant]
   supporting = items.reject { |item| item["type"] == "residence" || organization_types.include?(item["type"]) }
@@ -422,6 +481,9 @@ def quick_house_line(key, house, items, ownership, types)
   end
   unless ownership.empty?
     parts << "historické vlastnictví: " + ownership.map { |item| item.fetch("person") }.uniq.join("; ")
+  end
+  unless oral_items.empty?
+    parts << "ústní svědectví: " + oral_items.map { |item| item.fetch("title") }.join("; ")
   end
   parts << "bez přesně adresované poválečné osoby" if parts.empty?
   text = parts.join(". ").sub(/\.+\z/, "")
@@ -447,6 +509,7 @@ lines << "## Jak výsledek číst"
 lines << ""
 lines << "- **Doložené bydliště** znamená, že datovaný pramen osobu přímo spojil s čp. Jen uvedený den nebo interval je doložený; sousední roky se nepřidávají odhadem."
 lines << "- **Další adresní stopa** může být úřední kontakt, sídlo podnikání nebo poslední známá adresa vlastníka. Není automaticky pobytem."
+lines << "- **Ústní svědectví Pavla Pešty z čp. 26** je samostatná vrstva místní paměti. Výslovné čp. dovoluje zobrazit výpověď u domu, ale neproměňuje ji v úřední pobyt, vlastnictví ani přesnou časovou řadu. Rozpory se staršími prameny zůstávají viditelné."
 lines << "- **Český telefon 2000** používá bytové seznamy platné do dubna 2000 a dává přesnou vazbu jméno–obec–čp. Jde o účastnickou adresu, nikoli automaticky o trvalý pobyt, vlastnictví nebo všechny členy domácnosti. Edice 2004 slouží jako pozdější nezávislá kontrola."
 lines << "- **Stav domu** je jen jedna orientační věta, aby se jméno nepřiřadilo k domu, který v dané době neexistoval."
 lines << "- U každého domu jsou zvlášť řezy **1950 / 1980 / 2000**. Jméno v položce ‚nejbližší opora‘ není obyvatelem daného roku, dokud to nepotvrdí domovní pramen."
@@ -463,7 +526,8 @@ lines << ""
 lines << "## Rychlý index domů"
 lines << ""
 houses.sort_by { |key, _house| key.to_i }.each do |key, house|
-  lines << quick_house_line(key, house, published.fetch(key), published_ownership.fetch(key), types)
+  lines << quick_house_line(key, house, published.fetch(key), published_ownership.fetch(key), types,
+                            oral_by_house.fetch(key))
 end
 lines << ""
 main_lines = lines
@@ -472,12 +536,14 @@ lines << "## Skutečné pokrytí"
 lines << ""
 lines << "- **#{resident_houses} z 32 čp.** má po roce 1950 alespoň jeden konkrétní doklad bydliště; jde o #{resident_people.length} zveřejněných jmenných položek."
 lines << "- **#{named_houses} z 32 čp.** má alespoň nějakou poválečnou osobní stopu; u #{support_houses} čp. je část dokladů pouze podpůrná, nikoli pobytová."
+lines << "- **#{oral_current_houses} z 32 čp.** má navíc současnou osobní nebo rodovou vazbu z rozhovoru s Pavlem Peštou (čp. #{current_oral_by_house.select { |_key, items| items.any? }.keys.sort_by(&:to_i).join(', ')}). Tyto vazby jsou publikované jako ústní svědectví a nezvyšují výše uvedený počet úředně či archivně doložených bydlišť."
 lines << "- **#{ownership_houses} z 32 čp.** má přesný bodový doklad historického vlastnictví: #{ownership_people.join(', ')}. Jde o stav v době dotační žádosti, nikoli o úplnou vlastnickou posloupnost ani současný stav."
 lines << "- **Rok 1950:** žádná osoba zatím není veřejným pramenem spojena současně s rokem a čp."
 lines << "- **Rok 1980:** domovní mezera trvá; známe 51 obyvatel a k 1. 1. 1980 skladbu 33 členů JZD. Jmenně je přesně k roku 1980 ve vsi doložen František Kříž a těsně před řezem Jan s Anežkou Kejvalovými (13. 7. 1979), ale žádný z těchto pramenů neuvádí čp."
 lines << "- **Rok 2000:** přímý pobytový doklad máme jen pro Václava Bulanta na čp. 28. Český telefon 2000 navíc přesně spojuje osoby s čp. 5, 6, 7, 8, 16, 21, 24, 27, 28 a 29; u devíti ostatních domů je to silná časová opora, ne jisté bydliště ani úplná domácnost."
 lines << "- **Důležité omezení pramene:** MNV Pošná, inv. 61 / karton 4, je výslovně seznam **Pošné čp. 1–50 (1953–1967)**. Pro Zahrádku se nepoužívá."
 lines << "- **Rok 2026:** aktuálně ověřené jsou adresy podnikání na čp. 8, 15, 20 a 27, sídlo spolku a dvě statutární role spojené s čp. 11. Žádný z těchto zápisů sám neprokazuje dnešní bydliště."
+lines << "- **Rozhovor 3. 8. 2026:** místní svědectví doplňuje dnešní vazby u čp. #{current_oral_by_house.select { |_key, items| items.any? }.keys.sort_by(&:to_i).join(', ')} a řadu domovních názvů. V kontrolních datech mají stav `oral`, dokud je nepotvrdí autorizovaný soupis nebo pobytový pramen."
 lines << "- **Veřejný telefonní adresář 2026:** #{current_telephone_audit.fetch('findings')} Prověřeno bylo #{current_telephone_audit.fetch('exact_known_names_checked')} již známých přesných jmen; lokalitní výpis bez jména formulář neposkytl. #{current_telephone_audit.fetch('limits')} Telefonní čísla exportována nebyla. Pramen: #{source_md(current_telephone_audit)}."
 lines << "- **Dostupnost klíčových pramenů:** #{archival_audit.fetch('findings')} V archivní kontrole bylo nových osobních vazeb #{archival_audit.fetch('new_exact_person_links')}; samostatné audity digitálních telefonních databází následují níže."
 archival_audit.fetch("sources").each do |item|
@@ -521,6 +587,8 @@ houses.sort_by { |key, _house| key.to_i }.each do |key, house|
   ownership_context = house.fetch("ownership_context", []).select { |item| item.fetch("publish") }
   residence = items.select { |item| item["type"] == "residence" }
   supporting = items.reject { |item| item["type"] == "residence" }
+  oral = oral_by_house.fetch(key)
+  current_oral = current_oral_by_house.fetch(key)
   snapshots = reconstruction_houses.fetch(key).fetch("snapshots")
   owner_row = owner_rows.fetch(key)
 
@@ -532,6 +600,17 @@ houses.sort_by { |key, _house| key.to_i }.each do |key, house|
   else
     lines << "- **Doložené bydliště:**"
     residence.each { |item| lines << evidence_line(item, types.fetch(item.fetch("type"))) }
+  end
+  unless oral.empty?
+    lines << "- **Ústní svědectví — oddělené od úředních a archivních dokladů:**"
+    oral.each do |item|
+      lines << oral_history_line(
+        item,
+        oral_kind_labels.fetch(item.fetch("kind")),
+        oral_history.fetch("source"),
+        oral_verification_labels.fetch(item.fetch("verification_status"))
+      )
+    end
   end
   lines << "- **Kontrolní řezy obyvatel:**"
   %w[1950 1980 2000].each do |year|
@@ -545,6 +624,8 @@ houses.sort_by { |key, _house| key.to_i }.each do |key, house|
   extinct = house.fetch("building").start_with?("Číslo zaniklo")
   if extinct
     lines << "  - **2026 — bez současného pobytového řezu:** Číslo je zaniklé a v RÚIAN nemá dnešní adresní místo."
+  elsif current_oral.any?
+    lines << "  - **2026 — ústní místní vazba, úředně neověřeno:** #{current_oral.map { |item| item.fetch('title') }.join('; ')}. Veřejné registry samy dnešní bydliště nepotvrdily."
   else
     lines << "  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026."
   end
@@ -582,6 +663,18 @@ houses.sort_by { |key, _house| key.to_i }.each do |key, house|
     subsidy_note = subsidy_audit.fetch("house_notes").fetch(key)
     lines << "- **Dotace MZe — jen obecní jmenná stopa, nikoli bydliště:** [#{subsidy_note.fetch('person')}, SZR-ID #{subsidy_note.fetch('szr_id')}](#{subsidy_note.fetch('detail_url')}) má záznamy za roky #{subsidy_note.fetch('payment_years')}. #{subsidy_note.fetch('interpretation')}"
   end
+end
+
+lines << ""
+lines << "## Ústní stopy dosud bez bezpečného čísla domu"
+oral_unplaced.each do |item|
+  lines << ""
+  lines << oral_history_line(
+    item,
+    oral_kind_labels.fetch(item.fetch("kind")),
+    oral_history.fetch("source"),
+    oral_verification_labels.fetch(item.fetch("verification_status"))
+  ).sub(/\A  /, "")
 end
 
 lines << ""
@@ -628,21 +721,31 @@ CSV.open(AUDIT_OUT, "w", write_headers: true,
               exact_verification(year, key, house, cut)]
     end
     current_items = published.fetch(key).select { |item| item.fetch("current_2026", false) }
-    current_anchor = if current_items.empty?
-                       "Žádná veřejná adresní stopa platná k 1. 8. 2026."
-                     else
-                       current_items.map { |item| "#{item.fetch('person')} — #{types.fetch(item.fetch('type'))}" }.join("; ")
-                     end
+    current_oral = current_oral_by_house.fetch(key)
+    current_anchors = current_items.map do |item|
+      "#{item.fetch('person')} — #{types.fetch(item.fetch('type'))}"
+    end
+    current_anchors.concat(current_oral.map do |item|
+      "#{item.fetch('title')} — #{oral_kind_labels.fetch(item.fetch('kind'))}"
+    end)
+    current_anchor = current_anchors.empty? ? "Žádná veřejná ani ústní adresní stopa platná k 3. 8. 2026." : current_anchors.join("; ")
     extinct = house.fetch("building").start_with?("Číslo zaniklo")
-    current_state = extinct ? "not_applicable" : "gap"
+    current_state = extinct ? "not_applicable" : (current_oral.any? ? "oral" : "gap")
+    current_result = if extinct
+                       "Číslo je zaniklé; bez současného pobytového řezu."
+                     elsif current_oral.any?
+                       "Současná vazba z ústního svědectví, úředně neověřeno: #{current_oral.map { |item| item.fetch('title') }.join('; ')}."
+                     else
+                       "Současní obyvatelé veřejně nedoloženi."
+                     end
     csv << [key, house.fetch("label"), owner_row.fetch("stavebni_parcela"),
             owner_row.fetch("stavebni_objekt"), owner_row.fetch("adresni_misto"),
             owner_row.fetch("vlastnik"), owner_verified, "2026", current_state,
-            extinct ? "Číslo je zaniklé; bez současného pobytového řezu." : "Současní obyvatelé veřejně nedoloženi.", current_anchor,
+            current_result, current_anchor,
             contract_audit_line(contract_audit, key),
             exact_verification("2026", key, house, nil)]
   end
 end
 
-puts "#{OUT}: #{houses.length} domů, #{published.values.flatten.length} zveřejněných stop, #{resident_houses} čp. s bydlištěm"
+puts "#{OUT}: #{houses.length} domů, #{published.values.flatten.length} zveřejněných úředních/archivních stop, #{published_oral.length} ústních stop, #{resident_houses} čp. s doloženým bydlištěm, #{oral_current_houses} čp. se současnou ústní vazbou"
 puts "#{AUDIT_OUT}: #{houses.length * 4} kontrolních řezů"

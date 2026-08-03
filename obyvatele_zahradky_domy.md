@@ -136,7 +136,7 @@ Matěj Bartoška je v hlavičce majitelem domu a současně první osobou domác
 | Domácnost | Osoba | Vztah / postavení | Rodiště | Povolání nebo další údaj |
 |---:|---|---|---|---|
 | 1 | Matěj Bartoška | majitel bytu; přednosta domácnosti | Rychnov u … (?) | samostatný rolník; vlastní hospodářství |
-| 1 | Juliana Bartošková | manželka | Malá Chyška | práce v domácnosti |
+| 1 | Juliana Bartošková `[v matrikách 1923–1936 Antonie rozená Svobodová]` | manželka | Malé Outěchovice (?) | práce v domácnosti |
 | 1 | Antonín Bartoška | syn; svobodný | Malá Chyška | zemědělský pomocník v hospodářství majitele bytu |
 | 1 | Václav Bartoška | syn; svobodný | Buřenice | zemědělský pomocník v hospodářství majitele bytu |
 | 1 | Božena Bartošková | dcera; svobodná | Pošná | zemědělská pomocnice v hospodářství majitele bytu |
@@ -146,6 +146,26 @@ Matěj Bartoška je v hlavičce majitelem domu a současně první osobou domác
 První rodiště je obtížně čitelné a zůstává pracovním přepisem; okresní údaj na archu
 vypadá jako Pelhřimov. Jméno `Schmied` je přepsáno v dobové podobě, nikoli
 počeštěno na Šmíd.
+
+**Kontrola manželky Matěje Bartošky 3. 8. 2026.** Sčítací arch skutečně píše
+křestní jméno **Juliana**, ale její rodiště čte spíše jako `Malé Outěchovice`
+než dřívější `Malá Chyška`. Oddací zápisy dcery Boženy z roku 1923 a syna
+Václava z roku 1925 označují tutéž manželku Matěje jako **Antonii Bartoškovou,
+rozenou Svobodovou z Malých Outěchovic č. 30**. Úmrtní zápis z čp. 3 roku 1936
+vede vdovu po Matěji znovu jako Antonii rozenou Svobodovou, tentokrát s původem
+`Útěchovičky č. 20`. Shoda manžela, domu, rodného příjmení a přibližného věku je
+silná; `Juliana` je proto zachována jako doslovná podoba sčítacího archu a
+`Antonie` jako opakovaná matriční identita. Bez rodného zápisu se nerozhoduje,
+zda šlo o dvojí jméno, chybu sčítacího archu nebo jinou administrativní záměnu.
+
+**Návaznost Václava Bartošky ověřená 3. 8. 2026.** Oddací zápis z 5. 1. 1925
+uvádí Václava Bartošku, rolníka v čp. 3, narozeného 17. 9. 1894, a nevěstu
+Marii Pavlíkovou narozenou 22. 6. 1901. Přesně stejné datum narození mají
+jubilejní články o Marii Bartoškové v Zahrádce při jejích 75. a 86.
+narozeninách roku 1976 a 1987. Tím je bezpečně propojena posloupnost Matěj
+Bartoška → syn Václav → Marie Pavlíková/Bartošková až do roku 1987. Pozdější
+články však neuvádějí číslo domu, takže samy nedokládají Mariin nepřetržitý
+pobyt v čp. 3.
 
 ### Čp. 4 — sedm osob, jedna domácnost
 
@@ -422,6 +442,20 @@ U osmé osoby zakrývá silná černá revizní číslice celé křestní jméno
 zůstává čitelné `Dvořák`. Také začátek Josefova příjmení a příjmení Barbory jsou
 částečně zasaženy revizními zápisy, proto jsou označeny jako pracovní čtení.
 
+**Ztotožnění pastoušky a oprava křestního jména 3. 8. 2026.** Přednosta první
+domácnosti má ve sčítání přesné datum narození 10. 9. 1876. Oddací zápis z roku
+1928 označuje muže stejného data narození a stejné rodiny jako **Václava
+Plášila, krejčího v Zahrádce čp. 17**. Vzpomínka ženy Karla Říčana z roku 1956
+dále výslovně říká, že její rodiče v Zahrádce bydleli v **pastoušce**, otec byl
+krejčí a později odešli do Samšína. Dopis má časový rozpor: po výročí 16. 1.
+mluví o otci jako těžce nemocném, zatímco jiné zprávy kladou Václavův pohřeb
+na 12. 1. 1956. Mohl být napsán dříve a vydán později, ale pramen to neříká.
+Shoda obecního vlastnictví čp. 17,
+krejčovského povolání, data narození, manželky a dětí velmi silně určuje
+pastoušku jako tento dům. `Vojtěch` se ponechává v tabulce jako doslovný přepis
+sčítání, ale za identitu osoby se považuje Václav Plášil. Starší nález Josefa
+Krejčího v N12 roku 1831 je skutečný, avšak s pastouškou nesouvisející.
+
 ### Čp. 18 — tři osoby, jedna domácnost
 
 Pramen: `PE0584`, snímky 38–39; [uložený líc](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim038_cp18_lic.jpg)
@@ -572,6 +606,14 @@ oddací zápis Jana a Marie Kadlecových z čp. 25 roku 1928.
 
 Příjmení Marie se pracovně čte `Peřová`; první část zápisu je slabá, a proto
 zůstává s otazníkem.
+
+**Kontrola místního názvu pazderna 3. 8. 2026.** Rozhovor spojuje čp. 25 s
+pazdernou, boudou či skladem, ale neurčuje dobu ani to, zda šlo o celý dům.
+Sčítání 1921 a oddací matrika 1928 prokazují běžnou obytnou funkci čp. 25:
+nejprve domácnost Josefa a Marie Kadlecových se synem Janem, roku 1928 Jana a
+Marii Kadlecovy se schovankou Terezií Habarthovou. „Pazderna“ proto může
+označovat vedlejší stavbu nebo jinou fázi domu; bez časového upřesnění nesmí
+nahradit doložené obyvatele.
 
 ## Narození 1788–1796 — celá obec
 
@@ -2369,6 +2411,7 @@ staršího ID pocházejí z této vrstvy.
 | č. 15 | František Kejval | adresář 1915 | starosta obce; jiná osoba než stejnojmenný člen výboru z č. 10 | [uložený výřez adresáře](prameny_online/tisky/1915/chytiluv_adresar_zahradka_sprava_obce_a_dvora_vyrez.jpg) | ZAH-O008 |
 | N20 | Josef Svaček / Sváček | narozen 15./16. 2. 1868 | syn podruha Jana Sváčka a Marie; později obyvatel č. 11 | [rodná matrika](https://digi.ceskearchivy.cz/6621/336) | ZAH-0127 |
 | N20 | Jan Svaček / Sváček | 15./16. 2. 1868 | podruh; otec Josefa | [rodná matrika syna](https://digi.ceskearchivy.cz/6621/336) | ZAH-0129 |
+| č. 16 | Františka Berková, rozená Pičková | původ uveden v úmrtním zápisu roku 1894 | zemřela jako žebračka v Pošné čp. 13; kontrola originálního snímku čitelně uvádí `rozená Pičkovou ze Zahrádky č. 16` a nezávisle podpírá domovní jméno **U Pícků** | [originální úmrtní zápis, sn. 74](https://digi.ceskearchivy.cz/11214/74), [kontrolní přepis](prameny_online/reserse/2026-07-31_matriky_castecne/prepisy.md) | — |
 | č. 20 | Alois Kaňka | sňatek 28. 1. 1901 | zedník a ženich; dříve narozen v N11 | [oddací matrika](https://digi.ceskearchivy.cz/6624/75) | ZAH-0001 |
 | N21 / č. 21 | Karolína Dušánková, později Sváčková | narozena 6. 6. 1868; oddána 21. 4. 1896 | dcera Františka Dušánka a Anny Kejvalové | [rodná matrika](https://digi.ceskearchivy.cz/6621/336), [oddací matrika](https://digi.ceskearchivy.cz/6624/55) | ZAH-O017 |
 | N21 / č. 21 | František Dušánek | 1868 a 1896 | otec Karolíny; roku 1896 baráčník v č. 21 | tytéž zápisy jako u Karolíny | ZAH-O018 |
@@ -2422,6 +2465,8 @@ staršího ID pocházejí z této vrstvy.
 | č. 3 | Antonie Bartošková, rozená Svobodová | 1923 a 1925 | manželka Matěje; z Malých Outěchovic č. 30 | tytéž zápisy | — |
 | č. 3 | Božena Bartošková | 17. 4. 1923 | dcera Matěje Bartošky ze Zahrádky č. 3, nevěsta | [sn. 176](https://digi.ceskearchivy.cz/6624/176) | — |
 | č. 3 | Václav Bartoška | 5. 1. 1925 | rolník v Zahrádce u Pošné č. 3, narozen 17. 9. 1894; roku 1925 už hospodář. Ohlášky sňatku vyšly i v tisku | [Pelhřimov, sn. 198](https://digi.ceskearchivy.cz/6347/198), [Týdeník z Českomoravské vysočiny, 3. 1. 1925, s. 4](https://kramerius.kkvysociny.cz/uuid/uuid:0ea75ebf-2e66-4747-a28f-e13833b161f0) | — |
+| č. 3 | Marie Pavlíková, provdaná Bartošková | 5. 1. 1925; ve vsi doložena 1976 a 1987 | nevěsta Václava Bartošky z čp. 3, narozena 22. 6. 1901; stejné datum narození v obou jubilejních článcích bezpečně propojuje nevěstu s pozdější Marií Bartoškovou v Zahrádce. Tisk 1976/1987 však neuvádí čp. | [sňatek, sn. 198](https://digi.ceskearchivy.cz/6347/198), [75 let, 1976](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba), [86 let, 1987](https://kramerius.kkvysociny.cz/view/uuid:204ff598-6b10-11e8-9cd5-001b63bd97ba) | — |
+| č. 17 | Václav Plášil | narozen 10. 9. 1876; čp. doloženo 1921 a 1928 | sčítání jej v obecním čp. 17 chybně píše jako Vojtěcha, ale přesné datum narození, manželka a děti se shodují s Václavem Plášilem, krejčím v čp. 17. Dcera Barbora roku 1956 uvedla, že rodiče bydleli v pastoušce | [sčítací arch, sn. 36](prameny_online/scitani_lidu/1921/zahradka_cela_obec/pe0584_snim036_cp17_lic.jpg), [oddací matrika 1928, sn. 206](https://digi.ceskearchivy.cz/6624/206), [vzpomínka na pastoušku](https://kramerius.kkvysociny.cz/view/uuid:287ff24d-90c1-4e25-807c-24b80cec1c5f) | — |
 | č. 20 | Václav Zelenka | 14. 2. 1925 | domkář v č. 20, otec Karla | [sn. 186](https://digi.ceskearchivy.cz/6624/186) | — |
 | č. 20 | Karel Zelenka | 14. 2. 1925 | tesařský pomocník v č. 20, narozen tamtéž; ženich Marie Pudilové z č. 12 | tentýž zápis | — |
 | č. 20 | Jan Zelenka | 14. 2. 1925 | domkář v č. 20, svědek; v domě tak žijí současně Václav i Jan Zelenka | tentýž zápis | — |
@@ -2523,8 +2568,6 @@ vedeny odděleně, aby nebyly ztraceny ani omylem přiřazeny jen podle příjme
 | Karel Adam | červenec 1943 | manžel zesnulé ženy; poděkování za účast na pohřbu 22. 7. 1943 na hřbitově v Pošné je datováno „V Zahrádce u Pošné“ | [Týdeník, 29. 7. 1943, s. 4](https://kramerius.kkvysociny.cz/view/uuid:6d8ddd50-d3d7-4aca-bf87-2588771cca96) | — |
 | Josef Pachta | červenec 1943 | otec zesnulé; podepsán pod týmž poděkováním spolu s manželkou Antonií a synem Josefem | tentýž pramen | — |
 | Antonie Pachtová | červenec 1943 | matka zesnulé | tentýž pramen | — |
-| Václav Plášil | narozen 10. 9. 1876, pohřben 12. 1. 1956 | rodák ze Zahrádky; podle vzpomínkového dopisu bydlela rodina v **obecní pastoušce** a patřila k nejchudším ve vsi, na stáří se manželé odstěhovali do Samšína k dceři | [Z mého kraje](https://kramerius.kkvysociny.cz/view/uuid:a44e6ae1-7561-11e8-819e-001b63bd97ba), [týž ročník](https://kramerius.kkvysociny.cz/view/uuid:287ff24d-90c1-4e25-807c-24b80cec1c5f) | — |
-| Marie Plášilová | pohřbena 26. 12. 1957 | „občanka ze Zahrádky u Pošné“, manželka Václava Plášila | tytéž prameny | — |
 | Coufal | prosinec 1952 | rolník hospodařící na 8 ha, jehož podpis podle dobového tisku rozhodl o založení JZD Zahrádka 19. 12. 1952 | [Vesnické noviny, 1955](https://kramerius.kkvysociny.cz/view/uuid:d4b25eed-d6e2-44e8-bcc1-26c152e44f7a) | — |
 | Rohovec | 1955 a 1956 | **předseda JZD Zahrádka** (výroční členská schůze 12. 3. 1955); roku 1956 uveden mezi třemi družstevníky Pacovska, kteří již mají osobní automobil | [Vesnické noviny, 12. 3. 1955](https://kramerius.kkvysociny.cz/view/uuid:e6c4e8d7-48cb-49c4-9a94-a47a262d5bff), [11. 8. 1956](https://kramerius.kkvysociny.cz/view/uuid:2036b79f-9e04-42ec-b810-0ecc95bd8765) | — |
 | Rohovcová | leden–duben 1956 | družstevnice JZD Zahrádka; ošetřovala 100 slepic a dosáhla snůšky 6 051 vajec | [Vesnické noviny](https://kramerius.kkvysociny.cz/view/uuid:d4af1173-4636-4225-952e-4a7779433af7) | — |
@@ -2535,7 +2578,7 @@ vedeny odděleně, aby nebyly ztraceny ani omylem přiřazeny jen podle příjme
 | Kejval; Kejvalová; Kříž (František Kříž) | 1953–1957 | jmenovitě doložení družstevníci JZD Zahrádka v soutěžích živočišné výroby; roku 1956 Svobodovi a Kejvalovi 6 litrů mléka na ustájenou krávu, Kejvalové 114,1 vejce I. třídy | [Vesnické noviny](https://kramerius.kkvysociny.cz/view/uuid:3bbea36f-e43d-4fd7-87dd-161d2eb5a66b) | — |
 | Marie Plášilová | zemřela 30. 11. 1968 | pozůstalé rodiny se v parte podepsaly jako Chloupkova, Peštova a Plášilová | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:e8080873-7564-11e8-819e-001b63bd97ba) | — |
 | Jan Zelenka | zemřel v červenci 1972 | po léčení v humpolecké nemocnici a pobytu v Domově důchodců v Humpolci; pohřbu se účastnili zástupci JZD a MO KSČ v Útěchovičkách | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:58efa5e3-751a-11e8-8898-001b63bd97ba) | — |
-| Marie Bartošková | narozena 22. 6. 1901 | oznámení v okresním týdeníku Nástup | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba) | — |
+| Marie Bartošková | narozena 22. 6. 1901; jubilea 1976 a 1987 | totožná s Marií Pavlíkovou, která se roku 1925 provdala za Václava Bartošku z čp. 3; přesnou totožnost dokládá datum narození, pozdější články ale neuvádějí číslo domu | [75 let](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba), [86 let](https://kramerius.kkvysociny.cz/view/uuid:204ff598-6b10-11e8-9cd5-001b63bd97ba) | — |
 | František Kříž | narozen 2. 10. 1920, pohřben 28. 5. 1982 | parte v okresním týdeníku | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:b7bcda4c-6f1a-11e8-a309-001b63bd97ba) | — |
 | Jan Kejval | zemřel 29. 4. 1983 | v parte podepsány děti Věra, Marie a Pavel | [Nástup](https://kramerius.kkvysociny.cz/view/uuid:2614ff5e-6a78-11e8-a78e-001b63bd97ba) | — |
 | Anežka Kejvalová | zemřela 3. 2. 1984 | manželka Jana Kejvala | tentýž pramen | — |
@@ -2545,7 +2588,7 @@ vedeny odděleně, aby nebyly ztraceny ani omylem přiřazeny jen podle příjme
 | Františka Kudrnová | zemřela 9. 10. 1932 | manželka rolníka; patrně táž, kterou 2. 10. 1932 srazil o pacovské pouti nákladní automobil, když šla s manželem a tříletým synkem | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285), [Týdeník z Českomoravské vysočiny](https://kramerius.kkvysociny.cz/view/uuid:5c25e37e-6910-4f8b-8624-b14f1e316fcb) | — |
 | Kateřina Kejvalová | zemřela 3. 11. 1934 | žena rolníka; rejstřík u ní číslo domu neuvádí. Jiná osoba než Kateřina Kejvalová z čp. 10, která zemřela roku 1937 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) | — |
 | Václav Pařízek | zemřel 26. 5. 1939 | **šafář ze Zahrádky**, 55 let — nástupce Františka Vytisky ve správě dvora; rubrika „Zemřelí“ pelhřimovského týdeníku | [Týdeník z Českomoravské vysočiny](https://kramerius.kkvysociny.cz/) | — |
-| Zdeňka Plášilová | 1. 4. 1943 | provdala se za Josefa Peštu, četnického štábního strážmistra v Pelhřimově; rubrika „Sňatky“. Vysvětluje rodinu Peštovu mezi pozůstalými Marie Plášilové roku 1968 | tentýž pramen | — |
+| Zdeňka Plášilová | ohláška na 4. 4. 1943; otištěna 1. 4. 1943 | rubrika ohlášek oznámila zamýšlený sňatek s Josefem Peštou, četnickým štábním strážmistrem v Pelhřimově. Pramen sám nedokládá, že sňatek skutečně proběhl; pozdější rodina Peštova mezi pozůstalými Marie Plášilové roku 1968 však spojení podporuje | tentýž pramen | — |
 | Václav Machotka | zemřel 22. 10. 1943 | dělník ze Zahrádky, 51 let | tentýž pramen | — |
 | Barbora Pásková | zemřela 11. 5. 1945 | 76 let; týden po osvobození | tentýž pramen | — |
 | Zdeňka Homolková | po 10. 11. 1918 | manželka správce velkostatku Antonína Homolky z Březiny; kmotra a dárkyně druhého zvonku do zahrádecké kapličky, který v ní visí dodnes a za druhé války nebyl zabaven | [Z mého kraje](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-4f3c-a817-fa93347f9f49) | — |

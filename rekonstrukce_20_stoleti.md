@@ -70,7 +70,7 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 - **1980**
   - **Stavba — pravděpodobná:** Zástavba v okolí dnešního adresního bodu je na snímku 1978.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1980.
-  - **Nejbližší opora:** Marie Bartošková je roku 1976 doložena ve vsi bez čísla; stejné příjmení nestačí k přiřazení.
+  - **Nejbližší opora:** Marie Bartošková doložená ve vsi roku 1976 je podle přesného data narození totožná s Marií Pavlíkovou, která si roku 1925 vzala Václava Bartošku z čp. 3. Článek 1976 však neuvádí její tehdejší čp., a proto ji nelze zapsat jako obyvatelku domu v řezu 1980.
   - **Co chybí:** Poslední zahrádecký domovní seznam MNV Útěchovičky do roku 1978 a určení držitele pokračující evidence pro roky 1979–1980; pošenský inv. 61 se Zahrádky netýká.
 - **2000**
   - **Stavba — pravděpodobná:** Dnešní RÚIAN eviduje rodinný dům, ale bez data dokončení; stav k roku 2000 zatím není datován samostatným pramenem.
@@ -329,9 +329,9 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 
 - **Priorita:** A
 - **1950**
-  - **Stavba — nezjištěná:** Čp. 17 je před válkou doloženo, ale jeho přesná poloha a rok zániku chybějí.
+  - **Stavba — nezjištěná:** Obecní čp. 17 je velmi silně ztotožněno s pastouškou, ale jeho přesná poloha a rok zániku chybějí.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1950.
-  - **Nejbližší opora:** Václav Plášil je doložen roku 1928; dítě Marie Říčanové zemřelo na čp. 17 roku 1933.
+  - **Nejbližší opora:** Václav Plášil, krejčí narozený 10. 9. 1876, je s rodinou v obecním čp. 17 doložen roku 1921 a znovu roku 1928; rodinná vzpomínka 1956 jej pravděpodobně spojuje s pastouškou. Dítě Marie Říčanové zemřelo na čp. 17 roku 1933.
   - **Co chybí:** Domovní a bytový arch Národního sčítání lidu 1950 (Národní archiv, NAD 984).
 - **1980**
   - **Stavba — nezjištěná:** Bez lokalizace nelze rozhodnout, zda dům roku 1980 stál; dnešní absence čísla není časový doklad.

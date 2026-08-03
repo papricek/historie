@@ -380,6 +380,8 @@
   .povalecni .obdobi { color: var(--accent-ink); font-weight: 650; }
   .povalecni .typ { color: var(--muted); font-size: 10.5px; }
   .povalecni .chybi { color: var(--muted); }
+  .povalecni.ustni { border-left-color: #946c2c; background: #fbf7ed; }
+  .povalecni.ustni h4 { color: #73501c; }
   .kopirovat {
     width: 26px; height: 26px; border-radius: 50%; padding: 0;
     border: 1px solid var(--border); background: var(--surface-2);
@@ -506,7 +508,7 @@
   <div class="wrap">
     <div class="rule-top"></div>
     <div class="eyebrow">
-      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 1.&nbsp;8.&nbsp;2026</span>
+      <span>Průběžný výzkumný spis · interaktivní mapa · stav k 3.&nbsp;8.&nbsp;2026</span>
       <span class="sig">okr. Pelhřimov · k.&nbsp;ú. Zahrádka u Pošné (9077-1)</span>
     </div>
     <h1>Domy a lidé <span class="amp">na&nbsp;Zahrádce</span></h1>
@@ -610,7 +612,9 @@
           v dopravní tabulce se nikdy nevydává za obyvatele domu.
           Stavební stav je záměrně omezen na jednu orientační větu v oddílu „Obyvatelé 1950–2026“.
           Šedý nebo přeškrtnutý bod proto neznamená „prázdný dům“: může znamenat, že jméno není doloženo
-          nebo že dnešní číslo v daném roce ještě neexistovalo.</p>
+          nebo že dnešní číslo v daném roce ještě neexistovalo.
+          Souhrnnou bilanci všech 32 čp. a přehled toho, co bylo prověřeno bez výsledku, má
+          <a href="index.html#poval">oddíl VIII výzkumného spisu</a>.</p>
         <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
       </div>
       <div class="card">
@@ -623,7 +627,11 @@
           Jejich přesná poloha zatím nebyla z&nbsp;pramenů určena, proto jsou pod mapou jen jako tlačítka —
           jejich obyvatelé ale ve spisu jsou. Na podkladu 1829 si také všimněte, že body čp.&nbsp;14
           a&nbsp;21 stojí na místě, kde tehdy žádný dům nestál: dnešní poloha
-          čísla nemusí odpovídat historické.</p>
+          čísla nemusí odpovídat historické. I.&nbsp;vojenské mapování z&nbsp;roku 1783 je už
+          uloženo v&nbsp;pramenném katalogu, ale kvůli měřítku 1&nbsp;:&nbsp;28&nbsp;800 a chybějícím
+          číslům domů zatím není další interaktivní vrstvou. Rozhovor s&nbsp;Pavlem Peštou
+          nově zadává širší výřezy pro hledání starého hampejzu, cvičiště U&nbsp;Červeného
+          kohouta a zaniklé Vaňkovy chalupy.</p>
       </div>
       <div class="card">
         <h4>Co znamenají data</h4>
@@ -643,16 +651,18 @@
       historické ortofoto 1953 (CENIA), ortofoto 2022 a adresní body RÚIAN (ČÚZK) — badatelské reprodukce s&nbsp;citací.
       Osobní údaje pocházejí z&nbsp;matrik SOA Třeboň, josefínského katastru a sčítání lidu 1921 (MZA Brno, sada PE0584);
       přehled pramenů je ve <a href="index.html#prameny">výzkumném spisu</a>.
-      Oddíl „Dnešní stav (2026)“ čerpá výhradně z&nbsp;veřejných registrů (RÚIAN, ARES, veřejný rejstřík,
-      volby.cz, NPÚ, územní plán) a z&nbsp;výslovně označené místní paměti; sídlo podnikání není doklad bydliště
-      a u žijících osob se uvádějí jen údaje z&nbsp;těchto veřejných zdrojů.</p>
+      Oddíl „Dnešní stav (2026)“ čerpá z&nbsp;veřejných registrů (RÚIAN, ARES, veřejný rejstřík,
+      volby.cz, NPÚ, územní plán) a u neosobních domovních poznámek z&nbsp;výslovně označené místní paměti;
+      sídlo podnikání není doklad bydliště a u žijících osob se v tomto oddílu uvádějí jen údaje z&nbsp;veřejných zdrojů. Samostatný oddíl
+      „Ústní svědectví“ vychází z&nbsp;rozhovoru s&nbsp;Pavlem Peštou z&nbsp;čp.&nbsp;26 ze
+      3.&nbsp;8.&nbsp;2026 a nesplývá s&nbsp;úřední pobytovou evidencí.</p>
     <p>Stav přepisu matrik: kniha narozených 6620 (1797–1843) je pro Zahrádku přepsána celá
       (snímky 80–117); kniha 6621 (1844–1880) se přepisuje průběžně — aktuální rozsah dokladů
       je vidět přímo ve výpisech domů.</p>
   </footer>
 </main>
 
-<script src="mapa_data.js?v=80931095f1"></script>
+<script src="mapa_data.js?v=5fca9f576f"></script>
 <script>
 "use strict";
 
@@ -1079,7 +1089,8 @@ function uvodPanelu() {
     '<p class="sub">Každý dům má trvalý odkaz — například <a href="#11/1829">#11/1829</a> ' +
     "otevře dvůr čp. 11 na mapě roku 1829. Vrstva <b>dnes</b> ukazuje aktuální " +
     "ortofoto a u domů je v panelu oddíl <b>Dnešní stav (2026)</b> z veřejných registrů.</p>" +
-    dnesHtml("obec");
+    dnesHtml("obec") +
+    oralHistoryHtml("obec");
 }
 
 function tfPoznamkaHtml(dum) {
@@ -1100,6 +1111,42 @@ function dnesHtml(klic) {
   let html = '<div class="dnes"><h4>Dnešní stav (2026)</h4><ul>';
   for (const z of zaznamy)
     html += "<li>" + z.u + (z.z ? ' <span class="dnes-zdroj">' + z.z + "</span>" : "") + "</li>";
+  return html + "</ul></div>";
+}
+
+/* Místní paměť z rozhovoru — záměrně oddělená od úředních adresních dokladů. */
+function oralHistoryHtml(klic) {
+  const oral = (window.MAPA_OBYVATELE || {}).oral_history || {};
+  const labels = oral.kind_labels || {};
+  const verificationLabels = oral.verification_labels || {};
+  const items = (oral.items || []).filter((item) => {
+    if (item.publish === false) return false;
+    const houses = item.houses || [];
+    return klic === "obec" ? houses.length === 0 : houses.includes(klic);
+  });
+  if (!items.length) return "";
+  let html = '<div class="povalecni ustni"><h4>Ústní svědectví — místní paměť</h4><ul>';
+  for (const item of items) {
+    const sources = (item.sources || []).map((source) => source.url
+      ? '<a href="' + textHtml(source.url) + '" target="_blank" rel="noopener">' + textHtml(source.label) + "</a>"
+      : textHtml(source.label));
+    const connections = item.connections || [];
+    const findings = item.findings || [];
+    const openQuestions = item.open_questions || [];
+    html += "<li><b>" + textHtml(item.title) + '</b> · <span class="obdobi">' +
+      textHtml(item.period) + '</span><br><span class="typ">' +
+      textHtml(labels[item.kind] || item.kind) + " · jistota " + textHtml(item.certainty) +
+      "</span> — " + textHtml(item.detail) + '<br><b>Ověření — ' +
+      textHtml(verificationLabels[item.verification_status] || item.verification_status || "nevyhodnoceno") +
+      ":</b> " + textHtml(item.verification || "") +
+      (findings.length ? '<div class="typ" style="margin-top:7px"><b>Dohledaná zjištění krok po kroku:</b></div><ul>' +
+        findings.map((finding) => "<li>" + textHtml(finding) + "</li>").join("") + "</ul>" : "") +
+      (connections.length ? '<div><span class="typ">Návaznosti osob, domů a míst:</span> ' + textHtml(connections.join(" · ")) + "</div>" : "") +
+      (openQuestions.length ? '<div><span class="typ">Co zůstává otevřené:</span> ' + textHtml(openQuestions.join(" ")) + "</div>" : "") +
+      (sources.length ? '<br><span class="typ">Dohledané prameny:</span> ' + sources.join(" · ") : "") +
+      ' <span class="dnes-zdroj">Původ výpovědi: ' +
+      textHtml(oral.source || "ústní svědectví") + "</span></li>";
+  }
   return html + "</ul></div>";
 }
 
@@ -1279,6 +1326,7 @@ function vyberDum(klic) {
       (((window.MAPA_DNES || {})[klic] || []).length ? " co je o něm známo dnes, je níže." : " chybí i v dnešních registrech.") +
       (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>" +
       obyvateleHtml(klic) +
+      oralHistoryHtml(klic) +
       rezyHtml(klic) +
       dnesHtml(klic);
     return;
@@ -1312,6 +1360,7 @@ function vyberDum(klic) {
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
     obyvateleHtml(klic) +
+    oralHistoryHtml(klic) +
     dnesHtml(klic) +
     rezyHtml(klic) +
     sparklineHtml(dum) +
@@ -1467,11 +1516,26 @@ hledat.addEventListener("input", () => {
       bezDiakritiky(z.u + " " + (z.z || "")).includes(dotaz));
     if (shody.length) { dnesSkupiny.push({ klic, shody }); dnesCelkem += shody.length; }
   }
-  const vse = celkem + dnesCelkem;
+  const oral = (window.MAPA_OBYVATELE || {}).oral_history || {};
+  const oralSkupiny = (oral.items || []).filter((item) => item.publish !== false &&
+    bezDiakritiky([
+      item.title,
+      item.period,
+      item.detail,
+      item.verification,
+      (item.connections || []).join(" "),
+      (item.findings || []).join(" "),
+      (item.open_questions || []).join(" "),
+      (item.sources || []).map((source) => source.label).join(" "),
+      oral.source
+    ].join(" ")).includes(dotaz));
+  const oralCelkem = oralSkupiny.length;
+  const vse = celkem + dnesCelkem + oralCelkem;
   let html = "<h3>Hledání: „" + hledat.value.trim() + "“</h3>" +
     '<p class="sub">' + (oriznuto ? "Prvních " + vse + " shod" : vse + " shod") +
     (skupiny.length > 1 ? " v " + skupiny.length + " domech" : "") +
     (dnesCelkem ? " · z toho " + dnesCelkem + " v dnešním stavu" : "") +
+    (oralCelkem ? " · z toho " + oralCelkem + " v ústním svědectví" : "") +
     " — klepnutím na dům nebo řádek otevřete výpis.</p>";
   if (dnesCelkem) {
     html += '<div class="dnes"><h4>Dnešní stav (2026)</h4><ul>';
@@ -1483,6 +1547,18 @@ hledat.addEventListener("input", () => {
         html += "<li" + klik + "><b>" + nazev + "</b> — " + zvyrazni(z.u, dotaz) +
           (z.z ? ' <span class="dnes-zdroj">' + zvyrazni(z.z, dotaz) + "</span>" : "") + "</li>";
       }
+    }
+    html += "</ul></div>";
+  }
+  if (oralCelkem) {
+    html += '<div class="povalecni ustni"><h4>Ústní svědectví — místní paměť</h4><ul>';
+    for (const item of oralSkupiny) {
+      const houses = item.houses || [];
+      const where = houses.length ? "čp. " + houses.join(", ") : "poloha dosud neurčena";
+      const klik = houses.length === 1 ? ' role="button" tabindex="0" data-klic="' + houses[0] + '"' : "";
+      html += "<li" + klik + "><b>" + zvyrazni(item.title, dotaz) + "</b> — " +
+        where + ": " + zvyrazni(item.detail, dotaz) + "<br><b>Ověření:</b> " +
+        zvyrazni(item.verification || "", dotaz) + "</li>";
     }
     html += "</ul></div>";
   }
@@ -1501,7 +1577,7 @@ hledat.addEventListener("input", () => {
       }
     }
     html += "</div>";
-  } else if (!dnesCelkem) {
+  } else if (!dnesCelkem && !oralCelkem) {
     html += '<p class="sub">Nic nenalezeno.</p>';
   }
   panel.innerHTML = html;
@@ -1510,6 +1586,8 @@ hledat.addEventListener("input", () => {
   const pocty = new Map(skupiny.map((g) => [g.dum.klic, g.radky.length]));
   for (const g of dnesSkupiny)
     if (g.klic !== "obec") pocty.set(g.klic, (pocty.get(g.klic) || 0) + g.shody.length);
+  for (const item of oralSkupiny)
+    for (const klic of item.houses || []) pocty.set(klic, (pocty.get(klic) || 0) + 1);
   for (const m of markersBox.querySelectorAll(".marker")) {
     const n = pocty.get(m.dataset.klic) || 0;
     m.classList.toggle("tfmimo", !n);
@@ -1517,7 +1595,7 @@ hledat.addEventListener("input", () => {
   }
   for (const ch of chipsBox.querySelectorAll("button"))
     ch.classList.toggle("shoda", (pocty.get(ch.dataset.klic) || 0) > 0);
-  for (const el of panel.querySelectorAll(".vysledky [data-klic], .dnes li[data-klic]")) {
+  for (const el of panel.querySelectorAll(".vysledky [data-klic], .dnes li[data-klic], .ustni li[data-klic]")) {
     const otevri = () => {
       hledat.value = "";
       aplikujTf();

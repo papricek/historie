@@ -1,11 +1,12 @@
 # Obyvatelé Zahrádky po domech, 1950–2026
 
-Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Generováno z [kanonických dat](obyvatele_1950_2026_data.json); tento soubor se ručně neupravuje.
+Odrážkový pracovní katalog po jednotlivých čp.; stav k 03. 08. 2026. Generováno z [kanonických dat](obyvatele_1950_2026_data.json); tento soubor se ručně neupravuje.
 
 ## Jak výsledek číst
 
 - **Doložené bydliště** znamená, že datovaný pramen osobu přímo spojil s čp. Jen uvedený den nebo interval je doložený; sousední roky se nepřidávají odhadem.
 - **Další adresní stopa** může být úřední kontakt, sídlo podnikání nebo poslední známá adresa vlastníka. Není automaticky pobytem.
+- **Ústní svědectví Pavla Pešty z čp. 26** je samostatná vrstva místní paměti. Výslovné čp. dovoluje zobrazit výpověď u domu, ale neproměňuje ji v úřední pobyt, vlastnictví ani přesnou časovou řadu. Rozpory se staršími prameny zůstávají viditelné.
 - **Český telefon 2000** používá bytové seznamy platné do dubna 2000 a dává přesnou vazbu jméno–obec–čp. Jde o účastnickou adresu, nikoli automaticky o trvalý pobyt, vlastnictví nebo všechny členy domácnosti. Edice 2004 slouží jako pozdější nezávislá kontrola.
 - **Stav domu** je jen jedna orientační věta, aby se jméno nepřiřadilo k domu, který v dané době neexistoval.
 - U každého domu jsou zvlášť řezy **1950 / 1980 / 2000**. Jméno v položce ‚nejbližší opora‘ není obyvatelem daného roku, dokud to nepotvrdí domovní pramen.
@@ -22,9 +23,9 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ## Rychlý index domů
 
 - **N1 / čp. 1:** bez přesně adresované poválečné osoby.
-- **N2 / čp. 2:** bez přesně adresované poválečné osoby.
-- **N3 / čp. 3:** bez přesně adresované poválečné osoby.
-- **N4 / čp. 4:** jen další adresní stopa: Martin Vaněk — adresa podnikání; není dokladem bydliště; Marie Vaňková — úřední adresa; pobyt není výslovně potvrzen.
+- **N2 / čp. 2:** ústní svědectví: Kudrnovi — U Hejdů — Štípkovi; Předkové Pavla Pešty z čp. 2 a 3.
+- **N3 / čp. 3:** ústní svědectví: Předkové Pavla Pešty z čp. 2 a 3.
+- **N4 / čp. 4:** jen další adresní stopa: Martin Vaněk — adresa podnikání; není dokladem bydliště; Marie Vaňková — úřední adresa; pobyt není výslovně potvrzen. ústní svědectví: Marie Vaňková po Markvartových.
 - **N5 / čp. 5:** bydliště: Jana Strašidlová (11. 1. 1992). jen další adresní stopa: Petr Veverka — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Vitalii Kotsan — adresa podnikání; není dokladem bydliště; Mykhailo Smarada — adresa podnikání; není dokladem bydliště; Volodymyr Sakalosh — adresa podnikání; není dokladem bydliště; Vasyl Liakh — adresa podnikání; není dokladem bydliště.
 - **N6 / čp. 6:** bydliště: Zdeněk Svoboda (23. 10. 2019 – 9. 4. 2020). jen další adresní stopa: Zdeněk Svoboda — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti. historické vlastnictví: Zdeněk Svoboda.
 - **N7 / čp. 7:** jen další adresní stopa: Karel Adam — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Vitalii Forkosh — adresa podnikání; není dokladem bydliště.
@@ -33,26 +34,26 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 - **N10 / čp. 10:** bez přesně adresované poválečné osoby.
 - **N11 / čp. 11:** jen další adresní stopa: Patrik Jíra — statutární role v organizaci sídlící u domu; není dokladem bydliště ani vlastnictví; Pavla Švantnerová — statutární role v organizaci sídlící u domu; není dokladem bydliště ani vlastnictví. organizace: iZahrádka z. s.; IT Artist s.r.o.
 - **N12 / čp. 12:** bez přesně adresované poválečné osoby.
-- **N13 / čp. 13:** bez přesně adresované poválečné osoby.
+- **N13 / čp. 13:** ústní svědectví: Pachtovi na čp. 13; Rod Kudrnů na čp. 13.
 - **N14 / čp. 14:** jen další adresní stopa: Josef Pudil; Aloisie Pudilová — nedatovaná poslední známá adresa vlastníka uvedené parcely; nikoli vlastníka domu.
 - **N15 / čp. 15:** bydliště: Pavla Moravcová (27. 3. 2018). jen další adresní stopa: Pavla Moravcová — adresa podnikání; není dokladem bydliště; Petr Moravec — adresa podnikání; není dokladem bydliště. historické vlastnictví: Pavla Moravcová.
-- **N16 / čp. 16:** jen další adresní stopa: Miroslav Kubiska — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti.
-- **N17 / čp. 17:** bez přesně adresované poválečné osoby.
+- **N16 / čp. 16:** jen další adresní stopa: Miroslav Kubiska — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti. ústní svědectví: Čp. 16 — U Pícků.
+- **N17 / čp. 17:** ústní svědectví: Pastouška u rybníka — nejsilnější identifikace čp. 17.
 - **N18 / čp. 18:** jen další adresní stopa: Antonín Kudrna; Marie Kudrnová — nedatovaná poslední známá adresa vlastníka uvedené parcely; nikoli vlastníka domu.
-- **N19 / čp. 19:** bez přesně adresované poválečné osoby.
-- **N20 / čp. 20:** jen další adresní stopa: Michael Marousek — adresa podnikání; není dokladem bydliště; Stanislav Marousek — adresa podnikání; není dokladem bydliště; Jan Zelenka — nedatovaná poslední známá adresa vlastníka uvedené parcely; nikoli vlastníka domu.
-- **N21 / čp. 21:** jen další adresní stopa: Václav Dörrschmidt — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Jan Dubišar — adresa podnikání; není dokladem bydliště.
+- **N19 / čp. 19:** ústní svědectví: Zaniklá Vaňkova chalupa — kandidát čp. 19.
+- **N20 / čp. 20:** jen další adresní stopa: Michael Marousek — adresa podnikání; není dokladem bydliště; Stanislav Marousek — adresa podnikání; není dokladem bydliště; Jan Zelenka — nedatovaná poslední známá adresa vlastníka uvedené parcely; nikoli vlastníka domu. ústní svědectví: „Jihlavák“ — Stanislav Marousek, čp. 20.
+- **N21 / čp. 21:** jen další adresní stopa: Václav Dörrschmidt — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Jan Dubišar — adresa podnikání; není dokladem bydliště. ústní svědectví: Deršmídův dům a starší čp. 21.
 - **N22 / čp. 22:** bez přesně adresované poválečné osoby.
 - **N23 / čp. 23:** bez přesně adresované poválečné osoby.
-- **N24 / čp. 24:** jen další adresní stopa: Ing. Jan Velich — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti.
-- **N25 / čp. 25:** bez přesně adresované poválečné osoby.
-- **čp. 26:** bez přesně adresované poválečné osoby.
-- **čp. 27:** bydliště: Stanislav Janda (16. 5. 2016 – 12. 1. 2017). jen další adresní stopa: Ludmila Rohovcová — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Stanislav Janda — adresa podnikání; není dokladem bydliště.
+- **N24 / čp. 24:** jen další adresní stopa: Ing. Jan Velich — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti. ústní svědectví: Čp. 24 — U Coufalů.
+- **N25 / čp. 25:** ústní svědectví: Pazderna u čp. 25.
+- **čp. 26:** ústní svědectví: Předkové Pavla Pešty z čp. 2 a 3; Pavel Pešta z čp. 26.
+- **čp. 27:** bydliště: Stanislav Janda (16. 5. 2016 – 12. 1. 2017). jen další adresní stopa: Ludmila Rohovcová — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Stanislav Janda — adresa podnikání; není dokladem bydliště. ústní svědectví: Datace chalupy Stanislava Jandy.
 - **čp. 28:** bydliště: Luděk Bulant (29. 6. 1991); Růžena Bulantová (29. 1. – 7. 5. 1993); Václav Bulant (7. 5. 1993 – 26. 9. 2001); Luděk Bulant (20. 10. 2017 – 27. 3. 2018). jen další adresní stopa: Václav Bulant — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti; Růžena Bulantová; Václav Bulant — úřední adresa; pobyt není výslovně potvrzen. historické vlastnictví: Luděk Bulant.
 - **čp. 29:** jen další adresní stopa: Bohuslav Nacházel — historická adresa osobní telefonní stanice; sama nedokládá trvalý pobyt ani další členy domácnosti.
 - **čp. 30:** bez přesně adresované poválečné osoby.
 - **čp. 31:** jen další adresní stopa: Natálie Radová — adresa podnikání; není dokladem bydliště.
-- **čp. 32:** bez přesně adresované poválečné osoby.
+- **čp. 32:** ústní svědectví: Dnešní „hampejz“ na čp. 32.
 
 ## Dům po domu
 
@@ -82,6 +83,30 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N2 / čp. 2
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Kudrnovi — U Hejdů — Štípkovi — rodová posloupnost bez přesných dat; současný stav popsaný 3. 8. 2026** (rodová nebo domovní posloupnost z místní paměti; jistota střední): Dům vedle Bartoškovy chalupy byl spojován s Kudrnovými, říkalo se mu U Hejdů a dnes jej informátor spojuje se Štípkovými. Přiřazení k čp. 2 vychází z průniku rozhovoru s nezávislými archivními vazbami Kudrna–čp. 2 a Bartoška–čp. 3.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Sčítání 1921 potvrzuje na čp. 2 Františka a Antonii Kudrnovy, děti Pavla, Jana a Marii, Františkova bratra Václava a Julianu Kudrnovou. Jan Kudrna se v čp. 2 narodil 10. 4. 1905; Karel Kudrna je zde roku 1928 a 1934 doložen jako rolník po otci. Sousední čp. 3 patřilo rodině Matěje Bartošky. Domovní jméno U Hejdů a dnešní rod Štípkových veřejný pramen zatím nepotvrdil. Hejdův lom doložený kronikou je příbuzné místní jméno, ne důkaz názvu domu.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921 bezpečně umisťuje rozsáhlou domácnost Kudrnových na čp. 2 a Bartoškovy na sousední čp. 3; tím se potvrzuje, který dům informátor mínil větou „vedle Bartošky“.
+      - Matriky 1928 a 1934 navazují Jana a Karla Kudrnovy k čp. 2; Karel je označen jako rolník a pokračovatel po otci Františkovi.
+      - Tisk roku 1959 uvádí družstevníka Kudrnu v JZD Zahrádka, ale bez křestního jména a domu; je to poválečná obecní návaznost rodu, nikoli důkaz čp. 2.
+      - Kronika dokládá pomístní jméno Hejdův lom, nikoli domovní jméno U Hejdů. Přímé dotazy U Hejdů + Zahrádka ani současné Štípkovy na čp. 2 nepotvrdily.
+    - **Návaznosti osob, domů a míst:** František a Antonie Kudrnovi; Pavel, Jan, Marie, Václav, Juliana a Karel Kudrnovi; čp. 2; Matěj Bartoška — sousední čp. 3; U Hejdů — ústní; Štípkovi — ústní; Hejdův lom — samostatné pomístní jméno.
+    - **Co zůstává otevřené:** Dohledat domovní jméno U Hejdů ve starších místních zápisech a přesný přechod Kudrna → Štípek; nepřenášet název Hejdův lom na dům bez pramene.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 2; [SOA Třeboň — Jan a Karel Kudrnovi 1928–1934](https://digi.ceskearchivy.cz/13243/175); [Z mého kraje 11/2023 — Hejdův lom](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-a817-fa93347f9f49).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
+  - **Předkové Pavla Pešty z čp. 2 a 3 — rodová paměť sdělená 3. 8. 2026** (genealogická stopa k dalšímu ověření; jistota střední): Pavel Pešta z čp. 26 odvozuje své předky od Kudrnů a Bartošků z čp. 2 a 3. Jde o genealogickou stopu; přesné generace a linie je nutné doložit matrikami.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Obě výchozí domácnosti jsou archivně pevné: Kudrnovi na čp. 2 a Bartoškovi na čp. 3 roku 1921. Nově je uzavřena část bartoškovské větve: Václav Bartoška z čp. 3 se 5. 1. 1925 oženil s Marií Pavlíkovou narozenou 22. 6. 1901 a stejná Marie Bartošková je ve vsi doložena jubilejními články roku 1976 a 1987. Místní větev Peštových dokládají Anna Peštová v N1 roku 1875, ohláška Josefa Pešty a Zdeňky Plášilové roku 1943 a parte roku 1968. Chybí však rodné a oddací zápisy, které by mezi těmito větvemi jmenovaly rodiče a prarodiče Pavla Pešty.
+    - **Dohledaná zjištění krok po kroku:**
+      - Čp. 2: Kudrnovi jsou doloženi sčítáním 1921 a navazujícími matrikami do roku 1934; jde o pevný výchozí rod, nikoli ještě o doložené předky informátora.
+      - Čp. 3: Matěj Bartoška a děti jsou doloženi roku 1921. Sčítání píše manželku Juliana, ale tři matriky 1923–1936 ji vedou jako Antonii rozenou Svobodovou; rozpor se zachovává.
+      - Sňatek 5. 1. 1925: Václav Bartoška, rolník z čp. 3, si vzal Marii Pavlíkovou narozenou 22. 6. 1901. Totožné datum narození mají články o Marii Bartoškové v Zahrádce při 75. a 86. narozeninách v letech 1976 a 1987, takže tato část posloupnosti je prokázána.
+      - Příjmení Pešta je ve vsi doloženo Annou Peštovou v N1 roku 1875 a ve 20. století ohláškou Josef Pešta–Zdeňka Plášilová; parte Marie Plášilové z roku 1968 jmenuje rodinu Peštovu a podporuje, že spojení skutečně pokračovalo.
+      - Přesné plnotextové dotazy Bartoška + Pešta ani veřejné rejstříky neposkytly jméno mezilehlého dítěte či sňatek, který by spojil čp. 2 nebo 3 přímo s Pavlem Peštou.
+    - **Návaznosti osob, domů a míst:** Pavel Pešta — čp. 26; Kudrnovi — čp. 2; Matěj Bartoška — čp. 3; Václav Bartoška — čp. 3; Marie Pavlíková/Bartošková, narozena 22. 6. 1901; Marie Bartošková ve vsi 1976 a 1987; Anna Peštová — N1, 1875; Josef Pešta a Zdeňka Plášilová — ohláška 1943; rodina Peštova v parte 1968.
+    - **Co zůstává otevřené:** Doplnit neveřejné nebo dosud nepřístupné rodné a oddací zápisy po roce 1925; bez jmen rodičů Pavla Pešty nelze zodpovědně rozhodnout, zda větev vede přes Bartoškovy, Kudrnovy, nebo obě rodiny.
+    - **Dohledané prameny:** [SOA Třeboň — narození Anny Peštové 1875](https://digi.ceskearchivy.cz/6620); Sčítání lidu 1921 — čp. 2 a 3; [SOA Třeboň — sňatek Václava Bartošky a Marie Pavlíkové 1925](https://digi.ceskearchivy.cz/6347/198); [Nástup — Marie Bartošková, 75 let, 1976](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba); [Nástup — Marie Bartošková, 86 let, 1987](https://kramerius.kkvysociny.cz/view/uuid:204ff598-6b10-11e8-9cd5-001b63bd97ba); [Nástup — parte Marie Plášilové 1968](https://kramerius.kkvysociny.cz/view/uuid:e8080873-7564-11e8-819e-001b63bd97ba).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Rolník Karel Kudrna je na čp. 2 doložen roku 1928 a znovu 1934.
@@ -92,7 +117,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — bez jmenného dokladu:** Bez jmenného dokladu pro rok 2000.
     - **Nejbližší jmenná opora:** Chybí časově přesná veřejná adresní vazba.
     - **Ověřit přesně:** Veřejný [Český telefon 2000](https://archive.org/details/czchip200012cd), jehož bytové seznamy jsou platné do dubna 2000, už byl vytěžen celý; případná přesná účastnická adresa je uvedena přímo u domu. Nejde však o úplnou domácnost ani pobytový doklad. Ty musí SOkA Pelhřimov nebo Obec Pošná ověřit v pobytové či domovní evidenci kolem sčítání 1991/2001. Doplňkově lze v MNV Pošná, NAD 1544, [inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834) prověřit jmenné zmínky u čp. 2 a ručně porovnat prezenční [Zlaté stránky Jižní Čechy 1999–2001, sign. DT 9.279](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/).
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** Kudrnovi — U Hejdů — Štípkovi. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** žádná veřejná adresní stopa platná k 1. 8. 2026.
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 2. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
@@ -105,12 +130,25 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N3 / čp. 3
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Předkové Pavla Pešty z čp. 2 a 3 — rodová paměť sdělená 3. 8. 2026** (genealogická stopa k dalšímu ověření; jistota střední): Pavel Pešta z čp. 26 odvozuje své předky od Kudrnů a Bartošků z čp. 2 a 3. Jde o genealogickou stopu; přesné generace a linie je nutné doložit matrikami.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Obě výchozí domácnosti jsou archivně pevné: Kudrnovi na čp. 2 a Bartoškovi na čp. 3 roku 1921. Nově je uzavřena část bartoškovské větve: Václav Bartoška z čp. 3 se 5. 1. 1925 oženil s Marií Pavlíkovou narozenou 22. 6. 1901 a stejná Marie Bartošková je ve vsi doložena jubilejními články roku 1976 a 1987. Místní větev Peštových dokládají Anna Peštová v N1 roku 1875, ohláška Josefa Pešty a Zdeňky Plášilové roku 1943 a parte roku 1968. Chybí však rodné a oddací zápisy, které by mezi těmito větvemi jmenovaly rodiče a prarodiče Pavla Pešty.
+    - **Dohledaná zjištění krok po kroku:**
+      - Čp. 2: Kudrnovi jsou doloženi sčítáním 1921 a navazujícími matrikami do roku 1934; jde o pevný výchozí rod, nikoli ještě o doložené předky informátora.
+      - Čp. 3: Matěj Bartoška a děti jsou doloženi roku 1921. Sčítání píše manželku Juliana, ale tři matriky 1923–1936 ji vedou jako Antonii rozenou Svobodovou; rozpor se zachovává.
+      - Sňatek 5. 1. 1925: Václav Bartoška, rolník z čp. 3, si vzal Marii Pavlíkovou narozenou 22. 6. 1901. Totožné datum narození mají články o Marii Bartoškové v Zahrádce při 75. a 86. narozeninách v letech 1976 a 1987, takže tato část posloupnosti je prokázána.
+      - Příjmení Pešta je ve vsi doloženo Annou Peštovou v N1 roku 1875 a ve 20. století ohláškou Josef Pešta–Zdeňka Plášilová; parte Marie Plášilové z roku 1968 jmenuje rodinu Peštovu a podporuje, že spojení skutečně pokračovalo.
+      - Přesné plnotextové dotazy Bartoška + Pešta ani veřejné rejstříky neposkytly jméno mezilehlého dítěte či sňatek, který by spojil čp. 2 nebo 3 přímo s Pavlem Peštou.
+    - **Návaznosti osob, domů a míst:** Pavel Pešta — čp. 26; Kudrnovi — čp. 2; Matěj Bartoška — čp. 3; Václav Bartoška — čp. 3; Marie Pavlíková/Bartošková, narozena 22. 6. 1901; Marie Bartošková ve vsi 1976 a 1987; Anna Peštová — N1, 1875; Josef Pešta a Zdeňka Plášilová — ohláška 1943; rodina Peštova v parte 1968.
+    - **Co zůstává otevřené:** Doplnit neveřejné nebo dosud nepřístupné rodné a oddací zápisy po roce 1925; bez jmen rodičů Pavla Pešty nelze zodpovědně rozhodnout, zda větev vede přes Bartoškovy, Kudrnovy, nebo obě rodiny.
+    - **Dohledané prameny:** [SOA Třeboň — narození Anny Peštové 1875](https://digi.ceskearchivy.cz/6620); Sčítání lidu 1921 — čp. 2 a 3; [SOA Třeboň — sňatek Václava Bartošky a Marie Pavlíkové 1925](https://digi.ceskearchivy.cz/6347/198); [Nástup — Marie Bartošková, 75 let, 1976](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba); [Nástup — Marie Bartošková, 86 let, 1987](https://kramerius.kkvysociny.cz/view/uuid:204ff598-6b10-11e8-9cd5-001b63bd97ba); [Nástup — parte Marie Plášilové 1968](https://kramerius.kkvysociny.cz/view/uuid:e8080873-7564-11e8-819e-001b63bd97ba).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Bartoškovi jsou u domu doloženi do úmrtí Antonie Bartoškové roku 1936.
     - **Ověřit přesně:** [Národní archiv, fond Národní sčítání lidu 1950, NAD 984](https://portal.nacr.cz/aron/apu/9a5ca37a-bb27-4581-ba0c-77f0ac6ca5d0): vyžádat domovní a bytový arch obce Zahrádka u Pošné pro čp. 3, stav k 1. 3. 1950; ověřit proti součtu celé vsi 26 domů / 99 obyvatel. Žádný cílový arch ani archivní pomůcka nemají k 1. 8. 2026 připojené veřejné obrazy. Při návštěvě Chodovce zároveň projít dostupný prezenční [Úřední telefonní seznam 1950, sign. IM489](https://www.knihovny.cz/Record/nacr.c9d28943-e9fa-481c-9f7d-57779479f9ee) pod heslem Zahrádka nebo Pošná a hledat čp. 3. Záložní přesně cílený exemplář je samostatný [kraj 9: Jihlava, sign. II 038397](https://www.knihovny.cz/Record/nkp.NKC01-001232628); adresář ale zachytí jen zveřejněné účastníky, ne celou domácnost.
   - **1980 — mezera v dokladech:** Nikdo přímo k roku 1980.
-    - **Nejbližší jmenná opora:** Marie Bartošková je roku 1976 doložena ve vsi bez čísla; stejné příjmení nestačí k přiřazení.
+    - **Nejbližší jmenná opora:** Marie Bartošková doložená ve vsi roku 1976 je podle přesného data narození totožná s Marií Pavlíkovou, která si roku 1925 vzala Václava Bartošku z čp. 3. Článek 1976 však neuvádí její tehdejší čp., a proto ji nelze zapsat jako obyvatelku domu v řezu 1980.
     - **Ověřit přesně:** [SOkA Pelhřimov, MNV Útěchovičky, NAD 1262, pomůcka 559](https://portal.nacr.cz/aron/apu/16e489c1-dc65-4e14-8160-b427510d8a25): poslední zahrádecký domovní seznam čp. 3 do roku 1978. U archivu pak zjistit, zda pokračování pro roky 1979–1980 převzal MNV nebo Obec Pošná. MNV Pošná, [NAD 1544, inv. 60, karton 4](https://www.mza.cz/aron/apu/34333141-ad08-4de3-a43f-b0266836cabb) (1963–1990), je v katalogu obecná evidence a výsledky sčítání; úplná kontrola všech čtyř položek sekce nepotvrdila domovní seznam Zahrádky. Doplňkově ručně zkontrolovat prezenční [Telefonní seznam TTO Tábor 1979–1980, sign. DT 6.504](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0338681-Telefonni-seznam/); ten ale nemůže nahradit úplný soupis domácností.
   - **2000 — bez jmenného dokladu:** Bez jmenného dokladu pro rok 2000.
     - **Nejbližší jmenná opora:** Chybí veřejná adresní vazba.
@@ -128,6 +166,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N4 / čp. 4
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Marie Vaňková po Markvartových — stav popsaný 3. 8. 2026; starší období neurčeno** (rodová nebo domovní posloupnost z místní paměti; jistota střední): Rozhovor spojuje dnešní čp. 4 s Marií („Maruškou“) Vaňkovou a starší období s Markvartovými. Marie Vaňková má vedle rozhovoru i samostatnou úřední adresní stopu z roku 2025.
+    - **Souhrnný výsledek — potvrzeno nezávislým pramenem:** Sčítací arch 1921 a tři matriční zápisy z let 1921–1930 potvrzují v čp. 4 Josefa a Antonii Markvartovy a jejich děti. Úřední výpis KN uvádí 19. 3. 2025 Marii Vaňkovou s přesnou adresou Zahrádka 4; Martin Vaněk měl na stejné adrese sídlo podnikání v letech 2020–2026. Doklady potvrzují oba konce posloupnosti, nikoli přesný okamžik přechodu mezi rody.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921 a oddací matriky 1921–1930 vytvářejí souvislý předválečný blok Markvartových na čp. 4: Josef, Antonie a jejich děti Antonie, Václav a Anežka.
+      - Výpis KN z 19. 3. 2025 uvádí Marii Vaňkovou na přesné adrese Zahrádka 4; dokládá adresu osoby, nikoli automaticky vlastnictví domu.
+      - Martin Vaněk měl na čp. 4 podnikatelskou adresu od roku 2020 do 8. 6. 2026; jde o podpůrnou rodovou stopu, nikoli pobytový doklad.
+      - Mezi rokem 1930 a moderní větví Vaňkových zůstává časová mezera, takže se nepíše nepřerušená posloupnost ani příbuznost s Vaňky ze zaniklého čp. 19.
+    - **Návaznosti osob, domů a míst:** Josef a Antonie Markvartovi; Antonie, Václav a Anežka Markvartovi; Marie Vaňková; Martin Vaněk; čp. 4.
+    - **Co zůstává otevřené:** Dohledat poválečný přechod domu od Markvartových k Vaňkovým; bez toho nelze určit generace ani rok změny.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 4; [SOA Třeboň — oddací matriky 1921–1930](https://digi.ceskearchivy.cz/6624); [ÚZSVM / výpis KN — Marie Vaňková 2025](https://www.nabidkamajetku.gov.cz/api/Property/Attachment/1eab6c6e-1487-4552-8217-efc304e25da6).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Rodina Josefa Markvarta je na čp. 4 doložena roku 1930.
@@ -138,7 +188,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — bez jmenného dokladu:** Bez jmenného dokladu pro rok 2000.
     - **Nejbližší jmenná opora:** Místní paměť zná rodovou posloupnost, nikoli přesné datum.
     - **Ověřit přesně:** Veřejný [Český telefon 2000](https://archive.org/details/czchip200012cd), jehož bytové seznamy jsou platné do dubna 2000, už byl vytěžen celý; případná přesná účastnická adresa je uvedena přímo u domu. Nejde však o úplnou domácnost ani pobytový doklad. Ty musí SOkA Pelhřimov nebo Obec Pošná ověřit v pobytové či domovní evidenci kolem sčítání 1991/2001. Doplňkově lze v MNV Pošná, NAD 1544, [inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834) prověřit jmenné zmínky u čp. 4 a ručně porovnat prezenční [Zlaté stránky Jižní Čechy 1999–2001, sign. DT 9.279](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/).
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** Marie Vaňková po Markvartových. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** žádná veřejná adresní stopa platná k 1. 8. 2026.
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 4. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
@@ -374,6 +424,30 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N13 / čp. 13
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Pachtovi na čp. 13 — podle informátora dříve; přesná doba neurčena** (rodová nebo domovní posloupnost z místní paměti; jistota nízká): Informátor spojuje Pachtovy s čp. 13 a polohou „pod hampejzem“, údaj však zatím není potvrzen přečteným jménem na mapě 1829 ani samostatným adresním zápisem.
+    - **Souhrnný výsledek — prameny ukazují rozpor nebo více možných výkladů:** Rod Pachtových je v obci bezpečně doložen, ale zatím u jiných domů: matriční zápisy roku 1804 vedou rodinu pracovně čtenou jako Pachta do N8 a sčítání 1921 Josefa, Antonii a Marii Pachtovy do čp. 7. Josef Pachta působil v letech 1954–1962 jako tajemník MNV bez uvedení domu. Vazba na N13 zůstává výhradně ústní a jméno na skice 1829 se nepodařilo bezpečně přečíst.
+    - **Dohledaná zjištění krok po kroku:**
+      - Matrika 1804: Gabriel a Josef Pachtovi s rodiči Matějem a Kateřinou jsou vedeni v N8, nikoli N13.
+      - Sčítání 1921: Josef, Antonie a Marie Pachtovi žili v čp. 7; tato domácnost je zatím poslední bezpečné spojení rodu s konkrétním zahrádeckým domem.
+      - Úmrtní poděkování 1943 jmenuje zemřelou Máničku, manžela Karla Adama, rodiče Josefa a Antonii Pachtovy a sourozence Josefa a Annu. Shoda rodičovského páru a dcery Marie s čp. 7 je silná, ale bez data narození není totožnost definitivní.
+      - Josef Pachta je ve vsi doložen jako tajemník MNV v letech 1954–1962, roku 1957 též jako výcvikář Svazarmu; žádný článek neuvádí čp. 13.
+      - Přesné dotazy Pachta + čp. 13 ani čtení jména na skice 1829 nepřinesly potvrzení; mapa navíc obsahuje parcelní čísla, která se snadno zamění s čísly domů.
+    - **Návaznosti osob, domů a míst:** čp. 13 — ústní údaj; N8 — rodina Pachtových roku 1804; čp. 7 — Josef, Antonie a Marie Pachtovi roku 1921; Josef Pachta — tajemník MNV 1954–1962.
+    - **Co zůstává otevřené:** Ověřit jméno držitele N13 v popisném nebo oceňovacím operátu stabilního katastru; teprve pak lze rozhodnout, zda ústní čtení zachycuje starší větev Pachtových.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 7; Vesnické noviny — Josef Pachta, MNV a Svazarm.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
+  - **Rod Kudrnů na čp. 13 — stav popsaný 3. 8. 2026** (současná místní vazba; ústní svědectví, nikoli pobytová evidence; jistota střední): Informátor uvádí, že Kudrnovi na čp. 13 zůstávají i dnes. Přesné složení domácnosti a právní vztah k domu nejsou úředně ověřeny; archivní doklad samostatně klade Antonii Kudrnovou do čp. 13 roku 1936, ale neprokazuje nepřetržitost rodu.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Úmrtní matrika vede 6. 12. 1936 na čp. 13 Antonii Kudrnovou, rozenou Kratochvílovou. Jde ale o vdovu po Josefu Kudrnovi, domkáři z čp. 18, takže se mezi roky 1922 a 1936 přestěhovala; tento doklad sám nevytváří nepřetržitou posloupnost čp. 13. Současná jména Jaroslav, Josef („Pepík“), Jan („Šányk“) a Janův syn byla hledána ve veřejných zdrojích bez bezpečného nálezu a zůstávají součástí úplného ústního záznamu.
+    - **Dohledaná zjištění krok po kroku:**
+      - Antonie Kudrnová rozená Kratochvílová zemřela v čp. 13 roku 1936; dřívější matrika ji však spojuje s manželem Josefem Kudrnou, domkářem v čp. 18, takže tento bod dokládá přestěhování, ne starobylou nepřerušenou větev čp. 13.
+      - Družstevník Kudrna je doložen v JZD Zahrádka roku 1959 bez křestního jména a domu; může představovat další poválečný článek místního rodu, ale nelze jej přiřadit k čp. 13.
+      - Přesné dotazy na Jaroslava, Josefa, Jana, přezdívku Šányk a spojení Kudrna + čp. 13 nevrátily bezpečný místní doklad.
+      - Jména tří synů a současné předání chalupy Janovu synovi se proto uchovávají jako svědectví informátora, nikoli jako veřejně ověřený seznam žijící domácnosti.
+    - **Návaznosti osob, domů a míst:** Antonie Kudrnová — čp. 13 roku 1936; Josef Kudrna — čp. 18; Jaroslav, Josef a Jan Kudrnovi — ústní rodová řada; Janův syn — ústní současná návaznost.
+    - **Co zůstává otevřené:** Prokázat generaci mezi Antonií Kudrnovou roku 1936 a jmenovanými syny; vzhledem k žijícím osobám použít rodinné dokumenty nebo souhlas rodiny, ne domněnky z veřejných registrů.
+    - **Dohledané prameny:** [SOA Třeboň — úmrtí Antonie Kudrnové 1936](https://digi.ceskearchivy.cz/11214/270).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Antonie Kudrnová zemřela na čp. 13 dne 6. prosince 1936; dříve bydlela na čp. 18.
@@ -384,7 +458,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — bez jmenného dokladu:** Bez jmenného dokladu pro rok 2000.
     - **Nejbližší jmenná opora:** Aktivní odběr elektřiny je doložen až roku 2026.
     - **Ověřit přesně:** Veřejný [Český telefon 2000](https://archive.org/details/czchip200012cd), jehož bytové seznamy jsou platné do dubna 2000, už byl vytěžen celý; případná přesná účastnická adresa je uvedena přímo u domu. Nejde však o úplnou domácnost ani pobytový doklad. Ty musí SOkA Pelhřimov nebo Obec Pošná ověřit v pobytové či domovní evidenci kolem sčítání 1991/2001. Doplňkově lze v MNV Pošná, NAD 1544, [inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834) prověřit jmenné zmínky u čp. 13 a ručně porovnat prezenční [Zlaté stránky Jižní Čechy 1999–2001, sign. DT 9.279](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/).
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** Rod Kudrnů na čp. 13. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** žádná veřejná adresní stopa platná k 1. 8. 2026.
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 13. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
@@ -450,6 +524,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N16 / čp. 16
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Čp. 16 — U Pícků — rodová posloupnost bez přesných dat** (místní jméno domu nebo polohy; jistota střední): Čp. 16 se podle rozhovoru říkalo U Pícků; dům je spojován s Kejvalovými a donedávna s rodinou Kubiska–Čekalová. Matrika roku 1894 uvádí Františku Berkovou jako rozenou Pičkovou ze Zahrádky čp. 16, čímž domovní jméno získává silnou nezávislou oporu.
+    - **Souhrnný výsledek — potvrzeno nezávislým pramenem:** Originál úmrtního zápisu Františky Berkové v Pošné čp. 13 roku 1894 ji čitelně označuje jako rozenou Pičkovou ze Zahrádky čp. 16. V roce 1921 zde žila početná rodina Jana a Kateřiny Kejvalových. Miroslav Kubiska má přesnou telefonní adresu čp. 16 v seznamech 2000 a 2004. Čekalová a přesný okamžik rodové výměny zůstávají ústním údajem.
+    - **Dohledaná zjištění krok po kroku:**
+      - Úmrtní matrika 1894: na originálním snímku je čitelné „rozená Pičkovou ze Zahrádky č. 16“; jde o přímou rodovou oporu domovního jména U Pícků.
+      - Zápis je nepřímý adresně — Františka zemřela v Pošné čp. 13 — ale výslovně uvádí její původ ze zahrádeckého čp. 16.
+      - Sčítání 1921 navazuje na domě Jana a Kateřinu Kejvalovy s rodinou; matriky potvrzují i jejich dcery Annu, Terezii a Karolínu.
+      - Telefonní seznamy 2000 a 2004 uvádějí na přesné osobní adrese Miroslava Kubisku. Jméno Čekalová se ve veřejném přesném adresním prameni nenašlo.
+    - **Návaznosti osob, domů a míst:** Františka Berková rozená Pičková — původ z čp. 16; Jan a Kateřina Kejvalovi; Miroslav Kubiska 2000 a 2004; Kubiska–Čekalová — ústní posloupnost.
+    - **Co zůstává otevřené:** Dohledat přechod Pička → Kejval a Kejval → Kubiska–Čekalová; domovní jméno je potvrzeno, úplná rodová posloupnost nikoli.
+    - **Dohledané prameny:** [SOA Třeboň — úmrtní matrika 1894, Františka Berková](https://digi.ceskearchivy.cz/11214/74); Sčítání lidu 1921 — čp. 16; Český telefon 2000 a 2004.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** J. Kejvalová zemřela na čp. 16 dne 22. října 1948; tento koncový údaj ji nepřenáší do roku 1950.
@@ -475,9 +561,22 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N17 / čp. 17
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Pastouška u rybníka — nejsilnější identifikace čp. 17 — historické období neurčeno** (relativní poloha bez bezpečného mapového bodu; jistota střední): Pastouška stála podle informátora u rybníka v dnes zaniklém domě a žil v ní „nějaký krejčí“. Propojení sčítání, oddací matriky a rodinných vzpomínek nyní velmi silně ukazuje na obecní čp. 17 a krejčího Václava Plášila; N12 s příjmením Krejčí je skutečný, ale nesouvisející nález.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Sčítání 1921 vede čp. 17 jako majetek obce a zachycuje zde rodinu muže zapsaného jako Vojtěch Plášil, narozeného přesně 10. 9. 1876. Oddací matrika roku 1928 však stejného muže podle přesného data narození, manželky a dětí identifikuje jako Václava Plášila, krejčího v čp. 17. Dopis ženy Karla Říčana roku 1956 výslovně vzpomíná, že rodiče v Zahrádce bydleli v pastoušce a otec byl krejčí. Souhra obecního vlastnictví, povolání, data narození a celé rodiny je silným nepřímým důkazem, že pastouška byla čp. 17. Dopis má však vnitřní chronologický rozpor vůči zprávě o Václavově pohřbu, takže nejde o jediný bezchybný přímý zápis. N12 s Josefem Krejčím roku 1831 je falešná jmenná stopa, nikoli doklad pastoušky.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921: čp. 17 vlastnila obec Zahrádka; v domě žili Plášilovi — přednosta zapsaný jako Vojtěch, narozený 10. 9. 1876, manželka Marie a děti Barbora, Jan, Anna, Růžena a Josef.
+      - Oddací matrika 1928: Václav Plášil je výslovně označen jako krejčí v Zahrádce čp. 17; přesné datum narození a rodina dokazují, že jde o muže, kterého sčítání chybně pojmenovalo Vojtěch.
+      - Vzpomínka ženy Karla Říčana z roku 1956: rodiče patřili k nejchudším v obci, otec byl krejčí a bydleli v pastoušce, než odešli do Samšína. Text mluví o otci jako těžce nemocném po výročí 16. 1. 1956, zatímco jiné zprávy kladou Václavův pohřeb už na 12. 1.; dopis mohl být napsán dříve a vydán později, ale rozpor se výslovně zachovává.
+      - Jubilejní články z let 1972 a 1976 potvrzují data narození rodičů a sourozeneckou řadu, takže propojení s rodinou ze sčítání není založeno jen na shodě příjmení.
+      - Narození Josefa Krejčího v N12 roku 1831 je pravé, ale mezi touto rodinou a obecní pastouškou nebyla nalezena žádná návaznost; původní výklad N12 se proto odmítá.
+    - **Návaznosti osob, domů a míst:** obecní čp. 17; Václav Plášil, krejčí, narozen 10. 9. 1876; Marie Plášilová; děti Barbora, Jan, Anna, Růžena a Josef; dcera Barbora Říčanová; pozdější Samšín; N12 — vyloučená vedlejší stopa Josefa Krejčího.
+    - **Co zůstává otevřené:** Potvrdit přesnou polohu zaniklého čp. 17 u rybníka na popisném operátu nebo situačním plánu; čtení N9 na skice může být číslo parcely, nikoli domu.
+    - **Dohledané prameny:** Sčítání lidu 1921 — obecní čp. 17; [SOA Třeboň — Václav Plášil, krejčí v čp. 17, 1928](https://digi.ceskearchivy.cz/6624/206); [Vesnické noviny 28. 1. 1956 — rodina v pastoušce](https://kramerius.kkvysociny.cz/view/uuid:287ff24d-90c1-4e25-807c-24b80cec1c5f); [SOA Třeboň — narození Josefa Krejčího v N12, vyloučená vedlejší stopa](https://digi.ceskearchivy.cz/6620/109).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
-    - **Nejbližší jmenná opora:** Václav Plášil je doložen roku 1928; dítě Marie Říčanové zemřelo na čp. 17 roku 1933.
+    - **Nejbližší jmenná opora:** Václav Plášil, krejčí narozený 10. 9. 1876, je s rodinou v obecním čp. 17 doložen roku 1921 a znovu roku 1928; rodinná vzpomínka 1956 jej pravděpodobně spojuje s pastouškou. Dítě Marie Říčanové zemřelo na čp. 17 roku 1933.
     - **Ověřit přesně:** [Národní archiv, fond Národní sčítání lidu 1950, NAD 984](https://portal.nacr.cz/aron/apu/9a5ca37a-bb27-4581-ba0c-77f0ac6ca5d0): vyžádat domovní a bytový arch obce Zahrádka u Pošné pro čp. 17, stav k 1. 3. 1950; ověřit proti součtu celé vsi 26 domů / 99 obyvatel. Žádný cílový arch ani archivní pomůcka nemají k 1. 8. 2026 připojené veřejné obrazy. Při návštěvě Chodovce zároveň projít dostupný prezenční [Úřední telefonní seznam 1950, sign. IM489](https://www.knihovny.cz/Record/nacr.c9d28943-e9fa-481c-9f7d-57779479f9ee) pod heslem Zahrádka nebo Pošná a hledat čp. 17. Záložní přesně cílený exemplář je samostatný [kraj 9: Jihlava, sign. II 038397](https://www.knihovny.cz/Record/nkp.NKC01-001232628); adresář ale zachytí jen zveřejněné účastníky, ne celou domácnost.
   - **1980 — bez jmenného dokladu:** Bez přímého jména pro rok 1980.
     - **Nejbližší jmenná opora:** Poslední bezpečná adresní opora je z roku 1933.
@@ -521,6 +620,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N19 / čp. 19
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Zaniklá Vaňkova chalupa — kandidát čp. 19 — historické období neurčeno** (relativní poloha bez bezpečného mapového bodu; jistota střední): Vaňkova chalupa měla stát mezi křížem a „Jihlavákem“, tedy čp. 20. Nejsilnějším nalezeným kandidátem je zaniklé čp. 19, kde je rod Vaňků doložen roku 1921 a v matrikách až do roku 1929; přesnou prostorovou totožnost však ještě nepotvrzuje mapa.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Sčítání 1921 a oddací matriky spojují čp. 19 s Josefem a Františkou Vaňkovými a jejich dětmi Josefem, Karlem, Václavem, Marií, Annou, Janem, Růženou a Aloisem. Karel Vaněk se v čp. 19 narodil 3. 1. 1891, roku 1929 tam byl rolníkem a jeho totožnost potvrzuje i legionářská karta. Čp. 19 dnes v RÚIAN mezi adresami chybí. Proto jde o silného rodového kandidáta, nikoli dosud o jisté prostorové určení.
+    - **Dohledaná zjištění krok po kroku:**
+      - Starší matriky ukazují, že čp. 19 před Vaňkovými obývaly i jiné rodiny; Vaňkova chalupa je proto pojmenování podle pozdějšího rodu, nikoli doklad původního stavitele.
+      - Karel Vaněk se v čp. 19 narodil 3. 1. 1891; totožnost na den potvrzuje legionářský záznam a oddací matrika jej roku 1929 opět vede jako rolníka v témže domě.
+      - Sčítání 1921 a matriky 1921–1929 skládají domácnost Josefa a Františky Vaňkových a nejméně osmi jejich dětí nebo mladších příbuzných na čp. 19.
+      - Dnešní RÚIAN čp. 19 neobsahuje, což odpovídá vzpomínce na chybějící chalupu; překryv map 1829–2022 však dosud nepotvrdil přesný bod mezi křížem a čp. 20.
+    - **Návaznosti osob, domů a míst:** zaniklé čp. 19; Josef a Františka Vaňkovi; Karel Vaněk, narozen 1891; Anna, Jan, Růžena a Alois Vaňkovi; čp. 20 jako orientační bod.
+    - **Co zůstává otevřené:** Najít čp. 19 na popisném operátu nebo mapě se spolehlivou vazbou číslo–půdorys; současný georeferenční překryv má metrovou odchylku a nestačí k definitivnímu umístění.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 19; [SOA Třeboň — oddací matriky 1921–1929](https://digi.ceskearchivy.cz/6624); [Čs. obec legionářská — Karel Vaněk](https://www.csol.cz/legionar/119257/).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Rodina Karla Vaňka je na čp. 19 doložena v letech 1926–1930.
@@ -543,6 +654,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N20 / čp. 20
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **„Jihlavák“ — Stanislav Marousek, čp. 20 — stav a místní označení popsané 3. 8. 2026** (místní jméno domu nebo polohy; jistota střední): Opravená identifikace výslovně klade „Jihlaváka“ na čp. 20, nikoli čp. 4. Na této chalupě byli dříve Zelenkovi, které v čp. 20 nezávisle dokládají archivní prameny z let 1912–1932.
+    - **Souhrnný výsledek — potvrzeno nezávislým pramenem:** Čp. 20 je v letech 1912–1932 opakovaně spojeno se Zelenkovými: sčítání 1921 zachycuje Jana, Annu, Karla a Marii Zelenkovy; roku 1925 jsou u domu Jan, Václav a Karel; Marie Zelenková zde zemřela roku 1932. Veřejný živnostenský výpis vede Stanislava Marouska na čp. 20 do roku 2024 a Michaela Marouska od roku 2025. Přezdívka Jihlavák zůstává ústní, ale osoby i dům jsou nezávisle navázány.
+    - **Dohledaná zjištění krok po kroku:**
+      - Archivní řada 1912–1932 opakovaně spojuje čp. 20 se Zelenkovými; nejde o jednorázovou shodu příjmení.
+      - Pozdější tisk zná Jana Zelenku ze Zahrádky a jeho rodinu, ale neuvádí číslo domu; spojení každé poválečné zmínky přímo s čp. 20 proto zůstává pravděpodobné, nikoli automatické.
+      - Veřejné podnikatelské výpisy dávají přesnou adresu čp. 20 Stanislavu Marouskovi do 10. 1. 2024 a Michaelu Marouskovi od 30. 6. 2025.
+      - Oprava informátora čp. 4 → čp. 20 byla plně promítnuta; čp. 4 patří samostatné posloupnosti Markvart–Vaněk.
+    - **Návaznosti osob, domů a míst:** Jan, Anna, Karel, Marie a Václav Zelenkovi; Stanislav Marousek; Michael Marousek; čp. 20; st. 18.
+    - **Co zůstává otevřené:** Přezdívku Jihlavák a přesný rok přechodu Zelenka → Marousek lze zatím doložit jen místní pamětí, nikoli veřejným pobytovým pramenem.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 20; [SOA Třeboň — oddací matrika 1925](https://digi.ceskearchivy.cz/6624/186); [RÚIAN — Zahrádka 20](https://regiony.kurzy.cz/posna/zahradka-cast/20/).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Zelenkovi jsou na čp. 20 doloženi do roku 1932.
@@ -553,7 +676,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — mezera v dokladech:** Bez přímého jména pro rok 2000.
     - **Nejbližší jmenná opora:** Jan Zelenka je u čp. 20 jen v nedatovaném seznamu NIV; roku 2000 již nežil.
     - **Ověřit přesně:** Veřejný [Český telefon 2000](https://archive.org/details/czchip200012cd), jehož bytové seznamy jsou platné do dubna 2000, už byl vytěžen celý; případná přesná účastnická adresa je uvedena přímo u domu. Nejde však o úplnou domácnost ani pobytový doklad. Ty musí SOkA Pelhřimov nebo Obec Pošná ověřit v pobytové či domovní evidenci kolem sčítání 1991/2001. Doplňkově lze v MNV Pošná, NAD 1544, [inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834) prověřit jmenné zmínky u čp. 20 a ručně porovnat prezenční [Zlaté stránky Jižní Čechy 1999–2001, sign. DT 9.279](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/).
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** „Jihlavák“ — Stanislav Marousek, čp. 20. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** Michael Marousek (adresa podnikání; není dokladem bydliště); sama neprokazuje bydliště.
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 20. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
@@ -570,6 +693,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N21 / čp. 21
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Deršmídův dům a starší čp. 21 — neurčitě „někdy před válkou“** (ústní datace v rozporu nebo napětí s úředním pramenem; jistota střední): Informátor zpochybňuje starší dataci Deršmídova domu a výslovně uvedl, že tam „nemohl nikdo být v roce 1929“. Čp. 21 však bezpečně existovalo už roku 1921 a roku 1929 je tam přímo doložena Anežka Rohovcová; rodina Dörrschmidtova se na adrese objevuje až v telefonních seznamech 2000 a 2004. Vzpomínka se proto nejspíš týká příchodu rodiny nebo novější podoby budovy, ne existence čísla.
+    - **Souhrnný výsledek — prameny ukazují rozpor nebo více možných výkladů:** Sčítací arch 1921 obsahuje na čp. 21 šestnáct osob ve čtyřech domácnostech. Oddací matrika roku 1929 uvádí Anežku Rohovcovou z čp. 21. Přesný psaný tvar moderního příjmení je Václav Dörrschmidt; jeho osobní účastnickou adresu čp. 21 nezávisle opakují České telefony 2000 a 2004. Letecké snímky navíc ukazují stavbu v dnešní poloze nejpozději roku 1949. Rozhovor tedy nelze použít k odstranění starších obyvatel.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921: čp. 21 existovalo a ve čtyřech domácnostech zde bylo zapsáno šestnáct osob z rodin Vaňkovy, Matouškovy, Horáčkovy a Motlovy.
+      - Oddací matrika 1929: Anežka Rohovcová je výslovně uvedena u rodičů v čp. 21. Tím je tvrzení, že tam roku 1929 nikdo být nemohl, přímo vyvráceno jmenným primárním pramenem.
+      - RÚIAN uvádí evidenční rok 1919 a snímek 1949 ukazuje stavbu v dnešní poloze; ani jeden pramen sám nedokazuje, že dnešní stavební hmota je beze změny totožná s domem z roku 1921.
+      - Telefonní seznamy 2000 a 2004 opakují přesnou adresu Václava Dörrschmidta. Ústní „Deršmídův barák postavený před válkou“ se tedy může týkat příchodu rodiny nebo přestavby, nikoli vzniku čp. 21.
+    - **Návaznosti osob, domů a míst:** čp. 21 roku 1921 — 16 osob; Anežka Rohovcová — 1929; Václav Dörrschmidt — 2000 a 2004; ústní tvar Deršmíd.
+    - **Co zůstává otevřené:** Dohledat stavební dějiny a datum příchodu Dörrschmidtových; nezaměňovat rodové pojmenování dnešní budovy s historií čísla popisného.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 21; [SOA Třeboň — oddací matrika 1929](https://digi.ceskearchivy.cz/6624); Český telefon 2000 a 2004.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Rohovcovi jsou na čp. 21 doloženi roku 1929 po předchozím zápisu na čp. 1; není jasné, zda šlo o stěhování či přečíslování.
@@ -641,6 +776,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N24 / čp. 24
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Čp. 24 — U Coufalů — rodová posloupnost bez přesných dat** (místní jméno domu nebo polohy; jistota střední): Čp. 24 se podle rozhovoru říkalo U Coufalů a později je spojováno s rodinou Plášilů. Informátor jmenoval dcery Marunu, Lídu a Jarku v tomto pořadí podle věku; jejich přesné matriční ztotožnění se zatím nepodařilo.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Sčítání 1921 a matriky 1921–1928 potvrzují na čp. 24 Antonína, Kateřinu, Marii, Julianu, Václava a Antonii Plášilovy. Tisk nezávisle dokládá rodinu Coufalovu v Zahrádce při založení JZD roku 1952 a tři její členy v roce 1954, ale neuvádí dům. Domovní jméno U Coufalů a dcery Maruna, Lída a Jarka proto zůstávají ústní návazností mezi dvěma samostatně doloženými místními rody.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921 a matriky 1921–1928 bezpečně vážou k čp. 24 Antonína, Kateřinu, Marii, Julianu, Václava a Antonii Plášilovy.
+      - Tisk z let 1952–1955 potvrzuje ve vsi osmihospodářského rolníka Coufala a tříčlennou Coufalovu rodinu v JZD; číslo domu ani křestní jména ale neuvádí.
+      - Přesné dotazy U Coufalů a jména Maruna, Marie, Lída/Ludmila a Jarka/Jaroslava Plášilová ve spojení se Zahrádkou nevrátily bezpečnou sourozeneckou trojici.
+      - Telefonní seznamy 2000 a 2004 uvádějí na čp. 24 Jana Velicha; jde o další pozdější adresní článek, který sám nevysvětluje přechod Coufal–Plášil–Velich.
+    - **Návaznosti osob, domů a míst:** Antonín, Kateřina, Marie, Juliana, Václav a Antonie Plášilovi — čp. 24; rodina Coufalova — obec 1952–1954; Maruna, Lída a Jarka — ústní sourozenecká řada; U Coufalů — ústní domovní jméno.
+    - **Co zůstává otevřené:** Zjistit rodná data tří Plášilových dcer a návaznost rodiny Coufalovy na čp. 24; zatím jsou potvrzeny dva rody, ale nikoli jejich pořadí na domě.
+    - **Dohledané prameny:** Sčítání lidu 1921 — čp. 24; [SOA Třeboň — Plášilovi čp. 24, 1921–1928](https://digi.ceskearchivy.cz/6624); [Vesnické noviny — rodina Coufalova 1952–1954](https://kramerius.kkvysociny.cz/view/uuid:d4b25eed-d6e2-44e8-bcc1-26c152e44f7a).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Plášilovi jsou na čp. 24 doloženi roku 1928; rod Kadleců je s domem spojen roku 1936.
@@ -667,6 +814,17 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### N25 / čp. 25
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Pazderna u čp. 25 — historické období neurčeno** (místní vzpomínka na užití stavby; jistota střední): Pazderna byla podle informátora bouda nebo sklad a byla spojena s čp. 25. Časové zařazení ani to, zda šlo o celý dům nebo vedlejší stavbu, výpověď neurčuje.
+    - **Souhrnný výsledek — prameny ukazují rozpor nebo více možných výkladů:** Výraz pazderna se u zahrádeckého čp. 25 v přečtených pramenech nenašel. Sčítání 1921 a oddací matrika 1928 však dokazují, že čp. 25 bylo v této době běžně obydleným domem rodiny Kadlecovy. Údaj může popisovat jinou dobu nebo vedlejší hospodářskou stavbu, ale bez toho upřesnění jej nelze vztáhnout na celý dům.
+    - **Dohledaná zjištění krok po kroku:**
+      - Sčítání 1921: čp. 25 obývali Josef a Marie Kadlecovi se synem Janem; s nimi služka Marie Peřová (?) a pomocnice Anna Kolářová. Nešlo tedy tehdy jen o neobytnou boudu.
+      - Oddací matrika 1928 znovu uvádí Jana a Marii Kadlecovy v čp. 25 a jejich schovanku Terezii Habarthovou, čímž se obytná funkce potvrzuje v druhém nezávislém prameni.
+      - Plnotextová kontrola regionálního tisku nenašla spojení pazderny se Zahrádkou; označení Na Pazderně v Proseči je pouze dokladem užívání slova v okolí.
+      - Novinový zásah z roku 1957 obsahuje na stejné straně text „Josef Vaněk čp. 25“ a Zahrádku u Pošné, ale OCR ani struktura stránky nedovolují bezpečně určit, zda patří k sobě; proto se osoba k domu nepřidává.
+    - **Návaznosti osob, domů a míst:** čp. 25; Josef a Marie Kadlecovi se synem Janem roku 1921; Jan a Marie Kadlecovi roku 1928; schovanka Terezie Habarthová; pazderna — neurčená doba nebo vedlejší stavba.
+    - **Co zůstává otevřené:** Zjistit časové období a parcelu pazderny; ověřit, zda šlo o vedlejší stavbu u čp. 25, starší objekt před Kadlecovými, nebo místní označení přenesené na jinou stavbu.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — mezera v dokladech:** Nikdo přímo k roku 1950.
     - **Nejbližší jmenná opora:** Jan a Marie Kadlecovi jsou na čp. 25 doloženi do roku 1928.
@@ -690,6 +848,28 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### čp. 26
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Předkové Pavla Pešty z čp. 2 a 3 — rodová paměť sdělená 3. 8. 2026** (genealogická stopa k dalšímu ověření; jistota střední): Pavel Pešta z čp. 26 odvozuje své předky od Kudrnů a Bartošků z čp. 2 a 3. Jde o genealogickou stopu; přesné generace a linie je nutné doložit matrikami.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Obě výchozí domácnosti jsou archivně pevné: Kudrnovi na čp. 2 a Bartoškovi na čp. 3 roku 1921. Nově je uzavřena část bartoškovské větve: Václav Bartoška z čp. 3 se 5. 1. 1925 oženil s Marií Pavlíkovou narozenou 22. 6. 1901 a stejná Marie Bartošková je ve vsi doložena jubilejními články roku 1976 a 1987. Místní větev Peštových dokládají Anna Peštová v N1 roku 1875, ohláška Josefa Pešty a Zdeňky Plášilové roku 1943 a parte roku 1968. Chybí však rodné a oddací zápisy, které by mezi těmito větvemi jmenovaly rodiče a prarodiče Pavla Pešty.
+    - **Dohledaná zjištění krok po kroku:**
+      - Čp. 2: Kudrnovi jsou doloženi sčítáním 1921 a navazujícími matrikami do roku 1934; jde o pevný výchozí rod, nikoli ještě o doložené předky informátora.
+      - Čp. 3: Matěj Bartoška a děti jsou doloženi roku 1921. Sčítání píše manželku Juliana, ale tři matriky 1923–1936 ji vedou jako Antonii rozenou Svobodovou; rozpor se zachovává.
+      - Sňatek 5. 1. 1925: Václav Bartoška, rolník z čp. 3, si vzal Marii Pavlíkovou narozenou 22. 6. 1901. Totožné datum narození mají články o Marii Bartoškové v Zahrádce při 75. a 86. narozeninách v letech 1976 a 1987, takže tato část posloupnosti je prokázána.
+      - Příjmení Pešta je ve vsi doloženo Annou Peštovou v N1 roku 1875 a ve 20. století ohláškou Josef Pešta–Zdeňka Plášilová; parte Marie Plášilové z roku 1968 jmenuje rodinu Peštovu a podporuje, že spojení skutečně pokračovalo.
+      - Přesné plnotextové dotazy Bartoška + Pešta ani veřejné rejstříky neposkytly jméno mezilehlého dítěte či sňatek, který by spojil čp. 2 nebo 3 přímo s Pavlem Peštou.
+    - **Návaznosti osob, domů a míst:** Pavel Pešta — čp. 26; Kudrnovi — čp. 2; Matěj Bartoška — čp. 3; Václav Bartoška — čp. 3; Marie Pavlíková/Bartošková, narozena 22. 6. 1901; Marie Bartošková ve vsi 1976 a 1987; Anna Peštová — N1, 1875; Josef Pešta a Zdeňka Plášilová — ohláška 1943; rodina Peštova v parte 1968.
+    - **Co zůstává otevřené:** Doplnit neveřejné nebo dosud nepřístupné rodné a oddací zápisy po roce 1925; bez jmen rodičů Pavla Pešty nelze zodpovědně rozhodnout, zda větev vede přes Bartoškovy, Kudrnovy, nebo obě rodiny.
+    - **Dohledané prameny:** [SOA Třeboň — narození Anny Peštové 1875](https://digi.ceskearchivy.cz/6620); Sčítání lidu 1921 — čp. 2 a 3; [SOA Třeboň — sňatek Václava Bartošky a Marie Pavlíkové 1925](https://digi.ceskearchivy.cz/6347/198); [Nástup — Marie Bartošková, 75 let, 1976](https://kramerius.kkvysociny.cz/view/uuid:8712d2f3-7563-11e8-819e-001b63bd97ba); [Nástup — Marie Bartošková, 86 let, 1987](https://kramerius.kkvysociny.cz/view/uuid:204ff598-6b10-11e8-9cd5-001b63bd97ba); [Nástup — parte Marie Plášilové 1968](https://kramerius.kkvysociny.cz/view/uuid:e8080873-7564-11e8-819e-001b63bd97ba).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
+  - **Pavel Pešta z čp. 26 — zdroj identifikován 3. 8. 2026** (současná místní vazba; ústní svědectví, nikoli pobytová evidence; jistota střední): Pavel Pešta je v záznamu rozhovoru výslovně identifikován s čp. 26. Jde o osobní sdělení informátora, nikoli o úřední pobytový výpis.
+    - **Souhrnný výsledek — veřejnými prameny zatím nepotvrzeno:** Jméno a adresa jsou identifikací zdroje rozhovoru. Nezávislá veřejná pobytová vazba nebyla nalezena; údaj se nepřeklápí do úředně doloženého bydliště.
+    - **Dohledaná zjištění krok po kroku:**
+      - Čp. 26 je údaj, kterým informátor sám identifikoval zdroj rozhovoru; nejde o odvození z veřejného registru.
+      - Přesné plnotextové a adresní dotazy nenalezly veřejný pobytový doklad Pavla Pešty na čp. 26.
+      - Absence veřejné stopy není vyvrácením bydliště; znamená pouze, že údaj nesmí být označen jako úředně ověřený.
+    - **Návaznosti osob, domů a míst:** Pavel Pešta; čp. 26; zdroj rozhovoru.
+    - **Co zůstává otevřené:** Pro účely rodokmenu získat od informátora jména rodičů a prarodičů nebo rodinné listiny; veřejné prameny samy poslední generace nespojují.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — bez jmenného dokladu:** Bez přímého jména pro rok 1950.
     - **Nejbližší jmenná opora:** Ve spisu zatím chybí bezpečný předválečný jmenný doklad tohoto čísla.
@@ -700,7 +880,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — bez jmenného dokladu:** Bez jmenného dokladu pro rok 2000.
     - **Nejbližší jmenná opora:** Prioritou je zjistit datum přidělení čp. 26.
     - **Ověřit přesně:** Veřejný [Český telefon 2000](https://archive.org/details/czchip200012cd), jehož bytové seznamy jsou platné do dubna 2000, už byl vytěžen celý; případná přesná účastnická adresa je uvedena přímo u domu. Nejde však o úplnou domácnost ani pobytový doklad. Ty musí SOkA Pelhřimov nebo Obec Pošná ověřit v pobytové či domovní evidenci kolem sčítání 1991/2001. Doplňkově lze v MNV Pošná, NAD 1544, [inv. 19 / kniha 19](https://www.mza.cz/aron/apu/7a158830-e446-49b6-9e7f-c2d119fa7834) prověřit jmenné zmínky u čp. 26 a ručně porovnat prezenční [Zlaté stránky Jižní Čechy 1999–2001, sign. DT 9.279](https://katalog.cbvk.cz/arl-cbvk/cs/detail-cbvk_us_cat-0219386-Zlate-stranky/).
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** Pavel Pešta z čp. 26. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** žádná veřejná adresní stopa platná k 1. 8. 2026.
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 26. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
@@ -714,6 +894,18 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 
 - **Doložené bydliště:**
   - **Stanislav Janda — 16. 5. 2016 – 12. 1. 2017** (doložené bydliště; jistota střední): Kotlíková smlouva jej jako fyzickou osobu uvádí na čp. 27; příloha s polem trvalého pobytu je pouze obrazová, proto nejde o nejvyšší stupeň jistoty. Pramen: [Registr smluv, PR01537.0092 / KUJIP01683BH](https://smlouvy.gov.cz/smlouva/1059477).
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Datace chalupy Stanislava Jandy — neurčitě „asi před válkou“** (ústní datace v rozporu nebo napětí s úředním pramenem; jistota střední): Rozhovor klade vznik chalupy asi před válku, zatímco RÚIAN eviduje zástupný rok dokončení 1960. Kontrola snímků ukazuje zastřešenou stavbu v poloze dnešního čp. 27 už roku 1949 a zřetelně roku 1953; rok 1960 tedy nelze číst jako spolehlivé datum prvního vzniku domu.
+    - **Souhrnný výsledek — zkontrolováno na dostupných mapách nebo leteckých snímcích:** Dnešní definiční bod čp. 27 na st. 43 byl promítnut do společného výřezu EPSG:5514. Na snímku 1949 je v této poloze stavba a na historickém ortofotu 1953 je její hmota zřetelná. To podporuje starší původ než evidenční rok 1960, ale samo nedokazuje, že dům stál už před zářím 1939. Ludmila Rohovcová je na čp. 27 doložena telefonními seznamy 2000 a 2004; Stanislav Janda má místo podnikání od roku 2005 a bydliště doložené v letech 2016–2017.
+    - **Dohledaná zjištění krok po kroku:**
+      - RÚIAN uvádí rok dokončení 1960, ale tato hodnota je u starších objektů často evidenční a nelze ji bez kontroly chápat jako datum stavby.
+      - Na leteckém snímku 1949 i ortofotu 1953 stojí v poloze dnešní parcely st. 43 zastřešený objekt; dům tedy existoval před rokem 1960.
+      - Snímek 1949 je až poválečný a neprokazuje stav před zářím 1939; formulace „asi před válkou“ zůstává rozumnou, ale nepotvrzenou ústní datací.
+      - Jmenná řada je bezpečná až nověji: Ludmila Rohovcová na přesné telefonní adrese 2000/2004, Stanislav Janda s podnikatelskou adresou od 2005 a pobytovou stopou 2016–2017.
+    - **Návaznosti osob, domů a míst:** čp. 27; st. 43; stavba viditelná 1949 a 1953; Ludmila Rohovcová 2000 a 2004; Stanislav Janda od 2005 / bydliště 2016–2017.
+    - **Co zůstává otevřené:** Pro přesný rok výstavby dohledat stavební spis, evidenční list domu nebo starší předválečnou fotografii; mapy dokazují pouze interval před 1949.
+    - **Dohledané prameny:** [Archiv leteckých měřických snímků ČÚZK — 1949](https://ags.cuzk.gov.cz/archiv/); [Historické ortofoto CENIA — 1953](https://micka.cenia.cz/record/basic/50210752-9d9c-4f47-956b-1951c0a80137).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — bez jmenného dokladu:** Bez přímého jména pro rok 1950.
     - **Nejbližší jmenná opora:** Šafář František Jaroš je roku 1891 uveden u „č. 27“, totožnost čísla je nejistá.
@@ -845,6 +1037,17 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 ### čp. 32
 
 - **Doložené bydliště 1950–2026:** zatím žádná osoba.
+- **Ústní svědectví — oddělené od úředních a archivních dokladů:**
+  - **Dnešní „hampejz“ na čp. 32 — stav popsaný 3. 8. 2026** (současná místní vazba; ústní svědectví, nikoli pobytová evidence; jistota střední): Informátor používá místní označení „hampejz“ pro bývalý prasečák, dnešní čp. 32, a uvádí zde Václava Převora s rodinou. Historický hampejz stál jinde.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** RÚIAN potvrzuje, že čp. 32 je nově evidovaný objekt na st. 3/1, platný od 3. 3. 2025. Veřejný pramen se jménem Václava Převora na této adrese nalezen nebyl; osoba, bydlení rodiny i místní název proto zůstávají ústním údajem.
+    - **Dohledaná zjištění krok po kroku:**
+      - RÚIAN: čp. 32 na parcele st. 3/1 je nový evidovaný objekt s platností od 3. 3. 2025.
+      - Ve veřejných adresních, živnostenských a plnotextových zdrojích se nepodařilo spojit Václava Převora s čp. 32; jméno a rodina proto zůstávají výhradně údajem informátora.
+      - Dnešní označení „hampejz“ je podle rozhovoru přenesené na bývalý prasečák; není dokladem totožnosti se starším nevěstincem U Červeného kohouta.
+    - **Návaznosti osob, domů a míst:** čp. 32; Václav Převor; bývalý prasečák; nový evidenční objekt od roku 2025.
+    - **Co zůstává otevřené:** Doložit dobu a způsob změny bývalého prasečáku na dnešní evidovaný objekt; bez pobytového pramene nezveřejňovat další členy žijící rodiny.
+    - **Dohledané prameny:** RÚIAN / ČÚZK — stavební objekt čp. 32.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 - **Kontrolní řezy obyvatel:**
   - **1950 — čp. tehdy ještě neexistovalo:** Čp. 32 v roce 1950 neexistovalo.
     - **Nejbližší jmenná opora:** Přesné datum dokončení je v RÚIAN.
@@ -855,7 +1058,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
   - **2000 — čp. tehdy ještě neexistovalo:** Čp. 32 v roce 2000 neexistovalo.
     - **Nejbližší jmenná opora:** Přesné datum dokončení je v RÚIAN.
     - **Ověřit přesně:** Nevyhledávat obyvatele pod tímto čp.; nejprve je doloženo, že číslo v daném roce ještě neexistovalo.
-  - **2026 — současní obyvatelé veřejně nedoloženi:** Veřejné prameny nepotvrdily jméno žádného obyvatele tohoto čp. k 1. 8. 2026.
+  - **2026 — ústní místní vazba, úředně neověřeno:** Dnešní „hampejz“ na čp. 32. Veřejné registry samy dnešní bydliště nepotvrdily.
     - **Aktuální podpůrná stopa:** žádná veřejná adresní stopa platná k 1. 8. 2026.
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 32. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
 - **Doložené historické vlastnictví 1950–2026:** zatím žádný přesný jmenný doklad.
@@ -863,6 +1066,41 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 - **Stav domu (orientačně):** Rodinný dům dokončený roku 2025.
 - **Přesná identifikace domu:** stavební parcela **st. 3/1**, RÚIAN stavební objekt **150466081**, adresní místo **86829114**.
 - **Doplňkový audit veřejných smluv (audit 1. 8. 2026):** Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 32. Kontrolní dotaz: [Hlídač státu, OCR/fulltextová nadstavba Registru smluv](https://www.hlidacstatu.cz/hledatsmlouvy?q=%22Zahr%C3%A1dka+32%22+AND+%22Po%C5%A1n%C3%A1%22).
+
+## Ústní stopy dosud bez bezpečného čísla domu
+
+- **Starší hampejz U Červeného kohouta — historické období neurčeno** (relativní poloha bez bezpečného mapového bodu; jistota nízká): Původní hampejz, tedy nevěstinec, měl stát v prostoru pozdějšího cvičiště zvaného U Červeného kohouta. Bez parcely nebo kontrolního bodu se zatím neumísťuje na mapu.
+    - **Souhrnný výsledek — veřejnými prameny zatím nepotvrzeno:** V matrikách, sčítání, adresářích, digitalizovaném tisku ani na popsaných listech mapy 1829 nebylo nalezeno pojmenování U Červeného kohouta ani přímý doklad nevěstince. Výpověď je zachována celá, ale bez bezpečné osoby, parcely a datace.
+    - **Dohledaná zjištění krok po kroku:**
+      - Přesné kombinace hampejz, nevěstinec, cvičiště a U Červeného kohouta se Zahrádkou/Pošnou byly kontrolovány v obou regionálních Krameriích; nevznikl žádný místní jmenný zásah.
+      - Zásahy pro výraz Červený kohout vedou k nesouvisejícímu požáru stodoly ve Vísce a nelze je použít pro Zahrádku.
+      - Široké mapy 1783, 1829 a 1878 neobsahují čitelný název ani osobu, podle níž by šlo polohu bezpečně zaměřit.
+    - **Návaznosti osob, domů a míst:** starý hampejz; cvičiště; U Červeného kohouta.
+    - **Co zůstává otevřené:** Získat od informátora zákres cvičiště nebo alespoň dva terénní orientační body; potom zkontrolovat parcelu v pozemkových knihách a operátu stabilního katastru.
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
+
+- **Zavezený lom před Bulantovým domem — historické období neurčeno** (relativní poloha bez bezpečného mapového bodu; jistota nízká): V prostoru před Bulantovým domem, kde dnes roste javor, býval podle informátora lom. Přesná parcela vyžaduje terénní kontrolní bod.
+    - **Souhrnný výsledek — částečně podpořeno; část výpovědi zůstává ústní:** Obecní kronika, citovaná v článku z roku 2023, nezávisle dokládá místní název Hejdův lom na pastvině u vsi a spojuje jej s Antonínem Fraňkem a ukrytým zvonkem roku 1918. Bez zaměření javoru a Bulantova domu nelze rozhodnout, zda jde o tentýž lom.
+    - **Dohledaná zjištění krok po kroku:**
+      - Dobová zpráva z ledna 1918 potvrzuje ukrytí zvonku před rekvizicí, ale nepoužívá dnešní orientační popis Bulant–javor.
+      - Článek z roku 2023 podle obecní kroniky umisťuje zvonek na pastvinu zvanou Hejdův lom a uvádí Antonína Fraňka; jde o bezpečný doklad názvu lomu ve vsi.
+      - Tentýž text pracuje také s křížem U Fraňků, takže nelze bez terénního zákresu automaticky ztotožnit Hejdův lom s prostorem před Bulantovým domem.
+    - **Návaznosti osob, domů a míst:** lom před Bulantovým domem; dnešní javor; možná vazba na Hejdův lom; Antonín Franěk; ukrytý zvonek 1918.
+    - **Co zůstává otevřené:** Zaměřit Bulantův dům, dnešní javor a míněný kříž; potom porovnat bod s historickými mapami a kronikářským popisem Hejdova lomu.
+    - **Dohledané prameny:** [Tábor 12. 1. 1918 — ukrytí zvonku](https://kramerius.cbvk.cz/view/uuid:df7634c5-b705-11ef-bbdf-005056841fbb); [Z mého kraje 11/2023 — Hejdův lom](https://kramerius.kkvysociny.cz/view/uuid:f6cf7e66-f4c3-4f3c-a817-fa93347f9f49).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
+
+- **Širší mapové výřezy a nejstarší mapa — úkol z rozhovoru 3. 8. 2026** (úkol pro mapovou a terénní kontrolu; jistota vysoká): Pro lokalizaci starého hampejzu, cvičiště a zaniklé Vaňkovy chalupy připravit širší výřezy. Projekt už má I. vojenské mapování z roku 1783, které odpovídá vzpomínce na „mapu kolem 1780“, ale jeho měřítko neumožňuje číst čp.; srovnat je třeba zejména s mapami 1829 a 1878 a se snímkem 1949.
+    - **Souhrnný výsledek — zkontrolováno na dostupných mapách nebo leteckých snímcích:** Zkontrolovány byly oba široké listy indikační skici 1829, reambulovaná mapa 1878, I. vojenské mapování 1783 a ortofota 1949 a 1953. Mapa 1783 zachycuje sídelní celek, nikoli čísla domů. Na skice 1829 jsou vedle označení N.x samostatná parcelní čísla, jejichž záměna je pravděpodobným zdrojem některých čtení. N13 ani starý hampejz se z dosud uložených listů nepodařilo bezpečně pojmenovat.
+    - **Dohledaná zjištění krok po kroku:**
+      - Nejstarší dostupná mapa není z roku 1780 přesně, ale z I. vojenského mapování roku 1783; ukazuje sídlo a cesty, nikoli čísla domů nebo jména obyvatel.
+      - Oba celé listy indikační skici 1829 byly prohlédnuty ve vysokém rozlišení a byl vytvořen široký společný náhled; červené značky N.x a černá parcelní čísla se musí číst odděleně.
+      - Reambulace 1878, snímek 1949 a ortofoto 1953 byly zarovnány se současnými adresními body. Překryv pomáhá sledovat zánik budov, ale několikametrová chyba neumožňuje určit čp. 19 nebo starý hampejz bez dalšího operátu.
+      - Mapová kontrola podpořila předrok 1960 u čp. 27 a existenci stavby čp. 21, ale nepotvrdila Pachtovy v N13, pastoušku jako N9/N12 ani polohu U Červeného kohouta.
+    - **Návaznosti osob, domů a míst:** I. vojenské mapování 1783; indikační skica 1829 — listy A04A a A04B; reambulace 1878; letecký snímek 1949; historické ortofoto 1953.
+    - **Co zůstává otevřené:** Doplnit popisný operát stabilního katastru a situační zákres od informátora; samotné obrazové mapy bez seznamu držitelů neunesou přesné jmenné přiřazení.
+    - **Dohledané prameny:** I. vojenské mapování 1783; [Archivní mapy ČÚZK — stabilní katastr 1829](https://ags.cuzk.gov.cz/archiv/).
+    - **Původ výpovědi:** Rozhovor s Pavlem Peštou z čp. 26.
 
 ## Pováleční lidé dosud jen na úrovni vsi
 
@@ -908,12 +1146,14 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 01. 08. 2026. Gener
 
 - **7 z 32 čp.** má po roce 1950 alespoň jeden konkrétní doklad bydliště; jde o 9 zveřejněných jmenných položek.
 - **18 z 32 čp.** má alespoň nějakou poválečnou osobní stopu; u 18 čp. je část dokladů pouze podpůrná, nikoli pobytová.
+- **6 z 32 čp.** má navíc současnou osobní nebo rodovou vazbu z rozhovoru s Pavlem Peštou (čp. 2, 4, 13, 20, 26, 32). Tyto vazby jsou publikované jako ústní svědectví a nezvyšují výše uvedený počet úředně či archivně doložených bydlišť.
 - **3 z 32 čp.** má přesný bodový doklad historického vlastnictví: Zdeněk Svoboda, Pavla Moravcová, Luděk Bulant. Jde o stav v době dotační žádosti, nikoli o úplnou vlastnickou posloupnost ani současný stav.
 - **Rok 1950:** žádná osoba zatím není veřejným pramenem spojena současně s rokem a čp.
 - **Rok 1980:** domovní mezera trvá; známe 51 obyvatel a k 1. 1. 1980 skladbu 33 členů JZD. Jmenně je přesně k roku 1980 ve vsi doložen František Kříž a těsně před řezem Jan s Anežkou Kejvalovými (13. 7. 1979), ale žádný z těchto pramenů neuvádí čp.
 - **Rok 2000:** přímý pobytový doklad máme jen pro Václava Bulanta na čp. 28. Český telefon 2000 navíc přesně spojuje osoby s čp. 5, 6, 7, 8, 16, 21, 24, 27, 28 a 29; u devíti ostatních domů je to silná časová opora, ne jisté bydliště ani úplná domácnost.
 - **Důležité omezení pramene:** MNV Pošná, inv. 61 / karton 4, je výslovně seznam **Pošné čp. 1–50 (1953–1967)**. Pro Zahrádku se nepoužívá.
 - **Rok 2026:** aktuálně ověřené jsou adresy podnikání na čp. 8, 15, 20 a 27, sídlo spolku a dvě statutární role spojené s čp. 11. Žádný z těchto zápisů sám neprokazuje dnešní bydliště.
+- **Rozhovor 3. 8. 2026:** místní svědectví doplňuje dnešní vazby u čp. 2, 4, 13, 20, 26, 32 a řadu domovních názvů. V kontrolních datech mají stav `oral`, dokud je nepotvrdí autorizovaný soupis nebo pobytový pramen.
 - **Veřejný telefonní adresář 2026:** Žádné z pěti kontrolovaných jmen nevrátilo výsledek. Audit proto nepřidal současnou adresu ani obyvatele. Prověřeno bylo 5 již známých přesných jmen; lokalitní výpis bez jména formulář neposkytl. Nulový výsledek neprokazuje, že osoba v domě nebydlí ani že dům nemá telefon. Bez funkčního lokalitního výpisu nejde o úplnou kontrolu vsi; adresář navíc obsahuje jen zveřejněné kontakty a není pobytovou evidencí. Telefonní čísla exportována nebyla. Pramen: [1188 — veřejný telefonní seznam](https://seznam.1188.cz/vyhledavani).
 - **Dostupnost klíčových pramenů:** Rozhodující archivní prameny pro úplné domácnosti 1950, 1980 a 2000 nejsou k 1. 8. 2026 veřejně připojeny jako obrazy. Úplná čtyřpoložková kontrola evidence MNV Pošná vyloučila domovní seznam Zahrádky. Pro rok 1950 jsou nyní přesně určeny čtyři fyzické exempláře ve třech institucích: dostupný prezenční exemplář Knihovny Národního archivu na Chodovci, signatura IM489; samostatný jihlavský díl Národní knihovny, signatura II 038397; souborný exemplář Národní knihovny, signatura III 016575; a exemplář knihovny ČGHSP, přírůstkové číslo 1428. Žádný nemá veřejné obrazy a všechny zachytí jen účastníky telefonu. Záznam jihlavského ročníku 1959–1960 ve ŠVK Košice je už vyřazený. Pro rok 1980 zůstává jediným nalezeným přesným fyzickým kandidátem TTO Tábor v JVK, signatura DT 6.504; federovaná digitální knihovna jej nemá a katalog nenabízí elektronické dodání dokumentu. Samostatně nalezené veřejné CD Český telefon 2000 je vyhodnoceno v následujícím auditu. V archivní kontrole bylo nových osobních vazeb 0; samostatné audity digitálních telefonních databází následují níže.
   - **1950 — [Národní archiv, Národní sčítání lidu 1950, NAD 984](https://portal.nacr.cz/aron/apu/9a5ca37a-bb27-4581-ba0c-77f0ac6ca5d0):** sčítací, domovní a hospodářské archy k rozhodnému dni 1. 3. 1950. Fond i dvě archivní pomůcky jsou veřejně popsány, ale cílové archy Zahrádky nejsou připojeny jako digitální reprodukce. Přesný domovní řez proto vyžaduje Národní archiv. Digitální objekty: 0; přílohy u cílové položky: 0.

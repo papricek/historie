@@ -49,7 +49,7 @@
       "priority": "A",
       "snapshots": {
         "1950": {"building_state": "documented", "building": "Čp. 3 je doloženo před řezem a zástavba je patrná na snímku 1949; shoda dnešního bodu se starým číslem je pracovní.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "Bartoškovi jsou u domu doloženi do úmrtí Antonie Bartoškové roku 1936."},
-        "1980": {"building_state": "probable", "building": "Zástavba v okolí dnešního adresního bodu je na snímku 1978.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Marie Bartošková je roku 1976 doložena ve vsi bez čísla; stejné příjmení nestačí k přiřazení."},
+        "1980": {"building_state": "probable", "building": "Zástavba v okolí dnešního adresního bodu je na snímku 1978.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Marie Bartošková doložená ve vsi roku 1976 je podle přesného data narození totožná s Marií Pavlíkovou, která si roku 1925 vzala Václava Bartošku z čp. 3. Článek 1976 však neuvádí její tehdejší čp., a proto ji nelze zapsat jako obyvatelku domu v řezu 1980."},
         "2000": {"building_state": "probable", "building": "Dnešní RÚIAN eviduje rodinný dům, ale bez data dokončení; stav k roku 2000 zatím není datován samostatným pramenem.", "people_state": "none", "people": "Bez jmenného dokladu pro rok 2000.", "anchor": "Chybí veřejná adresní vazba."}
       }
     },
@@ -174,7 +174,7 @@
       "label": "N17 / zaniklé čp. 17",
       "priority": "A",
       "snapshots": {
-        "1950": {"building_state": "unknown", "building": "Čp. 17 je před válkou doloženo, ale jeho přesná poloha a rok zániku chybějí.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "Václav Plášil je doložen roku 1928; dítě Marie Říčanové zemřelo na čp. 17 roku 1933."},
+        "1950": {"building_state": "unknown", "building": "Obecní čp. 17 je velmi silně ztotožněno s pastouškou, ale jeho přesná poloha a rok zániku chybějí.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "Václav Plášil, krejčí narozený 10. 9. 1876, je s rodinou v obecním čp. 17 doložen roku 1921 a znovu roku 1928; rodinná vzpomínka 1956 jej pravděpodobně spojuje s pastouškou. Dítě Marie Říčanové zemřelo na čp. 17 roku 1933."},
         "1980": {"building_state": "unknown", "building": "Bez lokalizace nelze rozhodnout, zda dům roku 1980 stál; dnešní absence čísla není časový doklad.", "people_state": "none", "people": "Bez přímého jména pro rok 1980.", "anchor": "Poslední bezpečná adresní opora je z roku 1933."},
         "2000": {"building_state": "unknown", "building": "Číslo dnes neexistuje, ale zánik před rokem 2000 není zatím prokázán.", "people_state": "none", "people": "Bez jmenného dokladu pro rok 2000.", "anchor": "Nutný je stavební spis nebo úplná letecká/mapová lokalizace."}
       }

@@ -1092,6 +1092,49 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
     ruční výpis KN nebo úřední dávku. Veřejné online zdroje byly vyčerpány,
     externí objednávka nebyla autorizována ani odeslána a bez nového vstupu
     nelze další jména bezpečně doplnit.
+42. Rozhovor s **Pavlem Peštou z čp. 26** ze 3. 8. 2026 tvoří samostatnou
+    vrstvu místní paměti. Má přesně 18 položek PP26-001 až PP26-018 v
+    `obyvatele_1950_2026_data.json` → `oral_history`. Každá nyní povinně nese
+    souhrnný stav, jednotlivé `findings`, návaznosti osob/domů, výslovné
+    `open_questions` a prameny. Generovaný katalog i mapa vše zobrazují jako
+    vnořené odrážky, nikoli jako jeden dlouhý odstavec. Současné místní vazby
+    zůstávají typem `oral` a nezvyšují počet úředně doložených bydlišť.
+43. Hloubková kontrola všech tvrzení přinesla tyto rozhodující výsledky:
+    - **Pastouška:** nejsilnější identifikací je obecní **čp. 17**. Sčítání
+      1921 zapisuje v obecním domě rodinu muže narozeného 10. 9. 1876 jako
+      Vojtěcha Plášila; matrika 1928 stejného muže podle data a rodiny jmenuje
+      Václavem Plášilem, krejčím v čp. 17. Rodinná vzpomínka 1956 uvádí
+      krejčího v pastoušce. Dopis má chronologický rozpor vůči zprávě o
+      Václavově pohřbu, proto se zachovává jako silný nepřímý, ne bezchybný
+      přímý důkaz. Josef Krejčí v N12 roku 1831 je skutečný, ale nesouvisející
+      nález; N9 může být parcelní číslo.
+    - **Čp. 25 / pazderna:** sčítání 1921 a matrika 1928 potvrzují obytný dům
+      Kadlecových. Pazderna může být vedlejší objekt nebo jiná fáze, ne bez
+      dalšího celý tehdejší dům.
+    - **Bartoška–Pešta:** Václav Bartoška z čp. 3 si roku 1925 vzal Marii
+      Pavlíkovou narozenou 22. 6. 1901. Stejné datum bezpečně propojuje Marii
+      Bartoškovou ve vsi roku 1976 a 1987. K Pavlu Peštovi však stále chybí
+      poslední rodné/oddací články; veřejné kombinované dotazy Bartoška–Pešta
+      je nenalezly.
+    - **U Pícků:** originál matriky 1894 čitelně uvádí Františku Berkovou
+      rozenou Pičkovou ze Zahrádky čp. 16; otazník u příjmení byl odstraněn.
+    - **Čp. 21:** existence i obyvatelé roku 1929 jsou přímo potvrzeni Anežkou
+      Rohovcovou; vzpomínka se může týkat příchodu Dörrschmidtových nebo
+      přestavby. **Čp. 27:** stavba existuje 1949/1953, předválečný vznik
+      zůstává otevřený. **Čp. 19:** silný rodový kandidát Vaňkovy chalupy,
+      přesná poloha stále není mapově uzavřena.
+    - **Jihlavák:** správně Stanislav Marousek, čp. 20; čp. 4 je samostatná
+      posloupnost Markvart–Vaněk. Pachtovi v čp. 13, dnešní Kudrnovi čp. 13,
+      U Hejdů/Štípkovi, U Coufalů a trojice Plášilových dcer zůstávají jen
+      částečně podpořené nebo ústní a jsou rozepsány po jednotlivých krocích.
+44. Reprodukovatelné hledání zajišťuje
+    `nastroje/proverit_rozhovor_kramerius.rb`; uložený audit obsahuje 126
+    dotazů na dva regionální Kramerie včetně nulových zásahů. Shoda výrazů na
+    stejné stránce se nepočítá automaticky jako vztah. Úplný odrážkový rozbor
+    po všech tvrzeních je v
+    `prameny_online/reserse/2026-08-03_rozhovor_pavel_pesta/README.md` a široký
+    přehled obou listů skici 1829 v témže adresáři. Nejstarší mapový pramen je
+    I. vojenské mapování 1783.
 
 ## Nabízející se další kroky
 
@@ -1115,5 +1158,10 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
   nechat archiv identifikovat konkrétní jednotky MNV Útěchovičky a ONV Pacov.
   Bodové dotační doklady u čp. 6, 15 a 28 nenahrazují LV ani stav roku 2026.
 - Po každé aktualizaci spisů promítnout novinky do JS polí webu a redeploy.
+- Pro místní názvy z rozhovoru v terénu určit kontrolní body starého hampejzu /
+  cvičiště U Červeného kohouta, javoru nad zavezeným lomem a kříže. U Vaňkovy
+  chalupy nejprve zkusit potvrdit nebo vyvrátit kandidátní zaniklé čp. 19.
+  Široký náhled úplných listů 1829 už existuje; bez kontrolních bodů nevymýšlet
+  přesné body starého hampejzu ani totožnost lomu.
 - Otevřené výzkumné otázky jsou v oddílu IX webu (Q1–Q6) a v `vyzkum_statku.md`
   → „Další postup“.
