@@ -15953,11 +15953,11 @@ window.MAPA_OBYVATELE = {
     "boards_checked": 3,
     "known_name_queries": 22,
     "exact_house_documents": 1,
-    "new_person_links": 2,
+    "new_person_links": 1,
     "new_residence_links": 0,
     "new_owner_links": 0,
     "method": "Archiv úředních desek byl prohledán samostatně pro Město Pacov, Obec Pošná a Státní pozemkový úřad výrazem Zahrádka a přesnějšími místními tvary. U desek Pacova a Pošné následovalo 22 dotazů na jedenáct již známých plných jmen. Každý kandidát byl rozlišen podle původce, data, čp. a parcel; role osob byly potom ověřeny v oficiálních datech veřejného rejstříku ARES.",
-    "findings": "Jediným novým dokumentem s přesným domem je souhlasné jednotné environmentální stanovisko MěÚ Pacov z 18. 3. 2026 pro stavební úpravy čp. 11 na st. 1 a parcelách 18/2 a 18/3. Jako žadatele jmenuje IT Artist s.r.o.; jméno zmocněné fyzické osoby je v publikované kopii redigováno. Veřejný rejstřík navíc zpřesnil dvě osoby ve statutárních rolích spolku iZahrádka sídlícího na čp. 11: Patrika Jíru a Pavlu Švantnerovou. Jde o organizační a projektové vazby, nikoli o obyvatele nebo vlastníky.",
+    "findings": "Jediným novým dokumentem s přesným domem je souhlasné jednotné environmentální stanovisko MěÚ Pacov z 18. 3. 2026 pro stavební úpravy čp. 11 na st. 1 a parcelách 18/2 a 18/3. Jako žadatele jmenuje IT Artist s.r.o.; jméno zmocněné fyzické osoby je v publikované kopii redigováno. Veřejný rejstřík navíc zpřesnil Patrika Jíru ve statutární roli u organizace se sídlem na čp. 11. Jde o organizační a projektovou vazbu, nikoli o obyvatele nebo vlastníka.",
     "limits": "eDesky jsou soukromý archiv kopií úředních desek a nezaručují úplné historické pokrytí ani bezchybný OCR text. Rozhodující nový dokument pochází z MěÚ Pacov, avšak původní příloha už nebyla nalezena ve veřejném fulltextu města; publikovaná kopie rediguje osobní údaje. Redigované jméno se nedoplňuje z domněnek. Žadatel stavebního záměru, statutární zástupce spolku ani sídlo spolku samy neprokazují vlastnictví či bydliště."
   },
   "trade_register_audit": {
@@ -16375,33 +16375,11 @@ window.MAPA_OBYVATELE = {
       "building": "Bývalý panský dvůr; objekt je od roku 2022 veden jako rodinný dům.",
       "evidence": [
         {
-          "person": "iZahrádka z. s.",
-          "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
-          "type": "organization",
-          "certainty": "vysoká",
-          "detail": "Na adrese sídlí spolek. Zápis neprokazuje, že na čp. 11 někdo bydlí.",
-          "source": "Veřejný rejstřík / ARES, IČO 06725384",
-          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
-          "publish": true,
-          "current_2026": true
-        },
-        {
           "person": "Patrik Jíra",
           "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
           "type": "organization_role",
           "certainty": "vysoká",
-          "detail": "Veřejný rejstřík jej bez ukončení funkce vede jako předsedu spolku iZahrádka, jehož sídlem je čp. 11. Jde o přesnou organizační vazbu k adrese, nikoli o doklad bydliště nebo vlastnictví.",
-          "source": "Veřejný rejstřík / ARES, IČO 06725384",
-          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
-          "publish": true,
-          "current_2026": true
-        },
-        {
-          "person": "Pavla Švantnerová",
-          "period": "31. 1. 2018 – ověřeno 1. 8. 2026",
-          "type": "organization_role",
-          "certainty": "vysoká",
-          "detail": "Veřejný rejstřík ji bez ukončení funkce vede jako místopředsedkyni spolku iZahrádka, jehož sídlem je čp. 11. Jde o přesnou organizační vazbu k adrese, nikoli o doklad bydliště nebo vlastnictví.",
+          "detail": "Veřejný rejstřík jej bez ukončení funkce vede ve statutární roli u organizace se sídlem na čp. 11. Jde o přesnou organizační vazbu k adrese, nikoli o doklad bydliště nebo vlastnictví.",
           "source": "Veřejný rejstřík / ARES, IČO 06725384",
           "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/06725384",
           "publish": true,
@@ -17124,7 +17102,7 @@ window.MAPA_VLASTNICI = {
     "vztah_k_domu": null,
     "overeno_dne": null,
     "zdroj": null,
-    "poznamka": "bývalý panský dvůr; sídlo spolku iZahrádka není dokladem obyvatele ani vlastníka"
+    "poznamka": "bývalý panský dvůr"
   },
   "12": {
     "cp": "12",

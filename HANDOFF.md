@@ -723,7 +723,7 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
    Stavební vývoj je omezen na jednu orientační větu o existenci, zániku nebo
    zásadním nahrazení domu. Vlastnictví zůstává jen podpůrnou informací.
 2. Kanonický soubor `obyvatele_1950_2026_data.json` obsahuje všech 32 čp.
-   a nyní 57 publikovatelných osobních nebo adresních stop. Typy se nesmějí směšovat:
+   a nyní 55 publikovatelných osobních nebo adresních stop. Typy se nesmějí směšovat:
    `residence`, `official_address`, `contact_address`, `business_address`,
    `telephone_subscriber_address`, `last_known_address`, `organization`,
    `organization_role` a `project_applicant`. Interval je rozsahem pramene,
@@ -903,12 +903,14 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
     Pacov č. j. R/2026/47724/3 z 18. 3. 2026 uvádí IT Artist s.r.o. jako
     žadatele o stavební úpravy na st. 1 a parcelách 18/2 a 18/3. Jméno
     zmocněné osoby je redigované a nedoplňuje se. Oficiální veřejný rejstřík
-    současně zpřesnil osoby ve vedení spolku iZahrádka sídlícího na čp. 11:
-    Patrik Jíra je od 31. 1. 2018 předsedou a Pavla Švantnerová
-    místopředsedkyní. Obě položky jsou vedeny jen jako organizační role, IT
-    Artist jen jako žadatel; žádná neprokazuje bydliště ani vlastnictví.
-    Kanonická data mají nový `official_board_audit` a počet zveřejněných stop
-    stoupl z 34 na 37, přímé bydliště zůstalo na 7 čp.
+    současně zpřesnil Patrika Jíru ve statutární roli u organizace se sídlem
+    na čp. 11. Položka je vedena jen jako organizační role, IT Artist jen jako
+    žadatel; žádná neprokazuje bydliště ani vlastnictví. Na žádost 4. 8. 2026
+    byly z domovní karty čp. 11 a webu odstraněny samostatné položky organizace
+    i Pavly Švantnerové; generovat je znovu se nemá.
+    Kanonická data mají nový `official_board_audit` a po redakčním odstranění
+    dvou položek stoupl počet zveřejněných stop z 34 na 35; přímé bydliště
+    zůstalo na 7 čp.
 29. Čtyři veřejně dochovaná vydání seznamu nedostatečně identifikovaných
     vlastníků byla nově porovnána řádek po řádku: 3. 3. 2014, 10. 8. 2020,
     11. 2. 2022 a 1. 3. 2024. Nejstarší okresní soubor doplnil Josefa a Aloisii
@@ -1017,7 +1019,8 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
     a ruční verdikt jsou v
     `prameny_online/reserse/2026-08-01_cdk_povalecne/`. Kanonický
     `cdk_fulltext_audit` i odrážkový domovní katalog tuto negativní kontrolu
-    zveřejňují; bilance zůstává 57 stop na 18 čp., z toho 7 čp. s přímým
+    zveřejňují; bilance po redakčním odstranění dvou položek čp. 11 činí 55
+    stop na 18 čp., z toho 7 čp. s přímým
     bydlištěm. Řezy 1950 a 1980 zůstávají bez jmen.
 37. Hlavní odrážkový katalog byl po připomínce k čitelnosti přeuspořádán:
     rychlý index všech 32 domů je hned za vysvětlivkami a následuje přímo
