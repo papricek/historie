@@ -258,13 +258,77 @@ Josef Pachta je v hlavičce majitelem domu a současně první osobou domácnost
 
 | Domácnost | Osoba | Vztah / postavení | Rodiště | Povolání nebo další údaj |
 |---:|---|---|---|---|
-| 1 | Josef Pachta | majitel bytu; přednosta domácnosti | Zahrádka | samostatný rolník; vlastní hospodářství |
-| 1 | Antonie Pachtová | manželka | Zahrádka | práce v domácnosti |
-| 1 | Marie Pachtová | dcera; svobodná | Zahrádka | bez povolání; dítě |
-| 1 | Antonie Moravcová (?) | členka domácnosti; vztah nejasný | Samšín | zemědělská pomocnice v hospodářství majitele bytu |
+| 1 | Josef Pachta | majitel bytu; přednosta domácnosti; narozen 15. 11. 1889 | Zahrádka | samostatný rolník; vlastní hospodářství |
+| 1 | Antonie Pachtová | manželka; narozena 1. 4. 1892 | Zahrádka | práce v domácnosti |
+| 1 | Marie Pachtová | dcera; svobodná; narozena 27. 5. 1919 | Zahrádka | bez povolání; dítě |
+| 1 | Antonie Moravcová (?) | členka domácnosti; vztah nejasný; narozena 10. 11. 1873 | Samšín | zemědělská pomocnice v hospodářství majitele bytu |
 
 Příjmení rodiny bylo po místní jmenné kontrole opraveno z dřívějšího pracovního
 čtení `Lachta` na `Pachta`.
+
+**Oprava data Josefa Pachty 6. 8. 2026.** Rodný zápis a sňatek nezávisle
+potvrzují narození **15. 3. 1889**, nikoli 15. 11. 1889 ze sčítání. Josef se
+narodil přímo na **Zahrádce čp. 11** a byl pokřtěn 18. 3.; byl synem Františka
+Pachty a Anny rozené Zálohové. Roku 1918 je při sňatku už rolníkem v čp. 7 a
+oba rodiče jsou výslovně spojeni s čp. 7. Tím je rodina ze sčítání bezpečně
+napojena na Františka a Annu Pachtovy, kteří v čp. 7 zemřeli roku 1917, a
+současně vzniká přímá osobní vazba mezi prioritními domy N11 a čp. 7.
+Rodný zápis a sňatek opravují také datum narození Antonie Pachtové na
+**21. 5. 1899** (křest 22. 5.);
+sčítací údaj 1. 4. 1892 je tedy druhý rozpor téhož archu. [Rodný zápis,
+sn. 99](https://digi.ceskearchivy.cz/11210/99), [narození Antonie, sn. 206](https://digi.ceskearchivy.cz/11210/206), [sňatek, sn. 147](https://digi.ceskearchivy.cz/6624/147).
+
+**Nejstarší píchovská stopa v N7.** Zápis z **22. 4. 1790** vede v domě N7
+Václava Píchu, legitimního syna Matěje Píchy a Kateřiny. Dokládá stejné
+příjmení v témže domě jednapadesát let před druhým sňatkem ovdovělé Anny
+Píchové, sám o sobě ale neprokazuje, že Václav nebo jeho rodiče byli příbuzní
+jejího prvního manžela. [Rodný zápis, sn. 13](https://digi.ceskearchivy.cz/6619/13).
+
+**Starší rodová osa Bartů.** Nová obrazová kontrola dvou dříve jen pracovně
+přepsaných řádků potvrzuje v N7 už roku 1845 chalupníka **Josefa Bartů** a jeho
+manželku **Annu rozenou Součkovou**. Dcera Marie se narodila 8. 1. 1845 a byla
+pokřtěna 9. 1.; dcera Anna se narodila 9. 5. 1848, byla pokřtěna 10. 5. a
+pozdější přípis v rodném zápisu uvádí její úmrtí **31. 3. 1851**. Shoda manžela,
+rodného příjmení a domu bezpečně napojuje matku na Annu Bartů, která roku 1893
+zemřela v čp. 7 jako vdova po chalupníku Josefu Bartů. Rodný zápis jejich
+vnučky z 10. 10. 1886 nově uzavírá i další generaci: otec dítěte **Jan Bartů**
+je výslovně synem Josefa Bartů, rolníka v čp. 7, a Anny rozené Součkové ze
+Zlátenky čp. 8. Janova manželka není Sváčková, jak se dříve pracovně četlo v
+úmrtním zápisu z roku 1889, nýbrž **Marie Žemličková**, dcera Jana Žemličky,
+rolníka v Roučkovicích čp. 11, a Marie. Sňatek Josefa Bartů a Anny ze
+17. 5. 1841 je nyní uzavřen: nevěsta je v něm **Anna Píchová, vdova**, ale její
+rodový údaj jmenuje otce Matěje Součka a Zlátenku, shodně s mladšími zápisy
+rodiny. Anna tedy byla před Josefem Bartů už jednou provdaná; její první manžel
+a desetiletý rozpor mezi věkem při sňatku a úmrtí zůstávají otevřené.
+Dobový oddací rejstřík před rokem 1841 obsahuje čtyři skutečné místní položky
+Pícha na stranách 6, 8, 10 a 36, ale všechny originály patří jiným párům;
+strana 32, dříve pracovně zahrnutá do kontroly, je **Pěcha**, nikoli Pícha.
+[Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308),
+[Anna, sn. 313](https://digi.ceskearchivy.cz/6621/312), [dcera Jana, sn. 75](https://digi.ceskearchivy.cz/11210/75),
+[úmrtí matky, sn. 70](https://digi.ceskearchivy.cz/11214/70), [sňatek 1841, sn. 74](https://digi.ceskearchivy.cz/6623/74),
+[oddací rejstřík, sn. 164](https://digi.ceskearchivy.cz/6623/164).
+
+**Svobodovi před příchodem do čp. 7.** Nalezený oddací zápis bezpečně spojuje
+pozdějšího chalupníka **Jana Svobodu** s **Rozalií Plášilovou** z čp. 3.
+Vzali se 30. 10. 1888; Jan byl tehdy truhlářem v Bratřicích čp. 32 a narodil
+se 26. 7. 1862, Rozalie bydlela v čp. 3 a narodila se tam 16. 8. 1868. Byla
+dcerou Františka Plášila a Anny rozené Charvátové. Už 4. 12. 1888 se jim v
+čp. 3 narodila dcera **Marie**, pokřtěná 6. 12.; zemřela tam 30. 12. ve věku
+27 dní na psotník a byla pohřbena 1. 1. 1889. Rodina tedy do čp. 3 přešla
+nejpozději pět týdnů po sňatku. Roku 1913 je Jan už chalupníkem v čp. 7 a
+úmrtní zápis potvrzuje tutéž manželku i shodné datum narození odvozené z
+přesného věku. Přesný přechod z čp. 3 do čp. 7 a osud Rozalie po Janově smrti
+zůstávají otevřené. [Narození Rozalie, sn. 337](https://digi.ceskearchivy.cz/6621/336),
+[sňatek, sn. 32](https://digi.ceskearchivy.cz/6624/32), [narození Marie, sn. 97](https://digi.ceskearchivy.cz/11210/97),
+[úmrtí Marie, sn. 46](https://digi.ceskearchivy.cz/11214/46), [Janovo úmrtí, sn. 172](https://digi.ceskearchivy.cz/11214/172).
+
+**Novotní v čp. 7.** Úmrtní zápis Marie Novotné rozené Fraňkové dokládá její
+původ z Dobré Vody čp. 5, manžela nádeníka Josefa Novotného v čp. 7 a úmrtí
+30. 12. 1914 ve věku 66 let, 4 měsíců a 10 dní. Tento věk aritmeticky ukazuje
+na 20. 8. 1848, nejde však o náhradu nenalezeného rodného zápisu. Úplný průchod
+158 elektronicky indexovaných záznamů `Fraňková` ani kontrola pošenských
+sňatků z let 1883 a 1887 hledanou dvojici nepřinesly; narození a sňatek proto
+zůstávají otevřené. [Úmrtí, sn. 179](https://digi.ceskearchivy.cz/11214/179).
 
 ### Čp. 8 — osm osob, jedna domácnost
 
@@ -639,7 +703,7 @@ straně, nikoli omylem zdvojený řádek.
 | N4 | Anna Němecalová | 24 | [13](https://digi.ceskearchivy.cz/6619/13) | číslo domu čteno se střední jistotou |
 | N4 | Vojtěch Němecal | 27 | [14](https://digi.ceskearchivy.cz/6619/14) | indexová podoba příjmení `Němecal` |
 | N5 | Anna Fraňková | 23 | [12](https://digi.ceskearchivy.cz/6619/12) | dům a osoba čitelné v rejstříku |
-| N7 | Václav Pícha | 25 | [13](https://digi.ceskearchivy.cz/6619/13) | dům potvrzen v zápisovém řádku |
+| N7 | Václav Pícha | 25 | [13](https://digi.ceskearchivy.cz/6619/13) | zápis z 22. 4. 1790; legitimní syn Matěje Píchy a Kateřiny; dům potvrzen v zápisovém řádku |
 | N9 | Jakub Tesař (?) | 24 | [13](https://digi.ceskearchivy.cz/6619/13) | příjmení v indexu pracovně čteno `Tesauer` / Tesař |
 | N9 | Matěj Tesař (?) | 27 | [14](https://digi.ceskearchivy.cz/6619/14) | dům je v indexu opakovací značkou |
 | N10 | Marie Anna Tesařová (?) | 29 | [15](https://digi.ceskearchivy.cz/6619/15) | příjmení v indexu pracovně čteno `Tesauer` / Tesař |
@@ -1603,7 +1667,7 @@ Pozdější přípisy u jednotlivých dětí se nepočítají jako další naroz
 | N18 | Antonín (?) `[další jména a příjmení nejasné]` | 15. / 16. 7. 1844 | jméno otce nejasné | jméno matky nejasné | dům a oba dny bezpečné; první jméno je pracovní čtení, pozdější přípis patří témuž dítěti |
 | N3 | František Plašil / Plášil (?) | 14. 12. 1844; den křtu neuveden | jméno otce nejasné | jméno matky nejasné | dům a den narození bezpečné; příjmení je pracovní čtení historického tvaru, pozdější úmrtní přípis není další narození |
 | N14 | Josef (?) `[další jména a příjmení nejasné]` | 5. / 6. 1. 1845 | jméno otce nejasné | jméno matky nejasné | dům a oba dny bezpečné; první jméno dítěte je pracovní čtení |
-| N7 | Marie Barta (?) | 8. / 9. 1. 1845 | jméno otce nejasné | jméno matky nejasné | dům a oba dny bezpečné; příjmení je pracovní čtení |
+| N7 | Marie Bartů | 8. / 9. 1. 1845 | Josef Bartů | Anna rozená Součková | dcera chalupníka v N7; obrazová kontrola rodičů a navazující úmrtní zápis matky uzavírají dřívější pracovní čtení příjmení |
 | N19 | Josefa (?) `[další jména a příjmení nejasné]` | 24. 2. 1845; den křtu neuveden | jméno otce nejasné | jméno matky nejasné | dům a den narození bezpečné; první jméno dítěte je pracovní čtení |
 | N11 | Vojtěch Zikmund | 9. / 10. 3. 1845 | Václav Zikmund | Marie | jméno, rodiče, dům a oba dny bezpečné; otec je v navazující osobní evidenci doložen jako šafář v Zahrádce |
 
@@ -1662,10 +1726,10 @@ neduplikují. Další souvislé zpracování pokračuje snímkem 312.
 ## Narození 1847 — inventář snímku 312 knihy 6621
 
 Snímek 312 obsahuje **devět událostí** roku 1847. Tři patří N11: Marie
-Langrová (?), Jan Lenka (?) a Josef s dosud nejasným příjmením. Dosavadní
-chronologický rejstřík N11 znal jen Jana a Josefa bez přesných dat, takže Marie
-je nový nález a obě starší položky se zpřesňují. Příjmení označená otazníkem
-zůstávají pracovní i tam, kde je lze podpořit čitelným jménem otce.
+Langrová (?), Jan Lenka (?) a Josef Remeš. Dodatečná kontrola Josefova řádku
+opravila měsíc z prosince na srpen a přečetla příjmení; přesnou totožnost
+potvrzuje jeho úmrtní zápis hostinského z roku 1918. Příjmení označená
+otazníkem zůstávají pracovní i tam, kde je lze podpořit čitelným jménem otce.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
@@ -1676,7 +1740,7 @@ zůstávají pracovní i tam, kde je lze podpořit čitelným jménem otce.
 | N4 | Anna Vondráčková | 20. / 21. 6. 1847 | Jan Vondráček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
 | N6 | Marie Chramostová (?) | 22. / 23. 6. 1847 | Matěj Chramosta (?) | Anna | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 | N1 | František Franěk | 3. / 4. 11. 1847 | František Franěk | Anna | dítě, rodiče, dům a oba dny bezpečné |
-| N11 | Josef (?) `[příjmení nejasné]` | 12. 12. 1847; den křtu neuveden | Leopold (?) `[příjmení nejasné]` | Marie | první jméno dítěte a rodičů, dům a den narození bezpečné; příjmení zůstává otevřené |
+| N11 | Josef Remeš | 12. 8. 1847; den křtu neuveden | Leopold Remeš | Marie | rodný a úmrtní zápis se shodují v osobě, přesném datu a N11; později hostinský v Pošné čp. 39 |
 | N14 | Marie Litzhammerová (?) | 20. / 21. 12. 1847 | Vojtěch Litzhammer (?) | Marie | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 
 Jistá adresní řada je N16, N11, N11, N3, N4, N6, N1, N11 a N14. Trvalý je celý
@@ -1695,7 +1759,7 @@ vytvoření druhé osoby. U Jana v N19 a Barbory v N1 zůstává příjmení ote
 | N20 | Brigida Marie Novotná (?) | 30. / 31. 1. 1848 | Alois Novotný (?) | Anna | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 | N10 | František Plášil | 24. / 25. 3. 1848 | Václav Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N19 | Jan (?) `[příjmení nejasné]` | 30. 4. 1848; den křtu neuveden | otec neuveden | Františka Plášilová (?) | první jméno dítěte, matka, dům a den narození bezpečné; dítě je nemanželské, matčino příjmení je pracovní čtení |
-| N7 | Anna (?) `[příjmení nejasné]` | 9. / 10. 5. 1848 | Josef (?) `[příjmení nejasné]` | Anna | první jméno dítěte a rodičů, dům a oba dny bezpečné; příjmení zůstává otevřené |
+| N7 | Anna Bartů | 9. / 10. 5. 1848; zemřela 31. 3. 1851 | Josef Bartů | Anna rozená Součková | dcera chalupníka v N7; rodiče potvrzuje shodný zápis sestry Marie, datum úmrtí je přímo v pozdějším přípisu rodného zápisu |
 | N4 | Marie Chramostová (?) | 25. / 27. 6. 1848 | Matěj Chramosta (?) | Marie | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 | N1 | Barbora (?) `[příjmení nejasné]` | 6. / 7. 11. 1848 | otec neuveden | Marie | první jméno dítěte a matky, dům a oba dny bezpečné; dítě je nemanželské |
 | N20 | Štěpán Žák | 22. / 23. 11. 1848 | Josef Žák | Anna | dítě, rodiče, dům a oba dny bezpečné |
@@ -2171,7 +2235,7 @@ nemanželských dětí nemají uvedeného otce.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
-| N3 | Rosalie Plášilová | 16. / 17. 8. 1868 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N3 | Rosalie Plášilová | 16. / 17. 8. 1868 | František Plášil | Anna rozená Charvátová | dítě, rodiče, dům a oba dny bezpečné; oddací zápis z roku 1888 doplňuje matčino rodné příjmení a spojuje Rosalii s pozdějším chalupníkem Janem Svobodou v čp. 7 |
 | N15 | Karel Kejval | 3. 12. 1868; pokřtěn téhož dne | Václav Kejval | Marie | dítě, rodiče, dům a den bezpečné |
 | N19 | Josef `[příjmení v dětském sloupci neuvedeno]` | 12. 3. 1869; pokřtěn téhož dne | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
 | N22 | Antonie Železná (?) | 25. / 26. 6. 1869 | František Železný (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
@@ -2389,6 +2453,46 @@ z téhož úseku zůstávají v pracovní vrstvě kvůli nejistým jménům.
 | č. 5 | Josef Vaněk | 22. / 24. 3. 1882 | rolník v čp. 5, manžel Marie rozené Svobodové z Outěchoviček čp. 7; zemřel ve věku 56 let | [úmrtní matrika, sn. 10](https://digi.ceskearchivy.cz/11214/10) | vysoká |
 | č. 20 | Josef Žák | 9. / 11. 6. 1882 | chalupník v čp. 20, manžel Veroniky rozené Davidové z Rovného čp. 11; zemřel ve věku 45 let | [úmrtní matrika, sn. 12](https://digi.ceskearchivy.cz/11214/12) | vysoká |
 | č. 1 | Marie Fraňková | 16. / 18. 6. 1882 | dcera Františka Fraňka, rolníka v čp. 1, a Kateřiny rozené Kejvalové ze Zahrádky čp. 15; příčinou smrti byl záškrt | [úmrtní matrika, sn. 12](https://digi.ceskearchivy.cz/11214/12) | vysoká pro dítě, rodiče, dům, data a příčinu; věk se zatím nepřebírá |
+
+## Matriční osudy 1883–1927 — doplnění z knih 11210 a 11214
+
+Souvislý průchod záznamovou částí úmrtní knihy 11214 a jejím úplným
+abecedním rejstříkem zpřesnil především osazenstvo čp. 7. Tabulka současně
+promítá bezpečně čitelné nálezy pro další domy; nejistá příjmení a řádky, kde
+nelze bezpečně oddělit zahrádecký dům od pouhého původu příbuzného, zůstávají
+v [pracovním protokolu](prameny_online/matriky/zemreli/1881-1937_zahradka_cela_obec/README.md).
+
+| Dům | Osoba | Datum / období | Co pramen dokládá | Pramen | Stav |
+|---|---|---|---|---|---|
+| č. 7 | Josef Bartů | oddán 17. 5. 1841; doložen v čp. 7 roku 1845, 1848 a rodovým údajem roku 1886; zemřel před 2. 3. 1893 | chalupník a později uváděný rolník v čp. 7, manžel ovdovělé Anny Píchové, rozené Součkové, a otec Marie, Anny i pozdějšího rolníka Jana; úmrtní zápis manželky ji roku 1893 vede už jako vdovu | [sňatek, sn. 74](https://digi.ceskearchivy.cz/6623/74), [narození Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308), [narození Anny, sn. 313](https://digi.ceskearchivy.cz/6621/312), [narození Janovy dcery, sn. 75](https://digi.ceskearchivy.cz/11210/75), [úmrtí manželky, sn. 70](https://digi.ceskearchivy.cz/11214/70) | vysoká pro osobu, sňatek, rodinu, roli, dům a propojení s Janem; zatím jen mezní datum úmrtí |
+| č. 7 | Jan Bartů | doložen 10. 10. 1886 a 18. 4. 1889 | rolník v čp. 7; syn Josefa Bartů, rolníka tamtéž, a Anny rozené Součkové ze Zlátenky čp. 8; manžel Marie Žemličkové a otec dvou dcer, z nichž mladší se narodila mrtvá | [rodná matrika dcery, sn. 75](https://digi.ceskearchivy.cz/11210/75), [úmrtní matrika mrtvě narozené dcery, sn. 49](https://digi.ceskearchivy.cz/11214/49) | vysoká pro osobu, rodiče, manželku, roli a dům |
+| č. 7 | Marie Bartů, rozená Žemličková | doložena 10. 10. 1886 a 18. 4. 1889 | manželka rolníka Jana Bartů; dcera Jana Žemličky, rolníka v Roučkovicích čp. 11, a Marie; matka dvou doložených dcer | [rodná matrika dcery, sn. 75](https://digi.ceskearchivy.cz/11210/75), [úmrtní matrika mrtvě narozené dcery, sn. 49](https://digi.ceskearchivy.cz/11214/49) | vysoká; rodný zápis z roku 1886 opravuje staré nejisté čtení Sváčková / Šváčková |
+| č. 7 | nepojmenovaná dcera Jana Bartů | narozena a pokřtěna 10. 10. 1886 | dcera rolníka Jana Bartů a Marie rozené Žemličkové; zápis přes oba rodiče přímo spojuje mladší domácnost se staršími Bartů a Součkovými v čp. 7 | [rodná matrika, sn. 75](https://digi.ceskearchivy.cz/11210/75) | vysoká pro datum, pohlaví, rodiče, prarodiče a dům; jméno dítěte zápis neuvádí |
+| č. 7 | mrtvě narozená dcera Jana Bartů a Marie | 18. / 20. 4. 1889 | dcera rolníka Jana Bartů a Marie rozené Žemličkové z Roučkovic; zemřela při porodu | [úmrtní matrika, sn. 49](https://digi.ceskearchivy.cz/11214/49), [srovnávací rodný zápis sestry, sn. 75](https://digi.ceskearchivy.cz/11210/75) | vysoká; příjmení matky uzavírá čitelnější zápis z roku 1886 |
+| č. 7 | Josef Pachta | narozen 15., pokřtěn 18. 3. 1889; oddán 3. 7. 1918 | narodil se v čp. 11 jako syn Františka Pachty, tehdy domkáře v čp. 14, a Anny rozené Zálohové; roku 1918 už byl rolníkem v čp. 7 a oženil se s Antonií Kejvalovou od rodičů z čp. 10, narozenou 21. 5. 1899. Je to táž dvojice, která vede domácnost čp. 7 ve sčítání 1921; obě sčítací data narození jsou chybná | [narození Josefa, sn. 99](https://digi.ceskearchivy.cz/11210/99), [narození Antonie, sn. 206](https://digi.ceskearchivy.cz/11210/206), [sňatek, sn. 147](https://digi.ceskearchivy.cz/6624/147) | vysoká; rodný zápis přímo propojuje čp. 11, 14 a pozdější čp. 7 |
+| č. 7 | Jan Pachta | narozen 17., pokřtěn 18. 2. 1892; oddán 15. 10. 1917 | mladší syn Františka Pachty a Anny rozené Zálohové, narozený v čp. 14. Při sňatku bydlel jako obuvník v čp. 7 a současně sloužil u c. a k. horského dělostřeleckého pluku č. 22 v Aradu v Uhrách; oženil se s Ludmilou Pěchovou. Oddací poznámka uvádí narození 14. 2., rodný zápis 17. 2., proto se přednostně přebírá rodný zápis | [rodná matrika, sn. 129](https://digi.ceskearchivy.cz/11210/129), [oddací matrika, sn. 146](https://digi.ceskearchivy.cz/6624/146) | vysoká pro osoby, rodinu, domy, sňatek a vojenský osud; zaznamenán rozpor dne narození |
+| č. 7 | Anna Bartů, rozená Součková, dříve provdaná Píchová | oddána 17. 5. 1841; doložena v čp. 7 roku 1845 a 1848; zemřela 2., pohřbena 4. 3. 1893 | dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova Píchová, poté jeho manželka a matka Marie a Anny v čp. 7; později tamtéž výminkářka a vdova | [sňatek, sn. 74](https://digi.ceskearchivy.cz/6623/74), [narození Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308), [narození Anny, sn. 313](https://digi.ceskearchivy.cz/6621/312), [úmrtí, sn. 70](https://digi.ceskearchivy.cz/11214/70) | vysoká pro totožnost, rodinu a oba pozdější osudy; neuzavřený první manžel a rozpor věků 37½ roku při sňatku proti 79 letům při úmrtí |
+| č. 7 | Jan Svoboda | narozen 26. 7. 1862; oddán 30. 10. 1888; dcera narozená 4. 12. a zemřelá 30. 12. 1888; zemřel 16., pohřben 19. 6. 1913 | při sňatku truhlář v Bratřicích čp. 32; do prosince 1888 truhlář v čp. 3 a otec Marie. Později chalupník v čp. 7; zemřel na rakovinu žaludku. Datum narození se shodně odvozuje z oddacího i úmrtního zápisu, přímý rodný zápis zatím nalezen nebyl | [oddací matrika, sn. 32](https://digi.ceskearchivy.cz/6624/32), [narození dcery, sn. 97](https://digi.ceskearchivy.cz/11210/97), [úmrtí dcery, sn. 46](https://digi.ceskearchivy.cz/11214/46), [vlastní úmrtí, sn. 172](https://digi.ceskearchivy.cz/11214/172) | vysoká pro totožnost, rodinu, povolání a doložené pobyty; otevřený přesný okamžik příchodu do čp. 7 |
+| č. 7 | Rozalie Svobodová, rozená Plášilová | narozena 16., pokřtěna 17. 8. 1868; oddána 30. 10. 1888; dcera narozená 4. 12. a zemřelá 30. 12. 1888; jako Janova manželka doložena roku 1913 | narodila se v čp. 3 Františku Plášilovi a Anně rozené Charvátové; při sňatku i narození dcery byla spojena s čp. 3. Manželův úmrtní zápis ji roku 1913 spojuje s chalupnickou domácností čp. 7; její další osud zatím není doložen | [rodná matrika, sn. 337](https://digi.ceskearchivy.cz/6621/336), [oddací matrika, sn. 32](https://digi.ceskearchivy.cz/6624/32), [narození dcery, sn. 97](https://digi.ceskearchivy.cz/11210/97), [úmrtí dcery, sn. 46](https://digi.ceskearchivy.cz/11214/46), [úmrtí manžela, sn. 172](https://digi.ceskearchivy.cz/11214/172) | vysoká pro totožnost, rodiče, data, manželství a rodinnou vazbu k čp. 7; pobyt přímo v čp. 7 je odvozen z manželova zápisu |
+| č. 3 | Marie Svobodová | narozena 4., pokřtěna 6. 12. 1888; zemřela 30. 12. 1888, pohřbena 1. 1. 1889 | dcera truhláře Jana Svobody a Rozalie rozené Plášilové v čp. 3; zemřela ve věku 27 dní na psotník. Oba zápisy vymezují nejstarší přesný pobyt rodiny po sňatku a před pozdějším čp. 7 | [rodná matrika, sn. 97](https://digi.ceskearchivy.cz/11210/97), [úmrtní matrika, sn. 46](https://digi.ceskearchivy.cz/11214/46) | vysoká pro osobu, rodiče, dům, data i příčinu smrti |
+| č. 7 | Marie Novotná, rozená Fraňková | 30. 12. 1914 / 7. 1. 1915 | manželka nádeníka Josefa Novotného v čp. 7; pocházela z Dobré Vody čp. 5, zemřela ve věku 66 let, 4 měsíců a 10 dní na rakovinu dělohy | [úmrtní matrika, sn. 179](https://digi.ceskearchivy.cz/11214/179) | vysoká |
+| č. 7 | Anna Pachtová | 3. / 6. 10. 1917 | manželka chalupníka Františka Pachty v čp. 7; rozená Zálohová (?) z Velkých Outěchovic čp. 24; zemřela ve věku 62 let, 9 měsíců a 16 dní na zápal plic | [úmrtní matrika, sn. 191](https://digi.ceskearchivy.cz/11214/191) | vysoká pro osobu, manžela, dům, data, věk a příčinu; střední pro rodné příjmení |
+| č. 7 | František Pachta | 28. / 30. 10. 1917 | chalupník v čp. 7, vdovec po Anně; narozen v čp. 7, zemřel ve věku 60 let, 11 měsíců a 13 dní na zápal plic | [úmrtní matrika, sn. 191](https://digi.ceskearchivy.cz/11214/191) | vysoká |
+| č. 11 | Josef Remeš | narozen 12. 8. 1847; zemřel 19., pohřben 22. 5. 1918 | syn nádeníka Leopolda Remeše a Marie v N11; později hostinský v Pošné čp. 39 a manžel Marie rozené Nosové z Litohoště čp. 30. Rodný a úmrtní zápis se shodují ve jménu, dni i domě; dřívější přepis rodného řádku zaměnil srpen za prosinec. Roku 1921 už čp. 39 obývala rodina Benešových a Marie Remešová nebyla bezpečně nalezena v ostatních pošenských arších ani v úmrtích do roku 1937. Marie Nosová narozená roku 1841 v Litohošti čp. 1 je doloženou sestrou Matěje Nose, ale od roku 1865 manželkou Čeňka Brožka; bez dokladu ovdovění a druhého sňatku se s Josefovou ženou neslučuje | [rodná matrika, sn. 312](https://digi.ceskearchivy.cz/6621/311), [úmrtní matrika, sn. 195](https://digi.ceskearchivy.cz/11214/195), [kandidátní Marie Nosová, sn. 95](https://digi.ceskearchivy.cz/5929/95), [kontrola Pošné 1921](prameny_online/scitani_lidu/1921/kontrolni_posna/README.md), [pramenný protokol](prameny_online/matriky/zemreli/1881-1937_zahradka_cela_obec/README.md) | vysoká pro totožnost, rodiče, narození, N11, manželku, povolání, poslední dům a úmrtí; negativní výsledky neuzavírají Mariin další osud ani totožnost |
+| č. 1 | František Franěk | 16. / 19. 2. 1915 | zemřel přímo v čp. 1 ve věku 67 let | [úmrtní matrika, sn. 180](https://digi.ceskearchivy.cz/11214/180) | vysoká pro osobu, dům, data a věk |
+| č. 16 | Josef Kejval | 24. / 27. 4. 1915 | zemřel přímo v čp. 16 ve věku 84 let | [úmrtní matrika, sn. 180](https://digi.ceskearchivy.cz/11214/180) | vysoká pro osobu, dům, data a věk |
+| č. 4 | Kateřina Markvartová | 2. / 4. 7. 1915 | zemřela přímo v čp. 4 ve věku 73 let, 4 měsíců a 25 dní | [úmrtní matrika, sn. 182](https://digi.ceskearchivy.cz/11214/182) | vysoká pro osobu, dům, data a věk |
+| č. 17 | Marie Plášilová | 18. / 21. 10. 1918 | dítě zemřelé v čp. 17 ve věku 4 let, 7 měsíců a 22 dní na chřipku | [úmrtní matrika, sn. 197](https://digi.ceskearchivy.cz/11214/197) | vysoká |
+| č. 22 | Alois Horáček | 22. / 24. 10. 1922 | zemřel přímo v čp. 22 ve věku 46 let | [úmrtní matrika, sn. 218](https://digi.ceskearchivy.cz/11214/218) | vysoká pro osobu, dům, data a věk |
+| č. 18 | Josef Vacík | zemřel 26., pohřben 29. 3. 1923 | novorozený syn truhláře Josefa Vacíka a Marie rozené Kratochvílové v čp. 18; dvojče Jiřiny | [úmrtní matrika, sn. 221](https://digi.ceskearchivy.cz/11214/221) | vysoká |
+| č. 18 | Jiřina Vacíková | zemřela 26., pohřbena 29. 3. 1923 | novorozená dcera týchž rodičů v čp. 18; dvojče Josefa | [úmrtní matrika, sn. 221](https://digi.ceskearchivy.cz/11214/221) | vysoká |
+| č. 22 | Jan Matoušek | 13. / 15. 8. 1924 | krejčovský pomocník v čp. 22, syn dělníka Ladislava Matouška tamtéž; narodil se 11. 12. 1904 v Adamově čp. 3 a zemřel ve věku 19 let, 8 měsíců a 2 dní na plicní tuberkulózu | [úmrtní matrika, sn. 226](https://digi.ceskearchivy.cz/11214/226) | vysoká |
+| č. 6 | Ladislav Chab | 10. / 12. 1. 1925 | dítě zemřelé v čp. 6 ve věku 10 let, 5 měsíců a 19 dní | [úmrtní matrika, sn. 228](https://digi.ceskearchivy.cz/11214/228) | vysoká pro osobu, dům, data a věk |
+| č. 2 | Kateřina Kudrnová | 17. / 19. 4. 1925 | vdova a výminkářka v čp. 2; zemřela ve věku 79 let, 4 měsíců a 4 dní | [úmrtní matrika, sn. 229](https://digi.ceskearchivy.cz/11214/229) | vysoká |
+| č. 5 | Antonie Vaňková | 15. / 17. 12. 1925 | manželka Františka Vaňka v čp. 5; zemřela ve věku 65 let, 6 měsíců a 2 dní | [úmrtní matrika, sn. 231](https://digi.ceskearchivy.cz/11214/231) | vysoká |
+| č. 19 | Marie Vaňková | 5. / 7. 7. 1926 | dítě zemřelé v čp. 19 dva dny po narození | [úmrtní matrika, sn. 233](https://digi.ceskearchivy.cz/11214/233) | vysoká |
+| č. 6 | Antonie Plášilová | 16. / 18. 7. 1926 | zemřela přímo v čp. 6 ve věku 69 let, 2 měsíců a 13 dní | [úmrtní matrika, sn. 234](https://digi.ceskearchivy.cz/11214/234) | vysoká pro osobu, dům, data a věk |
+| č. 2 | František Kudrna | 5. / 7. 10. 1926 | zemřel přímo v čp. 2 ve věku 51 let, 11 měsíců a 20 dní na rakovinu žaludku | [úmrtní matrika, sn. 234](https://digi.ceskearchivy.cz/11214/234) | vysoká |
 
 ## Další již doložené osoby mimo rok 1921
 

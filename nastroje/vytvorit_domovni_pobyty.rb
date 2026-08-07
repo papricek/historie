@@ -389,6 +389,16 @@ def extract_main_evidence
         row[3],
         row[4].to_s.empty? ? "[hlavní registr](../obyvatele_zahradky_domy.md)" : relocate_main_links(row[4])
       )
+    when "Matriční osudy 1883–1927 — doplnění z knih 11210 a 11214"
+      next unless header[0] == "Dům" && header[1] == "Osoba"
+      add_person(
+        evidence,
+        row[0],
+        row[2],
+        row[1],
+        row[3],
+        row[4].to_s.empty? ? "[hlavní registr](../obyvatele_zahradky_domy.md)" : relocate_main_links(row[4])
+      )
     when "Další již doložené osoby mimo rok 1921"
       next unless header[0] == "Dům" && header[1] == "Osoba"
       add_person(

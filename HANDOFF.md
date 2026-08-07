@@ -1,11 +1,14 @@
 # Handoff — výzkum statku a web historie.poutnazahradce.cz
 
-Stav k **1. 8. 2026**. Tento soubor je hlavní předávací bod pro navazující výzkum
+Stav k **6. 8. 2026**. Tento soubor je hlavní předávací bod pro navazující výzkum
 dvora na Zahrádce i pro jeho webovou prezentaci.
 
 Od 30. 7. 2026 je hlavním směrem osobního výzkumu celá ves a přiřazování lidí ke
 konkrétním číslům domů. Dějiny jednotlivých staveb se rozvíjejí jen tehdy, když jsou
 nutné k rozlišení adres. Kanonický pracovní soubor je `obyvatele_zahradky_domy.md`.
+Od 6. 8. 2026 mají při tomto plošném průchodu přednost **N11 / dnešní čp. 11** a
+**čp. 7**; u obou se sledují nejen pobyty, ale i narození, sňatky, úmrtí, odchody
+a další doložitelné životní osudy.
 Vedle jména a čísla domu se nově vede také datum nebo mezní data dokladů; interval
 neznamená automaticky nepřetržité bydliště.
 Místní jmenná kontrola opravila pracovní čtení `Pohorec` na **Rohovec** a `Lachta`
@@ -62,7 +65,7 @@ v dalším zpracování obrátit.
   řádků, nikoli nutně šestnáct dalších unikátních osob; některé se objevují také
   ve sčítání 1921 nebo později u jiného domu. Dalších šestnáct obyvatel z let 1654,
   1898 a 1915 je vedeno ve frontě `dům nezjištěn`.
-- Všech 230 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je
+- Všech 231 bezpečných osobních řádků s přímou vazbou k N11 / čp. 11 je
   dostupných v `obyvatele_zahradky_domy/n11.md`; tři členové Lenzovy rodiny se
   spornou adresou N11/N14 jsou odděleni. Soubor se reprodukuje skriptem
   `nastroje/vytvorit_index_n11.rb`, takže se nemá ručně upravovat.
@@ -78,23 +81,95 @@ v dalším zpracování obrátit.
   Chalupa; sčítání 2021 dává 24 obyvatel; matriky Pošné 1912–1949 jsou na
   matrice v Pacově a oddací i úmrtní kniha jsou už podle § 25b přístupné
   komukoli. Sčítání 1930 drží Národní archiv (fond NAD 752/2, jen na žádost).
-- Večer 31. 7. 2026 proběhla obrazová rešerše matrik, měkce ukončená před
-  dokončením; výsledky jsou zachovány v
-  `prameny_online/reserse/2026-07-31_matriky_castecne/`. Hotové: všech deset
+- Večer 31. 7. 2026 proběhla obrazová rešerše matrik; původní částečné výsledky
+  jsou zachovány v `prameny_online/reserse/2026-07-31_matriky_castecne/`.
+  Hotové: všech deset
   legionářů-kandidátů rozhodnuto —
   **Karel Vaněk (*3. 1. 1891, č. 19), Karel Lhota (*26. 10. 1895, č. 22,
   syn lesního hajného) a Josef Zika (*21. 1. 1892, č. 9) jsou rodáci ze
   Zahrádky**, sedm zbývajících patří patrně Hrobské Zahrádce. Z úmrtní knihy
-  11214 je strukturovaně přepsáno 80 z 272 snímků (léta ~1888–1895 a
+  11214 je řádkově strukturovaně přepsáno 80 z 272 snímků (léta ~1888–1895 a
   1904–1911; 47 zahrádeckých zápisů s čp.) — mj. hostinský Plášil v č. 6,
   kovář Dušánek v č. 17,
   hajní v č. 17/22/29, tesař Rohovec v č. 18, Bartoškovi u č. 3 a šafář
-  Jaroš u č. 27 (1891). Kontrola zachované cache 1. 8. 2026 doložila obrazové
-  prověření dalších 107 snímků: celkem je na úrovni obrazu zkontrolováno
-  **187/272**, ale strukturovaný přepis zůstává uzavřený jen u 80. Skutečně
-  neotevřené mezery jsou 20–22, 101–102, 122, 178–182, 191–202 a 213–274
-  (85 snímků); přesný účet je v README rešerše. Do hlavního registru byly
-  zatím bezpečně převzaty čtyři nové události z let 1881–1882.
+  Jaroš u č. 27 (1891). Dne 6. 8. 2026 byly otevřeny i všechny původní mezery:
+  záznamová část **3–274 (272 snímků)** i abecední rejstřík **275–297** tak
+  mají úplný adresní průchod pro celou obec. Řádkový přepis všech negativních
+  stran zatím hotový není, ale v této knize už nezbývá neprohlédnutý blok.
+  Přesný protokol je v `prameny_online/matriky/zemreli/1881-1937_zahradka_cela_obec/README.md`.
+  Do domovního registru přibylo 22 bezpečných událostí z let 1883–1927, mimo
+  jiné souvislá řada čp. 7 (Bartů, Svoboda, Novotný, Pachta), dvojčata Vacíkova
+  v čp. 18 a Jan Matoušek v čp. 22. Pro N11 přibyl Josef Remeš, narozený v
+  čp. 11 a zemřelý roku 1918 jako hostinský v Pošné čp. 39.
+  Následný cílený průchod oddací knihy přidal bratry Pachtovy: Jan, narozený
+  roku 1892 v čp. 14, byl při sňatku roku 1917 obuvníkem v čp. 7 a současně
+  dělostřelcem v Aradu; Josef se 15. 3. 1889 narodil přímo v **čp. 11**,
+  roku 1918 se ženil už jako rolník z čp. 7 a roku 1921 vedl tamní domácnost.
+  Rodný zápis tak bezpečně propojuje obě prioritní adresy. Opraveny byly i
+  chybné sčítací údaje: Josef 15. 3. 1889, Antonie Kejvalová 21. 5. 1899.
+  Následná kontrola starší rodné knihy uzavřela dvě dosud nejasné položky N7:
+  chalupník Josef Bartů a Anna rozená Součková tam měli Marii (*8. 1. 1845)
+  a Annu (*9. 5. 1848, podle přípisu †31. 3. 1851). Matčino úmrtí roku 1893
+  tak nyní dokládá téměř půlstoletou životní osu jedné obyvatelky čp. 7.
+  Rodný zápis nepojmenované dcery z 10. 10. 1886 navíc přímo propojil pozdějšího
+  rolníka Jana Bartů s rodiči Josefem a Annou a opravil jméno Janovy manželky:
+  byla to Marie rozená **Žemličková**, dcera rolníka Jana Žemličky z Roučkovic
+  čp. 11, nikoli dříve pracovně čtená Sváčková / Šváčková.
+  Kandidátní sňatek staršího páru je od 6. 8. rovněž uzavřen. Dne 17. 5. 1841
+  se vzali Josef Bartů a **Anna Píchová, vdova**; její rodový údaj jmenuje otce
+  Matěje Součka a Zlátenku, shodně s pozdějšími zápisy rodiny z čp. 7. Anna
+  tedy před Josefem už jednou vstoupila do manželství. Oddací věk 37½ roku a
+  úmrtní věk 79 let roku 1893 se rozcházejí přibližně o deset let; přímé
+  narození ani osud prvního manžela zatím nebyly bezpečně uzavřeny.
+  Dobový oddací rejstřík byl znovu porovnán s originály: skutečné položky Pícha
+  před rokem 1841 jsou na rukopisných stranách 6, 8, 10 a 36 / snímcích 5, 6,
+  7 a 20 a všechny patří jiným párům. Dříve zahrnutá strana 32 je Pěcha Josef,
+  nikoli Pícha. Starší zápis z 22. 4. 1790 zároveň dokládá přímo v N7 Václava
+  Píchu, legitimního syna Matěje Píchy a Kateřiny; spojení s Anniným prvním
+  manželem však není prokázané.
+  Úplný průchod rejstříkem ženského tvaru `Plášilová` následně našel dosud
+  přehlédnutý sňatek Jana Svobody a Rozalie Plášilové 30. 10. 1888. Jan se
+  narodil 26. 7. 1862 a při sňatku byl truhlářem v Bratřicích čp. 32; Rozalie
+  se narodila 16. 8. 1868 v čp. 3 Františku Plášilovi a Anně rozené
+  Charvátové. Roku 1913 je Jan už chalupníkem v čp. 7 a umírá na rakovinu
+  žaludku. Dcera Marie se narodila 4. 12. 1888 v čp. 3 a zemřela tam 30. 12.
+  ve věku 27 dní na psotník; rodina tedy přešla z Bratřic do čp. 3 nejpozději
+  pět týdnů po sňatku. Otevřený zůstává přesun z čp. 3 do čp. 7, případné další
+  děti a Rozaliin další osud. Negativní
+  audit navíc uzavřel všech 555 výsledků `Bartů`: třináct pošenských
+  svatebních zápisů nepatří hledané rodině z čp. 7.
+  U N11 byl definitivně sloučen Josef Remeš s dříve anonymním Josefem na
+  snímku 312: rodný zápis skutečně uvádí **12. 8. 1847**, příjmení Remeš,
+  N11 a rodiče Leopolda Remeše, nádeníka v N11, a Marii. Úmrtní zápis roku
+  1918 doplňuje manželku Marii rozenou Nosovou z Litohoště čp. 30 a pozdější
+  povolání hostinského v Pošné čp. 39. Dřívější datum 12. 12. bylo chybným
+  čtením měsíce. Následný audit posunul i jeho pozdější osud: obrazově byly
+  prohlédnuty všechny úmrtní řádky od Josefova zápisu na snímku 195 až do
+  konce knihy roku 1937 a nebyl nalezen další bezpečný Remeš ani Remešová.
+  Rukopisný rejstřík snímků 275–297 vynechává dokonce samotného Josefa, takže
+  se nesmí používat jako úplný. Sčítání Pošné 1921 na snímku 76 vede v čp. 39
+  ovdovělou majitelku Marii Benešovou a její čtyři děti; kontrola líců všech
+  52 dostupných domovních archů Pošné nenašla bezpečně čitelného Remeše.
+  Mariin další osud proto zůstává otevřený. Online katalog MZA pro Pošnou
+  nabídl jen operát 1921, nikoli 1910.
+  Novou rodinnou stopou je Matěj Nos: zemřel 10. 11. 1929 jako polník-výměnkář
+  v témže pošenském čp. 39, byl manželem Františky rozené Prchalové z
+  Litohoště čp. 10 a stejně jako Marie Nosová pocházel z Litohoště čp. 30.
+  Sňatek páru 25. 4. 1875 potvrzuje manžele a rodiče, ale přípis u něj uvádí
+  Matějovo narození 10. 2. 1852, zatímco úmrtní zápis 12. 2. 1851. Přímý rodný
+  zápis kolem obou dat nalezen nebyl. Příbuzenství Matěje s Marií je proto
+  silná pracovní hypotéza, nikoli ještě prokázané sourozenectví. Přesný
+  negativní audit i odkazy jsou v protokolu úmrtní knihy a v novém README
+  `prameny_online/scitani_lidu/1921/kontrolni_posna/README.md`.
+  Další průchod 6. 8. dohledal jinou, přesně určenou Marii Nosovou: narodila se
+  3. 4. 1841 v Litohošti čp. 1 Josefu Nosovi a Petronile rozené Tomšů a
+  27. 1. 1865 se provdala za Čeňka Brožka. Sňatky Anny Nosové roku 1868 a
+  Matěje Nose roku 1875 opakují stejné rodiče a rodinu v Litohošti čp. 5, takže
+  jde o bezpečné sourozence. Tato Marie se ale nesmí sloučit s Josefovou ženou:
+  ta je roku 1918 spojena s čp. 30, místní úmrtní rejstříky neprokázaly úmrtí
+  Čeňka Brožka a novocerekvické oddací rejstříky do roku 1920 neobsahují sňatek
+  Josefa Remeše. Jde o vymezenou kandidátku a rodinný kontext, ne o uzavřenou
+  totožnost.
 - Pozdě večer 31. 7. 2026 proběhla druhá rešerše, tentokrát výslovně na
   **obyvatele domů 1921–2026** (7 směrů, 209 zjištění, 98 nezávislých
   ověřovacích verdiktů; úplný záznam v
@@ -193,7 +268,7 @@ lokalita** a její osoby ani statistiky sem nepatří.
 | Jmenný domovní přehled s datem nebo mezními daty každého doloženého pobytu | `obyvatele_zahradky_domy/dolozene_pobyty.md` |
 | Pováleční obyvatelé a adresní stopy 1950–2026 po všech 32 čp. | `obyvatele_1950_2026.md` + `obyvatele_1950_2026_data.json` |
 | Přesný kontrolní plán neobsazených řezů 32 domů × 1950/1980/2000/2026 | `mezery_obyvatel_1950_2026.csv` |
-| Generovaný domovní index 230 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
+| Generovaný domovní index 231 bezpečných osobních řádků N11 a tří sporných N11/N14 | `obyvatele_zahradky_domy/n11.md` |
 | Podrobný rozbor sčítání 1921, zejména čp. 11 | `obyvatele_zahradky_1921.md` |
 | Katalog všech stažených veřejných pramenů | `prameny_online/README.md` |
 | Úplné výstupy rešerší 31. 7. 2026 (zjištění, přepisy, slepé konce, stopy — Markdown i JSON) | `prameny_online/reserse/` |
@@ -274,9 +349,9 @@ Junkovi / Jůnkovi v N11 jsou napojeni bez duplicit a Svačkovi jsou doloženi v
 Oddíl dalších dříve doložených osob obsahuje šestnáct bezpečných adresních řádků
 mimo č. 11 a oddíl `dům nezjištěn` šestnáct osob. Tyto vrstvy se nesčítají na
 unikátní osoby, protože některý člověk může být zachycen vícekrát.
-Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 230 bezpečných
+Vedle něj zpřístupňuje `obyvatele_zahradky_domy/n11.md` všech 231 bezpečných
 osobních řádků N11 / čp. 11 z podrobného staršího spisu a tři sporné řádky N11/N14.
-Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 2005
+Generovaný soubor `obyvatele_zahradky_domy/dolozene_pobyty.md` nyní spojuje 2 040
 dokladových osobních řádků v 26 domech a u každého ukazuje datum nebo mezní data;
 obsahuje všech 174 osob sčítání 1921. Oprava 31. 7. 2026: `normalize_house`
 v generátoru dříve nerozpoznávala tvar `č. 15` (jen `čp. 15` / `č 15`), takže pět
@@ -420,11 +495,20 @@ nepřiřadila k číslu, které tehdy neexistovalo. Hlavní výstup je
    domovní či pobytové evidence pro roky 1980 a 2000. Kronika MNV Pošná,
    inv. 19 / kniha 19 (1974–2007), je jen doplňková jmenná opora. Koncept
    žádosti v `zadost_o_archivni_prameny.md` je upraven, ale nic nebylo odesláno.
-2. Dokončit knihu zemřelých 11214: nejprve otevřít dosud neprověřené snímky
-   **20–22, 101–102, 122, 178–182, 191–202 a 213–274** (85 snímků), potom
-   sjednotit do strukturovaného přepisu 107 snímků, u nichž se z ukončeného běhu
-   zachoval pouze pracovní obrazový verdikt. Negativní snímky evidovat stejně
-   přesně jako nalezené zápisy.
+2. U čp. 7 dohledat první sňatek a narození Anny Součkové, ovdovělé Píchové,
+   a osud její dcery Marie; sňatek s Josefem Bartů z 17. 5. 1841 i propojení
+   pozdějšího rolníka Jana Bartů s rodiči jsou už přímými prameny vyřešeny.
+   U Svobodových je doložena dcera Marie i pobyt v čp. 3 v prosinci
+   1888; zbývají případné další děti, přesný příchod do čp. 7 a další osud
+   Rozalie. U Novotných zůstává přímé narození a sňatek;
+   u Pachtových navázat na již vyřešené bratry Jana a Josefa a hledat osudy
+   dětí Josefa a Antonie po roce 1921. U N11 je narození Josefa Remeše
+   12. 8. 1847 už přímo potvrzené; sčítání Pošné 1921 a navazující úmrtí do
+   roku 1937 další osud jeho ženy neuzavřely. Dalším cílem je sňatek s Marií
+   Nosovou, děti, cesta k hostinci v Pošné čp. 39, přímý rodný zápis Marie a
+   ověření, zda byla příbuzná s Matějem Nosem z Litohoště čp. 30. Marie
+   narozená 3. 4. 1841 v čp. 1 je už doloženou Matějovou sestrou, ale kvůli
+   manželství s Čeňkem Brožkem a odlišnému domu zatím není Josefovou ženou.
 3. Pro označená nejistá jména ve sčítání 1921 hledat potvrzení v matrikách nebo
    jiném jmenném prameni. Vazbu na dům neměnit jen podle shody příjmení.
 4. Rozšířit časové řady lidí po domech z oddacích a úmrtních zápisů, přednostně

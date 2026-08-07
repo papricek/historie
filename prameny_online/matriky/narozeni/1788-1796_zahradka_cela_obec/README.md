@@ -32,6 +32,9 @@ domu a rukopisnou stranu. Jeho čtení je vedeno v kanonickém
   nezjištěn;
 - zastoupena jsou N1, N2, N3, N4, N5, N7, N9, N10, N11, N12, N13, N14, N15 a
   N17;
+- zápis na [snímku 13](https://digi.ceskearchivy.cz/6619/13) vede dne
+  **22. 4. 1790** v N7 Václava Píchu, legitimního syna Matěje Píchy a
+  Kateřiny; jde zatím o nejstarší jmenovitou píchovskou stopu v tomto domě;
 - dobový rejstřík na snímku 62 opravil dřívější čtení `Jurek`: zřetelně uvádí
   `Junek Jiří, Zahrádka 11, str. 23`. Jiří z roku 1788 a Martin z roku 1790 tak
   patří ke stejné jmenné podobě Junek / Jůnek;

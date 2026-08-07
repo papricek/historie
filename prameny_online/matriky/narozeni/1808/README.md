@@ -18,7 +18,7 @@ Josef Dominik Emerich byl pokřtěn 28. května 1808. Tři klasifikační značk
 
 Pozdější přípis začíná `In causa matr.`, obsahuje zkratku `lib. bapt.` a datum `die 15 Aug. 1841`. Týká se tedy manželské záležitosti a křestního dokladu dne 15. srpna 1841. Sám o sobě neurčuje otce ani nedokládá legitimizaci. Veřejné jmenné hledání SOA Třeboň dotazem `+Josef +Dominik +Emerich` nepřineslo žádný odpovídající indexovaný záznam.
 
-Podle data byla následně [souvisle zkontrolována celá místní oddací řada Pošné roku 1841](../../snatky/1841/README.md), záznamy 321–334 na snímcích 73–75. Jediný ženich jménem Josef, záznam 329 ze 17. 5., je Josef Bartu ve věku přibližně 23¾ roku a legitimního původu; s téměř třiatřicetiletým nemanželským Josefem narozeným roku 1808 jej nelze ztotožnit. Dne 15. 8. se v Pošné žádný sňatek nekonal. Přípis proto nejspíš doprovázel křestní doklad pro manželskou záležitost řešenou mimo tuto místní knihu; místo zůstává neznámé.
+Podle data byla následně [souvisle zkontrolována celá místní oddací řada Pošné roku 1841](../../snatky/1841/README.md), záznamy 321–334 na snímcích 73–75. Jediný ženich jménem Josef, záznam 329 ze 17. 5., je Josef Bartu ve věku přibližně 27¾ roku a legitimního původu; s téměř třiatřicetiletým nemanželským Josefem narozeným roku 1808 jej nelze ztotožnit. Dne 15. 8. se v Pošné žádný sňatek nekonal. Přípis proto nejspíš doprovázel křestní doklad pro manželskou záležitost řešenou mimo tuto místní knihu; místo zůstává neznámé. Záznam 329 byl mezitím nezávisle potvrzen jako sňatek Josefa Bartů a ovdovělé Anny Píchové, rozené Součkové, pozdějšího páru z čp. 7.
 
 ## Uložené obrazy
 

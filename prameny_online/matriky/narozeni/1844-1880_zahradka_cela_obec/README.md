@@ -79,9 +79,10 @@ neduplikují.
 ## Snímek 312 — rok 1847
 
 Snímek obsahuje devět událostí. Tři patří N11: Marie Langrová (?), Jan Lenka
-(?) a Josef s dosud nejasným příjmením. Dosavadní chronologický rejstřík N11
-znal jen Jana a Josefa bez přesných dat, takže Marie je nový nález a obě starší
-položky se zpřesňují.
+(?) a **Josef Remeš**. Dodatečná kontrola plného obrazu 6. 8. 2026 opravila u
+posledního dítěte měsíc z dříve pracovně čteného prosince na **srpen** a
+přečetla příjmení. Přesný den, dům a jméno se shodují s Josefovým úmrtním
+zápisem z roku 1918, takže nejde o dvě osoby.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
@@ -92,7 +93,7 @@ položky se zpřesňují.
 | N4 | Anna Vondráčková | 20. / 21. 6. 1847 | Jan Vondráček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
 | N6 | Marie Chramostová (?) | 22. / 23. 6. 1847 | Matěj Chramosta (?) | Anna | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 | N1 | František Franěk | 3. / 4. 11. 1847 | František Franěk | Anna | dítě, rodiče, dům a oba dny bezpečné |
-| N11 | Josef (?) `[příjmení nejasné]` | 12. 12. 1847; den křtu neuveden | Leopold (?) `[příjmení nejasné]` | Marie | první jméno dítěte a rodičů, dům a den narození bezpečné; příjmení zůstává otevřené |
+| N11 | Josef Remeš | 12. 8. 1847; den křtu neuveden | Leopold Remeš | Marie | dítě, otec, datum a N11 potvrzuje rodný zápis; totožnost a datum nezávisle uzavírá úmrtní zápis hostinského Josefa Remeše z Pošné čp. 39 roku 1918 |
 | N14 | Marie Litzhammerová (?) | 20. / 21. 12. 1847 | Vojtěch Litzhammer (?) | Marie | dům a oba dny bezpečné; příjmení dítěte a otce je pracovní čtení |
 
 Jistá adresní řada je **N16, N11, N11, N3, N4, N6, N1, N11 a N14**.
@@ -485,7 +486,7 @@ N21**. Žádný řádek nepatří N11.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
-| N3 | Rosalie Plášilová | 16. / 17. 8. 1868 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
+| N3 | Rosalie Plášilová | 16. / 17. 8. 1868 | František Plášil | Anna rozená Charvátová | dítě, rodiče, dům a oba dny bezpečné; oddací zápis z roku 1888 doplňuje matčino rodné příjmení a spojuje Rosalii s pozdějším chalupníkem Janem Svobodou v čp. 7 |
 | N15 | Karel Kejval | 3. 12. 1868; pokřtěn téhož dne | Václav Kejval | Marie | dítě, rodiče, dům a den bezpečné |
 | N19 | Josef `[příjmení v dětském sloupci neuvedeno]` | 12. 3. 1869; pokřtěn téhož dne | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
 | N22 | Antonie Železná (?) | 25. / 26. 6. 1869 | František Železný (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |

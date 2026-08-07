@@ -636,15 +636,15 @@ window.MAPA_DATA = {
         {
           "d": "27. / 28. 5. 1868",
           "j": "Jan Dvořáček",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1868
+          "p": "otec při narození dítěte Jan Dvořáček",
+          "r": 1868,
+          "rod": "o"
         },
         {
           "d": "27. / 28. 5. 1868",
           "j": "Jan Dvořáček",
-          "p": "otec při narození dítěte Jan Dvořáček",
-          "r": 1868,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1868
         },
         {
           "d": "27. / 28. 5. 1868",
@@ -729,15 +729,15 @@ window.MAPA_DATA = {
         {
           "d": "8. / 9. 12. 1877",
           "j": "František Franěk (?)",
-          "p": "otec při narození dítěte František Franěk (?)",
-          "r": 1877,
-          "rod": "o"
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
+          "r": 1877
         },
         {
           "d": "8. / 9. 12. 1877",
           "j": "František Franěk (?)",
-          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení zůstává pracovním čtením opakované rodiny N1",
-          "r": 1877
+          "p": "otec při narození dítěte František Franěk (?)",
+          "r": 1877,
+          "rod": "o"
         },
         {
           "d": "8. / 9. 12. 1877",
@@ -772,6 +772,13 @@ window.MAPA_DATA = {
           "p": "dcera Františka Fraňka, rolníka v čp. 1, a Kateřiny rozené Kejvalové ze Zahrádky čp. 15; příčinou smrti byl záškrt",
           "z": "<a href=\"https://digi.ceskearchivy.cz/11214/12\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 12</a>",
           "r": 1882
+        },
+        {
+          "d": "16. / 19. 2. 1915",
+          "j": "František Franěk",
+          "p": "zemřel přímo v čp. 1 ve věku 67 let",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/180\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 180</a>",
+          "r": 1915
         },
         {
           "d": "18. 5. 1920",
@@ -901,15 +908,15 @@ window.MAPA_DATA = {
         {
           "d": "7. / 8. 1. 1801",
           "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; dům, den a rodičovská křestní jména čitelné",
-          "r": 1801
+          "p": "otec při narození dítěte Josef <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1801,
+          "rod": "o"
         },
         {
           "d": "7. / 8. 1. 1801",
           "j": "Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Josef <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1801,
-          "rod": "o"
+          "p": "narození / křest; dům, den a rodičovská křestní jména čitelné",
+          "r": 1801
         },
         {
           "d": "18. 9. 1802; křest téhož dne",
@@ -1320,6 +1327,20 @@ window.MAPA_DATA = {
           "h": 1,
           "c": "Zahrádka · zemědělský pomocník v hospodářství majitele bytu",
           "r": 1921
+        },
+        {
+          "d": "17. / 19. 4. 1925",
+          "j": "Kateřina Kudrnová",
+          "p": "vdova a výminkářka v čp. 2; zemřela ve věku 79 let, 4 měsíců a 4 dní",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/229\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 229</a>",
+          "r": 1925
+        },
+        {
+          "d": "5. / 7. 10. 1926",
+          "j": "František Kudrna",
+          "p": "zemřel přímo v čp. 2 ve věku 51 let, 11 měsíců a 20 dní na rakovinu žaludku",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/234\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 234</a>",
+          "r": 1926
         },
         {
           "d": "15. 7. 1928",
@@ -1799,15 +1820,15 @@ window.MAPA_DATA = {
         {
           "d": "24. / 25. 1. 1864",
           "j": "František Plášil",
-          "p": "otec při narození dítěte František Plášil",
-          "r": 1864,
-          "rod": "o"
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "r": 1864
         },
         {
           "d": "24. / 25. 1. 1864",
           "j": "František Plášil",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
-          "r": 1864
+          "p": "otec při narození dítěte František Plášil",
+          "r": 1864,
+          "rod": "o"
         },
         {
           "d": "22. 1. 1867; pokřtěn téhož dne",
@@ -1831,7 +1852,7 @@ window.MAPA_DATA = {
         },
         {
           "d": "16. / 17. 8. 1868",
-          "j": "Anna",
+          "j": "Anna rozená Charvátová",
           "p": "matka při narození dítěte Rosalie Plášilová",
           "r": 1868,
           "rod": "m"
@@ -1846,7 +1867,7 @@ window.MAPA_DATA = {
         {
           "d": "16. / 17. 8. 1868",
           "j": "Rosalie Plášilová",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; oddací zápis z roku 1888 doplňuje matčino rodné příjmení a spojuje Rosalii s pozdějším chalupníkem Janem Svobodou v čp. 7",
           "r": 1868
         },
         {
@@ -1908,6 +1929,14 @@ window.MAPA_DATA = {
           "p": "otec při narození dítěte Marie <span class=\"nej\">[příjmení neuvedeno]</span>",
           "r": 1878,
           "rod": "o"
+        },
+        {
+          "d": "narozena 4., pokřtěna 6. 12. 1888; zemřela 30. 12. 1888, pohřbena 1. 1. 1889",
+          "j": "Marie Svobodová",
+          "p": "dcera truhláře Jana Svobody a Rozalie rozené Plášilové v čp. 3; zemřela ve věku 27 dní na psotník. Oba zápisy vymezují nejstarší přesný pobyt rodiny po sňatku a před pozdějším čp. 7",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/97\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 97</a>, <a href=\"https://digi.ceskearchivy.cz/11214/46\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 46</a>",
+          "r": 1888,
+          "rr": 1889
         },
         {
           "d": "1921 (sčítací arch)",
@@ -2214,15 +2243,15 @@ window.MAPA_DATA = {
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
-          "r": 1863
+          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1863,
+          "rod": "o"
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
           "j": "Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Matěj <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1863,
-          "rod": "o"
+          "p": "narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní",
+          "r": 1863
         },
         {
           "d": "31. 8. 1863; pokřtěn téhož dne",
@@ -2330,6 +2359,13 @@ window.MAPA_DATA = {
           "p": "otec při narození dítěte Marie Mrázková (?)",
           "r": 1879,
           "rod": "o"
+        },
+        {
+          "d": "2. / 4. 7. 1915",
+          "j": "Kateřina Markvartová",
+          "p": "zemřela přímo v čp. 4 ve věku 73 let, 4 měsíců a 25 dní",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/182\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 182</a>",
+          "r": 1915
         },
         {
           "d": "31. 5. 1921",
@@ -2726,15 +2762,15 @@ window.MAPA_DATA = {
         {
           "d": "12. 2. 1852; den křtu neuveden",
           "j": "Josef Nuník (?)",
-          "p": "narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení",
-          "r": 1852
+          "p": "otec při narození dítěte Josef Nuník (?)",
+          "r": 1852,
+          "rod": "o"
         },
         {
           "d": "12. 2. 1852; den křtu neuveden",
           "j": "Josef Nuník (?)",
-          "p": "otec při narození dítěte Josef Nuník (?)",
-          "r": 1852,
-          "rod": "o"
+          "p": "narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení",
+          "r": 1852
         },
         {
           "d": "12. 2. 1852; den křtu neuveden",
@@ -2929,17 +2965,17 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Růž",
-          "p": "majitel bytu; přednosta domácnosti",
+          "p": "syn; svobodný",
           "h": 1,
-          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
+          "c": "Zahrádka · žák obecné školy v Pošné",
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonín Růž",
-          "p": "syn; svobodný",
+          "p": "majitel bytu; přednosta domácnosti",
           "h": 1,
-          "c": "Zahrádka · žák obecné školy v Pošné",
+          "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
         },
         {
@@ -3005,6 +3041,13 @@ window.MAPA_DATA = {
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/160\" target=\"_blank\" rel=\"noopener\">sn. 160</a>, <a href=\"https://digi.ceskearchivy.cz/6624/212\" target=\"_blank\" rel=\"noopener\">sn. 212</a>",
           "r": 1921,
           "rr": 1929
+        },
+        {
+          "d": "15. / 17. 12. 1925",
+          "j": "Antonie Vaňková",
+          "p": "manželka Františka Vaňka v čp. 5; zemřela ve věku 65 let, 6 měsíců a 2 dní",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/231\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 231</a>",
+          "r": 1925
         },
         {
           "d": "1929 a 3. 2. 1934",
@@ -3851,6 +3894,13 @@ window.MAPA_DATA = {
           "r": 1921
         },
         {
+          "d": "10. / 12. 1. 1925",
+          "j": "Ladislav Chab",
+          "p": "dítě zemřelé v čp. 6 ve věku 10 let, 5 měsíců a 19 dní",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/228\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 228</a>",
+          "r": 1925
+        },
+        {
           "d": "24. 4. 1926",
           "j": "Josef Svoboda",
           "p": "tesař v č. 6, svědek",
@@ -3863,6 +3913,13 @@ window.MAPA_DATA = {
           "p": "bytem v č. 6, narozena v č. 3; nevěsta",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/193\" target=\"_blank\" rel=\"noopener\">sn. 193</a>",
           "r": 1926
+        },
+        {
+          "d": "16. / 18. 7. 1926",
+          "j": "Antonie Plášilová",
+          "p": "zemřela přímo v čp. 6 ve věku 69 let, 2 měsíců a 13 dní",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/234\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 234</a>",
+          "r": 1926
         }
       ],
       "rozsah": "1797–1926"
@@ -3872,11 +3929,10 @@ window.MAPA_DATA = {
       "nazev": "N7 / čp. 7",
       "osoby": [
         {
-          "d": "1788–1796 (přesný rok zatím nepřepsán)",
+          "d": "9. / 10. 10. 1790",
           "j": "Václav Pícha",
-          "p": "narození; dům v dobovém rejstříku; dům potvrzen v zápisovém řádku",
-          "r": 1788,
-          "rr": 1796
+          "p": "narození; dům v dobovém rejstříku; zápis z 22. 4. 1790; legitimní syn Matěje Píchy a Kateřiny; dům potvrzen v zápisovém řádku",
+          "r": 1790
         },
         {
           "d": "17. 10. 1797; křest téhož dne",
@@ -3934,15 +3990,15 @@ window.MAPA_DATA = {
         {
           "d": "20. / 21. 8. 1809",
           "j": "František (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte František (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1809,
-          "rod": "o"
+          "p": "narození / křest; dům a datum čitelné; jména pracovní",
+          "r": 1809
         },
         {
           "d": "20. / 21. 8. 1809",
           "j": "František (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; dům a datum čitelné; jména pracovní",
-          "r": 1809
+          "p": "otec při narození dítěte František (?) <span class=\"nej\">[příjmení nejasné]</span>",
+          "r": 1809,
+          "rod": "o"
         },
         {
           "d": "20. / 21. 8. 1809",
@@ -3954,14 +4010,14 @@ window.MAPA_DATA = {
         {
           "d": "26. / 27. 10. 1811",
           "j": "Jan Plášil (?)",
-          "p": "otec při narození dítěte Kateřina <span class=\"nej\">[příjmení nejasné; pravděpodobně dvojče]</span>",
+          "p": "otec při narození dítěte Václav <span class=\"nej\">[příjmení nejasné; pravděpodobně dvojče]</span>",
           "r": 1811,
           "rod": "o"
         },
         {
           "d": "26. / 27. 10. 1811",
           "j": "Jan Plášil (?)",
-          "p": "otec při narození dítěte Václav <span class=\"nej\">[příjmení nejasné; pravděpodobně dvojče]</span>",
+          "p": "otec při narození dítěte Kateřina <span class=\"nej\">[příjmení nejasné; pravděpodobně dvojče]</span>",
           "r": 1811,
           "rod": "o"
         },
@@ -4112,6 +4168,22 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "oddán 17. 5. 1841; doložen v čp. 7 roku 1845, 1848 a rodovým údajem roku 1886; zemřel před 2. 3. 1893",
+          "j": "Josef Bartů",
+          "p": "chalupník a později uváděný rolník v čp. 7, manžel ovdovělé Anny Píchové, rozené Součkové, a otec Marie, Anny i pozdějšího rolníka Jana; úmrtní zápis manželky ji roku 1893 vede už jako vdovu",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6623/74\" target=\"_blank\" rel=\"noopener\">sňatek, sn. 74</a>, <a href=\"https://digi.ceskearchivy.cz/6621/308\" target=\"_blank\" rel=\"noopener\">narození Marie, sn. 309</a>, <a href=\"https://digi.ceskearchivy.cz/6621/312\" target=\"_blank\" rel=\"noopener\">narození Anny, sn. 313</a>, <a href=\"https://digi.ceskearchivy.cz/11210/75\" target=\"_blank\" rel=\"noopener\">narození Janovy dcery, sn. 75</a>, <a href=\"https://digi.ceskearchivy.cz/11214/70\" target=\"_blank\" rel=\"noopener\">úmrtí manželky, sn. 70</a>",
+          "r": 1841,
+          "rr": 1893
+        },
+        {
+          "d": "oddána 17. 5. 1841; doložena v čp. 7 roku 1845 a 1848; zemřela 2., pohřbena 4. 3. 1893",
+          "j": "Anna Bartů, rozená Součková, dříve provdaná Píchová",
+          "p": "dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova Píchová, poté jeho manželka a matka Marie a Anny v čp. 7; později tamtéž výminkářka a vdova",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6623/74\" target=\"_blank\" rel=\"noopener\">sňatek, sn. 74</a>, <a href=\"https://digi.ceskearchivy.cz/6621/308\" target=\"_blank\" rel=\"noopener\">narození Marie, sn. 309</a>, <a href=\"https://digi.ceskearchivy.cz/6621/312\" target=\"_blank\" rel=\"noopener\">narození Anny, sn. 313</a>, <a href=\"https://digi.ceskearchivy.cz/11214/70\" target=\"_blank\" rel=\"noopener\">úmrtí, sn. 70</a>",
+          "r": 1841,
+          "rr": 1893
+        },
+        {
           "d": "13. / 14. 2. 1842",
           "j": "Martin (?) <span class=\"nej\">[další jména a příjmení nejasné]</span>",
           "p": "narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti",
@@ -4119,34 +4191,135 @@ window.MAPA_DATA = {
         },
         {
           "d": "8. / 9. 1. 1845",
-          "j": "Marie Barta (?)",
-          "p": "narození / křest; dům a oba dny bezpečné; příjmení je pracovní čtení",
-          "r": 1845
-        },
-        {
-          "d": "9. / 10. 5. 1848",
-          "j": "Anna",
-          "p": "matka při narození dítěte Anna (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "r": 1848,
+          "j": "Anna rozená Součková",
+          "p": "matka při narození dítěte Marie Bartů",
+          "r": 1845,
           "rod": "m"
         },
         {
-          "d": "9. / 10. 5. 1848",
-          "j": "Anna (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "narození / křest; první jméno dítěte a rodičů, dům a oba dny bezpečné; příjmení zůstává otevřené",
-          "r": 1848
+          "d": "8. / 9. 1. 1845",
+          "j": "Josef Bartů",
+          "p": "otec při narození dítěte Marie Bartů",
+          "r": 1845,
+          "rod": "o"
         },
         {
-          "d": "9. / 10. 5. 1848",
-          "j": "Josef (?) <span class=\"nej\">[příjmení nejasné]</span>",
-          "p": "otec při narození dítěte Anna (?) <span class=\"nej\">[příjmení nejasné]</span>",
+          "d": "8. / 9. 1. 1845",
+          "j": "Marie Bartů",
+          "p": "narození / křest; dcera chalupníka v N7; obrazová kontrola rodičů a navazující úmrtní zápis matky uzavírají dřívější pracovní čtení příjmení",
+          "r": 1845
+        },
+        {
+          "d": "9. / 10. 5. 1848; zemřela 31. 3. 1851",
+          "j": "Anna Bartů",
+          "p": "narození / křest; dcera chalupníka v N7; rodiče potvrzuje shodný zápis sestry Marie, datum úmrtí je přímo v pozdějším přípisu rodného zápisu",
           "r": 1848,
+          "rr": 1851
+        },
+        {
+          "d": "9. / 10. 5. 1848; zemřela 31. 3. 1851",
+          "j": "Anna rozená Součková",
+          "p": "matka při narození dítěte Anna Bartů",
+          "r": 1848,
+          "rr": 1851,
+          "rod": "m"
+        },
+        {
+          "d": "9. / 10. 5. 1848; zemřela 31. 3. 1851",
+          "j": "Josef Bartů",
+          "p": "otec při narození dítěte Anna Bartů",
+          "r": 1848,
+          "rr": 1851,
           "rod": "o"
+        },
+        {
+          "d": "narozen 26. 7. 1862; oddán 30. 10. 1888; dcera narozená 4. 12. a zemřelá 30. 12. 1888; zemřel 16., pohřben 19. 6. 1913",
+          "j": "Jan Svoboda",
+          "p": "při sňatku truhlář v Bratřicích čp. 32; do prosince 1888 truhlář v čp. 3 a otec Marie. Později chalupník v čp. 7; zemřel na rakovinu žaludku. Datum narození se shodně odvozuje z oddacího i úmrtního zápisu, přímý rodný zápis zatím nalezen nebyl",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6624/32\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 32</a>, <a href=\"https://digi.ceskearchivy.cz/11210/97\" target=\"_blank\" rel=\"noopener\">narození dcery, sn. 97</a>, <a href=\"https://digi.ceskearchivy.cz/11214/46\" target=\"_blank\" rel=\"noopener\">úmrtí dcery, sn. 46</a>, <a href=\"https://digi.ceskearchivy.cz/11214/172\" target=\"_blank\" rel=\"noopener\">vlastní úmrtí, sn. 172</a>",
+          "r": 1862,
+          "rr": 1913
+        },
+        {
+          "d": "narozena 16., pokřtěna 17. 8. 1868; oddána 30. 10. 1888; dcera narozená 4. 12. a zemřelá 30. 12. 1888; jako Janova manželka doložena roku 1913",
+          "j": "Rozalie Svobodová, rozená Plášilová",
+          "p": "narodila se v čp. 3 Františku Plášilovi a Anně rozené Charvátové; při sňatku i narození dcery byla spojena s čp. 3. Manželův úmrtní zápis ji roku 1913 spojuje s chalupnickou domácností čp. 7; její další osud zatím není doložen",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/6621/336\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 337</a>, <a href=\"https://digi.ceskearchivy.cz/6624/32\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 32</a>, <a href=\"https://digi.ceskearchivy.cz/11210/97\" target=\"_blank\" rel=\"noopener\">narození dcery, sn. 97</a>, <a href=\"https://digi.ceskearchivy.cz/11214/46\" target=\"_blank\" rel=\"noopener\">úmrtí dcery, sn. 46</a>, <a href=\"https://digi.ceskearchivy.cz/11214/172\" target=\"_blank\" rel=\"noopener\">úmrtí manžela, sn. 172</a>",
+          "r": 1868,
+          "rr": 1913
+        },
+        {
+          "d": "doložen 10. 10. 1886 a 18. 4. 1889",
+          "j": "Jan Bartů",
+          "p": "rolník v čp. 7; syn Josefa Bartů, rolníka tamtéž, a Anny rozené Součkové ze Zlátenky čp. 8; manžel Marie Žemličkové a otec dvou dcer, z nichž mladší se narodila mrtvá",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/75\" target=\"_blank\" rel=\"noopener\">rodná matrika dcery, sn. 75</a>, <a href=\"https://digi.ceskearchivy.cz/11214/49\" target=\"_blank\" rel=\"noopener\">úmrtní matrika mrtvě narozené dcery, sn. 49</a>",
+          "r": 1886,
+          "rr": 1889
+        },
+        {
+          "d": "doložena 10. 10. 1886 a 18. 4. 1889",
+          "j": "Marie Bartů, rozená Žemličková",
+          "p": "manželka rolníka Jana Bartů; dcera Jana Žemličky, rolníka v Roučkovicích čp. 11, a Marie; matka dvou doložených dcer",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/75\" target=\"_blank\" rel=\"noopener\">rodná matrika dcery, sn. 75</a>, <a href=\"https://digi.ceskearchivy.cz/11214/49\" target=\"_blank\" rel=\"noopener\">úmrtní matrika mrtvě narozené dcery, sn. 49</a>",
+          "r": 1886,
+          "rr": 1889
+        },
+        {
+          "d": "narozena a pokřtěna 10. 10. 1886",
+          "j": "nepojmenovaná dcera Jana Bartů",
+          "p": "dcera rolníka Jana Bartů a Marie rozené Žemličkové; zápis přes oba rodiče přímo spojuje mladší domácnost se staršími Bartů a Součkovými v čp. 7",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/75\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 75</a>",
+          "r": 1886
+        },
+        {
+          "d": "narozen 15., pokřtěn 18. 3. 1889; oddán 3. 7. 1918",
+          "j": "Josef Pachta",
+          "p": "narodil se v čp. 11 jako syn Františka Pachty, tehdy domkáře v čp. 14, a Anny rozené Zálohové; roku 1918 už byl rolníkem v čp. 7 a oženil se s Antonií Kejvalovou od rodičů z čp. 10, narozenou 21. 5. 1899. Je to táž dvojice, která vede domácnost čp. 7 ve sčítání 1921; obě sčítací data narození jsou chybná",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/99\" target=\"_blank\" rel=\"noopener\">narození Josefa, sn. 99</a>, <a href=\"https://digi.ceskearchivy.cz/11210/206\" target=\"_blank\" rel=\"noopener\">narození Antonie, sn. 206</a>, <a href=\"https://digi.ceskearchivy.cz/6624/147\" target=\"_blank\" rel=\"noopener\">sňatek, sn. 147</a>",
+          "r": 1889,
+          "rr": 1918
+        },
+        {
+          "d": "18. / 20. 4. 1889",
+          "j": "mrtvě narozená dcera Jana Bartů a Marie",
+          "p": "dcera rolníka Jana Bartů a Marie rozené Žemličkové z Roučkovic; zemřela při porodu",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/49\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 49</a>, <a href=\"https://digi.ceskearchivy.cz/11210/75\" target=\"_blank\" rel=\"noopener\">srovnávací rodný zápis sestry, sn. 75</a>",
+          "r": 1889
+        },
+        {
+          "d": "narozen 17., pokřtěn 18. 2. 1892; oddán 15. 10. 1917",
+          "j": "Jan Pachta",
+          "p": "mladší syn Františka Pachty a Anny rozené Zálohové, narozený v čp. 14. Při sňatku bydlel jako obuvník v čp. 7 a současně sloužil u c. a k. horského dělostřeleckého pluku č. 22 v Aradu v Uhrách; oženil se s Ludmilou Pěchovou. Oddací poznámka uvádí narození 14. 2., rodný zápis 17. 2., proto se přednostně přebírá rodný zápis",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/129\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 129</a>, <a href=\"https://digi.ceskearchivy.cz/6624/146\" target=\"_blank\" rel=\"noopener\">oddací matrika, sn. 146</a>",
+          "r": 1892,
+          "rr": 1917
+        },
+        {
+          "d": "30. 12. 1914 / 7. 1. 1915",
+          "j": "Marie Novotná, rozená Fraňková",
+          "p": "manželka nádeníka Josefa Novotného v čp. 7; pocházela z Dobré Vody čp. 5, zemřela ve věku 66 let, 4 měsíců a 10 dní na rakovinu dělohy",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/179\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 179</a>",
+          "r": 1914,
+          "rr": 1915
+        },
+        {
+          "d": "3. / 6. 10. 1917",
+          "j": "Anna Pachtová",
+          "p": "manželka chalupníka Františka Pachty v čp. 7; rozená Zálohová (?) z Velkých Outěchovic čp. 24; zemřela ve věku 62 let, 9 měsíců a 16 dní na zápal plic",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/191\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 191</a>",
+          "r": 1917
+        },
+        {
+          "d": "28. / 30. 10. 1917",
+          "j": "František Pachta",
+          "p": "chalupník v čp. 7, vdovec po Anně; narozen v čp. 7, zemřel ve věku 60 let, 11 měsíců a 13 dní na zápal plic",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/191\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 191</a>",
+          "r": 1917
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Moravcová (?)",
-          "p": "členka domácnosti; vztah nejasný",
+          "p": "členka domácnosti; vztah nejasný; narozena 10. 11. 1873",
           "h": 1,
           "c": "Samšín · zemědělská pomocnice v hospodářství majitele bytu",
           "r": 1921
@@ -4154,7 +4327,7 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Antonie Pachtová",
-          "p": "manželka",
+          "p": "manželka; narozena 1. 4. 1892",
           "h": 1,
           "c": "Zahrádka · práce v domácnosti",
           "r": 1921
@@ -4162,7 +4335,7 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Josef Pachta",
-          "p": "majitel bytu; přednosta domácnosti",
+          "p": "majitel bytu; přednosta domácnosti; narozen 15. 11. 1889",
           "h": 1,
           "c": "Zahrádka · samostatný rolník; vlastní hospodářství",
           "r": 1921
@@ -4170,13 +4343,13 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Pachtová",
-          "p": "dcera; svobodná",
+          "p": "dcera; svobodná; narozena 27. 5. 1919",
           "h": 1,
           "c": "Zahrádka · bez povolání; dítě",
           "r": 1921
         }
       ],
-      "rozsah": "1788–1921"
+      "rozsah": "1790–1921"
     },
     {
       "klic": "8",
@@ -6858,25 +7031,26 @@ window.MAPA_DATA = {
           "r": 1847
         },
         {
-          "d": "doložen 12. 12. 1847",
-          "j": "Leopold <span class=\"nej\">[příjmení nepřepsáno]</span>",
-          "p": "otec Josefa; adresní posloupnost: Zahrádka N11",
-          "z": "ZAH-0190; tentýž zápis jako ZAH-0189",
+          "d": "doložen 12. 8. 1847",
+          "j": "Leopold Remeš",
+          "p": "nádeník; otec Josefa Remeše; adresní posloupnost: Zahrádka N11",
+          "z": "ZAH-0190; tentýž rodný zápis jako ZAH-0189",
           "r": 1847
         },
         {
-          "d": "doložena 12. 12. 1847",
-          "j": "Marie, manželka Leopolda",
-          "p": "matka Josefa; adresní posloupnost: rodina v Zahrádce N11",
-          "z": "ZAH-0191; tentýž zápis jako ZAH-0189",
+          "d": "doložena 12. 8. 1847",
+          "j": "Marie, manželka Leopolda Remeše",
+          "p": "matka Josefa Remeše; adresní posloupnost: rodina na Zahrádce N11",
+          "z": "ZAH-0191; tentýž rodný zápis jako ZAH-0189",
           "r": 1847
         },
         {
-          "d": "narozen 12. 12. 1847; den křtu neuveden",
-          "j": "Josef <span class=\"nej\">[příjmení nepřepsáno]</span>",
-          "p": "narození; adresní posloupnost: Zahrádka N11",
-          "z": "ZAH-0189; <a href=\"https://digi.ceskearchivy.cz/6621/311\" target=\"_blank\" rel=\"noopener\">originál, snímek 312</a>",
-          "r": 1847
+          "d": "narozen 12. 8. 1847; zemřel 19., pohřben 22. 5. 1918",
+          "j": "Josef Remeš",
+          "p": "narození; později <b>hostinský v Pošné čp. 39</b>; adresní posloupnost: narozen na Zahrádce N11; později Pošná čp. 39",
+          "z": "ZAH-0189; <a href=\"https://digi.ceskearchivy.cz/6621/311\" target=\"_blank\" rel=\"noopener\">narození, snímek 312</a>, <a href=\"https://digi.ceskearchivy.cz/11214/195\" target=\"_blank\" rel=\"noopener\">úmrtí, snímek 195</a>",
+          "r": 1847,
+          "rr": 1918
         },
         {
           "d": "narozena 10. 12. 1848, pokřtěna 11. 12. 1848",
@@ -7631,6 +7805,14 @@ window.MAPA_DATA = {
           "p": "narození a křest; adresní posloupnost: Zahrádka č. 11",
           "z": "ZAH-0117; <a href=\"https://digi.ceskearchivy.cz/11210/63\" target=\"_blank\" rel=\"noopener\">originál, snímek 63</a>",
           "r": 1885
+        },
+        {
+          "d": "narozen 15., pokřtěn 18. 3. 1889; oddán 3. 7. 1918; sčítání 1921",
+          "j": "Josef Pachta",
+          "p": "narození; později majitel domu a samostatný rolník v čp. 7; adresní posloupnost: narozen na Zahrádce č. 11; otec tehdy domkář v č. 14; od roku 1918 doložen jako rolník v č. 7",
+          "z": "ZAH-0242; <a href=\"https://digi.ceskearchivy.cz/11210/99\" target=\"_blank\" rel=\"noopener\">narození Josefa, snímek 99</a>, <a href=\"https://digi.ceskearchivy.cz/11210/206\" target=\"_blank\" rel=\"noopener\">narození Antonie, snímek 206</a>, <a href=\"https://digi.ceskearchivy.cz/6624/147\" target=\"_blank\" rel=\"noopener\">oddací matrika, snímek 147</a>",
+          "r": 1889,
+          "rr": 1921
         },
         {
           "d": "1890",
@@ -10303,6 +10485,13 @@ window.MAPA_DATA = {
           "r": 1894
         },
         {
+          "d": "24. / 27. 4. 1915",
+          "j": "Josef Kejval",
+          "p": "zemřel přímo v čp. 16 ve věku 84 let",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/180\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 180</a>",
+          "r": 1915
+        },
+        {
           "d": "1. 2. 1921",
           "j": "Anna Kejvalová, provdaná Plášilová",
           "p": "nevěsta ze Zahrádky č. 16, narozena 22. 5. 1890",
@@ -10945,6 +11134,13 @@ window.MAPA_DATA = {
           "rod": "o"
         },
         {
+          "d": "18. / 21. 10. 1918",
+          "j": "Marie Plášilová",
+          "p": "dítě zemřelé v čp. 17 ve věku 4 let, 7 měsíců a 22 dní na chřipku",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/197\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 197</a>",
+          "r": 1918
+        },
+        {
           "d": "1921 (sčítací arch)",
           "j": "Anna Nováková",
           "p": "manželka",
@@ -11576,6 +11772,20 @@ window.MAPA_DATA = {
           "r": 1922
         },
         {
+          "d": "zemřel 26., pohřben 29. 3. 1923",
+          "j": "Josef Vacík",
+          "p": "novorozený syn truhláře Josefa Vacíka a Marie rozené Kratochvílové v čp. 18; dvojče Jiřiny",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/221\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 221</a>",
+          "r": 1923
+        },
+        {
+          "d": "zemřela 26., pohřbena 29. 3. 1923",
+          "j": "Jiřina Vacíková",
+          "p": "novorozená dcera týchž rodičů v čp. 18; dvojče Josefa",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/221\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 221</a>",
+          "r": 1923
+        },
+        {
           "d": "24. 11. 1928",
           "j": "Josef Vacík",
           "p": "truhlář v č. 18, svědek. Roku 1929 je Josef Vacík doložen jako zemědělský dělník v č. 11 — bez dalšího dokladu se obě zmínky neslučují",
@@ -12009,17 +12219,17 @@ window.MAPA_DATA = {
         {
           "d": "31. 12. 1879 / 1. 1. 1880",
           "j": "Josef Kaňka",
-          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen u Jana roku 1878",
-          "r": 1879,
-          "rr": 1880
-        },
-        {
-          "d": "31. 12. 1879 / 1. 1. 1880",
-          "j": "Josef Kaňka",
           "p": "otec při narození dítěte Josef Kaňka",
           "r": 1879,
           "rr": 1880,
           "rod": "o"
+        },
+        {
+          "d": "31. 12. 1879 / 1. 1. 1880",
+          "j": "Josef Kaňka",
+          "p": "narození / křest; dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N19 doložen u Jana roku 1878",
+          "r": 1879,
+          "rr": 1880
         },
         {
           "d": "31. 12. 1879 / 1. 1. 1880",
@@ -12120,6 +12330,13 @@ window.MAPA_DATA = {
           "p": "dcera Josefa Vaňka, narozena 6. 11. 1900; provdána za průvodčího vlaků do Ústí nad Labem",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6624/185\" target=\"_blank\" rel=\"noopener\">sn. 185</a>",
           "r": 1924
+        },
+        {
+          "d": "5. / 7. 7. 1926",
+          "j": "Marie Vaňková",
+          "p": "dítě zemřelé v čp. 19 dva dny po narození",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/233\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 233</a>",
+          "r": 1926
         },
         {
           "d": "16. 11. 1929",
@@ -13477,6 +13694,20 @@ window.MAPA_DATA = {
           "p": "syn; svobodný",
           "h": 1,
           "r": 1921
+        },
+        {
+          "d": "22. / 24. 10. 1922",
+          "j": "Alois Horáček",
+          "p": "zemřel přímo v čp. 22 ve věku 46 let",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/218\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 218</a>",
+          "r": 1922
+        },
+        {
+          "d": "13. / 15. 8. 1924",
+          "j": "Jan Matoušek",
+          "p": "krejčovský pomocník v čp. 22, syn dělníka Ladislava Matouška tamtéž; narodil se 11. 12. 1904 v Adamově čp. 3 a zemřel ve věku 19 let, 8 měsíců a 2 dní na plicní tuberkulózu",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/226\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 226</a>",
+          "r": 1924
         },
         {
           "d": "11. 6. 1935",
