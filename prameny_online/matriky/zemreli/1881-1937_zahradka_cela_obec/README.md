@@ -1,6 +1,6 @@
 # Úmrtní matrika Pošná 1881–1937: úplný adresní průchod Zahrádkou
 
-Stav k 6. 8. 2026. Jde o pracovní protokol ke knize SOA Třeboň **11214**,
+Stav k 8. 8. 2026. Jde o pracovní protokol ke knize SOA Třeboň **11214**,
 nikoli o náhradu kánonického registru. Do registru se přebírají jen obrazově
 bezpečné řádky; nejistá čtení zůstávají zde.
 
@@ -24,7 +24,7 @@ Přímý vstup do knihy: [SOA Třeboň, kniha 11214](https://digi.ceskearchivy.c
 
 | Rok | Osoba / rodina | Co je bezpečně doloženo | Pramen |
 |---:|---|---|---|
-| 1841 | Josef Bartů a Anna, rozená Součková, ovdovělá Píchová | vzali se 17. 5.; nevěsta už byla vdovou a zápis ji vede pod příjmením Píchová, rodový údaj ale jmenuje otce Matěje Součka a Zlátenku, shodně s pozdější rodinou v čp. 7 | [oddací kniha 6623, sn. 74](https://digi.ceskearchivy.cz/6623/74) |
+| 1841 | Josef Bartů a Anna, rozená Součková, ovdovělá po Vavřinci Píchovi | vzali se 17. 5.; zápis nevěstu vede jako `Annu Píchovou, vdovu po † Lorenzovi Píchovi`. Rodový údaj jmenuje otce Matěje Součka a Zlátenku, shodně s pozdější rodinou v čp. 7 | [oddací kniha 6623, sn. 74](https://digi.ceskearchivy.cz/6623/74) |
 | 1845 | Josef a Anna Bartů, dcera Marie | Marie se narodila 8. 1. a byla pokřtěna 9. 1. v čp. 7; otec Josef byl chalupník, matka Anna je rozená Součková | [rodná kniha 6621, sn. 309](https://digi.ceskearchivy.cz/6621/308) |
 | 1848–1851 | Josef a Anna Bartů, dcera Anna | Anna se narodila 9. 5. a byla pokřtěna 10. 5. v čp. 7; pozdější přípis v témže zápisu uvádí úmrtí 31. 3. 1851 | [rodná kniha 6621, sn. 313](https://digi.ceskearchivy.cz/6621/312) |
 | 1862/1868–1888 | Jan Svoboda a Rozalie Plášilová | Jan se narodil 26. 7. 1862 a roku 1888 byl truhlářem v Bratřicích čp. 32; Rozalie se narodila 16. 8. 1868 v čp. 3 Františku Plášilovi a Anně rozené Charvátové. Vzali se 30. 10. 1888 | [narození Rozalie, sn. 337](https://digi.ceskearchivy.cz/6621/336), [sňatek, sn. 32](https://digi.ceskearchivy.cz/6624/32) |
@@ -58,7 +58,10 @@ jako **Annu Píchovou, vdovu**, ale v rodovém údaji současně jmenuje jejího
 zápisech, roku 1886 už s přesným domem Zlátenka čp. 8.
 
 Anna tedy před Josefem Bartů už jednou vstoupila do manželství; příjmení
-Píchová je vdovské. První manžel a jeho osud zůstávají otevřené. Oddací věk
+Píchová je vdovské. Nové zvětšení celého řádku bezpečně přečetlo dosud
+přehlédnuté jméno prvního manžela: byl to **Vavřinec Pícha**, zapsaný jako
+`† Lorenz Pícha`. Jejich sňatek, Vavřincovo úmrtí a případné děti zůstávají
+otevřené. Oddací věk
 37½ roku navíc míří k narození kolem roku 1803/1804, zatímco věk 79 let při
 úmrtí roku 1893 by mířil přibližně k roku 1814. Přímé narození zatím nebylo
 bezpečně nalezeno, takže se rozpor věků nezakrývá aritmetickým odhadem.
@@ -77,6 +80,14 @@ nevylučuje to sňatek ani pobyt v jiné farnosti. Starší rodný zápis z
 [22. 4. 1790](https://digi.ceskearchivy.cz/6619/13) navíc dokládá v N7 Václava
 Píchu, syna Matěje Píchy a Kateřiny, ale přímé příbuzenství s Anniným prvním
 manželem z něj nelze dovodit.
+
+Elektronický rejstřík byl následně projit na všech třinácti stranách dotazu
+`Pícha` pro léta 1795–1841, celkem **129 výsledků**. Neobsahuje odpovídající
+úmrtí Vavřince Píchy ani sňatek s Annou Součkovou; jediný Vavřinec Pícha v
+tomto výstupu je narozený roku 1805 v Doňově a stejně zapsané úmrtí roku 1805
+v Doňově, tedy jiný a místně vzdálený případ. Protože je elektronický rejstřík
+dílčí, jde o negativní audit veřejně indexovaných záznamů, nikoli o důkaz, že
+Vavřincův zápis neexistuje.
 
 ### Vyřešená totožnost Josefa a Antonie Pachtových
 
@@ -153,6 +164,24 @@ nalezen nebyl. Staženo a vyhodnoceno bylo všech 158 elektronických výsledků
 patří jiným párům. Přímý pramen proto zatím bezpečně dokládá jen Mariin původ
 z Dobré Vody čp. 5, manžela nádeníka Josefa Novotného v čp. 7 a její úmrtí.
 
+## Priorita čp. 25: Marie Petrů
+
+[Úmrtní zápis na snímku 243](https://digi.ceskearchivy.cz/11214/243) uvádí,
+že vdova **Marie Petrů, rozená Charousová**, zemřela 24. 2. 1929 přímo na
+Zahrádce v čp. 25 a byla pohřbena 26. 2. Bylo jí 81 let, 6 měsíců a 1 den a
+příčinou byla sešlost věkem (`marasmus senilis`). Zápis ji vede jako vdovu po
+dělníku Josefu Petrů ve Stanovicích a připisuje narození 23. 8. 1847.
+
+Zvětšení [rejstříku na snímku 290](https://digi.ceskearchivy.cz/11214/290)
+opravilo starší pracovní čtení `Plášil Marie`: řádek zní **Petrů Marie,
+vdova, Zahrádka 25**, datum 24. 2., rukopisná strana 240. Přímá kontrola
+srpna 1847 v rodné knize Nové Cerekve 5 ani veřejný elektronický rejstřík
+zatím nenašly odpovídající křest. Jediný elektronicky indexovaný sňatek
+Josefa Petrů ve Stanovicích roku 1881 na snímku 125 patří jiné, výrazně
+mladší nevěstě Marii Pelíškové, a proto se s Marií z čp. 25 neslučuje.
+V domácnosti Kadlecových roku 1921 Marie Petrů nebyla; důvod jejího pozdějšího
+pobytu v domě zůstává otevřený.
+
 ## Priorita čp. 11: nový životní osud mimo dům
 
 ### Josef Remeš
@@ -186,18 +215,25 @@ tedy podloženo pozitivním pošenským zápisem, nikoli jen vylučováním jmen
   Domnělé úmrtí Marie Nosové z roku 1914 patří jiné osobě.
 - V pošenské oddací knize 6623 byly obrazově prohlédnuty snímky 120–155, tedy
   místní sňatky let 1861–1880. Hledaný pár v nich není.
-- Původní rukopisný rejstřík úmrtní knihy 11214 na snímcích 275–297 Josefa
-  Remeše vůbec neuvádí. Jeho úplný zápis na snímku 195 proto zároveň dokládá,
-  že tento rejstřík není úplný.
+- Původní rukopisný [rejstřík na snímku 277](https://digi.ceskearchivy.cz/11214/277)
+  obsahuje pod písmenem B položku `Beneš Josef, hostinský, Pošná 39`, datum
+  19. 5. a odkaz na rukopisnou stranu 193. Odkaz však vede přímo na úplný
+  [zápis Josefa Remeše](https://digi.ceskearchivy.cz/11214/195). Rejstřík tedy
+  Josefa nevynechal beze stopy, ale chybně jej zařadil pod příjmením Beneš.
+  Současně proto nelze tuto položku vydávat za úmrtí skutečného hostinského
+  Josefa Beneše.
 - Všechny následující záznamové snímky 195–274, tedy od Josefova úmrtí do konce
   veřejné knihy roku 1937, byly znovu prohlédnuty řádek po řádku. Další bezpečný
   zápis Remeše nebo Remešové v nich není. U Marie proto zůstávají otevřené tři
   možnosti: zemřela jinde, odstěhovala se, nebo přežila konec knihy.
 - [Sčítací operát Pošné 1921](https://www.mza.cz/scitacioperaty/digisada/detail/13101)
   vede v čp. 39 domácnost ovdovělé majitelky Marie Benešové a jejích čtyř dětí,
-  nikoli Remešovy. Kontrola jmenných sloupců líců všech 52 dostupných domovních
-  archů Pošné nenašla bezpečně čitelného Remeše ani Remešovou. Přepis a přesné
-  meze závěru jsou v [kontrolním protokolu](../../../scitani_lidu/1921/kontrolni_posna/README.md).
+  nikoli Remešovy. Sňatky Marie s Václavem Hrubým roku 1893 a s Josefem
+  Benešem roku 1901 spolu s narozeními tří Benešových dětí bezpečně
+  ztotožňují tuto domácnost jako rodinu Matějovy dcery Marie. Kontrola jmenných
+  sloupců líců všech 52 dostupných domovních archů Pošné nenašla bezpečně
+  čitelného Remeše ani Remešovou. Přepis a přesné meze závěru jsou v
+  [kontrolním protokolu](../../../scitani_lidu/1921/kontrolni_posna/README.md).
 - Online katalog MZA nabídl pro Pošnou jen sadu z roku 1921. Operát 1910 proto
   nebyl zkontrolován a zůstává vhodným cílem archivní žádosti.
 
@@ -221,6 +257,17 @@ je doložen ve stejném pošenském čp. 39 jako její manžel Josef Remeš. To 
 stopa k možné blízké příbuznosti Marie a Matěje, ale bez přímého rodného či
 jiného zápisu se shodnými rodiči zatím nejde o prokázané sourozenectví.
 
+Nově je doložen i mechanismus, kterým se Matějova větev dostala z Litohoště do
+Pošné. Jeho dcera Marie, v obou sňatcích výslovně spojená s Litohoští čp. 30,
+se [20. 10. 1893](https://digi.ceskearchivy.cz/5935/210) provdala za kočího
+Václava Hrubého. Jako jeho vdova se pak [27. 4. 1901](https://digi.ceskearchivy.cz/5935/251)
+provdala za ovdovělého hostinského Josefa Beneše v Pošné čp. 39. Z prvního
+manželství pocházela Albína Hrubá, ze druhého Marie Josefa (* 13. 3. 1902),
+Josef (* 22. 7. 1906) a Helena Benešová (* 23. 6. 1909), všichni tři narození
+v [Pošné čp. 39](../../../scitani_lidu/1921/kontrolni_posna/README.md).
+Matějovo úmrtí roku 1929 ve stejném domě je tak vysvětlitelné pobytem u dcery;
+nejde už jen o náhodnou shodu čísel domu.
+
 ### Prověřená Marie Nosová z Litohoště čp. 1 a 5
 
 [Rodný zápis](https://digi.ceskearchivy.cz/5929/95) dokládá Marii Nosovou,
@@ -233,16 +280,21 @@ Anna a Matěj tak tvoří bezpečně doloženou sourozeneckou skupinu, jejíž d
 je v pramenech zachycena nejprve v čp. 1 a později v čp. 5.
 
 Tato Marie je důležitou kandidátkou, ale zatím se **neslučuje** s manželkou
-Josefa Remeše. Josefův úmrtní zápis uvádí Marii Nosovou **z Litohoště čp. 30**,
-zatímco přímý rodný zápis kandidátky vede čp. 1 a oba její pozdější rodinné
-zápisy čp. 5. Navíc byla od roku 1865 manželkou Čeňka Brožka. Novocerekvické
+Josefa Remeše. Nové doklady Matějovy dcery ukazují, že rodina bezpečně přešla
+z Litohoště čp. 1 a 5 do čp. 30 a odtud do Pošné čp. 39. Rozdíl mezi čp. 1/5
+u kandidátčina narození a rodiny a čp. 30 u Josefovy manželky proto už není
+silným vylučovacím argumentem: číslo může označovat pozdější rodinné bydliště.
+Zásadní překážkou zůstává, že kandidátka byla od roku 1865 manželkou Čeňka
+Brožka. Novocerekvické
 úmrtní rejstříky [1816–1891](https://digi.ceskearchivy.cz/5946/6) a
 [1892–1949](https://digi.ceskearchivy.cz/5947/4) neobsahují bezpečný záznam
 Čeňka Brožka, který by před druhým sňatkem prokázal její ovdovění. Úplné oddací
 rejstříky [1820–1891](https://digi.ceskearchivy.cz/5944/11) a
 [1820–1920](https://digi.ceskearchivy.cz/5945/21) zároveň neobsahují sňatek
-Josefa Remeše. Kandidátka proto rozšiřuje známou rodinu Matěje Nose, ale
-neprokazuje totožnost Marie Remešové ani její příbuzenství s Matějem.
+Josefa Remeše. Kandidátka je bezpečně Matějovou sestrou, ale její totožnost s
+Marií Remešovou není prokázána. Rozhodující zůstává přímý doklad Čenkova úmrtí
+a případný druhý sňatek, případně jiný pramen výslovně jmenující rodiče
+Josefovy manželky.
 
 Další nepřímá vazba na čp. 11 je na [snímku 181](https://digi.ceskearchivy.cz/11214/181):
 František Kejval, voják zemřelý roku 1915 ve vojenské nemocnici v Jindřichově
@@ -290,17 +342,19 @@ otazník se týká zejména jména.
 
 ## Následující cílená práce
 
-1. dohledat první sňatek a narození Anny Součkové, ovdovělé Píchové, osud
+1. dohledat první sňatek Anny Součkové s již jmenovitě určeným Vavřincem
+   (Lorenzem) Píchou, jeho úmrtí, případné děti a Annino narození; dále osud
    jejich dcery Marie, případné další děti Jana a Rozalie
    Svobodových a sňatek Novotných z čp. 7; propojení Jana Bartů s rodiči i
    první dítě Svobodových jsou od 6. 8. 2026 vyřešené;
 2. u Pachtových pokračovat osudy dětí Josefa a Antonie po roce 1921; narození
    Josefa Pachty i Josefa Remeše jsou od 6. 8. 2026 vyřešená, u Remeše nyní
-   hledat sňatek, děti, přesun do hostince v Pošné čp. 39 a přímý rodný doklad
-   Marie Nosové z čp. 30; Marie narozená 3. 4. 1841 v čp. 1 je od 6. 8. 2026
-   doložena jako sourozenec Matěje Nose a manželka Čeňka Brožka, nikoli však
-   jako Josefova žena. Sčítání 1921 a úmrtí do roku 1937 její další osud
-   neuzavřely;
+   hledat sňatek, děti a přesun do hostince v Pošné čp. 39. U Marie Nosové
+   narozené 3. 4. 1841 v čp. 1 dohledat úmrtí Čeňka Brožka a případný druhý
+   sňatek; teprve ty mohou rozhodnout, zda jde o Josefovu ženu. Samostatně
+   dohledat úmrtí hostinského Josefa Beneše, které rukopisný rejstřík zaměňuje
+   se zápisem Josefa Remeše. Sčítání 1921 a úmrtí do roku 1937 další osud Marie
+   Remešové neuzavřely;
 3. projít pozemkové knihy a starší sčítání pro přechody držitelů čp. 7;
 4. u všech domů spojovat úmrtí s již zapsanými sňatky a sčítáním, ale pouze
    přes shodné datum, rodiče, manžela nebo výslovnou adresu — nikoli jen podle

@@ -177,7 +177,11 @@ indikační skice 1829 nejsou čísla popisná a nesmějí se s nimi zaměňovat
 ### PP26-016 — čp. 24 U Coufalů a Plášilovy dcery
 
 - **Plášilovi potvrzeni na domě:** sčítání 1921 a matriky 1921–1928 jmenují
-  Antonína, Kateřinu, Marii, Julianu, Václava a Antonii.
+  Antonína, jeho ovdovělou matku Kateřinu, svobodné sestry Marii a Julianu,
+  otce Václava, manželku Annu rozenou Kejvalovou a Antonii. Starší pracovní
+  přepis chybně označoval Kateřinu za manželku, Marii za dceru a Julianu za
+  matku. Anna není dva týdny po sňatku zapsána ani v čp. 24, ani u rodičů v
+  čp. 16; příčina zůstává otevřená.
 - **Coufalovi potvrzeni jen ve vsi:** tisk 1952–1955 zná rolníka Coufala a
   tříčlennou rodinu v JZD, nikoli jejich čp.
 - **Dcery nepotvrzeny:** přesné dotazy na Marunu, Lídu/Ludmilu a Jarku/Jaroslavu
@@ -323,10 +327,15 @@ indikační skice 1829 nejsou čísla popisná a nesmějí se s nimi zaměňovat
 
 ### Čp. 24 — U Coufalů, Plášilovi
 
-- **Potvrzeno roku 1921:** Antonín a Kateřina Plášilovi, dcera Marie a matka
-  Juliana Plášilová.
+- **Potvrzeno roku 1921:** Antonín Plášil, jeho ovdovělá matka Kateřina a
+  svobodné sestry Marie a Juliana Plášilovy. Zvětšení archu opravilo starší
+  chybné vztahy manželka–dcera–matka.
+- **Rodné zápisy:** Marie se narodila 15. 12. 1884 a Antonín 14. 1. 1891 přímo
+  v čp. 24 Václavu Plášilovi a Kateřině rozené Šívové.
 - **Matriky 1921–1928:** Václav Plášil jako domkář, Antonín Plášil jako rolník,
-  Kateřina rozená Šívová a vnučka Antonie Plášilová.
+  Kateřina rozená Šívová, Antonínova manželka Anna rozená Kejvalová a vnučka
+  Antonie Plášilová. Anna není dva týdny po sňatku zapsána ve sčítání ani v
+  čp. 24, ani u rodičů v čp. 16; důvod není znám.
 - **Coufalovi potvrzeni jen na úrovni vsi:** rolník Coufal hospodařící na osmi
   hektarech podepsal 19. 12. 1952 přihlášku k založení JZD; roku 1954 pracovali
   v družstvu tři členové Coufalovy rodiny. Číslo domu tisk neuvádí.

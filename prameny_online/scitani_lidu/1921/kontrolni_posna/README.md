@@ -18,15 +18,42 @@ Marii Benešovou. V jedné domácnosti je pět osob:
 
 | Osoba | Vztah a stav | Poznámka |
 |---|---|---|
-| Marie Benešová | majitelka bytu, ovdovělá | v hlavičce také majitelka domu; rodiště Pošná |
-| Albína Hrubá `[příjmení pracovní]` | dcera, svobodná | jiné příjmení než u ostatních dětí je čitelné, jeho přesný pravopis ještě potřebuje srovnávací doklad |
+| Marie Benešová | majitelka bytu, ovdovělá | v hlavičce také majitelka domu; rodiště **Litohošť**, okres Pelhřimov |
+| Albína Hrubá | dcera, svobodná | narodila se v Litohošti; odlišné příjmení vysvětluje první matčin sňatek s Václavem Hrubým |
 | Marie Benešová | dcera, svobodná | narozena 13. 3. 1902 v Pošné |
-| Josef Beneš | syn, svobodný | narozen 21. 7. 1906 v Pošné |
+| Josef Beneš | syn, svobodný | arch uvádí 21. 7. 1906; přímý rodný zápis dokládá **22. 7. 1906** v Pošné čp. 39 |
 | Helena Benešová | dcera, svobodná | narozena 23. 6. 1909 v Pošné |
 
-Sčítání tedy dokládá pouze to, že roku 1921 už v čp. 39 nebyla zachycena
-domácnost Josefa a Marie Remešových. Samo neurčuje, kdy Marie Remešová odešla,
-zda zemřela jinde ani jakým právním způsobem dům přešel k Benešovým.
+## Ztotožnění domácnosti Nos–Hrubý–Beneš
+
+[Oddací zápis z 20. 10. 1893](https://digi.ceskearchivy.cz/5935/210)
+vede Marii jako manželskou dceru chalupníka Matěje Nose v Litohošti čp. 30 a
+Františky rozené Prchalové. Jejím prvním manželem byl Václav Hrubý, kočí z
+Rynárce čp. 22. [Druhý oddací zápis z 27. 4. 1901](https://digi.ceskearchivy.cz/5935/251)
+zachycuje tutéž Marii už jako vdovu po Václavu Hrubém; provdala se za ovdovělého
+hostinského Josefa Beneše v Pošné čp. 39. Tím je vysvětleno příjmení nejstarší
+dcerky Albíny Hrubé i přímý přesun rodinné větve z Litohoště čp. 30 do Pošné
+čp. 39.
+
+Tři přímé rodné zápisy následně potvrzují děti druhého manželství i stejný dům:
+
+- [Marie Josefa Benešová](https://digi.ceskearchivy.cz/11210/228) se narodila
+  13. 3. 1902 v Pošné čp. 39;
+- [Josef Beneš](https://digi.ceskearchivy.cz/11210/267) se narodil 22. 7. 1906
+  v Pošné čp. 39; den 21. 7. ve sčítání je tedy opisná odchylka;
+- [Helena Benešová](https://digi.ceskearchivy.cz/11210/312) se narodila
+  23. 6. 1909 v Pošné čp. 39.
+
+Ve všech třech zápisech je matkou Marie, dcera Matěje Nose a Františky rozené
+Prchalové z Litohoště čp. 30. Domácnost na sčítacím archu je proto ztotožněna
+bezpečně. Její majitelka Marie Benešová není manželkou Josefa Remeše, ale patří
+do bezprostředního rodinného okruhu Nosových, který se ve stejném domě objevil
+také v Josefově úmrtním zápisu.
+
+Sčítání a matriky stále neurčují, kdy Marie Remešová odešla, zda zemřela jinde
+ani jakým právním způsobem přešlo čp. 39 k Benešovým. Neznámé zůstává také
+úmrtí Josefa Beneše: Marie je roku 1921 vdova, ale samostatný bezpečný úmrtní
+zápis jejího druhého manžela zatím nalezen nebyl.
 
 Kontrolně byly ve středním rozlišení prohlédnuty jmenné sloupce líců všech 52
 dostupných domovních archů Pošné. Nebyla v nich bezpečně rozpoznána žádná osoba

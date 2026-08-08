@@ -116,11 +116,14 @@ v dalším zpracování obrátit.
   byla to Marie rozená **Žemličková**, dcera rolníka Jana Žemličky z Roučkovic
   čp. 11, nikoli dříve pracovně čtená Sváčková / Šváčková.
   Kandidátní sňatek staršího páru je od 6. 8. rovněž uzavřen. Dne 17. 5. 1841
-  se vzali Josef Bartů a **Anna Píchová, vdova**; její rodový údaj jmenuje otce
-  Matěje Součka a Zlátenku, shodně s pozdějšími zápisy rodiny z čp. 7. Anna
-  tedy před Josefem už jednou vstoupila do manželství. Oddací věk 37½ roku a
+  se vzali Josef Bartů a **Anna Píchová, vdova po † Lorenzovi Píchovi**; její
+  rodový údaj jmenuje otce Matěje Součka a Zlátenku, shodně s pozdějšími
+  zápisy rodiny z čp. 7. První manžel je tedy nově jmenovitě určen jako
+  Vavřinec (Lorenz) Pícha. Oddací věk 37½ roku a
   úmrtní věk 79 let roku 1893 se rozcházejí přibližně o deset let; přímé
-  narození ani osud prvního manžela zatím nebyly bezpečně uzavřeny.
+  narození, první sňatek, Vavřincovo úmrtí ani případné děti zatím nebyly
+  bezpečně uzavřeny. Elektronický dotaz `Pícha` pro léta 1795–1841 byl
+  dokončen přes všech 129 výsledků; odpovídající Vavřincovo úmrtí v nich není.
   Dobový oddací rejstřík byl znovu porovnán s originály: skutečné položky Pícha
   před rokem 1841 jsou na rukopisných stranách 6, 8, 10 a 36 / snímcích 5, 6,
   7 a 20 a všechny patří jiným párům. Dříve zahrnutá strana 32 je Pěcha Josef,
@@ -138,6 +141,16 @@ v dalším zpracování obrátit.
   děti a Rozaliin další osud. Negativní
   audit navíc uzavřel všech 555 výsledků `Bartů`: třináct pošenských
   svatebních zápisů nepatří hledané rodině z čp. 7.
+  Pro systematické pokračování vznikl soubor `badatelska_fronta_domu.md`, který
+  řadí konkrétní úkoly pro č. 1a a N1–N25. První průchod skupinou P1 rozšířil
+  nejřidší čp. 25 o **Marii Petrů, rozenou Charousovou**: vdova po dělníku
+  Josefu Petrů ve Stanovicích zemřela v domě 24. 2. 1929 ve věku 81 let,
+  6 měsíců a 1 dne na sešlost věkem. Zápis uvádí narození 23. 8. 1847.
+  Starší rešerše chybně četla rejstříkový řádek jako `Plášil Marie`; zvětšený
+  rejstřík i plný zápis bezpečně čtou Petrů. Marie není v domácnosti
+  Kadlecových roku 1921 a vztah k rodině zůstává otevřený. Přímá kontrola
+  srpna 1847 v rodné knize Nové Cerekve křest nenašla; sňatek Josefa Petrů
+  roku 1881 na snímku 125 patří jiné Marii Pelíškové a je vyloučen.
   U N11 byl definitivně sloučen Josef Remeš s dříve anonymním Josefem na
   snímku 312: rodný zápis skutečně uvádí **12. 8. 1847**, příjmení Remeš,
   N11 a rodiče Leopolda Remeše, nádeníka v N11, a Marii. Úmrtní zápis roku
@@ -146,10 +159,13 @@ v dalším zpracování obrátit.
   čtením měsíce. Následný audit posunul i jeho pozdější osud: obrazově byly
   prohlédnuty všechny úmrtní řádky od Josefova zápisu na snímku 195 až do
   konce knihy roku 1937 a nebyl nalezen další bezpečný Remeš ani Remešová.
-  Rukopisný rejstřík snímků 275–297 vynechává dokonce samotného Josefa, takže
-  se nesmí používat jako úplný. Sčítání Pošné 1921 na snímku 76 vede v čp. 39
-  ovdovělou majitelku Marii Benešovou a její čtyři děti; kontrola líců všech
-  52 dostupných domovních archů Pošné nenašla bezpečně čitelného Remeše.
+  Rukopisný rejstřík na snímku 277 Josefa nevynechává beze stopy, ale chybně
+  jej vede pod písmenem B jako `Beneš Josef, hostinský, Pošná 39`; datum 19. 5.
+  a odkaz na rukopisnou stranu 193 vedou přímo k úplnému zápisu Josefa Remeše.
+  Tato položka tedy není samostatným úmrtím Josefa Beneše. Sčítání Pošné 1921
+  na snímku 76 vede v čp. 39 ovdovělou majitelku Marii Benešovou a její čtyři
+  děti; kontrola líců všech 52 dostupných domovních archů Pošné nenašla
+  bezpečně čitelného Remeše.
   Mariin další osud proto zůstává otevřený. Online katalog MZA pro Pošnou
   nabídl jen operát 1921, nikoli 1910.
   Novou rodinnou stopou je Matěj Nos: zemřel 10. 11. 1929 jako polník-výměnkář
@@ -161,15 +177,27 @@ v dalším zpracování obrátit.
   silná pracovní hypotéza, nikoli ještě prokázané sourozenectví. Přesný
   negativní audit i odkazy jsou v protokolu úmrtní knihy a v novém README
   `prameny_online/scitani_lidu/1921/kontrolni_posna/README.md`.
+  Průchod 8. 8. bezpečně ztotožnil benešovskou domácnost. Matějova dcera Marie
+  z Litohoště čp. 30 se 20. 10. 1893 provdala za kočího Václava Hrubého a jako
+  jeho vdova 27. 4. 1901 za ovdovělého hostinského Josefa Beneše v Pošné
+  čp. 39. Tím je vysvětleno příjmení nejstarší dcery Albíny Hrubé. Přímé rodné
+  zápisy potvrzují Marii Josefu Benešovou (* 13. 3. 1902), Josefa Beneše
+  (* 22. 7. 1906; sčítání uvádí chybně 21. 7.) a Helenu Benešovou
+  (* 23. 6. 1909), všechny v Pošné čp. 39 a všechny s matkou Marií, dcerou
+  Matěje Nose a Františky Prchalové. Matějovo úmrtí v témže domě roku 1929 je
+  proto vysvětlitelné pobytem u dcery. Úmrtí hostinského Josefa Beneše zůstává
+  otevřené; roku 1921 byla Marie vdovou.
   Další průchod 6. 8. dohledal jinou, přesně určenou Marii Nosovou: narodila se
   3. 4. 1841 v Litohošti čp. 1 Josefu Nosovi a Petronile rozené Tomšů a
   27. 1. 1865 se provdala za Čeňka Brožka. Sňatky Anny Nosové roku 1868 a
   Matěje Nose roku 1875 opakují stejné rodiče a rodinu v Litohošti čp. 5, takže
-  jde o bezpečné sourozence. Tato Marie se ale nesmí sloučit s Josefovou ženou:
-  ta je roku 1918 spojena s čp. 30, místní úmrtní rejstříky neprokázaly úmrtí
-  Čeňka Brožka a novocerekvické oddací rejstříky do roku 1920 neobsahují sňatek
-  Josefa Remeše. Jde o vymezenou kandidátku a rodinný kontext, ne o uzavřenou
-  totožnost.
+  jde o bezpečné sourozence. Nově doložený přechod Matějovy větve přes
+  Litohošť čp. 30 oslabuje dřívější adresní rozpor mezi čp. 1/5 a čp. 30;
+  domovní čísla mohla zachytit postupná bydliště téže rodiny. Tato Marie se
+  však stále nesmí sloučit s Josefovou ženou: místní úmrtní rejstříky
+  neprokázaly úmrtí Čeňka Brožka a novocerekvické oddací rejstříky do roku 1920
+  neobsahují sňatek Josefa Remeše. Jde o podstatně silnější kandidátku a
+  bezpečnou Matějovu sestru, ne o uzavřenou totožnost Marie Remešové.
 - Pozdě večer 31. 7. 2026 proběhla druhá rešerše, tentokrát výslovně na
   **obyvatele domů 1921–2026** (7 směrů, 209 zjištění, 98 nezávislých
   ověřovacích verdiktů; úplný záznam v
@@ -1222,6 +1250,14 @@ awk '/<script>/{f=1;next}/<\/script>/{f=0}f' index.html | node --check /dev/stdi
     `prameny_online/reserse/2026-08-03_rozhovor_pavel_pesta/README.md` a široký
     přehled obou listů skici 1829 v témže adresáři. Nejstarší mapový pramen je
     I. vojenské mapování 1783.
+45. Obrazová revize čp. 24 dne 8. 8. 2026 opravila rodinné role ve sčítání
+    1921: s Antonínem Plášilem žila ovdovělá matka Kateřina a svobodné sestry
+    Marie a Juliana, nikoli manželka, dcera a matka podle staršího přepisu.
+    Rodná matrika potvrzuje Marii (*15. 12. 1884, křest 16. 12.; sn. 55) a
+    Antonína (*14. 1. 1891, křest 17. 1.; sn. 118) v čp. 24 jako děti Václava
+    Plášila a Kateřiny rozené Šívové. Antonín se 1. 2. 1921 oženil s Annou
+    Kejvalovou, ta však dva týdny poté není v operátu ani v čp. 24, ani u
+    rodičů v čp. 16. Jde o otevřenou otázku, nikoli důkaz úmrtí či rozchodu.
 
 ## Nabízející se další kroky
 

@@ -4178,7 +4178,7 @@ window.MAPA_DATA = {
         {
           "d": "oddána 17. 5. 1841; doložena v čp. 7 roku 1845 a 1848; zemřela 2., pohřbena 4. 3. 1893",
           "j": "Anna Bartů, rozená Součková, dříve provdaná Píchová",
-          "p": "dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova Píchová, poté jeho manželka a matka Marie a Anny v čp. 7; později tamtéž výminkářka a vdova",
+          "p": "dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova po <b>Vavřinci Píchovi</b>, v zápisu <span class=\"nej\">† Lorenz Pícha</span>; poté Josefova manželka a matka Marie a Anny v čp. 7, později tamtéž výminkářka a vdova",
           "z": "<a href=\"https://digi.ceskearchivy.cz/6623/74\" target=\"_blank\" rel=\"noopener\">sňatek, sn. 74</a>, <a href=\"https://digi.ceskearchivy.cz/6621/308\" target=\"_blank\" rel=\"noopener\">narození Marie, sn. 309</a>, <a href=\"https://digi.ceskearchivy.cz/6621/312\" target=\"_blank\" rel=\"noopener\">narození Anny, sn. 313</a>, <a href=\"https://digi.ceskearchivy.cz/11214/70\" target=\"_blank\" rel=\"noopener\">úmrtí, sn. 70</a>",
           "r": 1841,
           "rr": 1893
@@ -14007,6 +14007,20 @@ window.MAPA_DATA = {
           "r": 1849
         },
         {
+          "d": "narozena 15., pokřtěna 16. 12. 1884",
+          "j": "Marie Plášilová",
+          "p": "dcera domkáře Václava Plášila a Kateřiny rozené Šívové v čp. 24; starší sestra Antonína, sečtená s ním roku 1921",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/55\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 55</a>",
+          "r": 1884
+        },
+        {
+          "d": "narozen 14., pokřtěn 17. 1. 1891",
+          "j": "Antonín Plášil",
+          "p": "syn domkáře Václava Plášila a Kateřiny rozené Šívové v čp. 24; okrajový přípis potvrzuje sňatek s Annou Kejvalovou roku 1921",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11210/118\" target=\"_blank\" rel=\"noopener\">rodná matrika, sn. 118</a>",
+          "r": 1891
+        },
+        {
           "d": "1. 2. 1921",
           "j": "Antonín Plášil",
           "p": "rolník v č. 24, narozen 14. 1. 1891 tamtéž; ženich",
@@ -14030,21 +14044,21 @@ window.MAPA_DATA = {
         {
           "d": "1921 (sčítací arch)",
           "j": "Juliana Plášilová",
-          "p": "matka přednosty; ovdovělá",
+          "p": "sestra; svobodná",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Kateřina Plášilová",
-          "p": "manželka",
+          "p": "matka přednosty; ovdovělá",
           "h": 1,
           "r": 1921
         },
         {
           "d": "1921 (sčítací arch)",
           "j": "Marie Plášilová",
-          "p": "dcera; svobodná",
+          "p": "sestra; svobodná",
           "h": 1,
           "r": 1921
         },
@@ -14132,9 +14146,16 @@ window.MAPA_DATA = {
           "p": "schovanka Jana a Marie Kadlecových v č. 25, narozená ve Vídni",
           "z": "tentýž zápis",
           "r": 1928
+        },
+        {
+          "d": "zemřela 24., pohřbena 26. 2. 1929",
+          "j": "Marie Petrů, rozená Charousová",
+          "p": "vdova po dělníku Josefu Petrů ve Stanovicích; zemřela v čp. 25 ve věku 81 let, 6 měsíců a 1 dne na sešlost věkem. Zápis uvádí narození 23. 8. 1847; vztah ke Kadlecovým není určen",
+          "z": "<a href=\"https://digi.ceskearchivy.cz/11214/243\" target=\"_blank\" rel=\"noopener\">úmrtní matrika, sn. 243</a>",
+          "r": 1929
         }
       ],
-      "rozsah": "1921–1928"
+      "rozsah": "1921–1929"
     },
     {
       "klic": "x",
@@ -15554,25 +15575,35 @@ window.MAPA_OBYVATELE = {
         "title": "Čp. 24 — U Coufalů",
         "detail": "Čp. 24 se podle rozhovoru říkalo U Coufalů a později je spojováno s rodinou Plášilů. Informátor jmenoval dcery Marunu, Lídu a Jarku v tomto pořadí podle věku; jejich přesné matriční ztotožnění se zatím nepodařilo.",
         "verification_status": "supported",
-        "verification": "Sčítání 1921 a matriky 1921–1928 potvrzují na čp. 24 Antonína, Kateřinu, Marii, Julianu, Václava a Antonii Plášilovy. Tisk nezávisle dokládá rodinu Coufalovu v Zahrádce při založení JZD roku 1952 a tři její členy v roce 1954, ale neuvádí dům. Domovní jméno U Coufalů a dcery Maruna, Lída a Jarka proto zůstávají ústní návazností mezi dvěma samostatně doloženými místními rody.",
+        "verification": "Sčítání 1921 potvrzuje na čp. 24 Antonína Plášila, jeho ovdovělou matku Kateřinu a svobodné sestry Marii a Julianu; starší pracovní přepis jejich vztahy chybně označoval jako manželku, dceru a matku. Rodné a oddací matriky 1884–1928 přidávají otce Václava, Antonínovu manželku Annu rozenou Kejvalovou a Antonii Plášilovou. Anna však dva týdny po sňatku není zapsána ani v čp. 24, ani u rodičů v čp. 16. Tisk nezávisle dokládá rodinu Coufalovu na Zahrádce při založení JZD roku 1952 a tři její členy v roce 1954, ale neuvádí dům. Domovní jméno U Coufalů a dcery Maruna, Lída a Jarka proto zůstávají ústní návazností mezi dvěma samostatně doloženými místními rody.",
         "connections": [
-          "Antonín, Kateřina, Marie, Juliana, Václav a Antonie Plášilovi — čp. 24",
+          "Antonín Plášil, matka Kateřina a sestry Marie a Juliana — čp. 24 roku 1921",
+          "Václav Plášil, Anna rozená Kejvalová a Antonie Plášilová — matriční rodina čp. 24",
           "rodina Coufalova — obec 1952–1954",
           "Maruna, Lída a Jarka — ústní sourozenecká řada",
           "U Coufalů — ústní domovní jméno"
         ],
         "findings": [
-          "Sčítání 1921 a matriky 1921–1928 bezpečně vážou k čp. 24 Antonína, Kateřinu, Marii, Julianu, Václava a Antonii Plášilovy.",
+          "Sčítání 1921 bezpečně váže k čp. 24 Antonína Plášila, jeho ovdovělou matku Kateřinu a svobodné sestry Marii a Julianu; obrazová revize opravila starší chybné rodinné role.",
+          "Rodné a oddací matriky 1884–1928 potvrzují rodiče Václava a Kateřinu rozenou Šívovou, Antonínovu manželku Annu rozenou Kejvalovou a Antonii Plášilovou; Annina nepřítomnost ve sčítání dva týdny po svatbě zůstává nevysvětlena.",
           "Tisk z let 1952–1955 potvrzuje ve vsi osmihospodářského rolníka Coufala a tříčlennou Coufalovu rodinu v JZD; číslo domu ani křestní jména ale neuvádí.",
           "Přesné dotazy U Coufalů a jména Maruna, Marie, Lída/Ludmila a Jarka/Jaroslava Plášilová ve spojení se Zahrádkou nevrátily bezpečnou sourozeneckou trojici.",
           "Telefonní seznamy 2000 a 2004 uvádějí na čp. 24 Jana Velicha; jde o další pozdější adresní článek, který sám nevysvětluje přechod Coufal–Plášil–Velich."
         ],
         "open_questions": [
-          "Zjistit rodná data tří Plášilových dcer a návaznost rodiny Coufalovy na čp. 24; zatím jsou potvrzeny dva rody, ale nikoli jejich pořadí na domě."
+          "Zjistit, proč novomanželka Anna Plášilová není v únoru 1921 sečtena ani v čp. 24, ani u rodičů v čp. 16; doplnit osudy Antonínových sester Marie a Juliany a návaznost rodiny Coufalovy na čp. 24."
         ],
         "sources": [
           {
             "label": "Sčítání lidu 1921 — čp. 24"
+          },
+          {
+            "label": "SOA Třeboň — narození Marie Plášilové 1884",
+            "url": "https://digi.ceskearchivy.cz/11210/55"
+          },
+          {
+            "label": "SOA Třeboň — narození Antonína Plášila 1891",
+            "url": "https://digi.ceskearchivy.cz/11210/118"
           },
           {
             "label": "SOA Třeboň — Plášilovi čp. 24, 1921–1928",

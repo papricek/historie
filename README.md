@@ -22,7 +22,8 @@ Vizuální souhrn běží na **https://historie.poutnazahradce.cz** (zdroj: `web
 - `vlastnici_2026_kontrolni_list.csv` — předvyplněný kontrolní list všech čp. pro ruční nebo úřední ověření vlastníků; u 26 existujících adres obsahuje parcelu, stavební objekt a adresní místo, vlastnická pole zůstávají záměrně prázdná
 - `obyvatele_zahradky_domy/n11.md` — generovaný domovní pohled na 231 bezpečných osobních řádků N11 / čp. 11 a tři adresně sporné řádky N11/N14
 - `prameny_online/matriky/zemreli/1881-1937_zahradka_cela_obec/README.md` — protokol úplného adresního průchodu úmrtní knihy 11214; obsahuje nový domovní soupis, podrobnou časovou osu čp. 7 a vazby čp. 11
-- `prameny_online/scitani_lidu/1921/kontrolni_posna/README.md` — kontrola pošenského čp. 39 po smrti hostinského Josefa Remeše: domácnost roku 1921, úplný jmenný průchod pošenskými archy a přesně vymezený negativní výsledek
+- `prameny_online/scitani_lidu/1921/kontrolni_posna/README.md` — kontrola pošenského čp. 39 po smrti hostinského Josefa Remeše: ztotožněná domácnost Nos–Hrubý–Beneš roku 1921, úplný jmenný průchod pošenskými archy a přesně vymezený negativní výsledek pro Remešovy
+- `badatelska_fronta_domu.md` — průběžně řazená fronta všech domů: výchozí domácnosti, hustota dokladů a nejbližší konkrétní osobní osudy k dohledání
 - `mistni_jmenne_stopy.md` — oddělená evidence uživatelské místní znalosti, oprav příjmení a relativních poloh rodin; nově také úplný zápis rozhovoru s Pavlem Peštou z čp. 26 z 3. 8. 2026, bez automatického domýšlení čísel domů
 - `prameny_online/reserse/2026-08-03_rozhovor_pavel_pesta/README.md` — úplné ověření rozhovoru po budovách: všechny osoby, varianty příjmení, chronologické návaznosti, rozpory a mapová kontrola včetně širokého náhledu skici 1829
 - `website/` — jednosouborový web (HTML + inline data a grafy)

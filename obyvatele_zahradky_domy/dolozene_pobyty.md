@@ -39,8 +39,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | N21 / čp. 21 | 1812–1929 | 72 |
 | N22 / čp. 22 | 1815–1938 | 35 |
 | N23 / čp. 23 | 1825–1935 | 28 |
-| N24 / čp. 24 | 1833–1936 | 17 |
-| N25 / čp. 25 | 1921–1928 | 8 |
+| N24 / čp. 24 | 1833–1936 | 19 |
+| N25 / čp. 25 | 1921–1929 | 9 |
 
 ## Č. 1a
 
@@ -685,7 +685,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 18. / 19. 8. 1833 | Josef (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte a rodičovská křestní jména jsou pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. / 19. 8. 1833 | Matěj `[příjmení nejasné]` | otec při narození dítěte Josef (?) `[další jména a příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | oddán 17. 5. 1841; doložen v čp. 7 roku 1845, 1848 a rodovým údajem roku 1886; zemřel před 2. 3. 1893 | Josef Bartů | chalupník a později uváděný rolník v čp. 7, manžel ovdovělé Anny Píchové, rozené Součkové, a otec Marie, Anny i pozdějšího rolníka Jana; úmrtní zápis manželky ji roku 1893 vede už jako vdovu | [sňatek, sn. 74](https://digi.ceskearchivy.cz/6623/74), [narození Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308), [narození Anny, sn. 313](https://digi.ceskearchivy.cz/6621/312), [narození Janovy dcery, sn. 75](https://digi.ceskearchivy.cz/11210/75), [úmrtí manželky, sn. 70](https://digi.ceskearchivy.cz/11214/70) |
-| oddána 17. 5. 1841; doložena v čp. 7 roku 1845 a 1848; zemřela 2., pohřbena 4. 3. 1893 | Anna Bartů, rozená Součková, dříve provdaná Píchová | dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova Píchová, poté jeho manželka a matka Marie a Anny v čp. 7; později tamtéž výminkářka a vdova | [sňatek, sn. 74](https://digi.ceskearchivy.cz/6623/74), [narození Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308), [narození Anny, sn. 313](https://digi.ceskearchivy.cz/6621/312), [úmrtí, sn. 70](https://digi.ceskearchivy.cz/11214/70) |
+| oddána 17. 5. 1841; doložena v čp. 7 roku 1845 a 1848; zemřela 2., pohřbena 4. 3. 1893 | Anna Bartů, rozená Součková, dříve provdaná Píchová | dcera Matěje Součka spojeného se Zlátenkou; před sňatkem s Josefem Bartů už vdova po **Vavřinci Píchovi**, v zápisu `† Lorenz Pícha`; poté Josefova manželka a matka Marie a Anny v čp. 7, později tamtéž výminkářka a vdova | [sňatek, sn. 74](https://digi.ceskearchivy.cz/6623/74), [narození Marie, sn. 309](https://digi.ceskearchivy.cz/6621/308), [narození Anny, sn. 313](https://digi.ceskearchivy.cz/6621/312), [úmrtí, sn. 70](https://digi.ceskearchivy.cz/11214/70) |
 | 13. / 14. 2. 1842 | Martin (?) `[další jména a příjmení nejasné]` | narození / křest; dům a data bezpečné; první jméno dítěte je pracovní čtení, pozdější přípis se vede jen jako poznámka k témuž dítěti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 8. / 9. 1. 1845 | Anna rozená Součková | matka při narození dítěte Marie Bartů | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 8. / 9. 1. 1845 | Josef Bartů | otec při narození dítěte Marie Bartů | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -2191,12 +2191,14 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 13. / 14. 6. 1849 | Eva (?) | matka při narození dítěte Jan `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 6. 1849 | František (?) `[příjmení nejasné]` | otec při narození dítěte Jan `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 6. 1849 | Jan `[příjmení nejasné]` | narození / křest; dům, oba dny a první jména čitelné; další rodové údaje zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| narozena 15., pokřtěna 16. 12. 1884 | Marie Plášilová | dcera domkáře Václava Plášila a Kateřiny rozené Šívové v čp. 24; starší sestra Antonína, sečtená s ním roku 1921 | [rodná matrika, sn. 55](https://digi.ceskearchivy.cz/11210/55) |
+| narozen 14., pokřtěn 17. 1. 1891 | Antonín Plášil | syn domkáře Václava Plášila a Kateřiny rozené Šívové v čp. 24; okrajový přípis potvrzuje sňatek s Annou Kejvalovou roku 1921 | [rodná matrika, sn. 118](https://digi.ceskearchivy.cz/11210/118) |
 | 1. 2. 1921 | Antonín Plášil | rolník v č. 24, narozen 14. 1. 1891 tamtéž; ženich | [oddací matrika, sn. 163](https://digi.ceskearchivy.cz/6624/163) |
 | 1. 2. 1921 | Kateřina Plášilová, rozená Šíva | matka Antonína; z Pošné č. 37 | [sn. 163](https://digi.ceskearchivy.cz/6624/163) |
 | 1921 (sčítací arch) | Antonín Plášil | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Juliana Plášilová | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Kateřina Plášilová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Plášilová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Juliana Plášilová | sestra; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Kateřina Plášilová | matka přednosty; ovdovělá | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Plášilová | sestra; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 a 1928 | Václav Plášil | domkář v č. 24, otec Antonína a děd Antonie | [sn. 163](https://digi.ceskearchivy.cz/6624/163), [sn. 206](https://digi.ceskearchivy.cz/6624/206) |
 | 14. 7. 1928 | Antonie Plášilová | narozena v č. 24, nemanželská dcera Anny provdané Škodové, vnučka Václava Plášila | [sn. 206](https://digi.ceskearchivy.cz/6624/206) |
 | doložena 1936 | Kateřina Kadlecová, provdaná Bartů | pocházela ze Zahrádky čp. 24; matka Kateřiny Bartů z Pošné čp. 9 — doklad rodiny Kadlecových v čp. 24 | [úmrtní matrika, sn. 268](https://digi.ceskearchivy.cz/11214/268) |
@@ -2213,6 +2215,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 16. 6. 1928 | Jan Kadlec | dělník v č. 25; obrazová revize sčítání 1921 potvrdila v témže domě rodinu Kadlecových | [sn. 206](https://digi.ceskearchivy.cz/6624/206) |
 | 16. 6. 1928 | Marie Kadlecová | manželka Jana Kadlece | tentýž zápis |
 | 16. 6. 1928 | Terezie Habarthová | schovanka Jana a Marie Kadlecových v č. 25, narozená ve Vídni | tentýž zápis |
+| zemřela 24., pohřbena 26. 2. 1929 | Marie Petrů, rozená Charousová | vdova po dělníku Josefu Petrů ve Stanovicích; zemřela v čp. 25 ve věku 81 let, 6 měsíců a 1 dne na sešlost věkem. Zápis uvádí narození 23. 8. 1847; vztah ke Kadlecovým není určen | [úmrtní matrika, sn. 243](https://digi.ceskearchivy.cz/11214/243) |
 
 ## Dosud bez čísla domu
 
