@@ -8,6 +8,9 @@ Vizuální souhrn běží na **https://historie.poutnazahradce.cz** (zdroj: `web
 ## Obsah
 
 - `vyzkum_statku.md` — výzkumný spis ke stavbě, držbě a pramenům
+- `vyzkum_homolkovi_brezina.md` — nová výzkumná osa: rod Homolků od Antonína
+  přes Jana k Tomášovi v Neuměřicích a držitelé, hospodářství a události
+  velkostatku Březina–Zahrádka od středověku do roku 1948
 - `obyvatele_zahradky.md` — evidence osob doložených u čp. 11 (1772–1930)
 - `zadost_o_archivni_prameny.md` — připravené žádosti do archivů (neodeslané)
 - `josef.md` — původní korespondence a zachycené stopy

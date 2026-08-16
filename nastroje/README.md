@@ -38,6 +38,50 @@ Podporované jsou stejné operátory jako na webu archivu: `slovo`, `začátek*`
 
 Elektronický rejstřík je jen výběrový. Nulový výsledek se v tomto výzkumu nikdy nepovažuje za důkaz, že událost neexistuje; rozhodující je kontrola originálních obrazů příslušné knihy.
 
+## SOA Litoměřice: Zoomify obrazy
+
+Nová Digitální badatelna SOA Litoměřice zpřístupňuje matriční skeny jako
+standardní Zoomify pyramidy. Po otevření snímku lze z veřejné odpovědi
+`showZoomify` převzít hodnotu `zoomifyImgPath` a obraz reprodukovatelně složit:
+
+```bash
+nastroje/stahnout_sken_litomerice.sh \
+  'https://images.soalitomerice.cz/ximage/.../obraz.jpg' \
+  /tmp/snim.jpg
+```
+
+Volitelný třetí argument určuje úroveň pyramidy; bez něj se použije plné
+rozlišení. Skript čte `ImageProperties.xml`, dopočítá správné `TileGroup`,
+stáhne dlaždice a složí je přes ImageMagick. Závislosti: `curl`, `sed`,
+ImageMagick (`magick`). Katalogový záznam, signatura knihy, pořadí snímku a
+permalink se zapisují zvlášť do zdrojového protokolu; samotné URL dlaždic není
+dostatečnou citací.
+
+## SOA Praha: matriční a ostatní archivní snímky
+
+Veřejná stránka snímku v eBadatelně SOA Praha má stabilní tvar, ale vlastní
+obrazové URL obsahuje krátkodobý identifikátor relace. Skript načte stránku,
+zachová cookie a stáhne původní obraz v rámci stejné relace:
+
+```bash
+nastroje/stahnout_sken_soapraha.sh 7177 10 /tmp/kovary14_snim10.jpg
+```
+
+Argumenty jsou ID matriky, pořadí snímku a výstupní soubor. Závislosti:
+`curl`, `sed` a ImageMagick (`magick`). Citací zůstává stabilní stránka snímku,
+např. <https://ebadatelna.soapraha.cz/d/7177/10>, nikoli dočasné URL obrazu.
+
+Sčítací operáty a jiné obecné archiválie používají v eBadatelně místo `/d/`
+adresu `/a/`. Pro ně slouží samostatný skript se stejným principem práce:
+
+```bash
+nastroje/stahnout_sken_soapraha_archivalie.sh 2740 3 /tmp/neumerice1880_snim3.jpg
+```
+
+Argumenty jsou ID archiválie, pořadí snímku a výstupní soubor. Stabilní citace
+tohoto příkladu je <https://ebadatelna.soapraha.cz/a/2740/3>. Skripty `/d/` a
+`/a/` se nemají zaměňovat: jejich veřejné stránky používají odlišné cesty.
+
 ## Stabilní katastr a Archiv ČÚZK
 
 | Skript | Účel |
