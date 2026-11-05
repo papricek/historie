@@ -427,3 +427,11 @@ Předmět: Žádost o reprodukci – Desky zemské, hlavní kniha, statek Zahrá
 > Děkuji.
 
 Kontakt: Národní archiv, badatelna, `badatelna@nacr.cz`. Digitální badatelna NA zakazuje roboty, proto pokud je kniha online, snímky uloží badatel ručně do `pracovni/`. Tento návrh **nebyl odeslán**.
+
+### Doplněk téže žádosti: pozůstalost JUDr. Vojtěcha (Adalberta) Eisensteina, 1856
+
+Edikt zemského soudu v Praze (*Amtsblatt zur Prager Zeitung*, 3. 12. 1856, č. 15238; [katalog](prameny_online/tisky/1856-1877_anno_brezina_zahradka/README.md)) odkazuje na **soudní odhadní protokol z 20. 9. 1856, N. E. 23792**, a **inventární protokol z července 1856** k deskovým statkům Březina a Zahrádka v pozůstalosti JUDr. Adalberta rytíře Eisensteina (zemřel v Praze 9. 3. 1856; žádost o dražbu de praes. 29. 9. 1856, Z. 24679, podal Erbenbevollmächtigter JUDr. Jan rytíř Limbek). Odhad zahrnuje „alle Schloß-, Wohn- und Wirthschaftsgebäude“; může jako jediný známý pramen popsat budovy dvora Zahrádka jednotlivě.
+
+Text k připojení do žádosti:
+
+> Dále prosím o radu, kde je dnes uložen pozůstalostní spis JUDr. Adalberta (Vojtěcha) rytíře Eisensteina, zemského advokáta, zemřelého v Praze 9. 3. 1856, projednávaný u c. k. zemského soudu v Praze, a v něm zejména soudní odhadní protokol statků Březina a Zahrádka z 20. 9. 1856 (N. E. 23792) a inventář z července 1856. Pokud fond spravuje jiný archiv, prosím o jeho určení.

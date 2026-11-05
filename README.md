@@ -8,6 +8,7 @@ Vizuální souhrn běží na **https://historie.poutnazahradce.cz** (zdroj: `web
 ## Obsah
 
 - `vyzkum_statku.md` — výzkumný spis ke stavbě, držbě a pramenům
+- `nove_nalezy_2026-11-05.md` — **souhrn nových nálezů k zapracování**: dvůr v režii 1842–1880, smrt Vojtěcha Eisensteina 1856, dražby 1856–1858 s výměrami a odhadem dvora, „budovy většinou nové“ 1857, vlastníci 1861–1880, mapy 1965/1980
 - `audit_dejiny_domu_skill.md` — kontrola N11 podle českého skillu *dejiny-domu* (5. 11. 2026): pokrytí pramenů, nové nálezy (Sommer 1842, mapa evidence nemovitostí 1965/1980), podmínky portálů a obrázky na veřejném webu
 - `vyzkum_homolkovi_brezina.md` — nová výzkumná osa: rod Homolků od Antonína
   přes Jana k Tomášovi v Neuměřicích a držitelé, hospodářství a události

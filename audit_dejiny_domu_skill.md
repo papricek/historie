@@ -24,7 +24,7 @@ Skill [vzoha/dejiny-domu-skill](https://github.com/vzoha/dejiny-domu-skill) (ver
 | **Sommerova topografie 1842** | **nově**: heslo „Gut Březina sammt Zahradka“, viz [katalog](prameny_online/tisky/1842_sommer_taborer_kreis/README.md) |
 | vojenská mapování | hotovo |
 | Kramerius, noviny | hotovo (audit 1878–1949) |
-| ANNO (rakouské noviny, Prager Zeitung) | **nevyzkoušeno**: inzeráty o pachtu dvora, dražbách a prodeji statku 1839/1908 |
+| ANNO (rakouské noviny), Amtsblatt zur Prager Zeitung | **hotovo 5. 11. 2026**: smrt majitele 1856, dražby 1856–1858, vlastníci 1861–1880, viz [nove_nalezy_2026-11-05.md](nove_nalezy_2026-11-05.md) |
 | kroniky obce a školy | identifikovány v SOkA Pelhřimov, nejsou online |
 
 ## 2. Co nového přinesla tato kontrola
@@ -54,5 +54,5 @@ Možnosti: (a) požádat archivy o souhlas se zveřejněním (Třeboň, NA, MZA;
 2. Odeslat žádost do NA na hlavní knihu zemských desek, statek Zahrádka (lit. Z, tom. I, fol. 141): nejlevnější nová stopa k držbě dvora v 18.–19. století.
 3. Odeslat doplněný dotaz na ÚAZK (evidenční mapa po 1883 a vztah `pk_a` k mapě 1965).
 4. Do žádosti NA přidat **tereziánský katastr, dominikál** statku Březina–Zahrádka (fase vrchnosti), protože dvůr v rustikálu nebude.
-5. Vyzkoušet ANNO (Prager Zeitung, Amtsblatt) na *Zahradka*, *Březina*, *Eisenstein*, *Meierhof*, *Pacht*, 1820–1918.
-6. Zjistit, zda MZA nebo SOA Třeboň zpřístupňuje sčítací operáty Zahrádky 1869–1910 (dosud jen 1921).
+5. Hotovo (ANNO, Kramerius). Nově nejcennější cíl: soudní odhadní protokol z 20. 9. 1856 (N. E. 23792) v pozůstalosti Vojtěcha Eisensteina; žádost doplněna.
+6. Ověřeno: MZA má pro okres Pelhřimov online jen 1921. Starší operáty hledat v SOkA Pelhřimov (fond Okresní úřad / Okresní hejtmanství Pacov).
