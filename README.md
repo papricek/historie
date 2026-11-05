@@ -8,6 +8,7 @@ Vizuální souhrn běží na **https://historie.poutnazahradce.cz** (zdroj: `web
 ## Obsah
 
 - `vyzkum_statku.md` — výzkumný spis ke stavbě, držbě a pramenům
+- `audit_dejiny_domu_skill.md` — kontrola N11 podle českého skillu *dejiny-domu* (5. 11. 2026): pokrytí pramenů, nové nálezy (Sommer 1842, mapa evidence nemovitostí 1965/1980), podmínky portálů a obrázky na veřejném webu
 - `vyzkum_homolkovi_brezina.md` — nová výzkumná osa: rod Homolků od Antonína
   přes Jana k Tomášovi v Neuměřicích a držitelé, hospodářství a události
   velkostatku Březina–Zahrádka od středověku do roku 1948

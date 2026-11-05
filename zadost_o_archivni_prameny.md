@@ -409,3 +409,21 @@ Předmět: Prosba o dataci mapy PK a písemný operát stabilního katastru – 
 > Děkuji.
 
 Veřejný kontakt: [Ústřední archiv zeměměřictví a katastru](https://cuzk.gov.cz/uazk), `uazk@cuzk.gov.cz`. Tento návrh **nebyl odeslán**.
+
+> Doplněk 5. 11. 2026: Archiv ČÚZK nově zpřístupňuje pro Zahrádku **Mapu evidence nemovitostí 1 : 2 880, Pelhřimov V.S. IX. 25 ae 4** ve stavu konce 1965 (ofsetová reprodukce pozemkové mapy) a k 31. 12. 1980 ([katalog](prameny_online/mapy_katastralni/1965_1980_mapa_evidence_nemovitosti/README.md)). Do dotazu lze doplnit: „List 1965 je podle tiráže reprodukcí pozemkové mapy. Je zdrojový list vrstvy `pk_a` totožný s předlohou této reprodukce, nebo jde o starší stav?“ Dotaz na naskenovanou evidenční mapu B2/a/14C zůstává v platnosti; nástroj Archivu ČÚZK ji pro k. ú. nevrací.
+
+## Národní archiv – zemské desky, hlavní kniha statku Zahrádka (doplněk, 5. 11. 2026)
+
+Sommerova topografie (*Taborer Kreis*, 1842, s. 127; [katalog](prameny_online/tisky/1842_sommer_taborer_kreis/README.md)) cituje u statku Březina–Zahrádka dvě deskové vložky: **Gut Březina, Litt. B, Tom. VIII, Fol. 81** a samostatnou **Gut Zahradka, Litt. Z, Tom. I, Fol. 141** v „Landtäflichem Hauptbuch“. Projekt má zatím jen starší deskové zápisy 1574–1664 (`prameny_online/desky_zemske/`). Hlavní kniha může dát posloupnost držitelů deskového statku Zahrádka v 18.–19. století, dluhy, nájmy a hlavně to, kdy a jak byl statek Zahrádka připojen k Březině.
+
+Předmět: Žádost o reprodukci – Desky zemské, hlavní kniha, statek Zahrádka (Litt. Z, Tom. I, fol. 141)
+
+> Dobrý den,
+>
+> zkoumám dějiny bývalého vrchnostenského dvora v Zahrádce u Pošné (okr. Pelhřimov), dnes čp. 11. J. G. Sommer (*Das Königreich Böhmen*, sv. Taborer Kreis, 1842, s. 127) uvádí pro statek Březina se Zahrádkou odkazy do hlavní knihy zemských desek: statek Březina, lit. B, tom. VIII, fol. 81, a statek Zahrádka, **lit. Z, tom. I, fol. 141**.
+>
+> Prosím o informaci, pod jakou dnešní signaturou fondu Desky zemské jsou tyto hlavní knihy (vložky) vedeny, zda jsou digitalizované v Digitální badatelně, a o cenu badatelské reprodukce folií vložky statku Zahrádka (fol. 141 a navazující listy), případně i vložky statku Březina, lit. B, tom. VIII, fol. 81.
+>
+> Děkuji.
+
+Kontakt: Národní archiv, badatelna, `badatelna@nacr.cz`. Digitální badatelna NA zakazuje roboty, proto pokud je kniha online, snímky uloží badatel ručně do `pracovni/`. Tento návrh **nebyl odeslán**.
