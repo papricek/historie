@@ -355,6 +355,17 @@
     #panelObsah h3 { padding-right: 40px; }
   }
   .panel h3 { margin: 0 0 2px; font-size: 1.12rem; font-weight: 600; }
+  .dejiny {
+    margin: 10px 0 12px; padding: 10px 12px; border-left: 3px solid var(--accent);
+    background: var(--surface-2, rgba(0,0,0,.03)); border-radius: 0 6px 6px 0;
+  }
+  .dejiny h4 { margin: 0 0 6px; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
+  .dejiny p { margin: 0 0 8px; font-size: .86rem; line-height: 1.5; }
+  .dejiny details summary { cursor: pointer; font-size: .8rem; color: var(--accent-ink); }
+  .dejiny dl { margin: 6px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 3px 10px; font-size: .8rem; line-height: 1.4; }
+  .dejiny dt { color: var(--muted); white-space: nowrap; }
+  .dejiny dd { margin: 0; }
+  .dejiny .nej { font-style: italic; }
   .dnes {
     margin: 10px 0 4px; padding: 9px 11px; border: 1px solid var(--border);
     border-left: 3px solid var(--accent); border-radius: 8px; background: var(--surface);
@@ -621,7 +632,7 @@
         <h4>Co znamenají body</h4>
         <p>Kolečka stojí na <b>dnešních definičních bodech adres RÚIAN</b> (staženo 30.&nbsp;7.&nbsp;2026).
           Ztotožnění historického čísla <b>N</b> s&nbsp;dnešním <b>čp.</b> je pracovní předpoklad —
-          bezpečně je doloženo jen pro <b>čp.&nbsp;1</b> (st.&nbsp;29) a <b>čp.&nbsp;11</b> (st.&nbsp;1, panský dvůr).
+          bezpečně je doloženo pro <b>čp.&nbsp;11</b> (st.&nbsp;1, panský dvůr), <b>čp.&nbsp;1</b> (st.&nbsp;29, ale až od doby mezi 1829 a 1878) a nově pro čp.&nbsp;4 (st.&nbsp;17) a čp.&nbsp;7 (st.&nbsp;8), kde se číslo stavební parcely od roku 1829 nezměnilo.
           Šedé body jsou novější čísla (26–32), která ve spisu zatím nemají doklady.</p>
         <p>Historická čísla <b>N12, N17, N18, N19, N22 a N23</b> dnes v&nbsp;RÚIAN neexistují.
           Jejich přesná poloha zatím nebyla z&nbsp;pramenů určena, proto jsou pod mapou jen jako tlačítka —
@@ -662,7 +673,7 @@
   </footer>
 </main>
 
-<script src="mapa_data.js?v=0cbcf78cda"></script>
+<script src="mapa_data.js?v=763053cfbe"></script>
 <script>
 "use strict";
 
@@ -1308,6 +1319,19 @@ const IKONA_ODKAZ = '<svg viewBox="0 0 24 24" width="13" height="13" fill="none"
   '<path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"/>' +
   '<path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"/></svg>';
 
+/* Dějiny domu ze spisu domy/cpNN.md: shrnutí + rozbalitelná řada držitelů. */
+function dejinyHtml(klic) {
+  const d = (window.MAPA_DEJINY || {})[klic];
+  if (!d) return "";
+  let html = '<div class="dejiny"><h4>Dějiny domu</h4><p>' + d.shrnuti + "</p>";
+  if (d.drzitele && d.drzitele.length) {
+    html += "<details><summary>Držitelé a rodiny (" + d.drzitele.length + ")</summary><dl>";
+    for (const [kdy, kdo] of d.drzitele) html += "<dt>" + kdy + "</dt><dd>" + kdo + "</dd>";
+    html += "</dl></details>";
+  }
+  return html + "</div>";
+}
+
 function vyberDum(klic) {
   if (klic !== vybrany) tf.ukazVse = false;
   vybrany = klic;
@@ -1325,6 +1349,7 @@ function vyberDum(klic) {
       '<p class="sub">Novější domovní číslo — v historickém registru spisu zatím nemá doklad;' +
       (((window.MAPA_DNES || {})[klic] || []).length ? " co je o něm známo dnes, je níže." : " chybí i v dnešních registrech.") +
       (klic === "31" ? "<br>Bod adresy leží těsně za východním okrajem výřezu mapy." : "") + "</p>" +
+      dejinyHtml(klic) +
       obyvateleHtml(klic) +
       oralHistoryHtml(klic) +
       rezyHtml(klic) +
@@ -1359,6 +1384,7 @@ function vyberDum(klic) {
     ikonaRazeni(!sestupne) + "</button></h3>" +
     '<p class="sub">Od–do doloženo: <b>' + dum.rozsah + "</b> · " +
     dum.osoby.length + " osobních dokladových řádků" + (poc1921 ? " · z toho sčítání 1921: " + poc1921 : "") + "." + pozn + "</p>" +
+    dejinyHtml(klic) +
     obyvateleHtml(klic) +
     oralHistoryHtml(klic) +
     dnesHtml(klic) +

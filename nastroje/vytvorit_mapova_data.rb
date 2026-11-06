@@ -270,6 +270,28 @@ unless obyvatele.fetch("houses").keys.sort_by(&:to_i) == expected_houses
   abort "Neúplná poválečná evidence v #{SRC_OBYVATELE}"
 end
 
+# Dějiny domů z domy/cpNN.md: odstavec „Shrnutí“ a tabulka „Držitelé…“
+# (první dva sloupce). Spis je kanonický; zde se jen zkracuje pro panel mapy.
+dejiny = {}
+Dir.glob(File.join(ROOT, "domy", "cp*.md")).sort.each do |path|
+  klic = File.basename(path, ".md").sub(/\Acp0*/, "")
+  text = File.read(path)
+  nadpis = text[/^# (.+)$/, 1].to_s
+  shrnuti = text[/^## Shrnutí\n\n(.+?)\n\n/m, 1].to_s.gsub("\n", " ")
+  drzitele = []
+  if (blok = text[/^## (?:Držitelé|Obyvatelé)[^\n]*\n\n(.+?)(?:\n\n|\z)/m, 1])
+    blok.lines.drop(2).each do |radek|
+      cells = radek.split("|").map(&:strip)
+      drzitele << [cell_to_html(cells[1]), cell_to_html(cells[2])] if cells.length > 3
+    end
+  end
+  dejiny[klic] = {
+    "nadpis" => cell_to_html(nadpis),
+    "shrnuti" => cell_to_html(shrnuti),
+    "drzitele" => drzitele
+  }
+end
+
 vlastnici = CSV.read(SRC_VLASTNICI, headers: true).to_h { |row| [row.fetch("cp"), row.to_h] }
 unless vlastnici.keys.sort_by(&:to_i) == expected_houses
   abort "Neúplný kontrolní list vlastníků v #{SRC_VLASTNICI}"
@@ -284,6 +306,7 @@ File.open(OUT, "w") do |f|
   f.puts "window.MAPA_OBYVATELE = #{JSON.pretty_generate(obyvatele)};"
   f.puts "window.MAPA_VLASTNICI = #{JSON.pretty_generate(vlastnici)};"
   f.puts "window.MAPA_REZY = #{JSON.pretty_generate(rezy)};"
+  f.puts "window.MAPA_DEJINY = #{JSON.pretty_generate(dejiny)};"
 end
 
 # Otisk dat se propíše do <script src="mapa_data.js?v=…"> v mapa.html, aby
@@ -301,4 +324,4 @@ end
 
 puts "#{OUT}: #{houses.length} domovních oddílů, #{total} osobních řádků, " \
      "dnešní stav: #{dnes.values.sum(&:length)} údajů u #{dnes.length} klíčů, " \
-     "řezy 20. století: #{rezy.fetch('houses').length} domů"
+     "řezy 20. století: #{rezy.fetch('houses').length} domů, dějiny domů: #{dejiny.keys.join(', ')}"

@@ -18,6 +18,8 @@ Veřejné originály: [císařský otisk, signatura B2/a/6C, inv. č. 9077, list
 
 List A04A přímo uvádí `N. 1. Franek Joseph` u hospodářství se stavební parcelou **29**. Čtení jména je vysoké jistoty; přesný vztah Josefa Fraňka k pozdějšímu sedláku Františku Fraňkovi zatím doložen není. Aktuální RÚIAN vede na následnické parcele **st. 29/1** stavební objekt 8831181 s domovním číslem **1**. Historické N1 tak lze nově lokalizovat přibližně 180 metrů od cílové st. 1 / čp. 11.
 
+**Oprava 6. 11. 2026:** usedlost tvaru U na st. 29 je na skici dokreslena dodatečně; na císařském otisku 1829 ještě není (na jejím místě luční parcela 7/8) a reambulovaná mapa 1878 ji kreslí šrafovaně jako změnu. Vazba N1 = st. 29 proto platí nejpozději pro rok 1878, ne pro 1829; kde N1 stálo roku 1829, není určeno (slabá stopa: st. 12). Že N1 je jiný dům než N11, zůstává doloženo. Viz [domy_1829.md](domy_1829.md). Tamtéž je přiřazení domovních čísel N2–N22 ke stavebním parcelám 1829.
+
 [Aktuální srovnávací mapa](../2026/ruian_srovnani_st1_cp11_st29_cp1.png) modře označuje st. 29/1 / čp. 1 a oranžově cílovou st. 1 / čp. 11. Přímé polygonové výstupy jsou v [katalogu RÚIAN 2026](../2026/README.md). Tato prostorová návaznost je další nezávislý důkaz, že domovní číslo `N1` nebylo starším číslem cílového dvora.
 
 ## Lokální zarovnání 1829 / současnost

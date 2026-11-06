@@ -25,7 +25,7 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 
 - **Priorita:** A
 - **1950**
-  - **Stavba — doložená:** Historické N1 je bezpečně umístěno na st. 29; zástavba je v místě patrná i na snímku 1949. Dnešní dům je však náhrada z roku 2023.
+  - **Stavba — doložená:** Historické N1 je bezpečně umístěno na st. 29 nejpozději od reambulace 1878 (na otisku 1829 st. 29 ještě není); zástavba je v místě patrná i na snímku 1949. Dnešní dům je však náhrada z roku 2023.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1950.
   - **Nejbližší opora:** Rohovcovi jsou u čp. 1 doloženi do roku 1928; roku 1929 už zápis uvádí čp. 21.
   - **Co chybí:** Domovní a bytový arch Národního sčítání lidu 1950 (Národní archiv, NAD 984).

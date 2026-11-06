@@ -17,6 +17,9 @@ na **Pachta**. Následná obrazová kontrola archů čp. 9, 15 a 24 potvrdila ta
 Kadlečík, Pudil a Coufal jsou známá na Zahrádce a smějí pomoci při paleografii,
 nikoli nahradit čtení pramene.
 
+
+> **Oprava 6. 11. 2026:** usedlost st. 29 (čp. 1) na císařském otisku 1829 ještě není; vazba N1 = st. 29 platí až pro stav před rokem 1878 (viz `prameny_online/mapy_katastralni/1829/domy_1829.md`). Nové spisy domů jsou v `domy/`. Skripty `nastroje/stahnout_sken_trebon*.sh` vracejí od listopadu 2026 chybu 404 (archiv přešel na podepsané časově omezené odkazy).
+
 ## Nezaměnit dvě nemovitosti
 
 Prioritou je dnešní **stavební parcela st. 1 s adresou Zahrádka čp. 11**, historicky

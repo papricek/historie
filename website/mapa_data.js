@@ -18534,3 +18534,213 @@ window.MAPA_REZY = {
     }
   }
 };
+window.MAPA_DEJINY = {
+  "4": {
+    "nadpis": "Dějiny domu čp. 4 – Zahrádka u Pošné (Votápkovi?, Vondráčkovi, Markvartovi)",
+    "shrnuti": "Čp. 4 je chalupnické hospodářství na západní straně návsi, na stavební parcele <b>st. 17</b>, stejné od roku 1829 po dnešek. Indikační skica 1829 jmenuje držitele <b>Martina Votápka</b> (<span class=\"nej\">Wotapek Martin</span>). V 19. století se v domě střídají rodiny Vondráčkových (1830–1847) a dalších. Nejpozději od roku 1863 je v domě rod <b>Markvartových</b>: Matěj a Kateřina Markvartovi, jejich syn Josef (* 31. 3. 1866) a jeho rodina; Markvartovi zde hospodaří ještě roku 1930. Místní paměť pak zná posloupnost Novák → Markvart a dnes Vaňkovi. RÚIAN uvádí dokončení dnešního domu rokem <b>1919</b>, nejstarším evidovaným rokem ve vsi.",
+    "drzitele": [
+      [
+        "1788–1796",
+        "Němecalovi (Anna, Vojtěch); číslo domu se střední jistotou"
+      ],
+      [
+        "1816–1818",
+        "tři rodiny s nečitelnými příjmeními"
+      ],
+      [
+        "1824",
+        "<b>Martin</b> a Anna, syn Martin Jan Vojtěch (příjmení nečitelné)"
+      ],
+      [
+        "1829",
+        "<b>Martin Votápek</b>, držitel podle indikační skici"
+      ],
+      [
+        "1830–1847",
+        "<b>Vondráčkovi</b>: Matěj (1830), Jan a Kateřina (1845, 1847)"
+      ],
+      [
+        "1848",
+        "Matěj Chramosta (?) a Marie"
+      ],
+      [
+        "1863–1879",
+        "<b>Matěj a Kateřina Markvartovi</b>; děti Josef (31. 3. 1866), Marie (1869), Václav (1870), František (1874), Marie (1879)"
+      ],
+      [
+        "† 2. 7. 1915",
+        "Kateřina Markvartová, 73 let, v čp. 4"
+      ],
+      [
+        "1921",
+        "<b>Josef Markvart</b>, majitel domu a rolník; Antonie rozená Bečková ze Zlátenky č. 5; děti Antonie, Václav, Karel, Anežka, Josef"
+      ],
+      [
+        "1921–1930",
+        "sňatky dětí z č. 4; 1930 Václav Markvart, <b>rolník-chalupník v č. 4</b>"
+      ],
+      [
+        "2025–2026",
+        "Marie Vaňková (úřední adresa Zahrádka 4), Martin Vaněk (sídlo podnikání do 8. 6. 2026)"
+      ]
+    ]
+  },
+  "7": {
+    "nadpis": "Dějiny domu čp. 7 – Zahrádka u Pošné (Píchovi, Bartů, Pachtovi)",
+    "shrnuti": "Čp. 7 je staré hospodářství (chalupa, později „rolník“) jižně od rybníka, na stavební parcele <b>st. 8</b>, stejné od stabilního katastru 1829 po dnešek. Roku 1829 zde indikační skica zapisuje držitele <b>Josefa Bartu</b>; jeho rod (Bartů) je v domě doložen do roku 1889. Ve 20. století dům drží <b>Pachtovi</b>. Do domu přišli nejpozději roku 1917 a Josef Pachta vede roku 1921 hospodářství jako vlastník. Po roce 1943 vede stopa k <b>Adamovým</b> (Karel Adam, manžel Pachtovy dcery Marie), kteří jsou na čp. 7 ještě kolem roku 2000. Současný dům RÚIAN datuje rokem <b>1945</b>. Mapy ukazují, že areál z let 1829–1878 byl do roku 1949 přestavěn.",
+    "drzitele": [
+      [
+        "1790",
+        "<b>Matěj Pícha</b> a Kateřina; syn Václav * 9. 10. 1790"
+      ],
+      [
+        "1797",
+        "Josef Junek / Jůnek (číslice domu nejistá)"
+      ],
+      [
+        "1811–1818",
+        "<b>Jan Plášil (Plassil)</b> a Mariana; děti 1811 (dvojčata), 1815, 1818"
+      ],
+      [
+        "1822–1833",
+        "<b>Josef</b> a Kateřina (příjmení v matrice nečitelné; 1828 matka Anna)"
+      ],
+      [
+        "1829",
+        "<b>Josef Barta</b>, držitel podle indikační skici"
+      ],
+      [
+        "1841",
+        "Josef Bartů se 17. 5. žení s vdovou <b>Annou Píchovou, rozenou Součkovou</b> ze Zlátenky"
+      ],
+      [
+        "1845–1848",
+        "Josef Bartů, <b>chalupník v N7</b>; dcery Marie (1845) a Anna (1848, † 1851)"
+      ],
+      [
+        "1886–1889",
+        "<b>Jan Bartů</b>, rolník v čp. 7, syn Josefa a Anny; manželka Marie Žemličková z Roučkovic"
+      ],
+      [
+        "1893",
+        "† Anna Bartů, rozená Součková"
+      ],
+      [
+        "do 1917",
+        "<b>František Pachta</b>, chalupník v čp. 7 († 28. 10. 1917), a Anna rozená Zálohová († 3. 10. 1917)"
+      ],
+      [
+        "1914",
+        "† Marie Novotná, manželka nádeníka Josefa Novotného v čp. 7 (podruzi)"
+      ],
+      [
+        "1917–1918",
+        "synové Jan (obuvník, sňatek 1917) a <b>Josef Pachta</b> (rolník v čp. 7, sňatek 3. 7. 1918)"
+      ],
+      [
+        "1921",
+        "<b>Josef Pachta</b>, majitel domu a samostatný rolník; Antonie, dcera Marie (* 27. 5. 1919), pomocnice Antonie Moravcová"
+      ],
+      [
+        "1954–1962",
+        "Josef Pachta, tajemník MNV Zahrádka; 1957 výcvikář ZO Svazarmu"
+      ],
+      [
+        "1943",
+        "† Mánička (Marie) Adamová, manželka Karla Adama, dcera Josefa a Antonie Pachtových"
+      ],
+      [
+        "kolem 2000, 2003",
+        "<b>Karel Adam</b>, účastnická adresa čp. 7"
+      ]
+    ]
+  },
+  "20": {
+    "nadpis": "Dějiny domu čp. 20 – Zahrádka u Pošné („Jihlavák“; Žákovi, Dvořáčkovi, Zelenkovi)",
+    "shrnuti": "Čp. 20 je malá chalupa (domkářské stavení) v západní části návsi, dnes na stavební parcele <b>st. 18</b>. Jako dům N20 je doložena od roku <b>1819</b>, tedy jako jedno z mladších čísel vsi. V 19. století se v ní rychle střídají nájemné a domkářské rodiny. Nejdéle zde jsou Žákovi (1846–1882, chalupník Josef Žák), Novotní (1848–1858) a Dvořáčkovi (1863–1878); roku 1868 se zde narodil syn podruha Josef Sváček, pozdější obyvatel čp. 11. Ve 20. století dům drží <b>Zelenkovi</b> (1912–1932; domkáři Jan a Václav, tesař Karel). Dnes se dům místně jmenuje <b>„Jihlavák“</b>.",
+    "drzitele": [
+      [
+        "1819–1833",
+        "několik rodin, příjmení dosud nečitelná (otcové František, Martin, Matěj, Václav, Antonín)"
+      ],
+      [
+        "1846–1857",
+        "<b>Josef Žák</b> a rodina; děti Anna, Štěpán, Terezie, Jan, Antonie, Josef"
+      ],
+      [
+        "1848–1858",
+        "Alois Novotný a rodina"
+      ],
+      [
+        "1863–1878",
+        "<b>Jan Dvořáček</b> a rodina; pět dětí"
+      ],
+      [
+        "1868",
+        "Jan Sváček, <b>podruh</b>; syn Josef (* 15. 2. 1868), později v čp. 11"
+      ],
+      [
+        "1874",
+        "Josef Pavlík a rodina"
+      ],
+      [
+        "† 9. 6. 1882",
+        "<b>Josef Žák, chalupník v čp. 20</b>, 45 let; manželka Veronika rozená Davidová z Rovného čp. 11"
+      ],
+      [
+        "1912–1932",
+        "<b>Zelenkovi</b>: 1921 Jan (majitel), Anna, Marie, Karel; 1925 domkáři Václav a Jan, tesařský pomocník Karel (sňatek s Marií Pudilovou z č. 12); † 1932 školačka Marie"
+      ],
+      [
+        "po 1945",
+        "Jan Zelenka ze Zahrádky v tisku (bez čísla domu); Jan Zelenka s adresou čp. 20 jako vlastník šesti parcel (LV 149)"
+      ],
+      [
+        "2025",
+        "Michael Marousek, sídlo podnikání (ubytovací služby); místní jméno „Jihlavák“ (Stanislav Marousek)"
+      ]
+    ]
+  },
+  "28": {
+    "nadpis": "Dějiny domu čp. 28 – Zahrádka u Pošné (Bulantovi)",
+    "shrnuti": "Čp. 28 je nový dům na samostatné stavební parcele <b>st. 47</b>, mimo starou řadu domů N1–N25. Na leteckých snímcích 1949–1978 je místo ještě nezastavěné; dům se objevuje na snímku 1990 a RÚIAN vede dokončení k roku <b>1990</b>. Od prvního doložení (29. 6. 1991) je dům spojen s rodinou <b>Bulantových</b>. Rodina sama je na Zahrádce doložena už od roku 1957, tedy ještě před stavbou domu. Kde Bulantovi bydleli před rokem 1990, zatím nevíme.",
+    "drzitele": [
+      [
+        "8. 5. 1957",
+        "Václav Bulant (* 25. 8. 1939)"
+      ],
+      [
+        "1984/85",
+        "Václav Bulant (mladší, * asi 1966)"
+      ],
+      [
+        "29. 6. 1991",
+        "Luděk Bulant"
+      ],
+      [
+        "29. 1. – 7. 5. 1993",
+        "Růžena Bulantová"
+      ],
+      [
+        "7. 5. 1993 – 26. 9. 2001",
+        "Václav Bulant"
+      ],
+      [
+        "2000, 2004",
+        "Václav Bulant"
+      ],
+      [
+        "26. 10. 2016",
+        "Růžena a Václav Bulantovi"
+      ],
+      [
+        "20. 10. 2017 – 27. 3. 2018",
+        "Luděk Bulant"
+      ],
+      [
+        "2002–2022",
+        "Luděk Bulant"
+      ]
+    ]
+  }
+};
