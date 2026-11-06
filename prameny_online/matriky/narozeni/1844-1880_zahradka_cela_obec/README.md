@@ -131,7 +131,7 @@ Fraňková v N1 je už vedena v osobní evidenci a nezapočítává se jako nov�
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
-| N5 | Anna Nuníková (?) | 29. / 30. 1. 1849 | Martin Nuník (?) | Anna | dům, oba dny a křestní jména bezpečné; příjmení je pracovní čtení |
+| N5 | Anna Vaňková | 29. / 30. 1. 1849 | Martin Vaněk | Anna | dům, oba dny a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk**: zápis čte `Martin Waněk`, nádeník v N5, syn Michala Waňka, sedláka v N5 |
 | N14 | Vojtěch Junek / Jůnek | 30. / 31. 3. 1849 | Vojtěch Junek / Jůnek | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N2 | Antonie Plášilová | 25. / 26. 4. 1849 | Václav Plášil | Kateřina | dítě, rodiče, dům a oba dny bezpečné; historický tvar je `Plassil` |
 | N10 | Anna Průšová | 20. / 21. 5. 1849 | Václav Průša | Ludmila | dítě, rodiče, dům a oba dny bezpečné |
@@ -183,7 +183,7 @@ doloženého v N11 už v prosinci 1850.
 | N14 | Terezie Junková / Jůnková | 21. 9. 1851; den křtu neuveden | Vojtěch Junek / Jůnek | Anna | dítě, rodiče, dům a den narození bezpečné |
 | N15 | Kateřina Langrová (?) | 7. / 8. 11. 1851 | Václav Langr (?) | Marie Anna | dům a oba dny bezpečné; příjmení je pracovní čtení |
 | N17 | Marie `[příjmení nejasné]` | 23. / 24. 1. 1852 | Václav (?) `[příjmení nejasné]` | Marie | dům, oba dny a první jména čitelné |
-| N5 | Josef Nuník (?) | 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | Marie | dům, den narození a křestní jména bezpečné; příjmení je pracovní čtení |
+| N5 | Josef Vaněk | 12. 2. 1852; den křtu neuveden | Josef Vaněk | Marie | dům, den narození a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk**: zápis na snímku 318 čte otce `Josef Waněk`, sedlák v N5, syn Ondřeje Waňka, sedláka výměnkáře v N5; rejstřík pozemkové knihy 126077 vede „Waněk Joseph – Kontrakt über die Bauernwirthschaft N.C. 5 in Zahradka“ |
 | N16 | Anna Díčková (?) | 19. 2. 1852; den křtu neuveden | Vojtěch Díčka (?) | Anna | dům, den narození a křestní jména bezpečné; příjmení je pracovní čtení |
 | N10 | Antonie Průšová | 5. / 6. 3. 1852 | Václav Průša | Ludmila | dítě, rodiče, dům a oba dny bezpečné |
 | N20 | Jan Žák | 30. 4. / 1. 5. 1852 | Josef Žák | Anna | dítě, rodiče, dům a oba dny bezpečné |
@@ -221,7 +221,7 @@ nepatří N11.
 | N14 | Josef Junek / Jůnek | 19. / 20. 3. 1854 | Vojtěch Junek / Jůnek | Anna | dítě, rodiče, dům a oba dny bezpečné |
 | N20 | Antonie Žáková | 20. 5. 1854; den křtu neuveden | Josef Žák | Anna | dítě, rodiče, dům a den narození bezpečné |
 | N6 | František Reník (?) | 19. / 20. 7. 1854 | Martin Reník (?) | Terezie (?) | dům a oba dny bezpečné; příjmení a matčino jméno jsou pracovní |
-| N5 | František Nuník (?) | 4. 8. 1854; den křtu neuveden | Josef Nuník (?) | Marie | dům a den narození bezpečné; příjmení je pracovní |
+| N5 | František Vaněk | 4. 8. 1854; den křtu neuveden | Josef Vaněk | Marie | dům a den narození bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka v N5, viz snímek 318); týž František Vaněk, narozený 4. 8. 1854, je roku 1921 tchánem přednosty v čp. 5 |
 
 ## Snímek 321 — roky 1854–1855
 
@@ -268,7 +268,7 @@ rejstřík SOA nepřinesl pro pracovní tvar `Gremuš` místní srovnávací zá
 | N18 | Anna `[příjmení nejasné]` | 8. / 9. 7. 1856 | jméno otce nejasné | jméno matky nejasné | první jméno dítěte, dům a oba dny bezpečné |
 | N11 | nepojmenovaná mrtvě narozená dcera Forelová | 22. 10. 1856; bez křtu | František Forel | Regina Červená | již evidovaná událost; druhá datová číslice `23` v rodné knize se kvůli výslovnému `mortua nata` nepřebírá jako křest |
 | N6 | Jan `[příjmení nejasné]` | 14. / 15. 11. 1856 | Josef `[příjmení nejasné]` | Anna | první jména dítěte a rodičů, dům a oba dny čitelné |
-| N5 | Jan Nuník (?) | 7. / 8. 1. 1857 | Josef Nuník (?) | Marie | dům a oba dny bezpečné; příjmení je pracovní čtení známé z N5 |
+| N5 | Jan Vaněk | 7. / 8. 1. 1857 | Josef Vaněk | Marie | dům a oba dny bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N20 | Marie Novotná | 14. / 15. 1. 1857 | Alois Novotný | Anna | dítě, rodiče, dům a oba dny bezpečné |
 
 ## Snímek 324 — roky 1857–1858
@@ -322,12 +322,12 @@ bez dalšího důkazu neztotožňují.
 ## Snímek 327 — rok 1859
 
 Šest událostí má adresní řadu **N15, N5, N17, N18, N16 a N20**. Žádná
-nepatří N11; opakují se rodiny Langrů, Nuníků a Olivových.
+nepatří N11; opakují se rodiny Langrů, Vaňků a Olivových.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
 | N15 | Marie Langrová (?) | 21. / 22. 5. 1859 | Václav Langr (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
-| N5 | Anna Nuníková (?) | 25. / 26. 5. 1859 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Anna Vaňková | 25. / 26. 5. 1859 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N17 | Marie Marta `[příjmení nejasné]` | 29. / 30. 6. 1859 | Jan `[příjmení nejasné]` | Petronila (?) | obě křestní jména, dům a oba dny bezpečné |
 | N18 | Antonie `[příjmení nejasné]` | 10. / 11. 10. 1859 | Jan `[příjmení nejasné]` | Josefa | první jméno dítěte a rodičů, dům a oba dny čitelné |
 | N16 | Kateřina Olivová | 25. / 26. 11. 1859 | Karel Oliva | Marie | dítě, rodiče, dům a oba dny bezpečné; příjmení dítěte odvozeno z otce |
@@ -357,7 +357,7 @@ nepatří N11; u šesti řádků lze rodinu pracovně nebo bezpečně pojmenovat
 |---|---|---|---|---|---|
 | N6 | Jan Reník (?) | 29. / 30. 12. 1860 | Martin Reník (?) | Ludmila | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N16 | Josefa Díčková (?) | 23. / 24. 1. 1861 | Vojtěch Díčka (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
-| N5 | Marie Nuníková (?) | 6. / 7. 3. 1861 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Marie Vaňková | 6. / 7. 3. 1861 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N6 | Josef Albert `[příjmení nejasné]` | 4. / 6. 4. 1861 | Jan `[příjmení nejasné]` | Petronila | obě křestní jména, dům, oba dny a první jména rodičů bezpečné |
 | N3 | Františka Plášilová | 15. / 16. 4. 1861 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
 | N17 | Vojtěch Zručák (?) | 18. 5. 1861; pokřtěn téhož dne | Josef Zručák (?) | Petronila | dům, den a rodiče bezpečné; příjmení pracovní |
@@ -376,7 +376,7 @@ Plášil je synem samostatně evidovaných rodičů Jana a Kateřiny.
 | N6 | Vojtěch Gremuš (?) | 22. 10. 1861; pokřtěn téhož dne | Matěj Gremuš (?) | Anna | dítě, rodiče, dům a den bezpečné; tentýž pár je roku 1856 doložen v N8 |
 | N19 | Václav `[příjmení nejasné]` | 19. / 20. 12. 1861 | Matěj `[příjmení nejasné]` | Kateřina | první jméno dítěte a rodičů, dům a oba dny čitelné |
 | N11 | Antonie Čmuchová (?) | 6. / 7. 1. 1862 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; stejný pár je v N11 doložen roku 1859 |
-| N17 | Michal Nuník (?) | 15. / 16. 3. 1862 | Václav Nuník (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N17 | Michal Vaněk | 15. 3. 1862; pokřtěn téhož dne | Martin Vaněk | Anna | dům a den bezpečné; opraveno 6. 11. 2026 obrazovou kontrolou: příjmení není `Nuník (?)`, nýbrž **Vaněk** (`Waněk`) a otec není `Václav`, nýbrž **Martin** Vaněk, obyvatel v N17, syn Michala Waňka, sedláka v N5, a Anny, dcery Vojtěcha Nemrdala z N8 — tentýž Martin, jemuž se roku 1849 narodila Anna v N5; křest je zapsán téhož dne jako narození |
 | N11 | Jan Plášil | 2. / 3. 4. 1862 | Jan Plášil | Kateřina | dítě, rodiče, dům a oba dny bezpečné; bez automatického sloučení s jinými Plášilovými |
 
 ## Snímek 331 — roky 1862–1863
@@ -403,10 +403,10 @@ její narození a křest na 22./23. dubna 1863.
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
 | N20 | Josef `[příjmení nejasné]` | 13. / 14. 2. 1863 | jméno otce nečitelné | Eleonora `[příjmení nejasné]` | první jméno dítěte a matky, dům a oba dny bezpečné |
-| N5 | Jan Nuník (?) | 19. / 21. 4. 1863 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Jan Vaněk | 19. / 21. 4. 1863 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N11 | Barbora Fraňková / Franíková | 22. / 23. 4. 1863 | Josef Franěk / Franík | Rosalie Železná | již evidované dítě a rodiče; opravený měsíc narození |
 | N1 | Anna Dvořáčková | 30. 5. 1863; pokřtěna téhož dne | Jan Dvořáček | Kateřina | dítě, rodiče, dům a den bezpečné |
-| N18 | Jan Nuník (?) | 27. / 28. 6. 1863 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N18 | Jan Nemrdal | 27. / 28. 6. 1863 | František Nemrdal | Františka | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Nemrdal**: otec František Nemrdal, nájemník a tesař, nemanželský syn Kateřiny Nemrdalové, dcery Jakuba Nemrdala z Přáslavic N9; táž dvojice František a Františka je zapsána v N18 (1863) i v N8 (1865) |
 | N4 | Matěj `[příjmení nejasné]` | 31. 8. 1863; pokřtěn téhož dne | Matěj `[příjmení nejasné]` | Petronila (?) | první jména dítěte a otce, dům a den bezpečné |
 | N17 | Kateřina Žáčková (?) | 11. / 12. 11. 1863 | Josef Žáček (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N3 | František Plášil | 24. / 25. 1. 1864 | František Plášil | Anna | dítě, rodiče, dům a oba dny bezpečné |
@@ -440,8 +440,8 @@ matkou je Rosalie Železná. Dřívější domnělý rozpor s úmrtní knihou t�
 | N11 | Václav Franěk | 20. / 21. 8. 1865 | Josef Franěk | Rosalie Železná | již evidované dítě a rodiče; Petronila Nová je porodní bába, nikoli matka |
 | N15 | Václav Kejval | 9. / 11. 9. 1865 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N23 | František `[příjmení nejasné]` | 9. / 11. 9. 1865 | Jan `[příjmení nejasné]` | Marie `[příjmení nejasné]` | první jméno dítěte a rodičů, dům a oba dny čitelné |
-| N5 | Václav Nuník (?) | 3. / 4. 11. 1865 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
-| N8 | Marie Nuníková (?) | 16. / 17. 12. 1865 | František Nuník (?) | Františka | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Václav Vaněk | 3. / 4. 11. 1865 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
+| N8 | Marie Nemrdalová | 16. / 17. 12. 1865 | František Nemrdal | Františka | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Nemrdal**: otec František Nemrdal, nájemník a tesař, nemanželský syn Kateřiny Nemrdalové, dcery Jakuba Nemrdala z Přáslavic N9; táž dvojice František a Františka je zapsána v N18 (1863) i v N8 (1865) |
 
 ## Snímek 335 — roky 1866–1867
 
@@ -474,7 +474,7 @@ jsou totožní s už evidovanými osobami; nevytvářejí se duplicity.
 | N19 | Marie Svobodová | 10. 12. 1867; pokřtěna téhož dne | Jan Svoboda | Marie | dítě, rodiče, dům a den bezpečné |
 | N14 | Kateřina Zemišková (?) | 5. / 6. 2. 1868 | Josef Zemišek (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N20 | Josef Svaček / Sváček | 15. / 16. 2. 1868 | Jan Svaček / Sváček | Marie | již evidovaný pozdější obyvatel č. 11 a jeho rodiče |
-| N5 | Josefa Nuníková (?) | 6. / 7. 4. 1868 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Josefa Vaňková | 6. / 7. 4. 1868 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N19 | Aloisie Bílková (?) | 8. / 9. 5. 1868 | Jan Bílek (?) | Anna | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N1 | Jan Dvořáček | 27. / 28. 5. 1868 | Jan Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné |
 | N21 | Karolína Dušánková | 6. 6. 1868; pokřtěna téhož dne | František Dušánek | Anna Kejvalová | již evidovaná osoba a rodiče; rodné příjmení matky potvrzuje oddací zápis |
@@ -517,7 +517,7 @@ rodinou Křížových.
 | N20 | Marie Dvořáčková | 19. / 20. 12. 1870 | Jan Dvořáček | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N18 | Josefa Zičková (?) | 7. / 8. 5. 1871 | František Zička (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N11 | Antonie Zemišková (?) | 28. / 29. 5. 1871 | Josef Zemišek (?) | Marie | již evidované dítě a rodiče; otec je zahradníkem ve dvoře N11 |
-| N5 | Antonín Nuník (?) | 19. / 21. 6. 1871 | Josef Nuník (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
+| N5 | Antonín Vaněk | 19. / 21. 6. 1871 | Josef Vaněk | Marie | dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) |
 | N6 | Josef Plášil | 15. / 17. 3. 1872 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N23 | Marie Dvořáčková (?) | 7. / 8. 4. 1872 | Václav Dvořáček (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení pracovní |
 | N11 | Jan Křižina (?) | 15. / 16. 5. 1872 | Antonín Křižina (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení a otcova pravděpodobná zahradnická role jsou pracovní |
@@ -569,7 +569,7 @@ posloupnosti N20 → N19.
 |---|---|---|---|---|---|
 | N8 | František Kříž | 11. / 12. 8. 1874 | Matěj Kříž | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N20 | Marie Pavlíková | 23. / 24. 8. 1874 | Josef Pavlík | Josefa | dítě, rodiče, dům a oba dny bezpečné |
-| N2 | František `[příjmení nejasné]` | 15. / 16. 10. 1874 | František `[příjmení nejasné]` | Kateřina | první jména dítěte a rodičů, dům a oba dny bezpečné |
+| N2 | František Kudrna | 15. / 16. 10. 1874 | František Kudrna | Kateřina | první jména dítěte a rodičů, dům a oba dny bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10; týž František Kudrna zemřel v čp. 2 dne 5. 10. 1926 ve věku 51 let, 11 měsíců a 20 dní, což vede přesně na 15. 10. 1874 |
 | N15 | Marie Plešková (?) | 21. / 22. 10. 1874 | Martin Pleška (?) | Anna | dům, data a rodičovská křestní jména bezpečné; příjmení pracovní |
 | N8 | Josef `[příjmení nejasné]` | 15. / 16. 2. 1875 | Tomáš `[příjmení nejasné]` | jméno matky nejasné | první jméno dítěte a otce, dům a data bezpečné |
 | N6 | Marie Mynáříková (?) | 24. / 25. 3. 1875 | Jan Mynářík (?) | Marie | dům, data a rodičovská křestní jména bezpečné; příjmení pracovní |
@@ -599,7 +599,7 @@ N8**. Ostatní řádky patří Zlátence.
 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
-| N2 | Josef Zimr (?) | 28. / 29. 10. 1876 | František Zimr (?) | Kateřina | dům, data a rodičovská křestní jména bezpečné; příjmení pracovní |
+| N2 | Josef Kudrna | 28. / 29. 10. 1876 | František Kudrna | Kateřina | dům, data a rodičovská křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Zimr (?)` na **Kudrna**: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10 (shodně se snímkem 357) |
 | N18 | Jan Líčka (?) | 9. / 10. 11. 1876 | Tomáš Líčka (?) | Anna | dům, data a rodičovská křestní jména bezpečné; příjmení pracovní |
 | N6 | Anna Plášilová | 15. / 16. 6. 1877 | Josef Plášil | Marie | dítě, rodiče, dům a data bezpečné |
 | N1 | František Franěk (?) | 8. / 9. 12. 1877 | František Franěk (?) | Kateřina | dům, data a rodiče bezpečné; příjmení pracovní |
@@ -631,7 +631,7 @@ Dvořáčková z Německé Lhoty N14 ani řádky Zlátenky se nepřebírají.
 | N6 | Marie Plášilová | 1. 7. 1879; pokřtěna téhož dne | Josef Plášil | Marie | dítě, rodiče, dům a den bezpečné |
 | N4 | Marie Markvartová | 27. / 28. 7. 1879 | Matěj Markvart | Kateřina | dům, data a rodiče bezpečné; příjmení opraveno 6. 11. 2026 na Markvart (shoda Josefa, nar. 31. 3. 1866, se sčítáním 1921 v čp. 4) |
 | N18 | Marie Bílková (?) | 10. / 12. 9. 1879 | Tomáš Bílek (?) | Anna | dům, data a rodičovská křestní jména bezpečné; ženský tvar je pracovní převod historického `Bílek` |
-| N2 | Václav Zimr (?) | 17. / 19. 10. 1879 | František Zimr (?) | Kateřina | dům, data a rodiče bezpečné; pravděpodobně stejný pár jako roku 1876 |
+| N2 | Václav Kudrna | 17. / 19. 10. 1879 | František Kudrna | Kateřina | dům, data a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Zimr (?)` na **Kudrna**: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10 (shodně se snímkem 357); pravděpodobně stejný pár jako roku 1876 |
 
 ## Snímek 362 — zahrádecké řádky z let 1879–1880
 

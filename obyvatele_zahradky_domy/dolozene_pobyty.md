@@ -48,9 +48,9 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 |---|---|---|---|
 | 1921 (sčítací arch) | František Franík | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Pícha | dělník; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Josef Franík | otec přednosty; ovdovělý | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Franík | bratr přednosty; ženatý | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Karel Vávra | čeledín; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Růžena Franíková | sestra přednosty; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Růžena Franíková | švagrová přednosty; vdaná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 
 ## N1 / čp. 1
 
@@ -230,22 +230,22 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 19. / 20. 8. 1854 | Barbora Plášilová | narození / křest; dítě, otec, dům a oba dny bezpečné; matčino jméno je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 8. 1854 | Ludmila (?) | matka při narození dítěte Barbora Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 19. / 20. 8. 1854 | Vojtěch Plášil | otec při narození dítěte Barbora Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 10. 1874 | František `[příjmení nejasné]` | narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 10. 1874 | František `[příjmení nejasné]` | otec při narození dítěte František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 10. 1874 | Kateřina | matka při narození dítěte František `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 28. / 29. 10. 1876 | František Zimr (?) | otec při narození dítěte Josef Zimr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 28. / 29. 10. 1876 | Josef Zimr (?) | narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 28. / 29. 10. 1876 | Kateřina | matka při narození dítěte Josef Zimr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 17. / 19. 10. 1879 | František Zimr (?) | otec při narození dítěte Václav Zimr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 17. / 19. 10. 1879 | Kateřina | matka při narození dítěte Václav Zimr (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 17. / 19. 10. 1879 | Václav Zimr (?) | narození / křest; dům, oba dny a rodiče bezpečné; pravděpodobně stejný pár jako u Josefa v N2 roku 1876 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 10. 1874 | František Kudrna | narození / křest; první jména dítěte a rodičů, dům a oba dny bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10; týž František Kudrna zemřel v čp. 2 dne 5. 10. 1926 ve věku 51 let, 11 měsíců a 20 dní, což vede přesně na 15. 10. 1874 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 10. 1874 | František Kudrna | otec při narození dítěte František Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. / 16. 10. 1874 | Kateřina | matka při narození dítěte František Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 10. 1876 | František Kudrna | otec při narození dítěte Josef Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 10. 1876 | Josef Kudrna | narození / křest; dům, oba dny a rodičovská křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Zimr (?)` na **Kudrna**: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10 (shodně se snímkem 357) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 28. / 29. 10. 1876 | Kateřina | matka při narození dítěte Josef Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 19. 10. 1879 | František Kudrna | otec při narození dítěte Václav Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 19. 10. 1879 | Kateřina | matka při narození dítěte Václav Kudrna | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 17. / 19. 10. 1879 | Václav Kudrna | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Zimr (?)` na **Kudrna**: otec František Kudrna, sedlák v N2, syn Františka Kudrny, sedláka v Roučkovicích č. 10 (shodně se snímkem 357); pravděpodobně stejný pár jako u Josefa v N2 roku 1876 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. 5. 1920 a 18. 7. 1922 | František Kudrna | rolník v č. 2, svědek dvou sňatků; zemřel před rokem 1928 | [sn. 158](https://digi.ceskearchivy.cz/6624/158), [sn. 174](https://digi.ceskearchivy.cz/6624/174) |
 | 1921 (sčítací arch) | Antonie Kudrnová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kudrna | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Jan Kudrna | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Juliana Kudrnová | švagrová přednosty | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Karel Kudrna | syn; svobodný; narozen 13. 12. 1901 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Kateřina Kudrnová | matka přednosty; ovdovělá; podle archu narozena 15. (?) 8. 1846 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Kudrnová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Pavel Kudrna | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Václav Kudrna | bratr přednosty; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 17. / 19. 4. 1925 | Kateřina Kudrnová | vdova a výminkářka v čp. 2; zemřela ve věku 79 let, 4 měsíců a 4 dní | [úmrtní matrika, sn. 229](https://digi.ceskearchivy.cz/11214/229) |
 | 5. / 7. 10. 1926 | František Kudrna | zemřel přímo v čp. 2 ve věku 51 let, 11 měsíců a 20 dní na rakovinu žaludku | [úmrtní matrika, sn. 234](https://digi.ceskearchivy.cz/11214/234) |
@@ -311,8 +311,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 2. 1. 1854; den křtu neuveden | Anna | matka při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. 1. 1854; den křtu neuveden | František Plášil | otec při narození dítěte Kateřina Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. 1. 1854; den křtu neuveden | Kateřina Plášilová | narození / křest; dítě, rodiče, dům a den narození bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. / 13. 1. 1856 | František Plášil | otec při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 12. / 13. 1. 1856 | František Plášil | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 1. 1856 | František Plášil | otec při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 12. / 13. 1. 1856 | Marie Anna | matka při narození dítěte František Plášil | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 5. 1857 | Anna | matka při narození dítěte Antonie Plášilová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 5. 1857 | Antonie Plášilová | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -342,10 +342,10 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 3. / 4. 8. 1878 | Marie `[příjmení neuvedeno]` | narození / křest; nemanželské dítě; dům a oba dny bezpečné, pozdější přípis zaznamenává legitimaci | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 3. / 4. 8. 1878 | otec v původním zápisu neuveden | otec při narození dítěte Marie `[příjmení neuvedeno]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | narozena 4., pokřtěna 6. 12. 1888; zemřela 30. 12. 1888, pohřbena 1. 1. 1889 | Marie Svobodová | dcera truhláře Jana Svobody a Rozalie rozené Plášilové v čp. 3; zemřela ve věku 27 dní na psotník. Oba zápisy vymezují nejstarší přesný pobyt rodiny po sňatku a před pozdějším čp. 7 | [rodná matrika, sn. 97](https://digi.ceskearchivy.cz/11210/97), [úmrtní matrika, sn. 46](https://digi.ceskearchivy.cz/11214/46) |
+| 1921 (sčítací arch) | Antonie Bartošková, rozená Svobodová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonín Bartoška | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Božena Bartošková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Schmied | sloužící; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Juliana Bartošková `[v matrikách 1923–1936 Antonie rozená Svobodová]` | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Matěj Bartoška | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Růžena Bartošková | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Václav Bartoška | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -466,48 +466,48 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. / 2. 9. 1834 | Antonín (?) `[příjmení nejasné]` | otec při narození dítěte Margareta (?) `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 9. 1834 | Margareta (?) `[příjmení nejasné]` | narození / křest; dům a oba dny bezpečné; pořadí narození a křtu je čteno podle datových sloupců, osobní jména zůstávají pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. 6. 1842; křest téhož dne | Anna Marie (?) `[příjmení nejasné]` | narození / křest; dům a den bezpečné; dvě jména dítěte jsou pracovní čtení, v prameni jde o opakované číslo zápisu 315 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 29. / 30. 1. 1849 | Anna | matka při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 29. / 30. 1. 1849 | Anna Nuníková (?) | narození / křest; dům, oba dny a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 29. / 30. 1. 1849 | Martin Nuník (?) | otec při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 2. 1852; den křtu neuveden | Josef Nuník (?) | narození / křest; dům, den narození a křestní jména bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 2. 1852; den křtu neuveden | Marie | matka při narození dítěte Josef Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 4. 8. 1854; den křtu neuveden | František Nuník (?) | narození / křest; dům a den narození bezpečné; příjmení dítěte a otce je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 4. 8. 1854; den křtu neuveden | Josef Nuník (?) | otec při narození dítěte František Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 4. 8. 1854; den křtu neuveden | Marie | matka při narození dítěte František Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 7. / 8. 1. 1857 | Jan Nuník (?) | narození / křest; dům, oba dny a křestní jména rodičů bezpečné; příjmení je pracovní čtení známé z předchozích zápisů N5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 7. / 8. 1. 1857 | Josef Nuník (?) | otec při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 7. / 8. 1. 1857 | Marie | matka při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 25. / 26. 5. 1859 | Anna Nuníková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení známé z N5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 25. / 26. 5. 1859 | Josef Nuník (?) | otec při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 25. / 26. 5. 1859 | Marie | matka při narození dítěte Anna Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 3. 1861 | Josef Nuník (?) | otec při narození dítěte Marie Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 3. 1861 | Marie | matka při narození dítěte Marie Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 3. 1861 | Marie Nuníková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 4. 1863 | Jan Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 4. 1863 | Josef Nuník (?) | otec při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 4. 1863 | Marie | matka při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 3. / 4. 11. 1865 | Josef Nuník (?) | otec při narození dítěte Václav Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 3. / 4. 11. 1865 | Marie | matka při narození dítěte Václav Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 3. / 4. 11. 1865 | Václav Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 4. 1868 | Josef Nuník (?) | otec při narození dítěte Josefa Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 4. 1868 | Josefa Nuníková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení opakované rodiny N5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 6. / 7. 4. 1868 | Marie | matka při narození dítěte Josefa Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 6. 1871 | Antonín Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 6. 1871 | Josef Nuník (?) | otec při narození dítěte Antonín Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 19. / 21. 6. 1871 | Marie | matka při narození dítěte Antonín Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Anna | matka při narození dítěte Anna Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Anna Vaňková | narození / křest; dům, oba dny a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk**: zápis čte `Martin Waněk`, nádeník v N5, syn Michala Waňka, sedláka v N5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 29. / 30. 1. 1849 | Martin Vaněk | otec při narození dítěte Anna Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Josef Vaněk | otec při narození dítěte Josef Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Josef Vaněk | narození / křest; dům, den narození a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk**: zápis na snímku 318 čte otce `Josef Waněk`, sedlák v N5, syn Ondřeje Waňka, sedláka výměnkáře v N5; rejstřík pozemkové knihy 126077 vede „Waněk Joseph – Kontrakt über die Bauernwirthschaft N.C. 5 in Zahradka“ | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 2. 1852; den křtu neuveden | Marie | matka při narození dítěte Josef Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | František Vaněk | narození / křest; dům a den narození bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka v N5, viz snímek 318); týž František Vaněk, narozený 4. 8. 1854, je roku 1921 tchánem přednosty v čp. 5 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | Josef Vaněk | otec při narození dítěte František Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 4. 8. 1854; den křtu neuveden | Marie | matka při narození dítěte František Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 1. 1857 | Jan Vaněk | narození / křest; dům, oba dny a křestní jména rodičů bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 1. 1857 | Josef Vaněk | otec při narození dítěte Jan Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 7. / 8. 1. 1857 | Marie | matka při narození dítěte Jan Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 5. 1859 | Anna Vaňková | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 5. 1859 | Josef Vaněk | otec při narození dítěte Anna Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 25. / 26. 5. 1859 | Marie | matka při narození dítěte Anna Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 3. 1861 | Josef Vaněk | otec při narození dítěte Marie Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 3. 1861 | Marie | matka při narození dítěte Marie Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 3. 1861 | Marie Vaňková | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 4. 1863 | Jan Vaněk | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 4. 1863 | Josef Vaněk | otec při narození dítěte Jan Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 4. 1863 | Marie | matka při narození dítěte Jan Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1865 | Josef Vaněk | otec při narození dítěte Václav Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1865 | Marie | matka při narození dítěte Václav Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 3. / 4. 11. 1865 | Václav Vaněk | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 4. 1868 | Josef Vaněk | otec při narození dítěte Josefa Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 4. 1868 | Josefa Vaňková | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 6. / 7. 4. 1868 | Marie | matka při narození dítěte Josefa Vaňková | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 6. 1871 | Antonín Vaněk | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Vaněk** (rodina Josefa Waňka, sedláka v N5, syna Ondřeje; viz snímky 318, 332, 334 a 338) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 6. 1871 | Josef Vaněk | otec při narození dítěte Antonín Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 19. / 21. 6. 1871 | Marie | matka při narození dítěte Antonín Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 22. / 24. 3. 1882 | Josef Vaněk | rolník v čp. 5, manžel Marie rozené Svobodové z Outěchoviček čp. 7; zemřel ve věku 56 let | [úmrtní matrika, sn. 10](https://digi.ceskearchivy.cz/11214/10) |
-| 1921 (sčítací arch) | Anna Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Anna Křížová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Vaňková | tchyně přednosty | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonín Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonín Růž | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | František Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonín Kříž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonín Kříž | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | František Kříž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Vaněk | tchán přednosty | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Karel Plískal | sloužící; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Karel Procházka | pracovník domácnosti; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Ludmila Vaňková | švagrová přednosty; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Růžena Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Václav Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Růžena Křížová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Václav Kříž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 a 1929 | František Vaněk | rolník v č. 5; svědek roku 1921, otec Karolíny roku 1929 | [sn. 160](https://digi.ceskearchivy.cz/6624/160), [sn. 212](https://digi.ceskearchivy.cz/6624/212) |
 | 15. / 17. 12. 1925 | Antonie Vaňková | manželka Františka Vaňka v čp. 5; zemřela ve věku 65 let, 6 měsíců a 2 dní | [úmrtní matrika, sn. 231](https://digi.ceskearchivy.cz/11214/231) |
 | 1929 a 3. 2. 1934 | Antonín Kříž | rolník v č. 5; svědek dvou sňatků | [sn. 212](https://digi.ceskearchivy.cz/6624/212), [Červená Řečice, sn. 31](https://digi.ceskearchivy.cz/13251/31) |
@@ -636,7 +636,7 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1921 (sčítací arch) | Josef Svoboda | syn; svobodný; narozen 6. 5. 1901 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Kolářová | přednostka druhé domácnosti; ovdovělá; narozena 12. (?) 9. 1879 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Marie Svobodová | dcera; svobodná; narozena 16. (?) 5. 1903 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Pavlína (Pavla ?) Svobodová | majitelka bytu; přednostka; ovdovělá; narozena 12. 7. 1869 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Rozalie Svobodová, rozená Plášilová | majitelka bytu; přednostka; ovdovělá; podle archu narozena 16. (?) 7. 1869 (?); rodný zápis 16. 8. 1868 v N3 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Svatopluk Perníček | dítě v domácnosti; svobodný; narozen 1917 (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Žofie Kolářová | dcera; svobodná; narozena 2. 4. 1907 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 10. / 12. 1. 1925 | Ladislav Chab | dítě zemřelé v čp. 6 ve věku 10 let, 5 měsíců a 19 dní | [úmrtní matrika, sn. 228](https://digi.ceskearchivy.cz/11214/228) |
@@ -780,9 +780,9 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1. / 2. 7. 1856 | Anna | matka při narození dítěte František Gremuš (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 7. 1856 | František Gremuš (?) | narození / křest; dům, oba dny a křestní jména rodičů bezpečné; stejné pracovní příjmení se opakuje u dítěte i otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 7. 1856 | Matěj Gremuš (?) | otec při narození dítěte František Gremuš (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 16. / 17. 12. 1865 | František Nuník (?) | otec při narození dítěte Marie Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 16. / 17. 12. 1865 | Františka | matka při narození dítěte Marie Nuníková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 16. / 17. 12. 1865 | Marie Nuníková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1865 | František Nemrdal | otec při narození dítěte Marie Nemrdalová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1865 | Františka | matka při narození dítěte Marie Nemrdalová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 16. / 17. 12. 1865 | Marie Nemrdalová | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Nemrdal**: otec František Nemrdal, nájemník a tesař, nemanželský syn Kateřiny Nemrdalové, dcery Jakuba Nemrdala z Přáslavic N9; táž dvojice František a Františka je zapsána v N18 (1863) i v N8 (1865) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. / 10. 10. 1872 | Kateřina Křížová | narození / křest; dítě i otec nesou příjmení přímo v zápisu; dům, data a rodiče bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. / 10. 10. 1872 | Marie | matka při narození dítěte Kateřina Křížová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 9. / 10. 10. 1872 | Matěj Kříž | otec při narození dítěte Kateřina Křížová | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -806,15 +806,15 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 13. / 14. 3. 1880 | Marie | matka při narození dítěte Marie Křížová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 3. 1880 | Marie Křížová | narození / křest; dítě, rodiče, dům a oba dny bezpečné | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 3. 1880 | Matěj Kříž | otec při narození dítěte Marie Křížová | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonie Kolářová | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Antonie Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | František Růž | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonie Háková | služka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Antonie Křížová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | František Kříž | majitel bytu; přednosta domácnosti; narozen 28. 3. 1878 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | František Kříž | syn; svobodný; narozen 2. 1. 1920 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Josef Šimek | pracovník domácnosti; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Růžová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Růžová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Marie Růžová | členka domácnosti; vztah nejasný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Václav Růž | syn; svobodný | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1930 | František Kříž | rolník v čp. 8; přísedící představenstva Družstva pro rozvod elektrické energie Proseč–Pošná. Roku 1921 byl přednostou domácnosti čp. 8 František Růž — držitel se mezitím změnil, nebo šlo o dalšího obyvatele domu | [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) |
+| 1921 (sčítací arch) | Marie Křížová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Křížová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Marie Křížová | členka domácnosti; vztah nejasný | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1930 | František Kříž | rolník v čp. 8; přísedící představenstva Družstva pro rozvod elektrické energie Proseč–Pošná. Roku 1921 byl majitelem a přednostou domácnosti čp. 8 týž František Kříž, narozený 28. 3. 1878 (sčítací čtení `Růž` opraveno 6. 11. 2026 obrazovou kontrolou) | [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) |
 | zemřela 22. 12. 1932 | Marie Křížová | žena z čp. 8 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) |
 | zemřela 19. 6. 1933 | Marie Křížová | **výměnkářka** z čp. 8; potvrzuje rodinu Křížových v tomto domě vedle rolníka Františka Kříže z roku 1930 | tentýž rejstřík |
 | 26. 2. 1956 | Marie Křížová | článek o výroční členské schůzi JZD Zahrádka u Pošné ji výslovně uvádí jako „družstevnici Marii Křížovou čp. 8“. Jde o přímou domovní vazbu; se dvěma staršími ženami stejného jména, které v tomto domě zemřely v letech 1932 a 1933, se bez dalšího pramene neztotožňuje | [Vesnické noviny, č. 8, s. [1]](https://kramerius.kkvysociny.cz/view/uuid:2e4e240a-0e92-4d1e-ac81-2a23b668414a) |
@@ -1017,8 +1017,8 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 1921 (sčítací arch) | Božena Plášilová | schovanka; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | František Kejval | majitel bytu; přednosta domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Hermína Kejvalová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Kateřina Kejvalová | manželka | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 1921 (sčítací arch) | Pavel Kejval (?) | přednosta druhé domácnosti | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Josef Kejval | přednosta druhé domácnosti; narozen 16. 2. 1854 | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 1921 (sčítací arch) | Kateřina Kejvalová | manželka; narozena 14. 8. 1858 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Vlasta Kejvalová | dcera; svobodná | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 21. 11. 1923 a 1930 | František Kejval | rolník v čp. 10; roku 1923 nově zvolen členem představenstva Hospodářského družstva skladištního v Pacově, roku 1930 přísedícím Družstva pro rozvod elektrické energie Proseč–Pošná. Jiná osoba než stejnojmenný starosta z č. 15 | [Úřední list RČS, 15. 12. 1923, s. 8360](https://kramerius5.nkp.cz/uuid/uuid:43c4aee0-e5eb-11ea-8ce6-005056825209), [Český jih, 5. 4. 1930, s. 5](https://kramerius.cbvk.cz/uuid/uuid:010474fa-4061-11f0-8ee3-005056841fbb) |
 | zemřela 31. 7. 1934 | Herminie Kejvalová | žena rolníka z čp. 10 | [rejstřík úmrtní knihy, sn. 285](https://digi.ceskearchivy.cz/11214/285) |
@@ -1718,9 +1718,9 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 18. 5. 1861; pokřtěn téhož dne | Josef Zručák (?) | otec při narození dítěte Vojtěch Zručák (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. 5. 1861; pokřtěn téhož dne | Petronila | matka při narození dítěte Vojtěch Zručák (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 18. 5. 1861; pokřtěn téhož dne | Vojtěch Zručák (?) | narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní čtení opakované u dítěte a otce | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 3. 1862 | Anna | matka při narození dítěte Michal Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 3. 1862 | Michal Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 15. / 16. 3. 1862 | Václav Nuník (?) | otec při narození dítěte Michal Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 3. 1862; pokřtěn téhož dne | Anna | matka při narození dítěte Michal Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 3. 1862; pokřtěn téhož dne | Martin Vaněk | otec při narození dítěte Michal Vaněk | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 15. 3. 1862; pokřtěn téhož dne | Michal Vaněk | narození / křest; dům a den bezpečné; opraveno 6. 11. 2026 obrazovou kontrolou: příjmení není `Nuník (?)`, nýbrž **Vaněk** (`Waněk`) a otec není `Václav`, nýbrž **Martin** Vaněk, obyvatel v N17, syn Michala Waňka, sedláka v N5, a Anny, dcery Vojtěcha Nemrdala z N8 — tentýž Martin, jemuž se roku 1849 narodila Anna v N5; křest je zapsán téhož dne jako narození | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. / 12. 11. 1863 | Josef Žáček (?) | otec při narození dítěte Kateřina Žáčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. / 12. 11. 1863 | Kateřina | matka při narození dítěte Kateřina Žáčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 11. / 12. 11. 1863 | Kateřina Žáčková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
@@ -1799,9 +1799,9 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 13. / 14. 10. 1862 | Jan Díčka (?) | otec při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 10. 1862 | Josefa | matka při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 13. / 14. 10. 1862 | Marie Díčková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 6. 1863 | František Nuník (?) | otec při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 6. 1863 | Františka | matka při narození dítěte Jan Nuník (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 6. 1863 | Jan Nuník (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1863 | František Nemrdal | otec při narození dítěte Jan Nemrdal | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1863 | Františka | matka při narození dítěte Jan Nemrdal | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 6. 1863 | Jan Nemrdal | narození / křest; dům, oba dny a rodiče bezpečné; příjmení opraveno 6. 11. 2026 obrazovou kontrolou z pracovního `Nuník (?)` na **Nemrdal**: otec František Nemrdal, nájemník a tesař, nemanželský syn Kateřiny Nemrdalové, dcery Jakuba Nemrdala z Přáslavic N9; táž dvojice František a Františka je zapsána v N18 (1863) i v N8 (1865) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 5. 1867 | Jan Díčka (?) | otec při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 5. 1867 | Josefa | matka při narození dítěte Marie Díčková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1. / 2. 5. 1867 | Marie Díčková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na pracovní čtení rodiny N18 | [hlavní registr](../obyvatele_zahradky_domy.md) |
