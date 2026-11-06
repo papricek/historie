@@ -4,8 +4,17 @@ Spisy o domech mimo panský dvůr čp. 11 (ten má vlastní spis [vyzkum_statku.
 
 | Dům | Spis | Parcela 1829 → dnes | Držitel 1829 | Hlavní rody |
 |---|---|---|---|---|
+| čp. 1 | [cp01.md](cp01.md) | neurčena (st. 29 až před 1878) → st. 29/1 | Josef Franěk | **Fraňkovi / Franíkovi 1813–1921** (smlouva 1840) |
+| čp. 2 | [cp02.md](cp02.md) | st. 15 → st. 15/1 (+ nový dům 15/2) | Josef Plášil | Plášilovi, **Kudrnovi** |
+| čp. 3 | [cp03.md](cp03.md) | st. 16 → st. 16/6 | Václav Nenadál | Plášilovi 1844–1878, **Bartoškovi** od 1910 |
 | čp. 4 | [cp04.md](cp04.md) | st. 17 → st. 17 | Martin Votápek | Vondráčkovi, **Markvartovi 1863–1930**, dnes Vaňkovi |
+| čp. 5 | [cp05.md](cp05.md) | st. 21 → st. 21 | Ondřej Vaněk | **Vaňkovi**, Křížovi |
+| čp. 6 | [cp06.md](cp06.md) | st. 27 → st. 27/1 | František Hrobský | **vrchnostenská hospoda**; Nenadálovi, Hrobský, Plášilovi, Svobodovi |
 | čp. 7 | [cp07.md](cp07.md) | st. 8 → st. 8 | Josef Barta | Píchovi, **Bartů 1829–1893**, **Pachtovi 1917–1943**, Adamovi |
+| čp. 8 | [cp08.md](cp08.md) | st. 22 → st. 22 | Jakub Nenadál | Nenadálovi, **Křížovi 1872–1956** |
+| čp. 9 | [cp09.md](cp09.md) | st. 24 → st. 24 | Tomáš Košilka | **Košilkovi**, Plášilovi |
+| čp. 10 | [cp10.md](cp10.md) | st. 26 → st. 26 | František Vřák | Vřákovi, Průšovi, **Kejvalovi od 1857** |
+| čp. 15 | [cp15.md](cp15.md) | st. 10 → st. 10/3 | Josef Kejval | **Kejvalovi** (starosta František Kejval) |
 | čp. 20 | [cp20.md](cp20.md) | st. 18 (?) → st. 18 | Václav Žák (?) | Žákovi, Dvořáčkovi, **Zelenkovi 1912–1932**, „Jihlavák“ |
 | čp. 28 | [cp28.md](cp28.md) | (zahrada 32 domu N10) → st. 47 | – | **Bulantovi** (dům z let 1978–1990) |
 
@@ -26,6 +35,7 @@ Spisy o domech mimo panský dvůr čp. 11 (ten má vlastní spis [vyzkum_statku.
 
 ## Na řadě
 
-- Spisy pro další domy podle [badatelské fronty](../badatelska_fronta_domu.md); nejvíc podkladů mají N1, N2, N3, N5, N6, N8, N9, N10 a N15.
-- **Pozemkové (gruntovní) knihy 1784–1876 a josefínský katastr** (SOA Třeboň) jsou hlavní chybějící pramen pro držbu všech domů. Digitální archiv SOA Třeboň od listopadu 2026 vydává obrazy jen přes časově omezené podepsané odkazy; projektové skripty `nastroje/stahnout_sken_trebon*.sh` proto vracejí 404. Obrazy je třeba procházet v prohlížeči, nebo požádat archiv o reprodukce.
+- Spisy pro zbývající domy (N11 má vlastní spis): N12–N14, N16–N19, N21–N25 podle [badatelské fronty](../badatelska_fronta_domu.md).
+- **Pozemkové knihy 1784–1876:** rejstřík knihy 126077 (1826–1875) je prohlédnut celý ([katalog](../prameny_online/pozemkove_knihy/126077_rejstrik/README.md)); zbývá sedm dalších knih a čtení jednotlivých smluv. Digitální archiv SOA Třeboň vydává od listopadu 2026 obrazy jen přes časově omezené podepsané odkazy, skripty `nastroje/stahnout_sken_trebon*.sh` proto vracejí 404; knihy se procházejí v prohlížeči.
+- **Josefínský katastr** 342896: oddíly domů nemají v záhlaví vyplněná jména, čtení bude pomalé.
 - **Písemný operát stabilního katastru** (Národní archiv): seznam stavebních parcel s čísly domů a držiteli potvrdí tabulku 1829 a doplní N12, N13, N16 a N20.
