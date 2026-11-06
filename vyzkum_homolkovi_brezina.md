@@ -603,7 +603,12 @@ Březinou.
 | 1730 | Anna Terezie Umwertová, rozená Malovcová, postoupila či směnila Březinu příbuznému Janu Vítovi Malovcovi | sekundární zámecká historie; ověřit zemskými deskami |
 | 1743 | Jan Vít Malovec prodal Bedřichu Jeníkovi Zásadskému z Gamsenberka | sekundární zámecká historie; ověřit zemskými deskami |
 | 1821 | Jiří Jeník svobodný pán Zásadský z Gamsendorfu prodal Josefu Čapkovi | oficiální archivní úvod |
-| 1839 | Josef Čapek prodal Vojtěchu Josefu Eisensteinovi | oficiální archivní úvod |
+| 21. 8. 1839 | Josef Čapek prodal Vojtěchu Josefu Eisensteinovi | oficiální archivní úvod; den podle Sommera 1842 (literatura) |
+| 9. 3. 1856 | Vojtěch Eisenstein zemřel v Praze; dědicové žádají o dobrovolnou dražbu | *Wiener Zeitung* 12. 3. 1856; edikt v *Amtsblatt zur Prager Zeitung* 3. 12. 1856 ([katalog](prameny_online/tisky/1856-1877_anno_brezina_zahradka/README.md)) |
+| 1857–1858 | neúspěšná dražba v Praze (12. 2. a 12. 3. 1857), nová u krajského soudu v Táboře do 8. 1. 1858; odhad celku 199 832 zl. | *Die Presse* 4. 2. a 6. 10. 1857 |
+| 1859 / 1861 | knihovní vkladní hodnota 125 200 zl. (1859); držitelem August rytíř Eisenstein (1861); zda koupí, nebo dědictvím, neznámo | schematismus 1880; *Reichenberger Zeitung* 7. 3. 1861 |
+| 1877 | po Augustovi († 29. 6. 1875) zapsáni Václav, JUDr. Bedřich Julius, Karel, Eliška, Emerich a Adelheid Eisensteinové | *Prager Abendblatt* 12. 7. 1877 |
+| 1880 | majitel Václav rytíř Eisenstein; dvory Březina, Horní Dvůr a Zahrádka ve vlastní režii | schematismus 1880, s. 113 |
 | 1908 | Karel a Eliška Eisensteinovi prodali velkostatky Zahrádka a Březina s rustikáliemi manželům Antonínu a Zdeňce Homolkovým za 342 000 K | oficiální archivní úvod + dobový tisk z 9. 2. a 17. 7. 1908 |
 | 4. 12. 1941 | po Antonínově smrti nastoupil syn Ing. Jiří Homolka | oficiální archivní úvod + dobová nekrologická stopa |
 | 4. 5. 1948 | zavedena národní správa | oficiální archivní úvod, výnos č. XIII/3–274/1r |

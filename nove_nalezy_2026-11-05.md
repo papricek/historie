@@ -1,6 +1,6 @@
 # Nové nálezy k N11 / čp. 11 – 5. 11. 2026
 
-Souhrn k pozdějšímu zapracování do kanonických souborů a webu. Vznikl při kontrole projektu podle českého skillu *dejiny-domu* ([audit](audit_dejiny_domu_skill.md)). Web zatím nebyl měněn.
+Souhrn nálezů z kontroly projektu podle českého skillu *dejiny-domu* ([audit](audit_dejiny_domu_skill.md)). **Zapracováno 6. 11. 2026** do `vyzkum_statku.md`, `vyzkum_homolkovi_brezina.md`, `obyvatele_zahradky.md` (ZAH-S002, S003, S010, nově S032–S034) a na web (časová osa, držitelé, oddíl V a VI, prameny); web nasazen.
 
 Míra jistoty: **doc** = čteno přímo ze snímku pramene · **lit** = dobová literatura nebo tisk, který skutečnost jen tvrdí · **prob** = pracovní závěr.
 

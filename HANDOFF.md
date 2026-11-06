@@ -596,7 +596,7 @@ původního souboru: `routes.yml.bak-historie`). DNS `historie.poutnazahradce.cz
 **Redeploy = jediný příkaz** (nginx nic restartovat nepotřebuje):
 
 ```bash
-rsync -az --delete ~/Work/zahradka/website/ 192.168.1.111:projects/apps/historie/html/
+rsync -az --delete ~/Work/zahradka/zahradka-historie/website/ 192.168.1.111:projects/apps/historie/html/
 ```
 
 Rychlá kontrola po nasazení:
