@@ -392,21 +392,21 @@ odchodu z domu; rozhodující je proto současně uvedená adresní posloupnost.
 | 31. 8. 1863; pokřtěn téhož dne | Matěj `[příjmení nejasné]` | otec při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 31. 8. 1863; pokřtěn téhož dne | Matěj `[příjmení nejasné]` | narození / křest; první jména dítěte a otce, dům a den bezpečné; matčino jméno pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 31. 8. 1863; pokřtěn téhož dne | Petronila (?) | matka při narození dítěte Matěj `[příjmení nejasné]` | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 31. 3. 1866; pokřtěn téhož dne | Josef Mrázek (?) | narození / křest; dům, den a křestní jména bezpečné; příjmení je pracovní normalizace opakované rodiny N4 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 31. 3. 1866; pokřtěn téhož dne | Kateřina | matka při narození dítěte Josef Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 31. 3. 1866; pokřtěn téhož dne | Matěj Mrázek (?) | otec při narození dítěte Josef Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. / 13. 8. 1869 | Kateřina | matka při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. / 13. 8. 1869 | Marie Mrázková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. / 13. 8. 1869 | Matěj Mrázek (?) | otec při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 26. 9. 1870; pokřtěn téhož dne | Kateřina | matka při narození dítěte Václav Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 26. 9. 1870; pokřtěn téhož dne | Matěj Mrázek (?) | otec při narození dítěte Václav Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 26. 9. 1870; pokřtěn téhož dne | Václav Mrázek (?) | narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní normalizace rodiny N4 | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 1. 1874; pokřtěn téhož dne | František Mrázek (?) | narození / křest; dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 1. 1874; pokřtěn téhož dne | Kateřina | matka při narození dítěte František Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 12. 1. 1874; pokřtěn téhož dne | Matěj Mrázek (?) | otec při narození dítěte František Mrázek (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 7. 1879 | Kateřina | matka při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 7. 1879 | Marie Mrázková (?) | narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní | [hlavní registr](../obyvatele_zahradky_domy.md) |
-| 27. / 28. 7. 1879 | Matěj Mrázek (?) | otec při narození dítěte Marie Mrázková (?) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 31. 3. 1866; pokřtěn téhož dne | Josef Markvart | narození / křest; dům, den a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 z pracovního `Mrázek (?)` na **Markvart**: syn Josef narozený 31. 3. 1866 v N4 je týž Josef Markvart, kterého sčítání 1921 vede v čp. 4 se stejným datem narození; matka Kateřina odpovídá Kateřině Markvartové zemřelé v čp. 4 roku 1915 ve věku 73 let; obrazové přečtení příjmení v rodné knize ještě ověřit | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 31. 3. 1866; pokřtěn téhož dne | Kateřina | matka při narození dítěte Josef Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 31. 3. 1866; pokřtěn téhož dne | Matěj Markvart | otec při narození dítěte Josef Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 8. 1869 | Kateřina | matka při narození dítěte Marie Markvartová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 8. 1869 | Marie Markvartová | narození / křest; dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. / 13. 8. 1869 | Matěj Markvart | otec při narození dítěte Marie Markvartová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. 9. 1870; pokřtěn téhož dne | Kateřina | matka při narození dítěte Václav Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. 9. 1870; pokřtěn téhož dne | Matěj Markvart | otec při narození dítěte Václav Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 26. 9. 1870; pokřtěn téhož dne | Václav Markvart | narození / křest; dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 1. 1874; pokřtěn téhož dne | František Markvart | narození / křest; dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 1. 1874; pokřtěn téhož dne | Kateřina | matka při narození dítěte František Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 12. 1. 1874; pokřtěn téhož dne | Matěj Markvart | otec při narození dítěte František Markvart | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1879 | Kateřina | matka při narození dítěte Marie Markvartová | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1879 | Marie Markvartová | narození / křest; dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) | [hlavní registr](../obyvatele_zahradky_domy.md) |
+| 27. / 28. 7. 1879 | Matěj Markvart | otec při narození dítěte Marie Markvartová | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 2. / 4. 7. 1915 | Kateřina Markvartová | zemřela přímo v čp. 4 ve věku 73 let, 4 měsíců a 25 dní | [úmrtní matrika, sn. 182](https://digi.ceskearchivy.cz/11214/182) |
 | 1921 (sčítací arch) | Anežka Markvartová | dcera; svobodná; narozena 4. 10. 1907 | [hlavní registr](../obyvatele_zahradky_domy.md) |
 | 1921 (sčítací arch) | Antonie Markvartová | dcera; svobodná; narozena 3. 1. 1898 | [hlavní registr](../obyvatele_zahradky_domy.md) |

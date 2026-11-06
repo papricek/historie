@@ -2219,7 +2219,7 @@ evidenci. Nejasná příjmení se nepřizpůsobují známým rodinám jen podle 
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
 | N1 | Matěj Dvořáček | 12. / 13. 2. 1866 | Jan Dvořáček | Kateřina | dítě, rodiče, dům a oba dny bezpečné; rodina navazuje na dřívější zápisy N1 |
-| N4 | Josef Mrázek (?) | 31. 3. 1866; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a křestní jména bezpečné; příjmení je pracovní normalizace opakované rodiny N4 |
+| N4 | Josef Markvart | 31. 3. 1866; pokřtěn téhož dne | Matěj Markvart | Kateřina | dům, den a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 z pracovního `Mrázek (?)` na **Markvart**: syn Josef narozený 31. 3. 1866 v N4 je týž Josef Markvart, kterého sčítání 1921 vede v čp. 4 se stejným datem narození; matka Kateřina odpovídá Kateřině Markvartové zemřelé v čp. 4 roku 1915 ve věku 73 let; obrazové přečtení příjmení v rodné knize ještě ověřit |
 | N22 | Jan Zalomka (?) | 28. / 29. 5. 1866 | Jan Zalomka (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
 | N6 | Barbora Zičková (?) | 1. / 2. 11. 1866 | Josef Zička (?) | Kateřina | dům, oba dny a rodiče bezpečné; historický tvar příjmení je pracovní |
 | N11 | Marie `[příjmení nejasné]` | 7. / 8. 12. 1866 | Josef `[příjmení nejasné]` | Rosalie | dítě, rodičovská křestní jména, dům a oba dny bezpečné; otec je zřejmě podruh v N11 |
@@ -2264,7 +2264,7 @@ nemanželských dětí nemají uvedeného otce.
 | N15 | Karel Kejval | 3. 12. 1868; pokřtěn téhož dne | Václav Kejval | Marie | dítě, rodiče, dům a den bezpečné |
 | N19 | Josef `[příjmení v dětském sloupci neuvedeno]` | 12. 3. 1869; pokřtěn téhož dne | otec neuveden | Marie `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
 | N22 | Antonie Železná (?) | 25. / 26. 6. 1869 | František Železný (?) | Marie | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
-| N4 | Marie Mrázková (?) | 12. / 13. 8. 1869 | Matěj Mrázek (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4 |
+| N4 | Marie Markvartová | 12. / 13. 8. 1869 | Matěj Markvart | Kateřina | dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) |
 | N18 | Barbora Zičková (?) | 2. / 3. 9. 1869 | Jan Zička (?) | Josefa | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
 | N20 | František `[příjmení v dětském sloupci neuvedeno]` | 16. 10. 1869; pokřtěn téhož dne | otec neuveden | Veronika `[příjmení nejasné]` | nemanželské dítě; dům, den a matčino první jméno bezpečné |
 | N10 | Anna Průšová (?) | 20. / 21. 11. 1869 | Josef Průša (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení je pracovní čtení |
@@ -2285,7 +2285,7 @@ nesjednocuje se známou rodinou Křížových.
 |---|---|---|---|---|---|
 | N6 | Josefa Plášilová | 15. / 16. 2. 1870 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N11 | Josefa Dvořáková | 15. / 16. 3. 1870 | Jan Dvořák | Marie | již evidované dítě a otec; celý snímek doplňuje matčino první jméno |
-| N4 | Václav Mrázek (?) | 26. 9. 1870; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a rodiče bezpečné; příjmení je pracovní normalizace rodiny N4 |
+| N4 | Václav Markvart | 26. 9. 1870; pokřtěn téhož dne | Matěj Markvart | Kateřina | dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) |
 | N18 | František `[příjmení nejasné]` | 4. / 5. 10. 1870 | František `[příjmení nejasné]` | Kateřina | první jména dítěte a rodičů, dům a oba dny bezpečné |
 | N15 | Marie Kejvalová | 15. / 16. 10. 1870 | Václav Kejval | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N11 | Kateřina Čmuchová (?) | 20. / 21. 10. 1870 | Matěj Čmucha (?) | Marie | dítě, rodiče, dům a oba dny bezpečné; tentýž pár je v N11 doložen roku 1859, 1862 a 1864 |
@@ -2339,7 +2339,7 @@ N6, N17 a N18.
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
 | N18 | Václav Líčka (?) | 17. / 18. 10. 1873 | Tomáš Líčka (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
-| N4 | František Mrázek (?) | 12. 1. 1874; pokřtěn téhož dne | Matěj Mrázek (?) | Kateřina | dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní |
+| N4 | František Markvart | 12. 1. 1874; pokřtěn téhož dne | Matěj Markvart | Kateřina | dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) |
 | N11 | Marie Zemišková (?) | 27. / 28. 1. 1874 | Josef Zemišek (?) | Marie | již evidované dítě a rodiče; otec je v zápisu zahradníkem ve dvoře N11 |
 | N6 | Jan Plášil | 3. / 4. 2. 1874 | Josef Plášil | Marie | dítě, rodiče, dům a oba dny bezpečné |
 | N17 | Antonie Dvořáčková (?) | 16. / 17. 3. 1874 | Václav Dvořáček (?) | Marie | dům, oba dny a rodičovská křestní jména bezpečné; příjmení je pracovní čtení |
@@ -2437,7 +2437,7 @@ Historický nepřechýlený tvar `Bílek` u dítěte je veden pracovně jako Bí
 | Dům | Dítě | Narození / křest | Otec | Matka | Stav |
 |---|---|---|---|---|---|
 | N6 | Marie Plášilová | 1. 7. 1879; pokřtěna téhož dne | Josef Plášil | Marie | dítě, rodiče, dům a den bezpečné |
-| N4 | Marie Mrázková (?) | 27. / 28. 7. 1879 | Matěj Mrázek (?) | Kateřina | dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní |
+| N4 | Marie Markvartová | 27. / 28. 7. 1879 | Matěj Markvart | Kateřina | dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866) |
 | N18 | Marie Bílková (?) | 10. / 12. 9. 1879 | Tomáš Bílek (?) | Anna | dům, oba dny a rodičovská křestní jména bezpečné; ženský tvar je pracovní převod historického `Bílek` |
 | N2 | Václav Zimr (?) | 17. / 19. 10. 1879 | František Zimr (?) | Kateřina | dům, oba dny a rodiče bezpečné; pravděpodobně stejný pár jako u Josefa v N2 roku 1876 |
 

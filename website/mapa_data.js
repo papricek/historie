@@ -2262,101 +2262,101 @@ window.MAPA_DATA = {
         },
         {
           "d": "31. 3. 1866; pokřtěn téhož dne",
-          "j": "Josef Mrázek (?)",
-          "p": "narození / křest; dům, den a křestní jména bezpečné; příjmení je pracovní normalizace opakované rodiny N4",
+          "j": "Josef Markvart",
+          "p": "narození / křest; dům, den a křestní jména bezpečné; příjmení opraveno 6. 11. 2026 z pracovního <span class=\"nej\">Mrázek (?)</span> na <b>Markvart</b>: syn Josef narozený 31. 3. 1866 v N4 je týž Josef Markvart, kterého sčítání 1921 vede v čp. 4 se stejným datem narození; matka Kateřina odpovídá Kateřině Markvartové zemřelé v čp. 4 roku 1915 ve věku 73 let; obrazové přečtení příjmení v rodné knize ještě ověřit",
           "r": 1866
         },
         {
           "d": "31. 3. 1866; pokřtěn téhož dne",
           "j": "Kateřina",
-          "p": "matka při narození dítěte Josef Mrázek (?)",
+          "p": "matka při narození dítěte Josef Markvart",
           "r": 1866,
           "rod": "m"
         },
         {
           "d": "31. 3. 1866; pokřtěn téhož dne",
-          "j": "Matěj Mrázek (?)",
-          "p": "otec při narození dítěte Josef Mrázek (?)",
+          "j": "Matěj Markvart",
+          "p": "otec při narození dítěte Josef Markvart",
           "r": 1866,
           "rod": "o"
         },
         {
           "d": "12. / 13. 8. 1869",
           "j": "Kateřina",
-          "p": "matka při narození dítěte Marie Mrázková (?)",
+          "p": "matka při narození dítěte Marie Markvartová",
           "r": 1869,
           "rod": "m"
         },
         {
           "d": "12. / 13. 8. 1869",
-          "j": "Marie Mrázková (?)",
-          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4",
+          "j": "Marie Markvartová",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866)",
           "r": 1869
         },
         {
           "d": "12. / 13. 8. 1869",
-          "j": "Matěj Mrázek (?)",
-          "p": "otec při narození dítěte Marie Mrázková (?)",
+          "j": "Matěj Markvart",
+          "p": "otec při narození dítěte Marie Markvartová",
           "r": 1869,
           "rod": "o"
         },
         {
           "d": "26. 9. 1870; pokřtěn téhož dne",
           "j": "Kateřina",
-          "p": "matka při narození dítěte Václav Mrázek (?)",
+          "p": "matka při narození dítěte Václav Markvart",
           "r": 1870,
           "rod": "m"
         },
         {
           "d": "26. 9. 1870; pokřtěn téhož dne",
-          "j": "Matěj Mrázek (?)",
-          "p": "otec při narození dítěte Václav Mrázek (?)",
+          "j": "Matěj Markvart",
+          "p": "otec při narození dítěte Václav Markvart",
           "r": 1870,
           "rod": "o"
         },
         {
           "d": "26. 9. 1870; pokřtěn téhož dne",
-          "j": "Václav Mrázek (?)",
-          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení je pracovní normalizace rodiny N4",
+          "j": "Václav Markvart",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866)",
           "r": 1870
         },
         {
           "d": "12. 1. 1874; pokřtěn téhož dne",
-          "j": "František Mrázek (?)",
-          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní",
+          "j": "František Markvart",
+          "p": "narození / křest; dům, den a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866)",
           "r": 1874
         },
         {
           "d": "12. 1. 1874; pokřtěn téhož dne",
           "j": "Kateřina",
-          "p": "matka při narození dítěte František Mrázek (?)",
+          "p": "matka při narození dítěte František Markvart",
           "r": 1874,
           "rod": "m"
         },
         {
           "d": "12. 1. 1874; pokřtěn téhož dne",
-          "j": "Matěj Mrázek (?)",
-          "p": "otec při narození dítěte František Mrázek (?)",
+          "j": "Matěj Markvart",
+          "p": "otec při narození dítěte František Markvart",
           "r": 1874,
           "rod": "o"
         },
         {
           "d": "27. / 28. 7. 1879",
           "j": "Kateřina",
-          "p": "matka při narození dítěte Marie Mrázková (?)",
+          "p": "matka při narození dítěte Marie Markvartová",
           "r": 1879,
           "rod": "m"
         },
         {
           "d": "27. / 28. 7. 1879",
-          "j": "Marie Mrázková (?)",
-          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení navazuje na opakovanou rodinu N4, ale zůstává pracovní",
+          "j": "Marie Markvartová",
+          "p": "narození / křest; dům, oba dny a rodiče bezpečné; příjmení podle opravy u Josefa Markvarta (31. 3. 1866)",
           "r": 1879
         },
         {
           "d": "27. / 28. 7. 1879",
-          "j": "Matěj Mrázek (?)",
-          "p": "otec při narození dítěte Marie Mrázková (?)",
+          "j": "Matěj Markvart",
+          "p": "otec při narození dítěte Marie Markvartová",
           "r": 1879,
           "rod": "o"
         },
