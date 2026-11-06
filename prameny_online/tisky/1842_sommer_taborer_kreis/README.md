@@ -35,7 +35,7 @@ Zahrádka, hodinu cesty jižně od Březiny, ves o **22 domech a 142 obyvatelíc
 
 ## Co to přináší výzkumu N11
 
-1. **Dvůr Zahrádka byl v letech 1837–1842 v přímé režii vrchnosti**, nikoli pronajatý. Tím se k roku 1842 vysvětluje, proč matriky v N11 uvádějí jen zaměstnance dvora (šafáře, pastýře, čeleď), a ne nájemce. Pozor: N11 v pozemkové knize 1840 je ve smlouvě Francíků (viz [../../pozemkove_knihy/1840/README.md](../../pozemkove_knihy/1840/README.md)); vztah této smlouvy k dvoru v režii zůstává otevřený a Sommer jej neřeší.
+1. **Dvůr Zahrádka byl v letech 1837–1842 v přímé režii vrchnosti**, nikoli pronajatý. Tím se k roku 1842 vysvětluje, proč matriky v N11 uvádějí jen zaměstnance dvora (šafáře, pastýře, čeleď), a ne nájemce. Smlouva z pozemkové knihy 1840, dříve přiřazovaná N11, patří podle obrazové kontrole 6. 11. 2026 k N1 (Fraňkovi); rozpor s režií dvora tím odpadá.
 2. **Přesné datum koupě Eisensteinem**: 21. 8. 1839 (dosud jen rok 1839 z archivního úvodu).
 3. **Samostatné deskové těleso „Gut Zahradka“** s citací lit. Z, tom. I, fol. 141 hlavní knihy zemských desek. To je nový, přesně adresovaný archivní cíl pro držbu dvora v 18.–19. století; doplněno do [zadost_o_archivni_prameny.md](../../../zadost_o_archivni_prameny.md).
 4. **Ves 1842: 22 domů, 142 obyvatel.** Doplňuje řadu 1862 (192 přítomných) a 1869 (188) v [vyzkum_statku.md](../../../vyzkum_statku.md).

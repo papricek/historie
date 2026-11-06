@@ -253,7 +253,7 @@ Pro rychlé vizuální srovnání jsou připraveny čtyři odvozené tabule: [or
 Veřejné digitální pozemkové knihy statku Březina–Zahrádka jsou popsány ve [výzkumném spisu](../vyzkum_statku.md#veřejné-pozemkové-knihy-pro-zahrádku). Uloženy jsou dvě přímo adresované smlouvy:
 
 - [kupní smlouva Josefa Franíka k domu či gruntu Zahrádka N1 z 21. 11. 1813](pozemkove_knihy/1813/README.md), která dokládá samostatný N1 a rod Fraňků nejméně od roku 1813, nikoli přečíslování cílového N11;
-- [kupní smlouva Václava a Františka Francíkových k Zahrádce N11 z 29. 2. 1840](pozemkove_knihy/1840/README.md), první nalezený pozemkovoknižní zápis přímo k cílovému domu.
+- [kupní smlouva Josefa a Františka Fraňkových k Zahrádce N1 z roku 1840](pozemkove_knihy/1840/README.md) (do 6. 11. 2026 mylně vedena jako smlouva k N11).
 
 ## Matriky
 

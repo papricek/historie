@@ -1,4 +1,8 @@
-# Kupní smlouva k Zahrádce N11, 1840
+# Kupní smlouva k Zahrádce N1 (Fraňkovi), 1840
+
+**Oprava 6. 11. 2026 (obrazová kontrola při 100–150% zvětšení):** smlouva se týká domu **N1**, ne N11. Nadpis zní „Na půllánní živnost N.° Consc. 1. we wsi Zahrádce pro Františka Fraňka“, rejstřík uvádí „in Zahradka N: C: 1.“ s foliem 83, a úvod smlouvy jmenuje strany „mezi otcem Josefem Fraňkem … a vlastním synem Františkem Fraňkem“. Dřívější čtení `Nro 11` a `Václav Francík` byla chybná. Jde o pokračování rodu Josefa Franíka/Fraňka, který N1 koupil roku 1813; František Franěk je pak v N1 doložen jako sedlák 1849 a 1868. Pro panský dvůr N11 tím odpadá doklad emfyteutické držby.
+
+Níže ponechán původní text katalogu z července 2026 (s chybným čtením N11 a jmen) pro dohledatelnost.
 
 Veřejná pozemková kniha statku Březina–Zahrádka, kniha 126077 (inv. č. 13, sign. Os Pacov 183), přináší první dosud nalezený majetkový zápis, který přímo jmenuje cílový dům **Zahrádka N11**.
 
