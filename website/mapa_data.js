@@ -17347,11 +17347,11 @@ window.MAPA_VLASTNICI = {
     "stavebni_objekt": "8831271",
     "adresni_misto": "8882312",
     "list_vlastnictvi": "186",
-    "vlastnik": null,
-    "vztah_k_domu": null,
+    "vlastnik": "Luděk Bulant (Zahrádka 28)",
+    "vztah_k_domu": "jediný vlastník (bez podílu)",
     "overeno_dne": "2026-11-07",
-    "zdroj": "nahlížení do KN (bez CAPTCHA jen LV)",
-    "poznamka": "LV 186 = týž list jako st. 10/3 (čp. 15) v dotační žádosti 2018. Místní informace 7. 11. 2026: vlastníci Bulantovi; jméno ověřit v KN (CAPTCHA)."
+    "zdroj": "ČÚZK nahlížení do KN",
+    "poznamka": "Bez omezení vlastnického práva a bez cenového údaje. Na LV 186 byla roku 2018 i st. 10/3 (čp. 15); dnešní obsah LV neověřen."
   },
   "11": {
     "cp": "11",
@@ -19147,7 +19147,7 @@ window.MAPA_DEJINY = {
   },
   "10": {
     "nadpis": "Dějiny domu čp. 10 – Zahrádka u Pošné (Vřák, Průšovi, Kejvalovi)",
-    "shrnuti": "Čp. 10 je hospodářství na severovýchodním okraji návsi, na stavební parcele <b>st. 26</b>, stejné od roku 1829 po dnešek. Indikační skica 1829 jmenuje držitele <span class=\"nej\">Wrzak Franz</span>, nejspíš <b>Františka Vrzáka</b>; příjmení Vrzák je ve vsi doloženo i roku 1882 (mlynář Jan Vrzák). V letech 1845–1853 je v domě rodina <b>Václava Průši</b> a od roku 1857 rod <b>Kejvalových</b>: nejprve Josef a Kateřina (děti 1857–1864), roku 1921 majitel <b>František Kejval</b> (* 1883), člen obecního výboru a rolník v čp. 10, a výměnkáři <b>Josef Kejval</b> (* 1854) a Kateřina rozená Vrdická z Útěchovic († 1937). Obrazová kontrola 6. 11. 2026 opravila dosavadní čtení výměnkáře „Pavel (?)“ na Josefa. Tato kejvalovská rodina je jiná než rod starosty Františka Kejvala z čp. 15. František z čp. 10 zasedal roku 1923 v představenstvu Hospodářského družstva skladištního v Pacově a roku 1930 v družstvu, které přivedlo do vsi elektřinu. Ve 20. století je čp. 10 <b>uzavřený čtyřkřídlý dvorec</b> na celé parcele st. 26 (1 190 m²). Jako uzavřený dvorec je vidět na leteckých snímcích 1967 a 1978 (severní a západní křídlo už roku 1949) a stojí dodnes. Rok <b>1980</b>, který vede RÚIAN, proto nejspíš znamená přestavbu obytného křídla, ne nový dům (prob). Posledním jmenným dokladem k domu zůstává rok 1937. Poválečné zmínky o Kejvalech ze Zahrádky (1953–1985) číslo domu neuvádějí nebo patří k čp. 15.",
+    "shrnuti": "Čp. 10 je hospodářství na severovýchodním okraji návsi, na stavební parcele <b>st. 26</b>, stejné od roku 1829 po dnešek. Indikační skica 1829 jmenuje držitele <span class=\"nej\">Wrzak Franz</span>, nejspíš <b>Františka Vrzáka</b>; příjmení Vrzák je ve vsi doloženo i roku 1882 (mlynář Jan Vrzák). V letech 1845–1853 je v domě rodina <b>Václava Průši</b> a od roku 1857 rod <b>Kejvalových</b>: nejprve Josef a Kateřina (děti 1857–1864), roku 1921 majitel <b>František Kejval</b> (* 1883), člen obecního výboru a rolník v čp. 10, a výměnkáři <b>Josef Kejval</b> (* 1854) a Kateřina rozená Vrdická z Útěchovic († 1937). Obrazová kontrola 6. 11. 2026 opravila dosavadní čtení výměnkáře „Pavel (?)“ na Josefa. Tato kejvalovská rodina je jiná než rod starosty Františka Kejvala z čp. 15. František z čp. 10 zasedal roku 1923 v představenstvu Hospodářského družstva skladištního v Pacově a roku 1930 v družstvu, které přivedlo do vsi elektřinu. Ve 20. století je čp. 10 <b>uzavřený čtyřkřídlý dvorec</b> na celé parcele st. 26 (1 190 m²). Jako uzavřený dvorec je vidět na leteckých snímcích 1967 a 1978 (severní a západní křídlo už roku 1949) a stojí dodnes. Rok <b>1980</b>, který vede RÚIAN, proto nejspíš znamená přestavbu obytného křídla, ne nový dům (prob). Mezi lety 1937 a 2026 nemá dům zatím jmenný doklad. Dnes je podle katastru jediným vlastníkem <b>Luděk Bulant</b> ze sousedního čp. 28; rodina Bulantových je ve vsi doložena od roku 1957. Poválečné zmínky o Kejvalech ze Zahrádky (1953–1985) číslo domu neuvádějí nebo patří k čp. 15.",
     "drzitele": [
       [
         "1788–1796",
@@ -19228,6 +19228,10 @@ window.MAPA_DEJINY = {
       [
         "2000, 2004",
         "v telefonních seznamech bez účastníka na čp. 10"
+      ],
+      [
+        "2026",
+        "<b>Luděk Bulant</b> (bydliště Zahrádka 28), jediný vlastník st. 26 se čp. 10"
       ],
       [
         "2026",
@@ -19394,6 +19398,10 @@ window.MAPA_DEJINY = {
       [
         "2002–2022",
         "Luděk Bulant"
+      ],
+      [
+        "7. 11. 2026",
+        "Luděk Bulant, adresa Zahrádka 28"
       ]
     ]
   }

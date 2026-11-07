@@ -364,7 +364,7 @@ Odrážkový pracovní katalog po jednotlivých čp.; stav k 03. 08. 2026. Gener
     - **Technická opora adresy:** toto čp. je v oznámení EG.D pro odstávku 7. 8. 2026; dokládá jen zařazení adresy do rozsahu odstávky, ne obyvatele. Pramen: [EG.D / Obec Pošná, oznámení odstávky č. 260306694](https://www.posna.cz/assets/File.ashx?id_org=12632&id_dokumenty=3660).
     - **Ověřit přesně:** Současné bydliště doplnit jen z přímého dokladu se souhlasem dotčené osoby nebo z místního autorizovaného soupisu pro čp. 10. Vlastníka ověřit ručně v KN do kontrolního listu, ale nezaměnit jej za obyvatele.
 - **Doložené historické vlastnictví 1950–2026:** zatím žádný přesný jmenný doklad.
-- **Vlastník k roku 2026:** **neověřen**. Přesný parcelní klíč je připraven v kontrolním listu; jméno se doplní až po ruční kontrole KN.
+- **Vlastník k roku 2026:** **Luděk Bulant (Zahrádka 28)** — jediný vlastník (bez podílu); ověřeno 2026-11-07; pramen ČÚZK nahlížení do KN. Vlastnictví samo neprokazuje bydliště.
 - **Stav domu (orientačně):** Uzavřený čtyřkřídlý dvorec na celé st. 26 (1 190 m²), v této podobě na leteckých snímcích 1967 a 1978, část křídel už 1949; RÚIAN vede obytnou stavbu (234 m², 1 podlaží, 1 byt) s dokončením 1980.
 - **Přesná identifikace domu:** stavební parcela **st. 26**, RÚIAN stavební objekt **8831271**, adresní místo **8882312**.
 - **Doplňkový audit veřejných smluv (audit 1. 8. 2026):** Jediným zásahem byl hromadný dopravní dokument; žádnou osobu bezpečně nespojil s čp. 10. Kontrolní dotaz: [Hlídač státu, OCR/fulltextová nadstavba Registru smluv](https://www.hlidacstatu.cz/hledatsmlouvy?q=%22Zahr%C3%A1dka+10%22+AND+%22Po%C5%A1n%C3%A1%22).
