@@ -111,8 +111,8 @@
       "label": "N10 / čp. 10",
       "priority": "A",
       "snapshots": {
-        "1950": {"building_state": "documented", "building": "Číslo je doloženo před řezem a zástavba stojí na snímku 1949; RÚIAN datuje dnešní objekt k roku 1980.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "František, Josef a Kateřina Kejvalovi jsou na čp. 10 doloženi do roku 1937."},
-        "1980": {"building_state": "documented", "building": "RÚIAN uvádí dokončení k roku 1980; snímek 1978 dovoluje kontrolovat předchozí stav, ne přesný kolaudační den.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."},
+        "1950": {"building_state": "documented", "building": "Číslo je doloženo před řezem; dvorec na st. 26 stojí na snímcích 1949 a 1953. RÚIAN datuje dnešní obytnou stavbu k roku 1980.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "František, Josef a Kateřina Kejvalovi jsou na čp. 10 doloženi do roku 1937."},
+        "1980": {"building_state": "documented", "building": "Uzavřený čtyřkřídlý dvorec na celé st. 26 stojí na snímcích 1967 a 1978 (část křídel už 1949); rok 1980 v RÚIAN je evidenční dokončení obytné části, nejspíš přestavba, ne novostavba na prázdném místě.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu."},
         "2000": {"building_state": "documented", "building": "Dnešní rodinný dům byl podle evidovaného roku dokončení v řezu již přítomen.", "people_state": "none", "people": "Bez jmenného dokladu pro rok 2000.", "anchor": "Chybí veřejná pobytová nebo adresní vazba."}
       }
     },
@@ -157,7 +157,7 @@
       "priority": "A",
       "snapshots": {
         "1950": {"building_state": "documented", "building": "Číslo a usedlost jsou doloženy před řezem a zástavba je na snímku 1949; dnešní RÚIAN objekt z roku 2006 proto není totožný důkaz.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "Kejvalovi jsou na čp. 15 doloženi do roku 1930."},
-        "1980": {"building_state": "documented", "building": "Zástavba v místě je na snímku 1978; dnešní objekt byl evidenčně dokončen až roku 2006.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."},
+        "1980": {"building_state": "documented", "building": "Zástavba v místě je na snímku 1978; dnešní objekt byl evidenčně dokončen až roku 2006.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Jan Kejval (* 1902 v č. 15) a Anežka rozená Markvartová z čp. 4, oddaní 13. 7. 1929, slavili zlatou svatbu 13. 7. 1979; Jan zemřel roku 1983 a Anežka 1984 (Nástup 1985–1988). Svatební den je váže k čp. 15; přesné čp. v roce 1980 tisk neuvádí."},
         "2000": {"building_state": "probable", "building": "Na místě stála předchozí zástavba, ale dnešní rodinný dům je evidován jako dokončený roku 2006; přesný stav v roce 2000 je proto otevřený.", "people_state": "none", "people": "Bez jmenného dokladu pro rok 2000.", "anchor": "Pavla Moravcová má bydliště na čp. 15 doloženo až roku 2018."}
       }
     },
@@ -166,7 +166,7 @@
       "priority": "A",
       "snapshots": {
         "1950": {"building_state": "documented", "building": "Číslo je doloženo před řezem a zástavba je na snímku 1949; RÚIAN uvádí dokončení dnešního objektu k roku 1960.", "people_state": "gap", "people": "Nikdo přímo k roku 1950.", "anchor": "J. Kejvalová zemřela na čp. 16 dne 22. října 1948; tento koncový údaj ji nepřenáší do roku 1950."},
-        "1980": {"building_state": "documented", "building": "Dům je na snímku 1978 a RÚIAN jej datuje k roku 1960.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."},
+        "1980": {"building_state": "documented", "building": "Dům je na snímku 1978 a RÚIAN jej datuje k roku 1960.", "people_state": "gap", "people": "Nikdo přímo k roku 1980.", "anchor": "Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu."},
         "2000": {"building_state": "documented", "building": "Dnešní rodinný dům byl podle evidovaného roku dokončení před řezem; Český telefon 2000 navíc dokládá používání čp. 16.", "people_state": "strong", "people": "Miroslav Kubiska — přesná osobní účastnická adresa v bytovém seznamu platném do dubna 2000; nikoli automaticky trvalé bydliště ani celá domácnost.", "anchor": "První nalezená poválečná osobní stopa domu je přesná vazba jméno–obec–čp. v Českém telefonu 2000; opakuje se v edici 2004."}
       }
     },

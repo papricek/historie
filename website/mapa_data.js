@@ -16629,7 +16629,7 @@ window.MAPA_OBYVATELE = {
     },
     "10": {
       "label": "N10 / čp. 10",
-      "building": "Rodinný dům je v RÚIAN veden k roku 1980.",
+      "building": "Uzavřený čtyřkřídlý dvorec na celé st. 26 (1 190 m²), v této podobě na leteckých snímcích 1967 a 1978, část křídel už 1949; RÚIAN vede obytnou stavbu (234 m², 1 podlaží, 1 byt) s dokončením 1980.",
       "evidence": []
     },
     "11": {
@@ -17917,17 +17917,17 @@ window.MAPA_REZY = {
       "snapshots": {
         "1950": {
           "building_state": "documented",
-          "building": "Číslo je doloženo před řezem a zástavba stojí na snímku 1949; RÚIAN datuje dnešní objekt k roku 1980.",
+          "building": "Číslo je doloženo před řezem; dvorec na st. 26 stojí na snímcích 1949 a 1953. RÚIAN datuje dnešní obytnou stavbu k roku 1980.",
           "people_state": "gap",
           "people": "Nikdo přímo k roku 1950.",
           "anchor": "František, Josef a Kateřina Kejvalovi jsou na čp. 10 doloženi do roku 1937."
         },
         "1980": {
           "building_state": "documented",
-          "building": "RÚIAN uvádí dokončení k roku 1980; snímek 1978 dovoluje kontrolovat předchozí stav, ne přesný kolaudační den.",
+          "building": "Uzavřený čtyřkřídlý dvorec na celé st. 26 stojí na snímcích 1967 a 1978 (část křídel už 1949); rok 1980 v RÚIAN je evidenční dokončení obytné části, nejspíš přestavba, ne novostavba na prázdném místě.",
           "people_state": "gap",
           "people": "Nikdo přímo k roku 1980.",
-          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+          "anchor": "Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu."
         },
         "2000": {
           "building_state": "documented",
@@ -18062,7 +18062,7 @@ window.MAPA_REZY = {
           "building": "Zástavba v místě je na snímku 1978; dnešní objekt byl evidenčně dokončen až roku 2006.",
           "people_state": "gap",
           "people": "Nikdo přímo k roku 1980.",
-          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+          "anchor": "Jan Kejval (* 1902 v č. 15) a Anežka rozená Markvartová z čp. 4, oddaní 13. 7. 1929, slavili zlatou svatbu 13. 7. 1979; Jan zemřel roku 1983 a Anežka 1984 (Nástup 1985–1988). Svatební den je váže k čp. 15; přesné čp. v roce 1980 tisk neuvádí."
         },
         "2000": {
           "building_state": "probable",
@@ -18089,7 +18089,7 @@ window.MAPA_REZY = {
           "building": "Dům je na snímku 1978 a RÚIAN jej datuje k roku 1960.",
           "people_state": "gap",
           "people": "Nikdo přímo k roku 1980.",
-          "anchor": "Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16."
+          "anchor": "Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu."
         },
         "2000": {
           "building_state": "documented",
@@ -19147,7 +19147,7 @@ window.MAPA_DEJINY = {
   },
   "10": {
     "nadpis": "Dějiny domu čp. 10 – Zahrádka u Pošné (Vřák, Průšovi, Kejvalovi)",
-    "shrnuti": "Čp. 10 je hospodářství na severovýchodním okraji návsi, na stavební parcele <b>st. 26</b>, stejné od roku 1829 po dnešek. Indikační skica 1829 jmenuje držitele <span class=\"nej\">Wrzak Franz</span>, nejspíš <b>Františka Vrzáka</b>; příjmení Vrzák je ve vsi doloženo i roku 1882 (mlynář Jan Vrzák). V letech 1845–1853 je v domě rodina <b>Václava Průši</b> a od roku 1857 rod <b>Kejvalových</b>: nejprve Josef a Kateřina (děti 1857–1864), roku 1921 majitel <b>František Kejval</b> (* 1883), člen obecního výboru a rolník v čp. 10, a výměnkáři <b>Josef Kejval</b> (* 1854) a Kateřina rozená Vrdická z Útěchovic († 1937). Obrazová kontrola 6. 11. 2026 opravila dosavadní čtení výměnkáře „Pavel (?)“ na Josefa. Tato kejvalovská rodina je jiná než rod starosty Františka Kejvala z čp. 15. Po roce 1937 nemá dům zatím žádný jmenný doklad; dnešní dům vede RÚIAN k roku <b>1980</b>.",
+    "shrnuti": "Čp. 10 je hospodářství na severovýchodním okraji návsi, na stavební parcele <b>st. 26</b>, stejné od roku 1829 po dnešek. Indikační skica 1829 jmenuje držitele <span class=\"nej\">Wrzak Franz</span>, nejspíš <b>Františka Vrzáka</b>; příjmení Vrzák je ve vsi doloženo i roku 1882 (mlynář Jan Vrzák). V letech 1845–1853 je v domě rodina <b>Václava Průši</b> a od roku 1857 rod <b>Kejvalových</b>: nejprve Josef a Kateřina (děti 1857–1864), roku 1921 majitel <b>František Kejval</b> (* 1883), člen obecního výboru a rolník v čp. 10, a výměnkáři <b>Josef Kejval</b> (* 1854) a Kateřina rozená Vrdická z Útěchovic († 1937). Obrazová kontrola 6. 11. 2026 opravila dosavadní čtení výměnkáře „Pavel (?)“ na Josefa. Tato kejvalovská rodina je jiná než rod starosty Františka Kejvala z čp. 15. František z čp. 10 zasedal roku 1923 v představenstvu Hospodářského družstva skladištního v Pacově a roku 1930 v družstvu, které přivedlo do vsi elektřinu. Ve 20. století je čp. 10 <b>uzavřený čtyřkřídlý dvorec</b> na celé parcele st. 26 (1 190 m²). Jako uzavřený dvorec je vidět na leteckých snímcích 1967 a 1978 (severní a západní křídlo už roku 1949) a stojí dodnes. Rok <b>1980</b>, který vede RÚIAN, proto nejspíš znamená přestavbu obytného křídla, ne nový dům (prob). Posledním jmenným dokladem k domu zůstává rok 1937. Poválečné zmínky o Kejvalech ze Zahrádky (1953–1985) číslo domu neuvádějí nebo patří k čp. 15.",
     "drzitele": [
       [
         "1788–1796",
@@ -19194,28 +19194,44 @@ window.MAPA_DEJINY = {
         "Josef Průša (?) a Kateřina"
       ],
       [
+        "1911",
+        "<b>Josef Kejval, rolník, Zahrádka</b> v ročním seznamu hlavních porotců krajského soudu v Táboře (soudní okres Pacov)"
+      ],
+      [
         "1899–1918",
         "Antonie Kejvalová, narozena v čp. 10 21./22. 5. 1899; roku 1918 se „od rodičů z čp. 10“ vdává za Josefa Pachtu do čp. 7"
       ],
       [
         "1913–1930",
-        "<b>František Kejval</b> z č. 10, člen obecního výboru (1915), rolník v čp. 10 (1923, 1930)"
+        "<b>František Kejval</b> z č. 10: člen obecního výboru (ustaven 8. 9. 1913, adresář 1915); 15. 12. 1923 nově zvolen do představenstva Hospodářského družstva skladištního v Pacově jako „rolník ze Zahrádky u Pošné čp. 10“; 1930 v představenstvu Družstva pro rozvod elektrické energie Proseč–Pošná"
       ],
       [
         "1921",
         "<b>František Kejval</b> (* 16. 5.(?) 1883), majitel a samostatný rolník; manželka Hermína, dcery Vlasta a Bohuslava, schovanka Božena Plášilová; druhá domácnost <b>Josef Kejval</b>, výměnkář (* 16. 2. 1854), a Kateřina (* 14. 8. 1858)"
       ],
       [
-        "† 1934",
-        "Herminie Kejvalová, žena rolníka z čp. 10"
+        "† 31. 7. 1934",
+        "Hermína Kejvalová, žena rolníka, „Zahrádka 10“ (manželka Františka)"
       ],
       [
         "† 12. 5. 1937",
         "<b>Kateřina Kejvalová rozená Vrdická</b> z Útěchovic (* 28. 8. 1858), manželka Josefa Kejvala, rolníka-výměnkáře v čp. 10"
       ],
       [
-        "po 1937",
-        "bez jmenného dokladu; dnešní dům RÚIAN 1980"
+        "1953–1956",
+        "„pan Kejval ze Zahrádky u Pošné“ jako soukromý chovatel (1953); v JZD Zahrádka družstevník Kejval u dojnic a účetní Kejval (1956)"
+      ],
+      [
+        "1979–1985",
+        "Jan a Anežka Kejvalovi (zlatá svatba 1979, † 1983 a 1984) a jejich syn Karel († 1985)"
+      ],
+      [
+        "2000, 2004",
+        "v telefonních seznamech bez účastníka na čp. 10"
+      ],
+      [
+        "2026",
+        "adresa Zahrádka 10 mezi odběrnými místy dotčenými plánovanou odstávkou elektřiny; v ARES žádný subjekt se sídlem na čp. 10"
       ]
     ]
   },
@@ -19278,6 +19294,10 @@ window.MAPA_DEJINY = {
       [
         "1979",
         "Jan a Anežka Kejvalovi, zlatá svatba 13. 7. 1979, ve vsi bez čísla domu"
+      ],
+      [
+        "† 1983–1985",
+        "<b>Jan Kejval</b> ze Zahrádky u Pošné († 29. 4. 1983 podle tří oznámení; oznámení z 26. 5. 1988 píše 29. května), manželka <b>Anežka</b> († 1984), syn <b>Karel Kejval</b>, pracovník Agrozetu Pelhřimov, rodák ze Zahrádky († 10. 10. 1985)"
       ],
       [
         "2005–2015",

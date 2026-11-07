@@ -25,7 +25,7 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 
 - **Priorita:** A
 - **1950**
-  - **Stavba — doložená:** Historické N1 je bezpečně umístěno na st. 29 nejpozději od reambulace 1878 (na otisku 1829 st. 29 ještě není); zástavba je v místě patrná i na snímku 1949. Dnešní dům je však náhrada z roku 2023.
+  - **Stavba — doložená:** Historické N1 je bezpečně umístěno na st. 29; zástavba je v místě patrná i na snímku 1949. Dnešní dům je však náhrada z roku 2023.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1950.
   - **Nejbližší opora:** Rohovcovi jsou u čp. 1 doloženi do roku 1928; roku 1929 už zápis uvádí čp. 21.
   - **Co chybí:** Domovní a bytový arch Národního sčítání lidu 1950 (Národní archiv, NAD 984).
@@ -196,14 +196,14 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 
 - **Priorita:** A
 - **1950**
-  - **Stavba — doložená:** Číslo je doloženo před řezem a zástavba stojí na snímku 1949; RÚIAN datuje dnešní objekt k roku 1980.
+  - **Stavba — doložená:** Číslo je doloženo před řezem; dvorec na st. 26 stojí na snímcích 1949 a 1953. RÚIAN datuje dnešní obytnou stavbu k roku 1980.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1950.
   - **Nejbližší opora:** František, Josef a Kateřina Kejvalovi jsou na čp. 10 doloženi do roku 1937.
   - **Co chybí:** Domovní a bytový arch Národního sčítání lidu 1950 (Národní archiv, NAD 984).
 - **1980**
-  - **Stavba — doložená:** RÚIAN uvádí dokončení k roku 1980; snímek 1978 dovoluje kontrolovat předchozí stav, ne přesný kolaudační den.
+  - **Stavba — doložená:** Uzavřený čtyřkřídlý dvorec na celé st. 26 stojí na snímcích 1967 a 1978 (část křídel už 1949); rok 1980 v RÚIAN je evidenční dokončení obytné části, nejspíš přestavba, ne novostavba na prázdném místě.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1980.
-  - **Nejbližší opora:** Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16.
+  - **Nejbližší opora:** Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu.
   - **Co chybí:** Poslední zahrádecký domovní seznam MNV Útěchovičky do roku 1978 a určení držitele pokračující evidence pro roky 1979–1980; pošenský inv. 61 se Zahrádky netýká.
 - **2000**
   - **Stavba — doložená:** Dnešní rodinný dům byl podle evidovaného roku dokončení v řezu již přítomen.
@@ -298,7 +298,7 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 - **1980**
   - **Stavba — doložená:** Zástavba v místě je na snímku 1978; dnešní objekt byl evidenčně dokončen až roku 2006.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1980.
-  - **Nejbližší opora:** Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16.
+  - **Nejbližší opora:** Jan Kejval (* 1902 v č. 15) a Anežka rozená Markvartová z čp. 4, oddaní 13. 7. 1929, slavili zlatou svatbu 13. 7. 1979; Jan zemřel roku 1983 a Anežka 1984 (Nástup 1985–1988). Svatební den je váže k čp. 15; přesné čp. v roce 1980 tisk neuvádí.
   - **Co chybí:** Poslední zahrádecký domovní seznam MNV Útěchovičky do roku 1978 a určení držitele pokračující evidence pro roky 1979–1980; pošenský inv. 61 se Zahrádky netýká.
 - **2000**
   - **Stavba — pravděpodobná:** Na místě stála předchozí zástavba, ale dnešní rodinný dům je evidován jako dokončený roku 2006; přesný stav v roce 2000 je proto otevřený.
@@ -317,7 +317,7 @@ Odrážkový katalog celé Zahrádky u Pošné po jednotlivých číslech domu. 
 - **1980**
   - **Stavba — doložená:** Dům je na snímku 1978 a RÚIAN jej datuje k roku 1960.
   - **Lidé — časová opora mimo rozhodný rok:** Nikdo přímo k roku 1980.
-  - **Nejbližší opora:** Jan a Anežka Kejvalovi jsou ve vsi doloženi zlatou svatbou 13. července 1979, tedy těsně před řezem. Bez čp. je nelze rozdělit mezi předválečné kejvalovské domy čp. 10, 15 a 16.
+  - **Nejbližší opora:** Zlatá svatba Jana a Anežky Kejvalových (13. 7. 1979) patří podle data sňatku 13. 7. 1929 k rodině z čp. 15, ne k tomuto domu.
   - **Co chybí:** Poslední zahrádecký domovní seznam MNV Útěchovičky do roku 1978 a určení držitele pokračující evidence pro roky 1979–1980; pošenský inv. 61 se Zahrádky netýká.
 - **2000**
   - **Stavba — doložená:** Dnešní rodinný dům byl podle evidovaného roku dokončení před řezem; Český telefon 2000 navíc dokládá používání čp. 16.
