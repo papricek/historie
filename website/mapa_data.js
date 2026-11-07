@@ -17346,12 +17346,12 @@ window.MAPA_VLASTNICI = {
     "stavebni_parcela": "st. 26",
     "stavebni_objekt": "8831271",
     "adresni_misto": "8882312",
-    "list_vlastnictvi": null,
+    "list_vlastnictvi": "186",
     "vlastnik": null,
     "vztah_k_domu": null,
-    "overeno_dne": null,
-    "zdroj": null,
-    "poznamka": null
+    "overeno_dne": "2026-11-07",
+    "zdroj": "nahlížení do KN (bez CAPTCHA jen LV)",
+    "poznamka": "LV 186 = týž list jako st. 10/3 (čp. 15) v dotační žádosti 2018. Místní informace 7. 11. 2026: vlastníci Bulantovi; jméno ověřit v KN (CAPTCHA)."
   },
   "11": {
     "cp": "11",
