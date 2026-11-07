@@ -17351,7 +17351,7 @@ window.MAPA_VLASTNICI = {
     "vztah_k_domu": "jediný vlastník (bez podílu)",
     "overeno_dne": "2026-11-07",
     "zdroj": "ČÚZK nahlížení do KN",
-    "poznamka": "Bez omezení vlastnického práva a bez cenového údaje. Na LV 186 byla roku 2018 i st. 10/3 (čp. 15); dnešní obsah LV neověřen."
+    "poznamka": "Bez omezení vlastnického práva a bez cenového údaje. Čp. 15 je dnes na LV 185 a čp. 28 na LV 138 (7. 11. 2026); společný LV s čp. 15 se nepotvrdil."
   },
   "11": {
     "cp": "11",
@@ -17411,7 +17411,7 @@ window.MAPA_VLASTNICI = {
     "stavebni_parcela": "st. 10/3",
     "stavebni_objekt": "8831319",
     "adresni_misto": "8882355",
-    "list_vlastnictvi": null,
+    "list_vlastnictvi": "185",
     "vlastnik": null,
     "vztah_k_domu": null,
     "overeno_dne": null,
@@ -17580,7 +17580,7 @@ window.MAPA_VLASTNICI = {
     "stavebni_parcela": "st. 47",
     "stavebni_objekt": "8831394",
     "adresni_misto": "8882436",
-    "list_vlastnictvi": null,
+    "list_vlastnictvi": "138",
     "vlastnik": null,
     "vztah_k_domu": null,
     "overeno_dne": null,
@@ -19207,7 +19207,7 @@ window.MAPA_DEJINY = {
       ],
       [
         "1921",
-        "<b>František Kejval</b> (* 16. 5.(?) 1883), majitel a samostatný rolník; manželka Hermína, dcery Vlasta a Bohuslava, schovanka Božena Plášilová; druhá domácnost <b>Josef Kejval</b>, výměnkář (* 16. 2. 1854), a Kateřina (* 14. 8. 1858)"
+        "<b>František Kejval</b> (* 16. 5.(?) 1883), majitel a samostatný rolník; manželka Hermína (* 17. 3. 1887), dcery **Vlasta (* 25. 10. 1914)<b> a </b>Bohuslava (* 28. 3. 1918)**, schovanka Božena Plášilová (* 1901); druhá domácnost <b>Josef Kejval</b>, výměnkář (* 16. 2. 1854), a Kateřina (* 14. 8. 1858)"
       ],
       [
         "† 31. 7. 1934",
@@ -19309,7 +19309,7 @@ window.MAPA_DEJINY = {
       ],
       [
         "2018–2026",
-        "Pavla Moravcová: bydliště a vlastnická způsobilost 2018 (st. 10/3, tehdejší LV 186), sídlo podnikání od 2019"
+        "Pavla Moravcová: bydliště a vlastnická způsobilost 2018 (st. 10/3, ve formuláři čteno LV 186; dnes je st. 10/3 na <b>LV 185</b>, stav 7. 11. 2026), sídlo podnikání od 2019"
       ]
     ]
   },
