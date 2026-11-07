@@ -513,6 +513,33 @@
 
   footer { padding: 34px 0 46px; }
   footer p { font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); line-height: 1.6; }
+
+  /* ---------- dějiny domů a ves po 1945 ---------- */
+  .ves { margin: 34px 0 10px; }
+  .ves h2 { font-size: 1.35rem; margin: 0 0 6px; }
+  .ves h3 { font-size: 1.05rem; margin: 24px 0 8px; font-weight: 600; }
+  .ves-sub, .ves p, .ves li { font-family: system-ui, sans-serif; font-size: 13.5px; color: var(--ink-2); line-height: 1.6; }
+  .ves p.note { font-size: 13px; color: var(--muted); line-height: 1.55; }
+  .ves .tbl-scroll { overflow-x: auto; margin-top: 10px; }
+  .ves table { border-collapse: collapse; font-family: system-ui, sans-serif; font-size: 13px; min-width: 640px; width: 100%; }
+  .ves th { text-align: left; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 6px 10px; border-bottom: 1px solid var(--baseline); }
+  .ves td { padding: 6px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  .ves td.y { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+  .ves .chips { margin: 10px 0; }
+  .ves .chip { font: 13px system-ui, sans-serif; border: 1px solid var(--border); background: var(--surface); border-radius: 999px; padding: 4px 12px; color: var(--ink-2); }
+  .ves .bars { display: grid; grid-template-columns: max-content 1fr max-content; gap: 9px 12px; align-items: center; font: 13.5px system-ui, sans-serif; }
+  .ves .bars .lbl { color: var(--ink); text-align: right; }
+  .ves .bars .val { color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  .ves .bar-track { height: 16px; display: flex; align-items: center; }
+  .ves .bar { height: 14px; border-radius: 0 4px 4px 0; min-width: 2px; }
+  .domy-mrizka { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; margin-top: 14px; }
+  .dum-karta { text-align: left; cursor: pointer; font: inherit; color: inherit; }
+  .dum-karta:hover { border-color: var(--accent); }
+  .dum-karta h4 { margin: 0 0 6px; font-size: 1rem; font-weight: 600; color: var(--ink); }
+  .dum-karta p { margin: 0; font-family: system-ui, sans-serif; font-size: 13px; color: var(--ink-2); line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; overflow: hidden; }
+  .dum-karta .vice { display: block; margin-top: 8px; font: 600 12px system-ui, sans-serif; color: var(--accent-ink); }
+  @media (max-width: 560px) { .ves .bars { grid-template-columns: 1fr max-content; } .ves .bars .lbl { grid-column: 1 / -1; text-align: left; } }
 </style>
 
 <header class="hero">
@@ -608,6 +635,96 @@
     </aside>
   </div>
 
+
+  <section class="ves" id="dejiny-domu">
+    <h2>Dějiny jednotlivých domů</h2>
+    <p class="ves-sub">Spisy domů skládají dohromady indikační skicu stabilního katastru 1829 (čísla stavebních parcel platí dodnes), rejstřík pozemkové knihy statku Březina–Zahrádka 1826–1875, matriky farnosti Pošná a sčítání lidu 1921. Klepnutím na dům se otevře jeho panel na mapě s&nbsp;řadou držitelů a všemi doloženými obyvateli. Panský dvůr čp.&nbsp;11 má vlastní <a href="index.html">výzkumný spis</a>.</p>
+    <div class="domy-mrizka" id="domyMrizka"></div>
+  </section>
+
+  <section class="ves" id="poval">
+    <h2>Ves po roce 1945: obyvatelé, vlastníci a mezery</h2>
+    <p class="ves-sub">Matriční řada se jmény a čísly domů končí rokem 1937 a mladší knihy veřejné nejsou. Poválečná rekonstrukce proto stojí na sčítáních, regionálním tisku, veřejných rejstřících a digitalizovaných telefonních seznamech — a vede se pro všech <strong>32 čísel popisných</strong> vsi zvlášť ve čtyřech kontrolních řezech: <strong>1950, 1980, 2000 a 2026</strong>. Dům po domu jsou řezy v&nbsp;panelu každého domu na mapě výše (tlačítka 1950, 1980, 2000); zde je souhrn toho, co je doloženo a co ne.</p>
+    <h3>Bilance pokrytí: 32 čísel popisných</h3>
+    <div class="card">
+      <div class="bars"><div class="lbl">přímý doklad bydliště</div><div class="bar-track"><div class="bar" style="width:21.9%;background:var(--accent-ink)"></div></div><div class="val">7 čp.</div><div class="lbl">jen nepřímá adresní stopa</div><div class="bar-track"><div class="bar" style="width:34.4%;background:var(--baseline)"></div></div><div class="val">11 čp.</div><div class="lbl">bez jakékoli osobní stopy</div><div class="bar-track"><div class="bar" style="width:43.8%;background:var(--baseline)"></div></div><div class="val">14 čp.</div></div>
+      <p class="note" style="margin:14px 2px 0;">Přímý doklad bydliště má jen sedm domů — <b>čp.&nbsp;5, 6, 8, 9, 15, 27 a&nbsp;28</b>. „Nepřímá adresní stopa“ znamená sídlo podnikání, úřední nebo veřejnou kontaktní adresu, historickou adresu osobní telefonní stanice a nedatovanou poslední známou adresu vlastníka parcely. Žádný z&nbsp;těchto typů se sám o&nbsp;sobě za bydliště nepovažuje a v&nbsp;datech se vede odděleně; <b>vlastník není automaticky obyvatel</b>. U&nbsp;možná žijících osob se z&nbsp;veřejného pramene přebírá nejvýše jméno, datum a&nbsp;čp.</p>
+    </div>
+
+    <h3>Čtyři kontrolní řezy</h3>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>Řez</th><th>Ves podle sčítání</th><th>Přímé jméno</th><th>Stav 32 čísel popisných</th><th>Co mezeru uzavře</th></tr></thead>
+      <tbody>
+        <tr><td class="y">1950</td><td class="y">99 obyvatel / 26 domů</td><td class="y">0</td><td>25 mezer, 3 domy bez jmenného dokladu, 4&nbsp;čp. tehdy ještě neexistovala</td><td><b>Domovní a bytový arch Národního sčítání lidu 1950</b> (Národní archiv, NAD&nbsp;984) — fond i pomůcky jsou popsány, obrazy archů Zahrádky online nejsou</td></tr>
+        <tr><td class="y">1980</td><td class="y">51 obyvatel / 16 domů</td><td class="y">0</td><td>14 mezer, 14 domů bez jmenného dokladu, 4&nbsp;nepoužitelná čp.</td><td>Poslední zahrádecký <b>domovní seznam MNV Útěchovičky</b> do roku 1978 (SOkA Pelhřimov, NAD&nbsp;1262) a určení držitele evidence pro léta 1979–1980</td></tr>
+        <tr><td class="y">2000</td><td class="y">mezi 1991 (29&nbsp;/&nbsp;18) a 2001 (28&nbsp;/&nbsp;18)</td><td class="y">1</td><td>10 silných telefonních opor, 16 domů bez jmenného dokladu, 3 mezery, 2&nbsp;nepoužitelná čp.</td><td>Pobytová nebo domovní evidence kolem sčítání 1991/2001 (SOkA Pelhřimov, Obec Pošná)</td></tr>
+        <tr><td class="y">2026</td><td class="y">24 obyvatel (2021)</td><td class="y">0 úředních<br>6 ústních vazeb</td><td>26 aktivních domů bez veřejně doloženého současného obyvatele; rozhovor nově doplňuje čp. 2, 4, 13, 20, 26 a 32 jako samostatnou vrstvu místní paměti; 6&nbsp;čp. je zaniklých</td><td>Ústní vazby autorizovat nebo potvrdit pobytovým pramenem; vlastníky ruční kontrola KN</td></tr>
+      </tbody>
+    </table></div>
+    <p class="note" style="margin-top:10px;">Jediné přímé přiřazení v&nbsp;cílových řezech je <b>Václav Bulant na čp.&nbsp;28 roku 2000</b>. Řezy 1950 a&nbsp;1980 zůstávají bez jediného jména vázaného přímo na číslo domu — mezeru neuzavřel žádný veřejný online pramen a obě potřebují prezenční archivní svazek.</p>
+
+    <h3>Rozhovor s Pavlem Peštou z čp. 26 — po domech</h3>
+    <div class="card">
+      <p style="margin-top:0;">Rozhovor z&nbsp;3.&nbsp;8.&nbsp;2026 je veden jako <b>ústní svědectví</b>, odděleně od matrik, sčítání a úředních adres. Všech osmnáct tvrzení bylo následně zkontrolováno v&nbsp;matrikách, sčítání 1921, tisku, telefonních seznamech, RÚIAN a na mapách; karta každého domu nyní uvádí v&nbsp;odrážkách nejen stav, ale také každý nalezený článek řetězce, vyloučené falešné stopy a&nbsp;to, co ještě chybí. Výslovné čp. dovoluje stopu zobrazit u domu, ale bez dalšího pramene nedokládá vlastnictví ani nepřetržitou rodovou posloupnost.</p>
+      <ul>
+        <li><b>Čp. 2:</b> Kudrnovi jsou potvrzeni sčítáním 1921 a matrikami 1928–1934; <i>U Hejdů</i> a dnešní Štípkovi zůstávají ústní. Hejdův lom je samostatně doložené pomístní jméno.</li>
+        <li><b>Čp. 3:</b> Bartoškovi jsou potvrzeni. Manželka Matěje je Antonie rozená Svobodová — tak ji vedou matriky 1923–1936 i&nbsp;nové obrazové čtení sčítání 1921 (dřívější čtení „Juliana“ bylo chybné). Nově je prokázán sňatek syna Václava s Marií Pavlíkovou roku 1925 a podle přesného data narození i totožnost s Marií Bartoškovou doloženou ve vsi 1976 a 1987. Poslední generace k Pavlu Peštovi stále chybí.</li>
+        <li><b>Čp. 4:</b> Markvartovi 1921–1930 → Marie („Maruška“) Vaňková na přesné úřední adrese roku 2025. Oba konce jsou potvrzené, rok přechodu ne.</li>
+        <li><b>Čp. 13:</b> Pachtovi jsou potvrzeni v&nbsp;N8 roku 1804 a čp.&nbsp;7 roku 1921, nikoli na čp.&nbsp;13. Antonie Kudrnová zemřela na čp.&nbsp;13 roku 1936; dnešní rodová řada Jaroslav–Josef–Jan a Janův syn zůstává ústní.</li>
+        <li><b>Zaniklé čp. 19:</b> nejsilnější kandidát chybějící Vaňkovy chalupy — Josef a Františka Vaňkovi s rodinou jsou zde doloženi 1921–1929. Přesnou polohu mezi křížem a čp.&nbsp;20 musí ještě potvrdit mapa.</li>
+        <li><b>Čp. 16:</b> <i>U Pícků</i> podpírá originál zápisu 1894, který čitelně uvádí Františku Berkovou rozenou Pičkovou ze Zahrádky čp.&nbsp;16; dále Kejvalovi roku 1921 a Miroslav Kubiska 2000/2004.</li>
+        <li><b>Zaniklé čp. 17:</b> obecní dům ze sčítání 1921 je podle přesného data narození a celé rodiny totožný s domem krejčího Václava Plášila roku 1928. Rodinná vzpomínka jej velmi silně určuje jako pastoušku; její publikační chronologie však obsahuje rozpor se zprávou o Václavově pohřbu.</li>
+        <li><b>Čp. 20:</b> <b>„Jihlavák“ je Stanislav Marousek z čp. 20, nikoli čp. 4</b>; Zelenkovi jsou zde potvrzeni 1912–1932 a moderní Marouskovi veřejnými podnikatelskými adresami.</li>
+        <li><b>Čp. 21:</b> tvrzení, že roku 1929 nemohl být obydlen, vyvrací přímo Anežka Rohovcová z čp.&nbsp;21. Roku 1921 tu bylo šestnáct osob; pozdější jméno se píše Václav <b>Dörrschmidt</b> (2000/2004).</li>
+        <li><b>Čp. 24:</b> Plášilovi jsou potvrzeni 1921–1928 a Coufalovi ve vsi 1952–1955 bez čísla domu. Přesné varianty jmen dcer Maruna, Lída a Jarka nebyly nalezeny; Jan Velich na adrese 2000/2004 je další pozdější bod bez prokázaného přechodu.</li>
+        <li><b>Čp. 25:</b> „pazderna“ jako bouda či sklad zůstává časově neurčená a naráží na dva obytné doklady: Kadlecovi zde žili roku 1921 a znovu jsou s rodinou uvedeni roku 1928. Mohlo jít o vedlejší stavbu nebo jinou dobu, ne bez dalšího celý tehdejší dům.</li>
+        <li><b>Čp. 26:</b> dům informátora Pavla Pešty. Starší Peštovi i ohlášené spojení Pešta–Plášil jsou ve vsi doloženi, ale větev ke Kudrnům z čp.&nbsp;2 a Bartoškům z čp.&nbsp;3 čeká na mezilehlé rodné a oddací zápisy.</li>
+        <li><b>Čp. 27:</b> stavba v poloze dnešní parcely je vidět už roku 1949 a 1953, tedy před evidenčním rokem RÚIAN 1960. Předválečný vznik tím ještě prokázán není.</li>
+        <li><b>Čp. 32:</b> RÚIAN potvrzuje nový objekt od března 2025; „hampejz“ po prasečáku a Václav Převor s rodinou zůstávají ústní. Historický hampejz U Červeného kohouta zatím nemá parcelu.</li>
+      </ul>
+      <p class="note" style="margin:10px 2px 0;"><b>Pastouška:</b> nejsilnější identifikací je nyní obecní čp.&nbsp;17 — sčítání, matrika krejčího Václava Plášila a rodinná vzpomínka na život v pastoušce se shodují v datu narození, povolání i rodině. N12 s Josefem Krejčím roku 1831 je pravý, ale nesouvisející nález; N9 může být parcelní číslo. <b>Lom:</b> kronika zná Hejdův lom a Antonína Fraňka roku 1918, ale totožnost s lomem před Bulantem není prokázána. Nejstarší mapa je I. vojenské mapování 1783; zkontrolovány byly úplné listy 1829, mapa 1878 a snímky 1949/1953.</p>
+    </div>
+
+    <h3>Telefonní seznamy — jediný souvislý řez roku 2000</h3>
+    <div class="card">
+      <p style="margin-top:0;">Digitalizovaný <b>Český telefon 2000</b> (bytové seznamy platné do dubna&nbsp;2000) byl projit celý — 2&nbsp;792&nbsp;529 osobních a 695&nbsp;562 firemních řádků — a pro přesnou obec <i>Zahrádka u&nbsp;Pošné</i> vydal deset účastnických adres s&nbsp;číslem domu:</p>
+      <div class="chips">
+        <span class="chip">čp. 5</span><span class="chip">čp. 6</span><span class="chip">čp. 7</span><span class="chip">čp. 8</span><span class="chip">čp. 16</span>
+        <span class="chip">čp. 21</span><span class="chip">čp. 24</span><span class="chip">čp. 27</span><span class="chip">čp. 28</span><span class="chip">čp. 29</span>
+      </div>
+      <p class="note" style="margin:10px 2px 0;">Devět z&nbsp;nich nezávisle opakuje <b>Český telefonní seznam 2004</b> (projito 76&nbsp;548 datových stránek osobní části); čp.&nbsp;29 se v&nbsp;mladší edici neopakuje a je pro toto číslo vůbec první nalezenou poválečnou osobní stopou. Účastnická adresa přesně spojuje jméno s&nbsp;obcí a čp., ale <b>nedokládá trvalý pobyt, vlastnictví ani ostatní členy domácnosti</b> — a zachycuje jen zveřejněné stanice. Telefonní čísla nebyla z&nbsp;obou databází vůbec exportována. Starší řez by mohl dát prezenční <i>Úřední telefonní seznam 1950</i> (Knihovna Národního archivu, sign.&nbsp;IM489; NK&nbsp;ČR sign.&nbsp;II&nbsp;038397) a <i>Telefonní seznam TTO Tábor 1979–1980</i> (JVK, sign.&nbsp;DT&nbsp;6.504); ani jeden nemá veřejné obrazy a ani úplný výpis účastníků nenahradí sčítací arch.</p>
+    </div>
+
+    <h3>Vlastnictví: tři bodové doklady na 32 domů</h3>
+    <div class="card">
+      <p style="margin-top:0;">Originální přílohy kotlíkových smluv Kraje Vysočina byly vykresleny a čteny po formulářových polích. Bezpečně spojují žadatele s&nbsp;konkrétní podporovanou nemovitostí u&nbsp;tří domů:</p>
+      <div class="tbl-scroll"><table>
+        <thead><tr><th>Čp.</th><th>Osoba</th><th>Doklad</th><th>Nemovitost v příloze</th></tr></thead>
+        <tbody>
+          <tr><td class="y">6</td><td>Zdeněk Svoboda</td><td class="y">žádost 23. 10. 2019</td><td>st. 27/1, tehdejší LV 31</td></tr>
+          <tr><td class="y">15</td><td>Pavla Moravcová</td><td class="y">spis ke smlouvě 27. 3. 2018</td><td>st. 10/3, LV 186</td></tr>
+          <tr><td class="y">28</td><td>Luděk Bulant</td><td class="y">žádost 20. 10. 2017</td><td>st. 47, LV 130</td></tr>
+        </tbody>
+      </table></div>
+      <p class="note" style="margin:10px 2px 0;">Formulář nerozlišuje výlučné vlastnictví, spoluvlastnický podíl ani společné jmění, proto se publikuje jen <b>„vlastník nebo spoluvlastník“ k&nbsp;době podání žádosti</b>. Čtvrtý spis (Stanislav Janda, čp.&nbsp;27) dokládá bydliště a obecnou vlastnickou podmínku, ale podporovanou nemovitost neurčuje samostatně — vlastnictví se proto vědomě nepřiřazuje. Kontrolní list vlastníků 2026 má vyplněný parcelní klíč u&nbsp;všech 32 domů, ale <b>0&nbsp;z&nbsp;32 jmen</b>: hromadný výpis z&nbsp;katastru není strojově veřejný a doplní se jen ručním nahlédnutím. Katastrální souhrn ČÚZK k&nbsp;26.&nbsp;7.&nbsp;2026 vede v&nbsp;k.&nbsp;ú. 786&nbsp;parcel o&nbsp;371,6916&nbsp;ha, 38&nbsp;budov (z&nbsp;toho 26 s&nbsp;čp.) a 81&nbsp;listů vlastnictví.</p>
+    </div>
+
+    <h3>Co bylo prověřeno bez výsledku</h3>
+    <p class="note" style="margin:2px 0 12px;">Negativní kontroly se zveřejňují stejně jako nálezy — bez nich nelze poznat, kde má smysl hledat dál. Nulový zásah přitom nikdy neznamená, že doklad neexistuje.</p>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>Prověřeno</th><th>Rozsah</th><th>Výsledek</th></tr></thead>
+      <tbody>
+        <tr><td>Česká digitální knihovna (federovaný fulltext)</td><td class="y">103 stran, 23 veřejných</td><td>Žádná nová poválečná vazba osoba–čp. Čtyři staré kandidáty týdeníku <i>Zítřek</i> 1960–1968 audit vyloučil jako <b>jinou Zahrádku</b> na Milevsku (okres Písek)</td></tr>
+        <tr><td>Kramerius KK Vysočiny a JVK/CBVK proti čp. 1–32</td><td class="y">32 dotazů</td><td>Jen dva už známé body: Jana Strašidlová na čp.&nbsp;5 (11.&nbsp;1.&nbsp;1992) a Luděk Bulant na čp.&nbsp;28 (29.&nbsp;6.&nbsp;1991)</td></tr>
+        <tr><td>Registr smluv přes OCR nadstavbu</td><td class="y">čp. 1–32 zvlášť</td><td>Většinu zásahů tvoří hromadné dopravní tabulky; číslo v&nbsp;tabulce linek se nikdy nevydává za dům</td></tr>
+        <tr><td>Registr příjemců dotací MZe</td><td class="y">13 příjemců obce Pošná</td><td>Výsledek uvádí jen obec a PSČ — bez části obce a čp. nepřiřazuje osobu k&nbsp;domu ani při shodě jména</td></tr>
+        <tr><td>Evidence zemědělského podnikatele a registr ekologických podnikatelů</td><td class="y">15 známých IČO</td><td>Žádný subjekt v&nbsp;části Zahrádka; obojí je navíc podnikatelská, ne pobytová evidence</td></tr>
+        <tr><td>Veřejný adresář 1188</td><td class="y">5 známých jmen</td><td>Bez výsledku; formulář neumožnil úplný lokalitní výpis, audit tedy obyvatele nepřidal ani nevyloučil</td></tr>
+        <tr><td>Otevřená data komunálních voleb 2006–2022</td><td class="y">40 kandidátních řádků</td><td>Jediné bydliště „Zahrádka“ má Luděk Bulant ve všech pěti volbách; registr ale <b>nikdy neuvádí čp.</b></td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
   <section class="cist">
     <h2>Jak mapu číst</h2>
     <div class="grid2">
@@ -625,7 +742,7 @@
           Šedý nebo přeškrtnutý bod proto neznamená „prázdný dům“: může znamenat, že jméno není doloženo
           nebo že dnešní číslo v daném roce ještě neexistovalo.
           Souhrnnou bilanci všech 32 čp. a přehled toho, co bylo prověřeno bez výsledku, má
-          <a href="index.html#poval">oddíl VIII výzkumného spisu</a>.</p>
+          <a href="#poval">oddíl Ves po roce 1945</a> níže.</p>
         <p class="backlink"><a href="index.html">← Výzkumný spis dvora čp. 11</a></p>
       </div>
       <div class="card">
@@ -1910,6 +2027,25 @@ function aplikujHash() {
 }
 window.addEventListener("hashchange", aplikujHash);
 if (aplikujHash()) mapbox.scrollIntoView({ block: "center", behavior: "instant" });
+
+/* Mřížka spisů domů pod mapou: klepnutí otevře panel domu. */
+(function mrizkaDomu() {
+  const host = document.getElementById("domyMrizka");
+  const D = window.MAPA_DEJINY || {};
+  if (!host) return;
+  const klice = Object.keys(D).sort((a, b) => parseInt(a) - parseInt(b));
+  for (const k of klice) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "card dum-karta";
+    const tit = D[k].nadpis.replace(/^Dějiny domu /, "").replace(/ – Zahrádka u Pošné/, "");
+    b.innerHTML = "<h4>" + tit + "</h4><p>" + D[k].shrnuti + '</p><span class="vice">Otevřít na mapě →</span>';
+    b.addEventListener("click", () => {
+      vyberDum(k);
+      document.getElementById("mapbox").scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    host.appendChild(b);
+  }
+})();
 </script>
 </body>
 </html>
